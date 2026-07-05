@@ -1,0 +1,7 @@
+pandas
+beautifulsoup4
+patchright
+feedparser
+requests
+python-dateutil
+python-dotenv

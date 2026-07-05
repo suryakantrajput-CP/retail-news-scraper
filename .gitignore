@@ -1,0 +1,12 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# node / next.js (retail-news-dashboard)
+retail-news-dashboard/node_modules/
+retail-news-dashboard/.next/
+retail-news-dashboard/tsconfig.tsbuildinfo
+retail-news-dashboard/.git.bak/
