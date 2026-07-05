@@ -1,0 +1,44 @@
+name: Daily news scrape
+
+on:
+  schedule:
+    # 5:00 AM IST = 23:30 UTC (previous day)
+    - cron: "30 23 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Chromium for patchright
+        run: python -m patchright install chromium --with-deps
+
+      - name: Run grocery news scraper
+        env:
+          ZYTE_API_KEY: ${{ secrets.ZYTE_API_KEY }}
+        run: python grocery_news.py
+
+      - name: Run priority banner scraper
+        env:
+          ZYTE_API_KEY: ${{ secrets.ZYTE_API_KEY }}
+        run: python priority_banner.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data master_file all_articles.parquet latest_news.json
+          git diff --cached --quiet || git commit -m "Daily scrape: $(date -u +%Y-%m-%d)"
+          git push
