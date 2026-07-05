@@ -42,3 +42,20 @@ jobs:
           git add data master_file all_articles.parquet latest_news.json
           git diff --cached --quiet || git commit -m "Daily scrape: $(date -u +%Y-%m-%d)"
           git push
+
+      - name: Refresh dashboard data snapshot
+        run: |
+          mkdir -p retail-news-dashboard/data-snapshot/master_file
+          cp all_articles.parquet retail-news-dashboard/data-snapshot/all_articles.parquet
+          cp master_file/banner_news_master.csv retail-news-dashboard/data-snapshot/master_file/banner_news_master.csv
+
+      - name: Deploy dashboard to Vercel
+        working-directory: retail-news-dashboard
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        run: |
+          npm install -g vercel
+          vercel pull --yes --environment=production --token="$VERCEL_TOKEN"
+          vercel deploy --prod --token="$VERCEL_TOKEN"
