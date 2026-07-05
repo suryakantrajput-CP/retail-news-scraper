@@ -1,0 +1,53 @@
+name: Daily priority banner scrape
+
+on:
+  schedule:
+    # 5:20 AM IST = 23:50 UTC (previous day)
+    - cron: "50 23 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run priority banner scraper
+        env:
+          ZYTE_API_KEY: ${{ secrets.ZYTE_API_KEY }}
+        run: python priority_banner.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data master_file latest_news.json
+          git diff --cached --quiet || git commit -m "Priority banner scrape: $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push
+
+      - name: Refresh dashboard data snapshot
+        run: |
+          mkdir -p retail-news-dashboard/data-snapshot/master_file
+          cp master_file/banner_news_master.csv retail-news-dashboard/data-snapshot/master_file/banner_news_master.csv
+
+      - name: Deploy dashboard to Vercel
+        working-directory: retail-news-dashboard
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        run: |
+          npm install -g vercel
+          vercel pull --yes --environment=production --token="$VERCEL_TOKEN"
+          vercel deploy --prod --token="$VERCEL_TOKEN"

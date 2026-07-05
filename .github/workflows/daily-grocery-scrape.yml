@@ -1,4 +1,4 @@
-name: Daily news scrape
+name: Daily grocery news scrape
 
 on:
   schedule:
@@ -33,24 +33,19 @@ jobs:
           ZYTE_API_KEY: ${{ secrets.ZYTE_API_KEY }}
         run: xvfb-run -a python grocery_news.py
 
-      - name: Run priority banner scraper
-        env:
-          ZYTE_API_KEY: ${{ secrets.ZYTE_API_KEY }}
-        run: python priority_banner.py
-
       - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data master_file all_articles.parquet latest_news.json
-          git diff --cached --quiet || git commit -m "Daily scrape: $(date -u +%Y-%m-%d)"
+          git add all_articles.parquet
+          git diff --cached --quiet || git commit -m "Grocery news scrape: $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
 
       - name: Refresh dashboard data snapshot
         run: |
-          mkdir -p retail-news-dashboard/data-snapshot/master_file
+          mkdir -p retail-news-dashboard/data-snapshot
           cp all_articles.parquet retail-news-dashboard/data-snapshot/all_articles.parquet
-          cp master_file/banner_news_master.csv retail-news-dashboard/data-snapshot/master_file/banner_news_master.csv
 
       - name: Deploy dashboard to Vercel
         working-directory: retail-news-dashboard
