@@ -2,11 +2,17 @@
 
 import * as React from "react";
 import { ThemeProvider } from "@/components/providers/theme-provider";
-import { QueryProvider } from "@/components/providers/query-provider";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { Toaster } from "@/components/ui/sonner";
+import { DataProvider, type AppData } from "@/lib/data-context";
 
-export function Providers({ children }: { children: React.ReactNode }) {
+export function Providers({
+  data,
+  children,
+}: {
+  data: AppData;
+  children: React.ReactNode;
+}) {
   return (
     <ThemeProvider
       attribute="class"
@@ -14,12 +20,12 @@ export function Providers({ children }: { children: React.ReactNode }) {
       enableSystem
       disableTransitionOnChange
     >
-      <QueryProvider>
+      <DataProvider data={data}>
         <TooltipProvider delay={200}>
           {children}
           <Toaster richColors closeButton position="top-right" />
         </TooltipProvider>
-      </QueryProvider>
+      </DataProvider>
     </ThemeProvider>
   );
 }

@@ -3,6 +3,9 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Providers } from "@/components/providers/providers";
 import { AppShell } from "@/components/layout/app-shell";
+import { getDashboardSummary } from "@/lib/data/dashboard";
+import { getGroceryNews } from "@/lib/data/grocery-news";
+import { getPriorityBanner } from "@/lib/data/priority-banner";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -20,11 +23,17 @@ export const metadata: Metadata = {
     "Enterprise dashboard for monitoring retail industry news and store event intelligence.",
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const [dashboard, grocery, priority] = await Promise.all([
+    getDashboardSummary(),
+    getGroceryNews(),
+    getPriorityBanner(),
+  ]);
+
   return (
     <html
       lang="en"
@@ -32,7 +41,7 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        <Providers>
+        <Providers data={{ dashboard, grocery, priority }}>
           <AppShell>{children}</AppShell>
         </Providers>
       </body>

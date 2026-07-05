@@ -1,8 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  outputFileTracingIncludes: {
-    "/**": ["./data-snapshot/**"],
+  output: "export",
+  basePath: "/retail-news-scraper",
+  images: {
+    unoptimized: true,
   },
 };
 

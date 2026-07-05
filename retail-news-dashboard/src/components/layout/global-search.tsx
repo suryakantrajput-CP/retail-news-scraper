@@ -13,14 +13,12 @@ import {
   CommandSeparator,
 } from "@/components/ui/command";
 import { NAV_ITEMS } from "@/components/layout/nav-items";
-import { useGroceryNews } from "@/hooks/use-grocery-news";
-import { usePriorityBanner } from "@/hooks/use-priority-banner";
+import { useAppData } from "@/lib/data-context";
 
 export function GlobalSearch() {
   const [open, setOpen] = React.useState(false);
   const router = useRouter();
-  const { data: grocery } = useGroceryNews();
-  const { data: priority } = usePriorityBanner();
+  const { grocery, priority } = useAppData();
 
   React.useEffect(() => {
     function onKeyDown(e: KeyboardEvent) {
@@ -76,7 +74,7 @@ export function GlobalSearch() {
           <CommandSeparator />
 
           <CommandGroup heading="Grocery News">
-            {(grocery?.rows ?? []).slice(0, 30).map((row) => (
+            {grocery.rows.slice(0, 30).map((row) => (
               <CommandItem
                 key={row.id}
                 value={`${row.title} ${row.source}`}
@@ -93,7 +91,7 @@ export function GlobalSearch() {
           <CommandSeparator />
 
           <CommandGroup heading="Priority Banner">
-            {(priority?.rows ?? []).slice(0, 30).map((row) => (
+            {priority.rows.slice(0, 30).map((row) => (
               <CommandItem
                 key={row.id}
                 value={`${row.title} ${row.company_name}`}

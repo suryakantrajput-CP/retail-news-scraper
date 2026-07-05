@@ -8,12 +8,9 @@ import { GlobalSearch } from "@/components/layout/global-search";
 import { ThemeToggle } from "@/components/layout/theme-toggle";
 import { Notifications } from "@/components/layout/notifications";
 import { NAV_ITEMS } from "@/components/layout/nav-items";
-import { useRefreshAll } from "@/hooks/use-refresh-all";
-import { cn } from "@/lib/utils";
 
 export function Topbar() {
   const pathname = usePathname();
-  const { refresh, isRefreshing } = useRefreshAll();
   const current = NAV_ITEMS.find((item) => item.href === pathname);
 
   return (
@@ -37,11 +34,10 @@ export function Topbar() {
         <Button
           variant="outline"
           size="sm"
-          onClick={refresh}
-          disabled={isRefreshing}
+          onClick={() => window.location.reload()}
           className="gap-2"
         >
-          <RefreshCw className={cn("h-4 w-4", isRefreshing && "animate-spin")} />
+          <RefreshCw className="h-4 w-4" />
           <span className="hidden sm:inline">Refresh Data</span>
         </Button>
         <Notifications />

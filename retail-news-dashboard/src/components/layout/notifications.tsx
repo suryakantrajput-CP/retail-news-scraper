@@ -10,13 +10,13 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { usePriorityBanner } from "@/hooks/use-priority-banner";
+import { useAppData } from "@/lib/data-context";
 import { colorForEventType } from "@/lib/chart-colors";
 
 export function Notifications() {
-  const { data } = usePriorityBanner();
+  const { priority: data } = useAppData();
 
-  const recent = [...(data?.rows ?? [])]
+  const recent = [...data.rows]
     .sort((a, b) => {
       const ta = a.published ? new Date(a.published).getTime() : 0;
       const tb = b.published ? new Date(b.published).getTime() : 0;

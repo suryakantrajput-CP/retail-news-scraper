@@ -4,10 +4,10 @@ import { motion } from "framer-motion";
 import { Card, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { DataTable } from "@/components/data-table/data-table";
 import { groceryColumns } from "@/components/data-table/columns-grocery";
-import { useGroceryNews } from "@/hooks/use-grocery-news";
+import { useAppData } from "@/lib/data-context";
 
 export default function GroceryNewsPage() {
-  const { data, isLoading, isError, error, refetch, isFetching } = useGroceryNews();
+  const { grocery: data } = useAppData();
 
   return (
     <motion.div
@@ -19,7 +19,7 @@ export default function GroceryNewsPage() {
         <CardHeader>
           <CardTitle>Grocery News</CardTitle>
           <CardDescription>
-            {data?.meta.count ?? 0} articles scraped from {data?.meta.sources ?? 0}{" "}
+            {data.meta.count} articles scraped from {data.meta.sources}{" "}
             retail &amp; grocery trade outlets · sourced from{" "}
             <code className="rounded bg-muted px-1 py-0.5 text-xs">grocery_news.py</code>
             {" "}· full article text is included in CSV exports, not shown in the table
@@ -29,12 +29,8 @@ export default function GroceryNewsPage() {
 
       <DataTable
         columns={groceryColumns}
-        data={data?.rows ?? []}
-        isLoading={isLoading}
-        isError={isError}
-        errorMessage={error instanceof Error ? error.message : undefined}
-        onRefresh={() => refetch()}
-        isRefreshing={isFetching}
+        data={data.rows}
+        onRefresh={() => window.location.reload()}
         exportFilename="grocery-news"
         emptyTitle="No grocery news yet"
         emptyDescription="Run grocery_news.py to scrape retail trade outlets, then refresh this page."
