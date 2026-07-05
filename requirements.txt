@@ -1,4 +1,5 @@
 pandas
+pyarrow
 beautifulsoup4
 patchright
 feedparser
