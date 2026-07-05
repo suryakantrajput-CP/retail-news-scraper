@@ -25,10 +25,13 @@ jobs:
       - name: Install Chromium for patchright
         run: python -m patchright install chromium --with-deps
 
+      - name: Install virtual display
+        run: sudo apt-get update && sudo apt-get install -y xvfb
+
       - name: Run grocery news scraper
         env:
           ZYTE_API_KEY: ${{ secrets.ZYTE_API_KEY }}
-        run: python grocery_news.py
+        run: xvfb-run -a python grocery_news.py
 
       - name: Run priority banner scraper
         env:
