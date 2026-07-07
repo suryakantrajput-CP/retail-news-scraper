@@ -43,29 +43,31 @@ export default function DashboardPage() {
           </Card>
         </motion.div>
 
-        <motion.div initial="hidden" animate="show" variants={fadeUp} transition={{ delay: 0.1 }}>
-          <Card className="h-full">
-            <CardHeader>
-              <CardTitle>Priority distribution</CardTitle>
-              <CardDescription>Opening vs. closing events</CardDescription>
-            </CardHeader>
-            <CardContent>
-              <PriorityDistributionChart data={data.priorityDistribution} />
-            </CardContent>
-          </Card>
-        </motion.div>
+        <div className="flex flex-col gap-4">
+          <motion.div initial="hidden" animate="show" variants={fadeUp} transition={{ delay: 0.1 }}>
+            <Card>
+              <CardHeader>
+                <CardTitle>Priority distribution</CardTitle>
+                <CardDescription>Opening vs. closing events</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <PriorityDistributionChart data={data.priorityDistribution} />
+              </CardContent>
+            </Card>
+          </motion.div>
 
-        <motion.div initial="hidden" animate="show" variants={fadeUp} transition={{ delay: 0.12 }}>
-          <Card className="h-full">
-            <CardHeader>
-              <CardTitle>Grocery DB distribution</CardTitle>
-              <CardDescription>Opening vs. closing events</CardDescription>
-            </CardHeader>
-            <CardContent>
-              <PriorityDistributionChart data={data.groceryDbNewsDistribution} />
-            </CardContent>
-          </Card>
-        </motion.div>
+          <motion.div initial="hidden" animate="show" variants={fadeUp} transition={{ delay: 0.12 }}>
+            <Card>
+              <CardHeader>
+                <CardTitle>Grocery DB distribution</CardTitle>
+                <CardDescription>Opening vs. closing events</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <PriorityDistributionChart data={data.groceryDbNewsDistribution} />
+              </CardContent>
+            </Card>
+          </motion.div>
+        </div>
 
         <motion.div
           initial="hidden"
