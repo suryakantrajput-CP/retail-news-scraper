@@ -355,7 +355,11 @@ def main():
         if daily_file.exists():
             df_existing = pd.read_csv(daily_file, encoding='utf-8')
             df_out = pd.concat([df_existing, df_out], ignore_index=True)
-        df_out = df_out.drop_duplicates(subset=['company_name', 'Title', 'Link'])
+        # Dedupe on Title + Link only (not company_name): the source Excel list
+        # has multiple name variants for the same chain (e.g. "Dutch Bros",
+        # "Dutch Bros Coffee", "Dutch Bros. Coffee"), so the same real article
+        # can otherwise get recorded once per spelling.
+        df_out = df_out.drop_duplicates(subset=['Title', 'Link'])
         df_out.to_csv(daily_file, index=False, encoding='utf-8')
         print(f"\nDaily file updated: {daily_file} ({len(df_out)} rows so far today)")
 
@@ -373,7 +377,7 @@ def main():
         else:
             df_master = df_new
 
-        df_master = df_master.drop_duplicates(subset=['company_name', 'Title', 'Link'])
+        df_master = df_master.drop_duplicates(subset=['Title', 'Link'])
         df_master = df_master.sort_values('Published', ascending=False)
         df_master.to_csv(MASTER_FILE, index=False, encoding='utf-8')
         print(f"Master file updated: {MASTER_FILE} ({len(df_master)} total rows)")
