@@ -88,6 +88,17 @@ export function TrendChart({ data }: { data: TrendPoint[] }) {
           dot={{ r: 3, strokeWidth: 2, stroke: "var(--card)", fill: SERIES_COLORS.communityImpact }}
           activeDot={{ r: 5 }}
         />
+        <Area
+          type="monotone"
+          dataKey="groceryDbNews"
+          name="Grocery DB News"
+          stroke={SERIES_COLORS.groceryDbNews}
+          strokeWidth={2}
+          fill={SERIES_COLORS.groceryDbNews}
+          fillOpacity={0.1}
+          dot={{ r: 3, strokeWidth: 2, stroke: "var(--card)", fill: SERIES_COLORS.groceryDbNews }}
+          activeDot={{ r: 5 }}
+        />
       </AreaChart>
     </ResponsiveContainer>
   );

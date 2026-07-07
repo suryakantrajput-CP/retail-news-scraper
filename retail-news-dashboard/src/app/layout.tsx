@@ -7,6 +7,7 @@ import { getDashboardSummary } from "@/lib/data/dashboard";
 import { getGroceryNews } from "@/lib/data/grocery-news";
 import { getPriorityBanner } from "@/lib/data/priority-banner";
 import { getCommunityImpact } from "@/lib/data/community-impact";
+import { getGroceryDbNews } from "@/lib/data/grocery-db-news";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -29,11 +30,12 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const [dashboard, grocery, priority, communityImpact] = await Promise.all([
+  const [dashboard, grocery, priority, communityImpact, groceryDbNews] = await Promise.all([
     getDashboardSummary(),
     getGroceryNews(),
     getPriorityBanner(),
     getCommunityImpact(),
+    getGroceryDbNews(),
   ]);
 
   return (
@@ -43,7 +45,7 @@ export default async function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        <Providers data={{ dashboard, grocery, priority, communityImpact }}>
+        <Providers data={{ dashboard, grocery, priority, communityImpact, groceryDbNews }}>
           <AppShell>{children}</AppShell>
         </Providers>
       </body>

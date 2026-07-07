@@ -25,6 +25,16 @@ export interface CommunityImpactRow {
   dateAppended: string | null;
 }
 
+export interface GroceryDbNewsRow {
+  id: string;
+  company_name: string;
+  event_type: string;
+  title: string;
+  link: string;
+  published: string | null;
+  summary: string;
+}
+
 export interface DatasetMeta {
   count: number;
   lastUpdated: string | null;
@@ -46,11 +56,17 @@ export interface CommunityImpactResponse {
   meta: DatasetMeta;
 }
 
+export interface GroceryDbNewsResponse {
+  rows: GroceryDbNewsRow[];
+  meta: DatasetMeta;
+}
+
 export interface TrendPoint {
   date: string;
   grocery: number;
   priority: number;
   communityImpact: number;
+  groceryDbNews: number;
 }
 
 export interface CategoryDistributionPoint {
@@ -63,10 +79,12 @@ export interface DashboardSummary {
   groceryRecords: number;
   priorityRecords: number;
   communityImpactRecords: number;
+  groceryDbNewsRecords: number;
   activeSources: number;
   lastSync: string | null;
   processingStatus: "idle" | "stale" | "no-data";
   trend: TrendPoint[];
   categoryDistribution: CategoryDistributionPoint[];
   priorityDistribution: CategoryDistributionPoint[];
+  groceryDbNewsDistribution: CategoryDistributionPoint[];
 }

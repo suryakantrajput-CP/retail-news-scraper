@@ -21,6 +21,7 @@ export const SERIES_COLORS = {
   grocery: VIZ_PALETTE[0], // blue
   priority: VIZ_PALETTE[7], // orange
   communityImpact: VIZ_PALETTE[4], // violet
+  groceryDbNews: VIZ_PALETTE[6], // magenta
   opening: VIZ_PALETTE[0], // blue
   closing: VIZ_PALETTE[5], // red
 } as const;

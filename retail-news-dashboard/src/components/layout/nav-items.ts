@@ -1,4 +1,4 @@
-import { LayoutDashboard, ShoppingCart, Megaphone, Building2, type LucideIcon } from "lucide-react";
+import { LayoutDashboard, ShoppingCart, Megaphone, Building2, Store, type LucideIcon } from "lucide-react";
 
 export interface NavItem {
   title: string;
@@ -31,5 +31,11 @@ export const NAV_ITEMS: NavItem[] = [
     href: "/community-impact",
     icon: Building2,
     description: "Local business news",
+  },
+  {
+    title: "Grocery DB News",
+    href: "/grocery-db-news",
+    icon: Store,
+    description: "Opening & closing alerts for the grocery company database",
   },
 ];

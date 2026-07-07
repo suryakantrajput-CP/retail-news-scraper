@@ -19,3 +19,9 @@ export const COMMUNITY_IMPACT_MASTER_CSV = path.join(
   "master_file",
   "community_impact_master.csv"
 );
+
+export const GROCERY_DB_NEWS_MASTER_CSV = path.join(
+  DATA_ROOT,
+  "master_file",
+  "grocery_db_news_master.csv"
+);

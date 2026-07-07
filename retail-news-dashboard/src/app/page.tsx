@@ -34,7 +34,7 @@ export default function DashboardPage() {
             <CardHeader>
               <CardTitle>News trend</CardTitle>
               <CardDescription>
-                Article volume by day across both data sources
+                Article volume by day across all data sources
               </CardDescription>
             </CardHeader>
             <CardContent>
@@ -51,6 +51,18 @@ export default function DashboardPage() {
             </CardHeader>
             <CardContent>
               <PriorityDistributionChart data={data.priorityDistribution} />
+            </CardContent>
+          </Card>
+        </motion.div>
+
+        <motion.div initial="hidden" animate="show" variants={fadeUp} transition={{ delay: 0.12 }}>
+          <Card className="h-full">
+            <CardHeader>
+              <CardTitle>Grocery DB distribution</CardTitle>
+              <CardDescription>Opening vs. closing events</CardDescription>
+            </CardHeader>
+            <CardContent>
+              <PriorityDistributionChart data={data.groceryDbNewsDistribution} />
             </CardContent>
           </Card>
         </motion.div>

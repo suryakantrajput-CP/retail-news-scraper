@@ -4,6 +4,7 @@ import * as React from "react";
 import type {
   CommunityImpactResponse,
   DashboardSummary,
+  GroceryDbNewsResponse,
   GroceryNewsResponse,
   PriorityBannerResponse,
 } from "@/lib/types";
@@ -13,6 +14,7 @@ export type AppData = {
   grocery: GroceryNewsResponse;
   priority: PriorityBannerResponse;
   communityImpact: CommunityImpactResponse;
+  groceryDbNews: GroceryDbNewsResponse;
 };
 
 const DataContext = React.createContext<AppData | null>(null);

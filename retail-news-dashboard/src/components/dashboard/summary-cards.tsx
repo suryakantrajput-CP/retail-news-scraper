@@ -95,7 +95,7 @@ export function SummaryCards({
         icon={Database}
         label="Total Records"
         value={summary.totalRecords.toLocaleString()}
-        subtext={`${summary.groceryRecords} grocery · ${summary.priorityRecords} priority · ${summary.communityImpactRecords} community`}
+        subtext={`${summary.groceryRecords} grocery · ${summary.priorityRecords} priority · ${summary.communityImpactRecords} community · ${summary.groceryDbNewsRecords} grocery DB`}
       />
       <StatCard
         icon={Rss}

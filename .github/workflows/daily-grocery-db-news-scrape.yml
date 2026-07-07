@@ -1,0 +1,50 @@
+name: Daily grocery DB news scrape
+
+on:
+  schedule:
+    # 5:29 AM IST = 23:59 UTC (previous day)
+    - cron: "59 23 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run grocery DB news scraper (all batches)
+        env:
+          ZYTE_API_KEY: ${{ secrets.ZYTE_API_KEY }}
+        run: |
+          # grocery_db_news.py processes ~100 companies per invocation and
+          # checkpoints progress to data/grocery_db_news/progress_state.json.
+          # Loop until it reports the day's full company list is done, so a
+          # single scheduled run covers everyone while no individual call runs
+          # too long.
+          while true; do
+            python grocery_db_news.py --chunk-size 100
+            completed=$(python -c "import json; print(json.load(open('data/grocery_db_news/progress_state.json'))['completed'])")
+            if [ "$completed" = "True" ]; then
+              echo "All companies processed for today."
+              break
+            fi
+          done
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/grocery_db_news master_file/grocery_db_news_master.csv
+          git diff --cached --quiet || git commit -m "Grocery DB news scrape: $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push
