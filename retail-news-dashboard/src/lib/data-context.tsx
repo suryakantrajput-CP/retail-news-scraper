@@ -2,6 +2,7 @@
 
 import * as React from "react";
 import type {
+  CommunityImpactResponse,
   DashboardSummary,
   GroceryNewsResponse,
   PriorityBannerResponse,
@@ -11,6 +12,7 @@ export type AppData = {
   dashboard: DashboardSummary;
   grocery: GroceryNewsResponse;
   priority: PriorityBannerResponse;
+  communityImpact: CommunityImpactResponse;
 };
 
 const DataContext = React.createContext<AppData | null>(null);

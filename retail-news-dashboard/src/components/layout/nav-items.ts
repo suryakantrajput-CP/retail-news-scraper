@@ -1,4 +1,4 @@
-import { LayoutDashboard, ShoppingCart, Megaphone, type LucideIcon } from "lucide-react";
+import { LayoutDashboard, ShoppingCart, Megaphone, Building2, type LucideIcon } from "lucide-react";
 
 export interface NavItem {
   title: string;
@@ -25,5 +25,11 @@ export const NAV_ITEMS: NavItem[] = [
     href: "/priority-banner",
     icon: Megaphone,
     description: "Store opening & closing alerts",
+  },
+  {
+    title: "Community Impact",
+    href: "/community-impact",
+    icon: Building2,
+    description: "Local business news",
   },
 ];

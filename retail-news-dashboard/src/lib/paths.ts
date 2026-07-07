@@ -13,3 +13,9 @@ export const PRIORITY_BANNER_MASTER_CSV = path.join(
   "master_file",
   "banner_news_master.csv"
 );
+
+export const COMMUNITY_IMPACT_MASTER_CSV = path.join(
+  DATA_ROOT,
+  "master_file",
+  "community_impact_master.csv"
+);

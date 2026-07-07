@@ -17,6 +17,13 @@ export interface PriorityBannerRow {
   summary: string;
 }
 
+export interface CommunityImpactRow {
+  id: string;
+  title: string;
+  link: string;
+  date: string | null;
+}
+
 export interface DatasetMeta {
   count: number;
   lastUpdated: string | null;
@@ -30,6 +37,11 @@ export interface GroceryNewsResponse {
 
 export interface PriorityBannerResponse {
   rows: PriorityBannerRow[];
+  meta: DatasetMeta;
+}
+
+export interface CommunityImpactResponse {
+  rows: CommunityImpactRow[];
   meta: DatasetMeta;
 }
 
