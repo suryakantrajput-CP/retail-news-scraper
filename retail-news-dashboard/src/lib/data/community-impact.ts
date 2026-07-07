@@ -7,6 +7,7 @@ interface RawRow {
   title?: string;
   link?: string;
   date?: string;
+  date_appended?: string;
 }
 
 export async function getCommunityImpact(): Promise<CommunityImpactResponse> {
@@ -27,6 +28,7 @@ export async function getCommunityImpact(): Promise<CommunityImpactResponse> {
       title: r.title ?? "",
       link: r.link ?? "",
       date: r.date || null,
+      dateAppended: r.date_appended || null,
     }));
 
   const stat = fs.statSync(COMMUNITY_IMPACT_MASTER_CSV);

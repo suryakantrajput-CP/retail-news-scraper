@@ -1,6 +1,7 @@
 import { format } from "date-fns";
 import { getGroceryNews } from "@/lib/data/grocery-news";
 import { getPriorityBanner } from "@/lib/data/priority-banner";
+import { getCommunityImpact } from "@/lib/data/community-impact";
 import type {
   CategoryDistributionPoint,
   DashboardSummary,
@@ -24,45 +25,69 @@ function tally(values: string[]): CategoryDistributionPoint[] {
 }
 
 export async function getDashboardSummary(): Promise<DashboardSummary> {
-  const [grocery, priority] = await Promise.all([
+  const [grocery, priority, communityImpact] = await Promise.all([
     getGroceryNews(),
     getPriorityBanner(),
+    getCommunityImpact(),
   ]);
 
-  const byDay = new Map<string, { grocery: number; priority: number }>();
+  const byDay = new Map<
+    string,
+    { grocery: number; priority: number; communityImpact: number }
+  >();
+
+  function bump(key: string, field: "grocery" | "priority" | "communityImpact") {
+    const entry = byDay.get(key) ?? { grocery: 0, priority: 0, communityImpact: 0 };
+    entry[field] += 1;
+    byDay.set(key, entry);
+  }
 
   for (const row of grocery.rows) {
     const d = safeParseDate(row.date);
     if (!d) continue;
-    const key = format(d, "yyyy-MM-dd");
-    const entry = byDay.get(key) ?? { grocery: 0, priority: 0 };
-    entry.grocery += 1;
-    byDay.set(key, entry);
+    bump(format(d, "yyyy-MM-dd"), "grocery");
   }
 
   for (const row of priority.rows) {
     const d = safeParseDate(row.published);
     if (!d) continue;
-    const key = format(d, "yyyy-MM-dd");
-    const entry = byDay.get(key) ?? { grocery: 0, priority: 0 };
-    entry.priority += 1;
-    byDay.set(key, entry);
+    bump(format(d, "yyyy-MM-dd"), "priority");
+  }
+
+  for (const row of communityImpact.rows) {
+    // `date` is relative text ("16h ago") straight from the source page and
+    // can't be parsed into a real date — `dateAppended` (the scrape date) is
+    // the only reliable timestamp available for this dataset.
+    const d = safeParseDate(row.dateAppended);
+    if (!d) continue;
+    bump(format(d, "yyyy-MM-dd"), "communityImpact");
   }
 
   const trend: TrendPoint[] = Array.from(byDay.entries())
-    .map(([date, v]) => ({ date, grocery: v.grocery, priority: v.priority }))
+    .map(([date, v]) => ({
+      date,
+      grocery: v.grocery,
+      priority: v.priority,
+      communityImpact: v.communityImpact,
+    }))
     .sort((a, b) => a.date.localeCompare(b.date))
     .slice(-30);
 
-  const lastSyncCandidates = [grocery.meta.lastUpdated, priority.meta.lastUpdated].filter(
-    (v): v is string => Boolean(v)
-  );
+  const lastSyncCandidates = [
+    grocery.meta.lastUpdated,
+    priority.meta.lastUpdated,
+    communityImpact.meta.lastUpdated,
+  ].filter((v): v is string => Boolean(v));
   const lastSync = lastSyncCandidates.length
     ? lastSyncCandidates.sort().reverse()[0]
     : null;
 
-  const totalRecords = grocery.meta.count + priority.meta.count;
-  const activeSources = grocery.meta.sources + (priority.meta.count > 0 ? 1 : 0);
+  const totalRecords =
+    grocery.meta.count + priority.meta.count + communityImpact.meta.count;
+  const activeSources =
+    grocery.meta.sources +
+    (priority.meta.count > 0 ? 1 : 0) +
+    (communityImpact.meta.count > 0 ? 1 : 0);
 
   let processingStatus: DashboardSummary["processingStatus"] = "no-data";
   if (totalRecords > 0) {
@@ -77,6 +102,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     totalRecords,
     groceryRecords: grocery.meta.count,
     priorityRecords: priority.meta.count,
+    communityImpactRecords: communityImpact.meta.count,
     activeSources,
     lastSync,
     processingStatus,

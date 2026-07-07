@@ -77,6 +77,17 @@ export function TrendChart({ data }: { data: TrendPoint[] }) {
           dot={{ r: 3, strokeWidth: 2, stroke: "var(--card)", fill: SERIES_COLORS.priority }}
           activeDot={{ r: 5 }}
         />
+        <Area
+          type="monotone"
+          dataKey="communityImpact"
+          name="Community Impact"
+          stroke={SERIES_COLORS.communityImpact}
+          strokeWidth={2}
+          fill={SERIES_COLORS.communityImpact}
+          fillOpacity={0.1}
+          dot={{ r: 3, strokeWidth: 2, stroke: "var(--card)", fill: SERIES_COLORS.communityImpact }}
+          activeDot={{ r: 5 }}
+        />
       </AreaChart>
     </ResponsiveContainer>
   );

@@ -22,6 +22,7 @@ export interface CommunityImpactRow {
   title: string;
   link: string;
   date: string | null;
+  dateAppended: string | null;
 }
 
 export interface DatasetMeta {
@@ -49,6 +50,7 @@ export interface TrendPoint {
   date: string;
   grocery: number;
   priority: number;
+  communityImpact: number;
 }
 
 export interface CategoryDistributionPoint {
@@ -60,6 +62,7 @@ export interface DashboardSummary {
   totalRecords: number;
   groceryRecords: number;
   priorityRecords: number;
+  communityImpactRecords: number;
   activeSources: number;
   lastSync: string | null;
   processingStatus: "idle" | "stale" | "no-data";
