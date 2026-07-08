@@ -292,10 +292,11 @@ def main():
         description="Fetch grocery-company opening/closing news via Zyte + Google News, "
                     "processing the company list in batches so a single run stays fast."
     )
-    parser.add_argument("--chunk-size", type=int, default=100, help="Companies to process per run")
+    parser.add_argument("--chunk-size", type=int, default=100, help="Companies to process per batch")
     parser.add_argument("--workers", type=int, default=6, help="Concurrent Zyte requests")
     parser.add_argument("--limit", type=int, default=None, help="Only consider the first N companies overall (for testing)")
     parser.add_argument("--reset", action="store_true", help="Ignore saved progress and start today's run over from company 1")
+    parser.add_argument("--all", action="store_true", help="Keep processing batches until today's full company list is done, instead of exiting after one batch")
     args = parser.parse_args()
 
     companies = load_companies()
@@ -305,94 +306,99 @@ def main():
     if args.reset and PROGRESS_FILE.exists():
         PROGRESS_FILE.unlink()
 
-    state = load_progress(companies)
-    if state["completed"]:
-        print(f"All {len(companies)} companies already processed today ({state['date']}). Nothing to do.")
-        print("Pass --reset to force a fresh run for today.")
-        return
+    while True:
+        state = load_progress(companies)
+        if state["completed"]:
+            print(f"All {len(companies)} companies already processed today ({state['date']}). Nothing to do.")
+            if not args.all:
+                print("Pass --reset to force a fresh run for today.")
+            break
 
-    start = state["processed_index"]
-    end = min(start + args.chunk_size, len(companies))
-    batch = companies[start:end]
+        start = state["processed_index"]
+        end = min(start + args.chunk_size, len(companies))
+        batch = companies[start:end]
 
-    print(f"\nRun date: {state['date']}")
-    print(f"Processing companies {start + 1}-{end} of {len(companies)} "
-          f"({args.workers} concurrent Zyte requests)...\n")
+        print(f"\nRun date: {state['date']}")
+        print(f"Processing companies {start + 1}-{end} of {len(companies)} "
+              f"({args.workers} concurrent Zyte requests)...\n")
 
-    rows_by_company: dict[str, list[dict]] = {}
-    start_time = time.time()
-    completed = 0
-    total_articles = 0
+        rows_by_company: dict[str, list[dict]] = {}
+        start_time = time.time()
+        completed = 0
+        total_articles = 0
 
-    with ThreadPoolExecutor(max_workers=args.workers) as executor:
-        futures = {executor.submit(process_company, c): c for c in batch}
-        for future in as_completed(futures):
-            company = futures[future]
-            try:
-                items = future.result()
-            except Exception as e:
-                print(f"  ⚠ {company}: error - {e}")
-                items = []
+        with ThreadPoolExecutor(max_workers=args.workers) as executor:
+            futures = {executor.submit(process_company, c): c for c in batch}
+            for future in as_completed(futures):
+                company = futures[future]
+                try:
+                    items = future.result()
+                except Exception as e:
+                    print(f"  ⚠ {company}: error - {e}")
+                    items = []
 
-            rows_by_company[company] = items
-            completed += 1
-            total_articles += len(items)
+                rows_by_company[company] = items
+                completed += 1
+                total_articles += len(items)
 
-            elapsed = time.time() - start_time
-            eta_min = (elapsed / completed) * (len(batch) - completed) / 60
-            print(f"[{completed}/{len(batch)}] {company}: {len(items)} article(s) "
-                  f"| elapsed {elapsed/60:.1f}m | ETA {eta_min:.1f}m | total found: {total_articles}")
+                elapsed = time.time() - start_time
+                eta_min = (elapsed / completed) * (len(batch) - completed) / 60
+                print(f"[{completed}/{len(batch)}] {company}: {len(items)} article(s) "
+                      f"| elapsed {elapsed/60:.1f}m | ETA {eta_min:.1f}m | total found: {total_articles}")
 
-    all_rows = [row for items in rows_by_company.values() for row in items]
-    today_str = state["date"]
+        all_rows = [row for items in rows_by_company.values() for row in items]
+        today_str = state["date"]
 
-    if all_rows:
-        # ────────────────────────────────────────────────
-        # Daily file — accumulates every batch run today
-        # ────────────────────────────────────────────────
-        daily_file = STORE_NEWS_DIR / f"grocery_db_news_{today_str}.csv"
-        df_out = pd.DataFrame(all_rows)
-        if daily_file.exists():
-            df_existing = pd.read_csv(daily_file, encoding='utf-8')
-            df_out = pd.concat([df_existing, df_out], ignore_index=True)
-        # Dedupe on Title + Link only (not company_name): the source Excel list
-        # has multiple name variants for the same chain (e.g. "Dutch Bros",
-        # "Dutch Bros Coffee", "Dutch Bros. Coffee"), so the same real article
-        # can otherwise get recorded once per spelling.
-        df_out = df_out.drop_duplicates(subset=['Title', 'Link'])
-        df_out.to_csv(daily_file, index=False, encoding='utf-8')
-        print(f"\nDaily file updated: {daily_file} ({len(df_out)} rows so far today)")
+        if all_rows:
+            # ────────────────────────────────────────────────
+            # Daily file — accumulates every batch run today
+            # ────────────────────────────────────────────────
+            daily_file = STORE_NEWS_DIR / f"grocery_db_news_{today_str}.csv"
+            df_out = pd.DataFrame(all_rows)
+            if daily_file.exists():
+                df_existing = pd.read_csv(daily_file, encoding='utf-8')
+                df_out = pd.concat([df_existing, df_out], ignore_index=True)
+            # Dedupe on Title + Link only (not company_name): the source Excel list
+            # has multiple name variants for the same chain (e.g. "Dutch Bros",
+            # "Dutch Bros Coffee", "Dutch Bros. Coffee"), so the same real article
+            # can otherwise get recorded once per spelling.
+            df_out = df_out.drop_duplicates(subset=['Title', 'Link'])
+            df_out.to_csv(daily_file, index=False, encoding='utf-8')
+            print(f"\nDaily file updated: {daily_file} ({len(df_out)} rows so far today)")
 
-        # ────────────────────────────────────────────────
-        # Master file — accumulates all historical results
-        # ────────────────────────────────────────────────
-        df_new = pd.DataFrame(all_rows)
-        df_new['Date_Appended'] = today_str
-        df_new['Published'] = pd.to_datetime(df_new['Published'], errors='coerce', utc=True)
+            # ────────────────────────────────────────────────
+            # Master file — accumulates all historical results
+            # ────────────────────────────────────────────────
+            df_new = pd.DataFrame(all_rows)
+            df_new['Date_Appended'] = today_str
+            df_new['Published'] = pd.to_datetime(df_new['Published'], errors='coerce', utc=True)
 
-        if MASTER_FILE.exists():
-            df_master = pd.read_csv(MASTER_FILE, encoding='utf-8')
-            df_master['Published'] = pd.to_datetime(df_master['Published'], errors='coerce', utc=True)
-            df_master = pd.concat([df_master, df_new], ignore_index=True)
+            if MASTER_FILE.exists():
+                df_master = pd.read_csv(MASTER_FILE, encoding='utf-8')
+                df_master['Published'] = pd.to_datetime(df_master['Published'], errors='coerce', utc=True)
+                df_master = pd.concat([df_master, df_new], ignore_index=True)
+            else:
+                df_master = df_new
+
+            df_master = df_master.drop_duplicates(subset=['Title', 'Link'])
+            df_master = df_master.sort_values('Published', ascending=False)
+            df_master.to_csv(MASTER_FILE, index=False, encoding='utf-8')
+            print(f"Master file updated: {MASTER_FILE} ({len(df_master)} total rows)")
         else:
-            df_master = df_new
+            print("\nNo recent opening/closing news found for this batch.")
 
-        df_master = df_master.drop_duplicates(subset=['Title', 'Link'])
-        df_master = df_master.sort_values('Published', ascending=False)
-        df_master.to_csv(MASTER_FILE, index=False, encoding='utf-8')
-        print(f"Master file updated: {MASTER_FILE} ({len(df_master)} total rows)")
-    else:
-        print("\nNo recent opening/closing news found for this batch.")
+        state["processed_index"] = end
+        state["completed"] = end >= len(companies)
+        save_progress(state)
 
-    state["processed_index"] = end
-    state["completed"] = end >= len(companies)
-    save_progress(state)
+        remaining = len(companies) - end
+        if state["completed"]:
+            print(f"\n✓ All {len(companies)} companies processed for {today_str}.")
+        else:
+            print(f"\n{remaining} companies remaining for {today_str}.")
 
-    remaining = len(companies) - end
-    if state["completed"]:
-        print(f"\n✓ All {len(companies)} companies processed for {today_str}.")
-    else:
-        print(f"\n{remaining} companies remaining for {today_str}. Run again to continue with the next batch.")
+        if not args.all or state["completed"]:
+            break
 
 
 if __name__ == "__main__":

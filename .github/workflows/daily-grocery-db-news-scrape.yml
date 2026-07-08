@@ -25,20 +25,10 @@ jobs:
       - name: Run grocery DB news scraper (all batches)
         env:
           ZYTE_API_KEY: ${{ secrets.ZYTE_API_KEY }}
-        run: |
-          # grocery_db_news.py processes ~100 companies per invocation and
-          # checkpoints progress to data/grocery_db_news/progress_state.json.
-          # Loop until it reports the day's full company list is done, so a
-          # single scheduled run covers everyone while no individual call runs
-          # too long.
-          while true; do
-            python grocery_db_news.py --chunk-size 100
-            completed=$(python -c "import json; print(json.load(open('data/grocery_db_news/progress_state.json'))['completed'])")
-            if [ "$completed" = "True" ]; then
-              echo "All companies processed for today."
-              break
-            fi
-          done
+        # --all makes the script loop internally through every ~100-company
+        # batch, checkpointing to data/grocery_db_news/progress_state.json
+        # after each one, until today's full company list is covered.
+        run: python grocery_db_news.py --all --chunk-size 100
 
       - name: Commit and push updated data
         run: |
