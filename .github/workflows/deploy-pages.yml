@@ -8,6 +8,18 @@ on:
       - "master_file/**"
       - "retail-news-dashboard/**"
       - ".github/workflows/deploy-pages.yml"
+  # The daily scrape workflows commit with the default GITHUB_TOKEN, and
+  # GitHub's anti-recursion rule means pushes made with that token never
+  # trigger other `on: push` workflows (including this one) — so without
+  # this trigger, the site would only ever redeploy on a manual push.
+  # `workflow_run` is exempt from that restriction.
+  workflow_run:
+    workflows:
+      - "Daily grocery news scrape"
+      - "Daily priority banner scrape"
+      - "Daily community impact scrape"
+      - "Daily grocery DB news scrape"
+    types: [completed]
   workflow_dispatch: {}
 
 permissions:
@@ -22,6 +34,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     steps:
       - uses: actions/checkout@v4
 
