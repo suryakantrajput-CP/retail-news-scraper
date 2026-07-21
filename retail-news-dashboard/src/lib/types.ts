@@ -24,6 +24,7 @@ export interface CommunityImpactRow {
   link: string;
   date: string | null;
   dateAppended: string | null;
+  image: string | null;
 }
 
 export interface GroceryDbNewsRow {

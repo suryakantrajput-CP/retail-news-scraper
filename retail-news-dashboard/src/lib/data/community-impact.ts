@@ -9,6 +9,7 @@ interface RawRow {
   link?: string;
   date?: string;
   date_appended?: string;
+  image?: string;
 }
 
 export async function getCommunityImpact(): Promise<CommunityImpactResponse> {
@@ -31,6 +32,7 @@ export async function getCommunityImpact(): Promise<CommunityImpactResponse> {
       link: r.link ?? "",
       date: r.date || null,
       dateAppended: r.date_appended || null,
+      image: r.image || null,
     }));
 
   const stat = fs.statSync(COMMUNITY_IMPACT_MASTER_CSV);

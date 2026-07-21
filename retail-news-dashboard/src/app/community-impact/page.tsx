@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { DataTable } from "@/components/data-table/data-table";
 import { communityImpactColumns } from "@/components/data-table/columns-community-impact";
+import { CommunityImpactByCity } from "@/components/dashboard/community-impact-by-city";
 import { useAppData } from "@/lib/data-context";
 import { countToday } from "@/lib/date-utils";
 
@@ -28,6 +29,8 @@ export default function CommunityImpactPage() {
           </span>
         </CardContent>
       </Card>
+
+      <CommunityImpactByCity rows={data.rows} />
 
       <DataTable
         columns={communityImpactColumns}

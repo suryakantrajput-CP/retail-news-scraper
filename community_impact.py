@@ -48,15 +48,21 @@ for section in soup.find_all('section'):
         link_tag = article.find('a')
         header_tag = article.find('h3')
         date_tag = article.find('p')
+        img_tag = article.find('img')
 
         if not (link_tag and header_tag and date_tag):
             continue
+
+        image_src = img_tag['src'] if img_tag and img_tag.get('src') else None
+        if image_src and image_src.startswith('/'):
+            image_src = "https://communityimpact.com" + image_src
 
         records.append({
             "city": city,
             "link": "https://communityimpact.com" + link_tag['href'],
             "title": header_tag.get_text(strip=True),
-            'date': date_tag.get_text(strip=True)
+            'date': date_tag.get_text(strip=True),
+            'image': image_src,
         })
 
 df = pd.DataFrame(records)
