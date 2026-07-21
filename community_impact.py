@@ -77,5 +77,10 @@ else:
     df_master = df_new
 
 df_master = df_master.drop_duplicates(subset=["title", "link"])
+# Newest scrape day first — matches priority_banner.py / grocery_db_news.py.
+# There's no per-article timestamp to sort by (only relative text like "16h
+# ago"), so date_appended (day granularity) is the best available proxy;
+# `kind="stable"` keeps same-day rows in their original site order.
+df_master = df_master.sort_values("date_appended", ascending=False, kind="stable")
 df_master.to_csv(MASTER_FILE, index=False, encoding="utf-8")
 print(f"Master file updated: {MASTER_FILE} ({len(df_master)} total rows)")
