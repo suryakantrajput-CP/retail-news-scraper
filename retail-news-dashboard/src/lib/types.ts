@@ -19,6 +19,7 @@ export interface PriorityBannerRow {
 
 export interface CommunityImpactRow {
   id: string;
+  city: string;
   title: string;
   link: string;
   date: string | null;

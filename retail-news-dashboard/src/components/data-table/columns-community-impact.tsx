@@ -10,6 +10,19 @@ import type { CommunityImpactRow } from "@/lib/types";
 export const communityImpactColumns: ColumnDef<CommunityImpactRow, unknown>[] = [
   createSelectionColumn<CommunityImpactRow>(),
   {
+    accessorKey: "city",
+    header: ({ column }) => (
+      <DataTableColumnHeader column={column} title="City" />
+    ),
+    meta: { label: "City" },
+    size: 160,
+    cell: ({ row }) => (
+      <span className="font-medium">{row.original.city || "—"}</span>
+    ),
+    filterFn: (row, id, value: string[]) =>
+      !value?.length || value.includes(row.getValue(id)),
+  },
+  {
     accessorKey: "title",
     header: ({ column }) => (
       <DataTableColumnHeader column={column} title="Title" />

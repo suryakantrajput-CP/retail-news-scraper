@@ -30,25 +30,34 @@ with sync_playwright() as p:
     html = page.content()
     browser.close()
 
-soup = BeautifulSoup(html , "html.parser")
-articles = soup.find_all('article', class_= 'group')
+soup = BeautifulSoup(html, "html.parser")
 
+# The page groups articles into per-metro-area sections, each with a city
+# heading (e.g. "Austin") followed by a grid of article cards. Walk each
+# section so every article record can be tagged with its city.
 records = []
-for article in articles:
-    link_tag = article.find('a')
-    header_tag = article.find('h3')
-    date_tag = article.find('p')
-
-    if not (link_tag and header_tag and date_tag):
+for section in soup.find_all('section'):
+    header_div = section.find('div', class_=lambda c: c and 'items-center' in c.split() and 'gap-3' in c.split())
+    city_tag = header_div.find('h2') if header_div else None
+    grid = section.find('div', class_=lambda c: c and 'grid' in c.split())
+    if not (city_tag and grid):
         continue
 
+    city = city_tag.get_text(strip=True)
+    for article in grid.find_all('article', class_='group'):
+        link_tag = article.find('a')
+        header_tag = article.find('h3')
+        date_tag = article.find('p')
 
-    records.append({
-        "link": "https://communityimpact.com" + link_tag['href'],
-        "title": header_tag.get_text(strip=True),
-        'date':date_tag.get_text(strip=True)
-    }
-    )
+        if not (link_tag and header_tag and date_tag):
+            continue
+
+        records.append({
+            "city": city,
+            "link": "https://communityimpact.com" + link_tag['href'],
+            "title": header_tag.get_text(strip=True),
+            'date': date_tag.get_text(strip=True)
+        })
 
 df = pd.DataFrame(records)
 today = datetime.today().strftime("%Y-%m-%d")

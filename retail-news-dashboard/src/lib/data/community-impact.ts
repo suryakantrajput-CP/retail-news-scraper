@@ -4,6 +4,7 @@ import { COMMUNITY_IMPACT_MASTER_CSV } from "@/lib/paths";
 import type { CommunityImpactRow, CommunityImpactResponse } from "@/lib/types";
 
 interface RawRow {
+  city?: string;
   title?: string;
   link?: string;
   date?: string;
@@ -25,6 +26,7 @@ export async function getCommunityImpact(): Promise<CommunityImpactResponse> {
     .filter((r) => r.title)
     .map((r, i) => ({
       id: `community-impact-${i}`,
+      city: r.city ?? "",
       title: r.title ?? "",
       link: r.link ?? "",
       date: r.date || null,
