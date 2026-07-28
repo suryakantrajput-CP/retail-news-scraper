@@ -54,7 +54,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     bump(format(d, "yyyy-MM-dd"), "grocery");
   }
 
-  for (const row of priority.rows) {
+  for (const row of priority.master.rows) {
     const d = safeParseDate(row.published);
     if (!d) continue;
     bump(format(d, "yyyy-MM-dd"), "priority");
@@ -88,7 +88,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
 
   const lastSyncCandidates = [
     grocery.meta.lastUpdated,
-    priority.meta.lastUpdated,
+    priority.master.meta.lastUpdated,
     communityImpact.meta.lastUpdated,
     groceryDbNews.master.meta.lastUpdated,
   ].filter((v): v is string => Boolean(v));
@@ -98,12 +98,12 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
 
   const totalRecords =
     grocery.meta.count +
-    priority.meta.count +
+    priority.master.meta.count +
     communityImpact.meta.count +
     groceryDbNews.master.meta.count;
   const activeSources =
     grocery.meta.sources +
-    (priority.meta.count > 0 ? 1 : 0) +
+    (priority.master.meta.count > 0 ? 1 : 0) +
     (communityImpact.meta.count > 0 ? 1 : 0) +
     (groceryDbNews.master.meta.count > 0 ? 1 : 0);
 
@@ -119,7 +119,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
   return {
     totalRecords,
     groceryRecords: grocery.meta.count,
-    priorityRecords: priority.meta.count,
+    priorityRecords: priority.master.meta.count,
     communityImpactRecords: communityImpact.meta.count,
     groceryDbNewsRecords: groceryDbNews.master.meta.count,
     activeSources,
@@ -127,7 +127,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     processingStatus,
     trend,
     categoryDistribution: tally(grocery.rows.map((r) => r.source)),
-    priorityDistribution: tally(priority.rows.map((r) => r.event_type || "Unknown")),
+    priorityDistribution: tally(priority.master.rows.map((r) => r.event_type || "Unknown")),
     groceryDbNewsDistribution: tally(
       groceryDbNews.master.rows.map((r) => r.event_type || "Unknown")
     ),

@@ -16,7 +16,7 @@ import { colorForEventType } from "@/lib/chart-colors";
 export function Notifications() {
   const { priority: data } = useAppData();
 
-  const recent = [...data.rows]
+  const recent = [...data.master.rows]
     .sort((a, b) => {
       const ta = a.published ? new Date(a.published).getTime() : 0;
       const tb = b.published ? new Date(b.published).getTime() : 0;
