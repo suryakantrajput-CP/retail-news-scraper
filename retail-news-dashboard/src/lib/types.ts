@@ -48,9 +48,14 @@ export interface GroceryNewsResponse {
   meta: DatasetMeta;
 }
 
-export interface PriorityBannerResponse {
+export interface PriorityBannerDataset {
   rows: PriorityBannerRow[];
   meta: DatasetMeta;
+}
+
+export interface PriorityBannerResponse {
+  daily: PriorityBannerDataset & { date: string | null };
+  master: PriorityBannerDataset;
 }
 
 export interface CommunityImpactResponse {

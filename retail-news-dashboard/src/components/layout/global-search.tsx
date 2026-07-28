@@ -91,7 +91,7 @@ export function GlobalSearch() {
           <CommandSeparator />
 
           <CommandGroup heading="Priority Banner">
-            {priority.rows.slice(0, 30).map((row) => (
+            {priority.master.rows.slice(0, 30).map((row) => (
               <CommandItem
                 key={row.id}
                 value={`${row.title} ${row.company_name}`}

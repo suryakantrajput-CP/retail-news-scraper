@@ -14,6 +14,8 @@ export const PRIORITY_BANNER_MASTER_CSV = path.join(
   "banner_news_master.csv"
 );
 
+export const PRIORITY_BANNER_DAILY_DIR = path.join(DATA_ROOT, "data", "store_news");
+
 export const COMMUNITY_IMPACT_MASTER_CSV = path.join(
   DATA_ROOT,
   "master_file",
