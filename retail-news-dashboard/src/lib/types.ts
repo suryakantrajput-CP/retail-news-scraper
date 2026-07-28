@@ -63,9 +63,14 @@ export interface PriorityBannerResponse {
   master: PriorityBannerDataset;
 }
 
-export interface CommunityImpactResponse {
+export interface CommunityImpactDataset {
   rows: CommunityImpactRow[];
   meta: DatasetMeta;
+}
+
+export interface CommunityImpactResponse {
+  daily: CommunityImpactDataset & { date: string | null };
+  master: CommunityImpactDataset;
 }
 
 export interface GroceryDbNewsDataset {

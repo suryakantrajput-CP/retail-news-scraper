@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { DataTable } from "@/components/data-table/data-table";
 import { communityImpactColumns } from "@/components/data-table/columns-community-impact";
 import { CommunityImpactByCity } from "@/components/dashboard/community-impact-by-city";
@@ -9,8 +10,9 @@ import { useAppData } from "@/lib/data-context";
 import { countToday } from "@/lib/date-utils";
 
 export default function CommunityImpactPage() {
-  const { communityImpact: data } = useAppData();
-  const todayCount = countToday(data.rows.map((r) => r.dateAppended));
+  const { communityImpact } = useAppData();
+  const { daily, master } = communityImpact;
+  const todayCount = countToday(master.rows.map((r) => r.dateAppended));
 
   return (
     <motion.div
@@ -25,21 +27,43 @@ export default function CommunityImpactPage() {
         <CardContent className="flex items-baseline gap-3">
           <span className="text-4xl font-bold tabular-nums">{todayCount}</span>
           <span className="text-sm text-muted-foreground">
-            articles today · {data.meta.count} total
+            articles today · {master.meta.count} total
           </span>
         </CardContent>
       </Card>
 
-      <CommunityImpactByCity rows={data.rows} />
+      <CommunityImpactByCity rows={master.rows} />
 
-      <DataTable
-        columns={communityImpactColumns}
-        data={data.rows}
-        onRefresh={() => window.location.reload()}
-        exportFilename="community-impact"
-        emptyTitle="No community impact articles yet"
-        emptyDescription="Run community_impact.py to scrape local business news, then refresh this page."
-      />
+      <Tabs defaultValue="daily" className="gap-4">
+        <TabsList>
+          <TabsTrigger value="daily">
+            Daily Scrape{daily.date ? ` · ${daily.date}` : ""}
+          </TabsTrigger>
+          <TabsTrigger value="master">Master File</TabsTrigger>
+        </TabsList>
+
+        <TabsContent value="daily">
+          <DataTable
+            columns={communityImpactColumns}
+            data={daily.rows}
+            onRefresh={() => window.location.reload()}
+            exportFilename={`community-impact-daily${daily.date ? `-${daily.date}` : ""}`}
+            emptyTitle="No daily scrape data yet"
+            emptyDescription="Run community_impact.py to scrape today's local business news, then refresh this page."
+          />
+        </TabsContent>
+
+        <TabsContent value="master">
+          <DataTable
+            columns={communityImpactColumns}
+            data={master.rows}
+            onRefresh={() => window.location.reload()}
+            exportFilename="community-impact-master"
+            emptyTitle="No community impact articles yet"
+            emptyDescription="Run community_impact.py to scrape local business news, then refresh this page."
+          />
+        </TabsContent>
+      </Tabs>
     </motion.div>
   );
 }
