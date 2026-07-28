@@ -21,13 +21,23 @@ type Field = (typeof FIELDS)[number];
 
 // Maps a normalized header cell (letters/digits only, lowercased) to the
 // canonical field name, tolerating the header variants Claude tends to use
-// ("Company Name", "company_name", "Zip Code", "Article Link", ...).
+// when it isn't given (or doesn't follow) the exact column names from the
+// prompt — e.g. "Store/Shop/Restaurant Name" instead of "companyname", or a
+// single combined "Location or Full Address with zip code" instead of
+// separate address/city/state/zipcode/country columns.
 const HEADER_ALIASES: Record<string, Field> = {
   companyname: "companyname",
   company: "companyname",
   storename: "companyname",
+  storeshoprestaurantname: "companyname",
+  businessname: "companyname",
+  name: "companyname",
   address: "address",
   streetaddress: "address",
+  fulladdress: "address",
+  location: "address",
+  locationorfulladdresswithzipcode: "address",
+  locationaddress: "address",
   city: "city",
   state: "state",
   province: "state",
@@ -38,18 +48,38 @@ const HEADER_ALIASES: Record<string, Field> = {
   eventtype: "event_type",
   opening: "opening",
   dateeffective: "date_effective",
+  eventdate: "date_effective",
+  date: "date_effective",
   observationstatus: "observation_status",
   observationtype: "observation_status",
+  status: "observation_status",
   reason: "reason",
   shortdescription: "short_description",
   description: "short_description",
   articlelink: "article_link",
   link: "article_link",
   sourcelink: "article_link",
+  sourceurl: "article_link",
+  url: "article_link",
   datepublished: "date_published",
   published: "date_published",
   publisheddate: "date_published",
 };
+
+const OPENING_CODE: Record<string, string> = {
+  opening: "1",
+  closing: "0",
+  remodel: "4",
+};
+
+// When Claude's reply omits the numeric `opening` column entirely (common
+// when it uses its own simplified header set), derive it mechanically from
+// event_type — this is the exact 1/0/4 mapping the prompt itself defines,
+// not an inference about article content.
+function deriveOpeningCode(eventType: string): string {
+  const key = eventType.trim().toLowerCase();
+  return OPENING_CODE[key] ?? "";
+}
 
 function normalizeHeader(header: string): string {
   return header.trim().toLowerCase().replace(/[^a-z0-9]/g, "");
@@ -105,6 +135,8 @@ export function parseExtractionMarkdownTable(text: string): ExtractionRow[] {
 
     if (Object.values(values).every((v) => !v)) continue;
 
+    const eventType = values.event_type ?? "";
+
     rows.push({
       id: makeId(),
       companyname: values.companyname ?? "",
@@ -113,8 +145,8 @@ export function parseExtractionMarkdownTable(text: string): ExtractionRow[] {
       state: values.state ?? "",
       zipcode: values.zipcode ?? "",
       country: values.country ?? "",
-      event_type: values.event_type ?? "",
-      opening: values.opening ?? "",
+      event_type: eventType,
+      opening: values.opening ?? deriveOpeningCode(eventType),
       date_effective: values.date_effective ?? "",
       observation_status: values.observation_status ?? "",
       reason: values.reason ?? "",
