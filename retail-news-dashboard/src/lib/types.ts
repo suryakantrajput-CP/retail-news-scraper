@@ -43,9 +43,14 @@ export interface DatasetMeta {
   sources: number;
 }
 
-export interface GroceryNewsResponse {
+export interface GroceryNewsDataset {
   rows: GroceryArticle[];
   meta: DatasetMeta;
+}
+
+export interface GroceryNewsResponse {
+  daily: GroceryNewsDataset & { date: string | null };
+  master: GroceryNewsDataset;
 }
 
 export interface PriorityBannerDataset {

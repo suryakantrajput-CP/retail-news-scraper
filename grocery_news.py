@@ -1,6 +1,16 @@
+from datetime import date
+from pathlib import Path
+
 import pandas as pd
 from bs4 import BeautifulSoup
 from patchright.sync_api import sync_playwright
+
+STORE_NEWS_DIR = Path("data/grocery_news")
+STORE_NEWS_DIR.mkdir(parents=True, exist_ok=True)
+MASTER_DIR = Path("master_file")
+MASTER_DIR.mkdir(parents=True, exist_ok=True)
+MASTER_FILE = MASTER_DIR / "grocery_news_master.parquet"
+LEGACY_SNAPSHOT = Path("all_articles.parquet")  # one-time seed for the master file, see below
 
 # ── PER-SITE PARSERS ──────────────────────────────────────────────────────────
 
@@ -209,6 +219,36 @@ df_content = pd.DataFrame(content_rows)
 df_final   = df.merge(df_content, on="link", how="left")
 df_final   = df_final[["source", "title", "date", "link", "content"]]
 
-df_final.to_parquet("all_articles.parquet", index=False)
-print(f"\nSaved {len(df_final)} articles -> all_articles.parquet")
+today = date.today().strftime("%Y-%m-%d")
+daily_file = STORE_NEWS_DIR / f"grocery_news_{today}.parquet"
+df_final.to_parquet(daily_file, index=False)
+print(f"\nDaily file saved: {daily_file} ({len(df_final)} articles)")
 print(df_final[["source", "title", "date"]].to_string(index=False))
+
+# ────────────────────────────────────────────────
+# Master file — accumulates all daily results
+# ────────────────────────────────────────────────
+df_new = df_final.copy()
+df_new["date_appended"] = today
+
+if MASTER_FILE.exists():
+    df_master = pd.read_parquet(MASTER_FILE)
+    df_master = pd.concat([df_master, df_new], ignore_index=True)
+elif LEGACY_SNAPSHOT.exists():
+    # Before this master file existed, each run overwrote a single
+    # all_articles.parquet snapshot with no history — seed the master
+    # with whatever that last snapshot held so history starts from here.
+    df_master = pd.read_parquet(LEGACY_SNAPSHOT)
+    df_master["date_appended"] = today
+    df_master = pd.concat([df_master, df_new], ignore_index=True)
+else:
+    df_master = df_new
+
+df_master = df_master.drop_duplicates(subset=["link"])
+# Newest scrape day first — matches priority_banner.py / grocery_db_news.py.
+# `date` is inconsistent free text scraped per-site (or missing entirely),
+# so date_appended (day granularity) is the best available sort key;
+# `kind="stable"` keeps same-day rows in their original site order.
+df_master = df_master.sort_values("date_appended", ascending=False, kind="stable")
+df_master.to_parquet(MASTER_FILE, index=False)
+print(f"Master file updated: {MASTER_FILE} ({len(df_master)} total articles)")

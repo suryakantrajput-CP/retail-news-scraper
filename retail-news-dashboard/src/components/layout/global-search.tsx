@@ -74,7 +74,7 @@ export function GlobalSearch() {
           <CommandSeparator />
 
           <CommandGroup heading="Grocery News">
-            {grocery.rows.slice(0, 30).map((row) => (
+            {grocery.master.rows.slice(0, 30).map((row) => (
               <CommandItem
                 key={row.id}
                 value={`${row.title} ${row.source}`}

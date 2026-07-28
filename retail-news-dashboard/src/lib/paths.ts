@@ -6,7 +6,13 @@ import path from "node:path";
 // out the full monorepo, so this path is available at build time.
 export const DATA_ROOT = path.join(process.cwd(), "..");
 
-export const GROCERY_NEWS_PARQUET = path.join(DATA_ROOT, "all_articles.parquet");
+export const GROCERY_NEWS_MASTER_PARQUET = path.join(
+  DATA_ROOT,
+  "master_file",
+  "grocery_news_master.parquet"
+);
+
+export const GROCERY_NEWS_DAILY_DIR = path.join(DATA_ROOT, "data", "grocery_news");
 
 export const PRIORITY_BANNER_MASTER_CSV = path.join(
   DATA_ROOT,
