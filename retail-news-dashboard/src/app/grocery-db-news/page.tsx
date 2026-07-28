@@ -5,6 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { DataTable } from "@/components/data-table/data-table";
 import { groceryDbNewsColumns } from "@/components/data-table/columns-grocery-db-news";
+import { ExtractionPanel } from "@/components/grocery-db-news/extraction-panel";
 import { useAppData } from "@/lib/data-context";
 import { countToday } from "@/lib/date-utils";
 
@@ -37,6 +38,7 @@ export default function GroceryDbNewsPage() {
             Daily Scrape{daily.date ? ` · ${daily.date}` : ""}
           </TabsTrigger>
           <TabsTrigger value="master">Master File</TabsTrigger>
+          <TabsTrigger value="extraction">Extraction</TabsTrigger>
         </TabsList>
 
         <TabsContent value="daily">
@@ -59,6 +61,10 @@ export default function GroceryDbNewsPage() {
             emptyTitle="No grocery DB news yet"
             emptyDescription="Run grocery_db_news.py to fetch opening/closing news for the grocery company list, then refresh this page."
           />
+        </TabsContent>
+
+        <TabsContent value="extraction">
+          <ExtractionPanel dailyRows={daily.rows} dailyDate={daily.date} />
         </TabsContent>
       </Tabs>
     </motion.div>
