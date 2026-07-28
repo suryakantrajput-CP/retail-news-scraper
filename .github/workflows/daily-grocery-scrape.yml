@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add all_articles.parquet
+          git add data/grocery_news master_file/grocery_news_master.parquet
           git diff --cached --quiet || git commit -m "Grocery news scrape: $(date -u +%Y-%m-%d)"
           git pull --rebase origin main
           git push

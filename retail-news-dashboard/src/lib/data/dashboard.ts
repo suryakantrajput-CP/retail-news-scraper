@@ -48,7 +48,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     byDay.set(key, entry);
   }
 
-  for (const row of grocery.rows) {
+  for (const row of grocery.master.rows) {
     const d = safeParseDate(row.date);
     if (!d) continue;
     bump(format(d, "yyyy-MM-dd"), "grocery");
@@ -87,7 +87,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     .slice(-30);
 
   const lastSyncCandidates = [
-    grocery.meta.lastUpdated,
+    grocery.master.meta.lastUpdated,
     priority.master.meta.lastUpdated,
     communityImpact.meta.lastUpdated,
     groceryDbNews.master.meta.lastUpdated,
@@ -97,12 +97,12 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     : null;
 
   const totalRecords =
-    grocery.meta.count +
+    grocery.master.meta.count +
     priority.master.meta.count +
     communityImpact.meta.count +
     groceryDbNews.master.meta.count;
   const activeSources =
-    grocery.meta.sources +
+    grocery.master.meta.sources +
     (priority.master.meta.count > 0 ? 1 : 0) +
     (communityImpact.meta.count > 0 ? 1 : 0) +
     (groceryDbNews.master.meta.count > 0 ? 1 : 0);
@@ -118,7 +118,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
 
   return {
     totalRecords,
-    groceryRecords: grocery.meta.count,
+    groceryRecords: grocery.master.meta.count,
     priorityRecords: priority.master.meta.count,
     communityImpactRecords: communityImpact.meta.count,
     groceryDbNewsRecords: groceryDbNews.master.meta.count,
@@ -126,7 +126,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     lastSync,
     processingStatus,
     trend,
-    categoryDistribution: tally(grocery.rows.map((r) => r.source)),
+    categoryDistribution: tally(grocery.master.rows.map((r) => r.source)),
     priorityDistribution: tally(priority.master.rows.map((r) => r.event_type || "Unknown")),
     groceryDbNewsDistribution: tally(
       groceryDbNews.master.rows.map((r) => r.event_type || "Unknown")
