@@ -58,9 +58,14 @@ export interface CommunityImpactResponse {
   meta: DatasetMeta;
 }
 
-export interface GroceryDbNewsResponse {
+export interface GroceryDbNewsDataset {
   rows: GroceryDbNewsRow[];
   meta: DatasetMeta;
+}
+
+export interface GroceryDbNewsResponse {
+  daily: GroceryDbNewsDataset & { date: string | null };
+  master: GroceryDbNewsDataset;
 }
 
 export interface TrendPoint {

@@ -25,3 +25,9 @@ export const GROCERY_DB_NEWS_MASTER_CSV = path.join(
   "master_file",
   "grocery_db_news_master.csv"
 );
+
+export const GROCERY_DB_NEWS_DAILY_DIR = path.join(
+  DATA_ROOT,
+  "data",
+  "grocery_db_news"
+);
