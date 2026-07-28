@@ -60,7 +60,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     bump(format(d, "yyyy-MM-dd"), "priority");
   }
 
-  for (const row of communityImpact.rows) {
+  for (const row of communityImpact.master.rows) {
     // `date` is relative text ("16h ago") straight from the source page and
     // can't be parsed into a real date — `dateAppended` (the scrape date) is
     // the only reliable timestamp available for this dataset.
@@ -89,7 +89,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
   const lastSyncCandidates = [
     grocery.master.meta.lastUpdated,
     priority.master.meta.lastUpdated,
-    communityImpact.meta.lastUpdated,
+    communityImpact.master.meta.lastUpdated,
     groceryDbNews.master.meta.lastUpdated,
   ].filter((v): v is string => Boolean(v));
   const lastSync = lastSyncCandidates.length
@@ -99,12 +99,12 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
   const totalRecords =
     grocery.master.meta.count +
     priority.master.meta.count +
-    communityImpact.meta.count +
+    communityImpact.master.meta.count +
     groceryDbNews.master.meta.count;
   const activeSources =
     grocery.master.meta.sources +
     (priority.master.meta.count > 0 ? 1 : 0) +
-    (communityImpact.meta.count > 0 ? 1 : 0) +
+    (communityImpact.master.meta.count > 0 ? 1 : 0) +
     (groceryDbNews.master.meta.count > 0 ? 1 : 0);
 
   let processingStatus: DashboardSummary["processingStatus"] = "no-data";
@@ -120,7 +120,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     totalRecords,
     groceryRecords: grocery.master.meta.count,
     priorityRecords: priority.master.meta.count,
-    communityImpactRecords: communityImpact.meta.count,
+    communityImpactRecords: communityImpact.master.meta.count,
     groceryDbNewsRecords: groceryDbNews.master.meta.count,
     activeSources,
     lastSync,
