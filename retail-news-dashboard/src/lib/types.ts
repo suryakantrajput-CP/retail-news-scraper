@@ -78,6 +78,26 @@ export interface GroceryDbNewsResponse {
   master: GroceryDbNewsDataset;
 }
 
+// A row of the manually-extracted table an analyst pastes back in after
+// running the Grocery DB News articles through Claude by hand (no API key).
+export interface ExtractionRow {
+  id: string;
+  companyname: string;
+  address: string;
+  city: string;
+  state: string;
+  zipcode: string;
+  country: string;
+  event_type: string;
+  opening: string;
+  date_effective: string;
+  observation_status: string;
+  reason: string;
+  short_description: string;
+  article_link: string;
+  date_published: string;
+}
+
 export interface TrendPoint {
   date: string;
   grocery: number;
