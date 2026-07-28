@@ -69,7 +69,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     bump(format(d, "yyyy-MM-dd"), "communityImpact");
   }
 
-  for (const row of groceryDbNews.rows) {
+  for (const row of groceryDbNews.master.rows) {
     const d = safeParseDate(row.published);
     if (!d) continue;
     bump(format(d, "yyyy-MM-dd"), "groceryDbNews");
@@ -90,7 +90,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     grocery.meta.lastUpdated,
     priority.meta.lastUpdated,
     communityImpact.meta.lastUpdated,
-    groceryDbNews.meta.lastUpdated,
+    groceryDbNews.master.meta.lastUpdated,
   ].filter((v): v is string => Boolean(v));
   const lastSync = lastSyncCandidates.length
     ? lastSyncCandidates.sort().reverse()[0]
@@ -100,12 +100,12 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     grocery.meta.count +
     priority.meta.count +
     communityImpact.meta.count +
-    groceryDbNews.meta.count;
+    groceryDbNews.master.meta.count;
   const activeSources =
     grocery.meta.sources +
     (priority.meta.count > 0 ? 1 : 0) +
     (communityImpact.meta.count > 0 ? 1 : 0) +
-    (groceryDbNews.meta.count > 0 ? 1 : 0);
+    (groceryDbNews.master.meta.count > 0 ? 1 : 0);
 
   let processingStatus: DashboardSummary["processingStatus"] = "no-data";
   if (totalRecords > 0) {
@@ -121,7 +121,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     groceryRecords: grocery.meta.count,
     priorityRecords: priority.meta.count,
     communityImpactRecords: communityImpact.meta.count,
-    groceryDbNewsRecords: groceryDbNews.meta.count,
+    groceryDbNewsRecords: groceryDbNews.master.meta.count,
     activeSources,
     lastSync,
     processingStatus,
@@ -129,7 +129,7 @@ export async function getDashboardSummary(): Promise<DashboardSummary> {
     categoryDistribution: tally(grocery.rows.map((r) => r.source)),
     priorityDistribution: tally(priority.rows.map((r) => r.event_type || "Unknown")),
     groceryDbNewsDistribution: tally(
-      groceryDbNews.rows.map((r) => r.event_type || "Unknown")
+      groceryDbNews.master.rows.map((r) => r.event_type || "Unknown")
     ),
   };
 }
