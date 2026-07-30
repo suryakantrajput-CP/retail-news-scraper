@@ -1,16 +1,6 @@
 {
   "last_updated": "2026-07-30",
   "data": {
-    "Acadia Healthcare": [
-      {
-        "company_name": "Acadia Healthcare",
-        "event_type": "Closing",
-        "Title": "Acadia Healthcare Company, Inc. Stock 12‑Month Price Target Raised to $32.43, Implies 1% Downside - TradingView",
-        "Link": "https://www.tradingview.com/news/tradingview:84cc79f6ecfce:0-acadia-healthcare-company-inc-stock-12-month-price-target-raised-to-32-43-implies-1-downside/",
-        "Published": "Wed, 29 Jul 2026 06:20:00 GMT",
-        "Summary": "Acadia Healthcare Company, Inc. Stock 12‑Month Price Target Raised to $32.43, Implies 1% Downside TradingView"
-      }
-    ],
     "Boucheron": [
       {
         "company_name": "Boucheron",
@@ -19,6 +9,16 @@
         "Link": "https://www.jckonline.com/editorial-article/kerings-jewelry-houses-grow-14/",
         "Published": "Tue, 28 Jul 2026 20:24:35 GMT",
         "Summary": "Kering’s Jewelry Houses Grow 14% As Fashion Business Shrinks jckonline.com"
+      }
+    ],
+    "Brandy Melville": [
+      {
+        "company_name": "Brandy Melville",
+        "event_type": "Opening",
+        "Title": "Brandy Melville: The Love-Hate Tale Surging Across Europe and the US - Modaes",
+        "Link": "https://www.modaes.com/global/companies/brandy-melville-the-love-hate-story-that-continues-to-grow-in-europe-and-the-united-states",
+        "Published": "Tue, 28 Jul 2026 04:00:00 GMT",
+        "Summary": "Brandy Melville: The Love-Hate Tale Surging Across Europe and the US Modaes"
       }
     ],
     "Boost Mobile": [
@@ -39,26 +39,6 @@
         "Summary": "T-Mobile service restored after major outage Fierce Network"
       }
     ],
-    "Bulgari": [
-      {
-        "company_name": "Bulgari",
-        "event_type": "Closing",
-        "Title": "Jewellery and Watches lead growth for LVMH in H1 - Professional Jeweller",
-        "Link": "https://www.professionaljeweller.com/watches-jewellery-lead-growth-lvmh-h1/",
-        "Published": "Wed, 29 Jul 2026 06:45:00 GMT",
-        "Summary": "Jewellery and Watches lead growth for LVMH in H1 Professional Jeweller"
-      }
-    ],
-    "Brandy Melville": [
-      {
-        "company_name": "Brandy Melville",
-        "event_type": "Opening",
-        "Title": "Brandy Melville: The Love-Hate Tale Surging Across Europe and the US - Modaes",
-        "Link": "https://www.modaes.com/global/companies/brandy-melville-the-love-hate-story-that-continues-to-grow-in-europe-and-the-united-states",
-        "Published": "Tue, 28 Jul 2026 04:00:00 GMT",
-        "Summary": "Brandy Melville: The Love-Hate Tale Surging Across Europe and the US Modaes"
-      }
-    ],
     "Disney Store": [
       {
         "company_name": "Disney Store",
@@ -67,16 +47,6 @@
         "Link": "https://wdwnt.com/2026/07/pastel-cutie-ghost-collection-coming-soon-to-disney-parks-online-shopping/",
         "Published": "Wed, 29 Jul 2026 15:24:54 GMT",
         "Summary": "Pastel Cutie Ghost Collection Coming Soon to Disney Parks & Online Shopping WDW News Today"
-      }
-    ],
-    "Eyemart Express": [
-      {
-        "company_name": "Eyemart Express",
-        "event_type": "Opening",
-        "Title": "Eyemart Express opens in Troy - Miami Valley Today",
-        "Link": "https://miamivalleytoday.com/eyemart-express-opens-in-troy/",
-        "Published": "Tue, 28 Jul 2026 07:28:00 GMT",
-        "Summary": "Eyemart Express opens in Troy Miami Valley Today"
       }
     ],
     "HCA Healthcare": [
@@ -117,30 +87,36 @@
       {
         "company_name": "Jersey Mike's",
         "event_type": "Closing",
-        "Title": "Jersey Mike’s prices IPO at $23 per share, NYSE debut set By Investing.com - Investing.com Australia",
-        "Link": "https://m.au.investing.com/news/stock-market-news/jersey-mikes-prices-ipo-at-23-per-share-nyse-debut-set-93CH-4561648?ampMode=1",
-        "Published": "Thu, 30 Jul 2026 03:23:36 GMT",
-        "Summary": "Jersey Mike’s prices IPO at $23 per share, NYSE debut set By Investing.com Investing.com Australia"
-      }
-    ],
-    "Levi Strauss & Co.": [
+        "Title": "NYSE Content Update: Jersey Mike's Raises $1 Billion Ahead of NYSE Debut - PA Media",
+        "Link": "https://pressreleasehub.pa.media/article/nyse-content-update-jersey-mikes-raises-1-billion-ahead-of-nyse-debut-80083.html",
+        "Published": "Thu, 30 Jul 2026 13:26:08 GMT",
+        "Summary": "NYSE Content Update: Jersey Mike's Raises $1 Billion Ahead of NYSE Debut PA Media"
+      },
       {
-        "company_name": "Levi Strauss & Co.",
+        "company_name": "Jersey Mike's",
         "event_type": "Closing",
-        "Title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Boston Scientific, Clorox, CrowdStrike, Exxon Mobil, Honeywell International, Intuit, Intuitive Surgical, Levi Strauss, and More - 24/7 Wall St.",
-        "Link": "https://247wallst.com/investing/2026/07/28/here-are-tuesdays-top-wall-street-analyst-research-calls-boston-scientific-clorox-crowdstrike-exxon-mobil-honeywell-international-intuit-intuitive-surgical-levi-strauss-and-more/",
-        "Published": "Tue, 28 Jul 2026 11:42:49 GMT",
-        "Summary": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Boston Scientific, Clorox, CrowdStrike, Exxon Mobil, Honeywell International, Intuit, Intuitive Surgical, Levi Strauss, and More 24/7 Wall St."
+        "Title": "NYSE Content Update: Jersey Mike's Raises $1 Billion Ahead of NYSE Debut - TradingView",
+        "Link": "https://www.tradingview.com/news/prnewswire:ea809602d2e85:0-nyse-content-update-jersey-mike-s-raises-1-billion-ahead-of-nyse-debut/",
+        "Published": "Thu, 30 Jul 2026 13:20:00 GMT",
+        "Summary": "NYSE Content Update: Jersey Mike's Raises $1 Billion Ahead of NYSE Debut TradingView"
       }
     ],
-    "Metro by T-Mobile": [
+    "Eyemart Express": [
       {
-        "company_name": "Metro by T-Mobile",
+        "company_name": "Eyemart Express",
         "event_type": "Opening",
-        "Title": "T-Mobile service restored after major outage - Fierce Network",
-        "Link": "https://www.fierce-network.com/wireless/t-mobile-service-restored-after-major-outage",
-        "Published": "Tue, 28 Jul 2026 16:08:00 GMT",
-        "Summary": "T-Mobile service restored after major outage Fierce Network"
+        "Title": "Eyemart Express opens in Troy - Miami Valley Today",
+        "Link": "https://miamivalleytoday.com/eyemart-express-opens-in-troy/",
+        "Published": "Tue, 28 Jul 2026 07:28:00 GMT",
+        "Summary": "Eyemart Express opens in Troy Miami Valley Today"
+      },
+      {
+        "company_name": "Eyemart Express",
+        "event_type": "Opening",
+        "Title": "Sheet metal, Plainview dentist, data leak make Lubbock business news - lubbockonline.com",
+        "Link": "https://www.lubbockonline.com/story/business/2026/07/30/sheet-metal-union-plainview-dentist-data-leak-make-lubbock-business-news/91081323007/",
+        "Published": "Thu, 30 Jul 2026 09:30:00 GMT",
+        "Summary": "Sheet metal, Plainview dentist, data leak make Lubbock business news lubbockonline.com"
       }
     ],
     "Jersey Mike's Subs": [
@@ -163,6 +139,22 @@
       {
         "company_name": "Jersey Mike's Subs",
         "event_type": "Closing",
+        "Title": "NYSE Content Update: Jersey Mike's Raises $1 Billion Ahead of NYSE Debut - PA Media",
+        "Link": "https://pressreleasehub.pa.media/article/nyse-content-update-jersey-mikes-raises-1-billion-ahead-of-nyse-debut-80083.html",
+        "Published": "Thu, 30 Jul 2026 13:26:08 GMT",
+        "Summary": "NYSE Content Update: Jersey Mike's Raises $1 Billion Ahead of NYSE Debut PA Media"
+      },
+      {
+        "company_name": "Jersey Mike's Subs",
+        "event_type": "Closing",
+        "Title": "NYSE Content Update: Jersey Mike's Raises $1 Billion Ahead of NYSE Debut - TradingView",
+        "Link": "https://www.tradingview.com/news/prnewswire:ea809602d2e85:0-nyse-content-update-jersey-mike-s-raises-1-billion-ahead-of-nyse-debut/",
+        "Published": "Thu, 30 Jul 2026 13:20:00 GMT",
+        "Summary": "NYSE Content Update: Jersey Mike's Raises $1 Billion Ahead of NYSE Debut TradingView"
+      },
+      {
+        "company_name": "Jersey Mike's Subs",
+        "event_type": "Closing",
         "Title": "Jersey Mike’s prices IPO at $23 per share, NYSE debut set By Investing.com - Investing.com Australia",
         "Link": "https://m.au.investing.com/news/stock-market-news/jersey-mikes-prices-ipo-at-23-per-share-nyse-debut-set-93CH-4561648?ampMode=1",
         "Published": "Thu, 30 Jul 2026 03:23:36 GMT",
@@ -177,24 +169,34 @@
         "Summary": "Jersey Mike’s Goes Public at $23, but Blackstone Keeps Control of Your Vote Tech Times"
       }
     ],
-    "Putt Putt Fun Center": [
+    "Acadia Healthcare": [
       {
-        "company_name": "Putt Putt Fun Center",
-        "event_type": "Opening",
-        "Title": "Lynchburg Macaroni Kid Fall Family Fun Bucket List 2026 - Macaroni KID Lynchburg",
-        "Link": "https://lynchburg.macaronikid.com/articles/5b88f9bbcaf5c77aae867d5f/lynchburg-macaroni-kid-fall-family-fun-bucket-list-2026",
-        "Published": "Tue, 28 Jul 2026 01:49:13 GMT",
-        "Summary": "Lynchburg Macaroni Kid Fall Family Fun Bucket List 2026 Macaroni KID Lynchburg"
+        "company_name": "Acadia Healthcare",
+        "event_type": "Closing",
+        "Title": "Acadia Healthcare Company, Inc. Stock 12‑Month Price Target Raised to $32.43, Implies 1% Downside - TradingView",
+        "Link": "https://www.tradingview.com/news/tradingview:84cc79f6ecfce:0-acadia-healthcare-company-inc-stock-12-month-price-target-raised-to-32-43-implies-1-downside/",
+        "Published": "Wed, 29 Jul 2026 06:20:00 GMT",
+        "Summary": "Acadia Healthcare Company, Inc. Stock 12‑Month Price Target Raised to $32.43, Implies 1% Downside TradingView"
       }
     ],
-    "Quest Diagnostics": [
+    "Levi Strauss & Co.": [
       {
-        "company_name": "Quest Diagnostics",
+        "company_name": "Levi Strauss & Co.",
         "event_type": "Closing",
-        "Title": "Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $248.86, Implies 6% Upside - TradingView",
-        "Link": "https://www.tradingview.com/news/tradingview:6cad47a9cb419:0-quest-diagnostics-incorporated-stock-12-month-price-target-raised-to-248-86-implies-6-upside/",
-        "Published": "Thu, 30 Jul 2026 03:20:00 GMT",
-        "Summary": "Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $248.86, Implies 6% Upside TradingView"
+        "Title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Boston Scientific, Clorox, CrowdStrike, Exxon Mobil, Honeywell International, Intuit, Intuitive Surgical, Levi Strauss, and More - 24/7 Wall St.",
+        "Link": "https://247wallst.com/investing/2026/07/28/here-are-tuesdays-top-wall-street-analyst-research-calls-boston-scientific-clorox-crowdstrike-exxon-mobil-honeywell-international-intuit-intuitive-surgical-levi-strauss-and-more/",
+        "Published": "Tue, 28 Jul 2026 11:42:49 GMT",
+        "Summary": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Boston Scientific, Clorox, CrowdStrike, Exxon Mobil, Honeywell International, Intuit, Intuitive Surgical, Levi Strauss, and More 24/7 Wall St."
+      }
+    ],
+    "Metro by T-Mobile": [
+      {
+        "company_name": "Metro by T-Mobile",
+        "event_type": "Opening",
+        "Title": "T-Mobile service restored after major outage - Fierce Network",
+        "Link": "https://www.fierce-network.com/wireless/t-mobile-service-restored-after-major-outage",
+        "Published": "Tue, 28 Jul 2026 16:08:00 GMT",
+        "Summary": "T-Mobile service restored after major outage Fierce Network"
       }
     ],
     "Panera Bread": [
@@ -215,14 +217,32 @@
         "Summary": "After Panera Bread closures, rivals make major moves AOL.com"
       }
     ],
-    "Sur La Table": [
+    "Putt Putt Fun Center": [
       {
-        "company_name": "Sur La Table",
+        "company_name": "Putt Putt Fun Center",
         "event_type": "Opening",
-        "Title": "Foxwoods opens Great Cedar Gallery Shops with LEGO, Barbie and Sur La Table - CT Insider",
-        "Link": "https://www.ctinsider.com/business/article/foxwoods-great-cedar-gallery-shops-opening-22363909.php",
-        "Published": "Wed, 29 Jul 2026 09:06:18 GMT",
-        "Summary": "Foxwoods opens Great Cedar Gallery Shops with LEGO, Barbie and Sur La Table CT Insider"
+        "Title": "Lynchburg Macaroni Kid Fall Family Fun Bucket List 2026 - Macaroni KID Lynchburg",
+        "Link": "https://lynchburg.macaronikid.com/articles/5b88f9bbcaf5c77aae867d5f/lynchburg-macaroni-kid-fall-family-fun-bucket-list-2026",
+        "Published": "Tue, 28 Jul 2026 01:49:13 GMT",
+        "Summary": "Lynchburg Macaroni Kid Fall Family Fun Bucket List 2026 Macaroni KID Lynchburg"
+      }
+    ],
+    "Quest Diagnostics": [
+      {
+        "company_name": "Quest Diagnostics",
+        "event_type": "Opening",
+        "Title": "Labcorp raises annual profit forecast on strong testing demand - Reuters",
+        "Link": "https://www.reuters.com/business/healthcare-pharmaceuticals/labcorp-raises-annual-profit-forecast-strong-testing-demand-2026-07-30/",
+        "Published": "Thu, 30 Jul 2026 12:27:46 GMT",
+        "Summary": "Labcorp raises annual profit forecast on strong testing demand Reuters"
+      },
+      {
+        "company_name": "Quest Diagnostics",
+        "event_type": "Closing",
+        "Title": "Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $248.86, Implies 6% Upside - TradingView",
+        "Link": "https://www.tradingview.com/news/tradingview:6cad47a9cb419:0-quest-diagnostics-incorporated-stock-12-month-price-target-raised-to-248-86-implies-6-upside/",
+        "Published": "Thu, 30 Jul 2026 03:20:00 GMT",
+        "Summary": "Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $248.86, Implies 6% Upside TradingView"
       }
     ],
     "Tigercat": [
@@ -233,6 +253,24 @@
         "Link": "https://migflug.com/jetflights/grumman-f7f-tigercat-heavy-fighter/",
         "Published": "Wed, 29 Jul 2026 10:17:58 GMT",
         "Summary": "Grumman F7F Tigercat: Fast, Deadly, Too Late | Afterburner MiGFlug"
+      }
+    ],
+    "Sur La Table": [
+      {
+        "company_name": "Sur La Table",
+        "event_type": "Opening",
+        "Title": "New Stores Have Opened At Foxwoods: Here's What You'll Find - Patch",
+        "Link": "https://patch.com/connecticut/ledyard/new-stores-have-opened-foxwoods-heres-what-youll-find",
+        "Published": "Wed, 29 Jul 2026 15:39:11 GMT",
+        "Summary": "New Stores Have Opened At Foxwoods: Here's What You'll Find Patch"
+      },
+      {
+        "company_name": "Sur La Table",
+        "event_type": "Opening",
+        "Title": "Foxwoods opens Great Cedar Gallery Shops with LEGO, Barbie and Sur La Table - CT Insider",
+        "Link": "https://www.ctinsider.com/business/article/foxwoods-great-cedar-gallery-shops-opening-22363909.php",
+        "Published": "Wed, 29 Jul 2026 09:06:18 GMT",
+        "Summary": "Foxwoods opens Great Cedar Gallery Shops with LEGO, Barbie and Sur La Table CT Insider"
       }
     ],
     "Toyo Tire": [
@@ -263,14 +301,6 @@
         "Link": "https://eplindex.com/148863/report-man-city-midfielder-closing-in-on-summer-exit.html",
         "Published": "Wed, 29 Jul 2026 15:50:20 GMT",
         "Summary": "Report: Man City midfielder closing in on summer exit EPL Index"
-      },
-      {
-        "company_name": "Wilder",
-        "event_type": "Closing",
-        "Title": "Sheffield United closing in on Man City midfielder - reports - thestar.co.uk",
-        "Link": "https://www.thestar.co.uk/sport/football/sheffield-united/sheffield-united-closing-in-on-man-city-midfielder-reports-8827212",
-        "Published": "Wed, 29 Jul 2026 08:02:00 GMT",
-        "Summary": "Sheffield United closing in on Man City midfielder - reports thestar.co.uk"
       }
     ],
     "Gap": [
@@ -281,14 +311,6 @@
         "Link": "https://educationhq.com/news/just-3-of-19-targets-on-track-to-be-met-closing-the-gaps-damning-warning-for-kids-213148/",
         "Published": "Wed, 29 Jul 2026 23:59:04 GMT",
         "Summary": "Just 3 of 19 targets on track to be met: Closing the Gap’s damning ‘warning’ for kids EducationHQ"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "| Kyabram Free Press - Kyabram Free Press",
-        "Link": "https://www.kyfreepress.com.au/national/concerning-closing-the-gap-off-track-before-deadline/",
-        "Published": "Wed, 29 Jul 2026 23:52:04 GMT",
-        "Summary": "| Kyabram Free Press Kyabram Free Press"
       },
       {
         "company_name": "Gap",
@@ -341,10 +363,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the climate insurance protection gap in Africa: A case for the insurance industry - thebftonline.com",
+        "Title": "Closing the climate insurance protection gap in Africa: A case for the insurance industry - Business & Financial Times",
         "Link": "https://thebftonline.com/article/closing-the-climate-insurance-protection-gap-in-africa-a-case-for-the-insurance-industry",
         "Published": "Wed, 29 Jul 2026 16:24:04 GMT",
-        "Summary": "Closing the climate insurance protection gap in Africa: A case for the insurance industry thebftonline.com"
+        "Summary": "Closing the climate insurance protection gap in Africa: A case for the insurance industry Business & Financial Times"
       },
       {
         "company_name": "Gap",
@@ -389,26 +411,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the Gap divide pinpoints NT child safety task - The Australian",
-        "Link": "https://www.theaustralian.com.au/nation/indigenous/closing-the-gap-divide-pinpoints-nt-child-safety-task/news-story/67e303aee799c6ca2fa9a30418178b6e",
-        "Published": "Wed, 29 Jul 2026 13:33:48 GMT",
-        "Summary": "Closing the Gap divide pinpoints NT child safety task The Australian"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "'Breaks your heart': Families confront youth detention realities - abc.net.au",
+        "Title": "'Breaks your heart': Families confront youth detention realities - ABC News & Headlines – Australian Broadcasting Corporation",
         "Link": "https://www.abc.net.au/news/2026-07-29/productivity-commission-latest-closing-the-gap-data/106891958",
         "Published": "Wed, 29 Jul 2026 12:35:44 GMT",
-        "Summary": "'Breaks your heart': Families confront youth detention realities abc.net.au"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Arnhem Land kids fast track closing the gap - The Australian",
-        "Link": "https://www.theaustralian.com.au/nation/taking-a-giant-leap-towards-the-future-arnhem-land-kids-fast-track-closing-the-gap/news-story/f18aeea25611964bdf3285596423568b",
-        "Published": "Wed, 29 Jul 2026 12:33:48 GMT",
-        "Summary": "Arnhem Land kids fast track closing the gap The Australian"
+        "Summary": "'Breaks your heart': Families confront youth detention realities ABC News & Headlines – Australian Broadcasting Corporation"
       },
       {
         "company_name": "Gap",
@@ -453,10 +459,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "NT Aboriginal groups accuse CLP of 'weaponising' Closing the Gap funding - abc.net.au",
+        "Title": "NT Aboriginal groups accuse CLP of 'weaponising' Closing the Gap funding - ABC News & Headlines – Australian Broadcasting Corporation",
         "Link": "https://www.abc.net.au/news/2026-07-29/nt-child-protection-changes-closing-the-gap-financial-penalties/106961540",
         "Published": "Wed, 29 Jul 2026 06:06:36 GMT",
-        "Summary": "NT Aboriginal groups accuse CLP of 'weaponising' Closing the Gap funding abc.net.au"
+        "Summary": "NT Aboriginal groups accuse CLP of 'weaponising' Closing the Gap funding ABC News & Headlines – Australian Broadcasting Corporation"
       },
       {
         "company_name": "Gap",
@@ -501,14 +507,6 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Anderson: \"The gap to Australia is closing\" - malverngazette.co.uk",
-        "Link": "https://www.malverngazette.co.uk/news/26416701.anderson-gap-australia-closing/",
-        "Published": "Tue, 28 Jul 2026 13:47:31 GMT",
-        "Summary": "Anderson: \"The gap to Australia is closing\" malverngazette.co.uk"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Freya Colbert believes Team England are reeling Australia in - Ealing Times",
         "Link": "https://www.ealingtimes.co.uk/sport/26416201.freya-colbert-says-england-closing-gap-australia/",
         "Published": "Tue, 28 Jul 2026 12:20:17 GMT",
@@ -525,10 +523,34 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Proformex Debuts Willow, Closing the Information Gap in Life Insurance and Annuities - Yahoo Finance",
-        "Link": "https://finance.yahoo.com/technology/ai/articles/proformex-debuts-willow-closing-information-110000217.html",
-        "Published": "Tue, 28 Jul 2026 11:00:00 GMT",
-        "Summary": "Proformex Debuts Willow, Closing the Information Gap in Life Insurance and Annuities Yahoo Finance"
+        "Title": "Closing the Data-Utilization Gap (SSIR) - Stanford Social Innovation Review",
+        "Link": "https://ssir.org/articles/entry/closing-the-data-utilization-gap",
+        "Published": "Thu, 30 Jul 2026 12:00:00 GMT",
+        "Summary": "Closing the Data-Utilization Gap (SSIR) Stanford Social Innovation Review"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Gap on Steel’s Carbon Challenge - Tencent",
+        "Link": "https://www.tencent.com/closing-the-gap-on-steels-carbon-challenge/",
+        "Published": "Thu, 30 Jul 2026 11:22:17 GMT",
+        "Summary": "Closing the Gap on Steel’s Carbon Challenge Tencent"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Only one of 19 Closing the Gap targets has been met - SBS",
+        "Link": "https://www.sbs.com.au/news/video/only-one-of-19-closing-the-gap-targets-has-been-met/f8pco9hux",
+        "Published": "Thu, 30 Jul 2026 11:17:21 GMT",
+        "Summary": "Only one of 19 Closing the Gap targets has been met SBS"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Guest column: Closing the last mile gap in AI transformation - WRAL",
+        "Link": "https://www.wral.com/business/technology/bill-pappas-ai-adoption-transformation-july-2026/",
+        "Published": "Thu, 30 Jul 2026 09:35:04 GMT",
+        "Summary": "Guest column: Closing the last mile gap in AI transformation WRAL"
       },
       {
         "company_name": "Gap",
@@ -541,10 +563,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Commissioner Appalled By New Closing Gap Figures - Mirage News",
-        "Link": "https://www.miragenews.com/commissioner-appalled-by-new-closing-gap-figures-1719072/",
-        "Published": "Thu, 30 Jul 2026 06:50:00 GMT",
-        "Summary": "Commissioner Appalled By New Closing Gap Figures Mirage News"
+        "Title": "Commissioner appalled by new Closing the Gap figures - Australian Human Rights Commission",
+        "Link": "https://humanrights.gov.au/about-us/media-centre/media-releases/aboriginal-and-torres-strait-islander-peoples/commissioner-appalled-by-new-closing-the-gap-figures",
+        "Published": "Thu, 30 Jul 2026 06:55:05 GMT",
+        "Summary": "Commissioner appalled by new Closing the Gap figures Australian Human Rights Commission"
       },
       {
         "company_name": "Gap",
@@ -557,10 +579,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Africa’s infrastructure opportunity depends on closing the execution gap - africanmining.co.za",
+        "Title": "Africa’s infrastructure opportunity depends on closing the execution gap - African Mining Online",
         "Link": "https://www.africanmining.co.za/2026/07/30/africas-infrastructure-opportunity-depends-on-closing-the-execution-gap/",
         "Published": "Thu, 30 Jul 2026 05:11:08 GMT",
-        "Summary": "Africa’s infrastructure opportunity depends on closing the execution gap africanmining.co.za"
+        "Summary": "Africa’s infrastructure opportunity depends on closing the execution gap African Mining Online"
       },
       {
         "company_name": "Gap",
