@@ -2,8 +2,9 @@ name: Daily community impact scrape
 
 on:
   schedule:
-    # 5:10 AM IST = 23:40 UTC (previous day)
-    - cron: "40 23 * * *"
+    # ~6:53 AM IST = 01:23 UTC. Moved off 23:xx UTC (near-midnight is one of
+    # GitHub Actions' most congested schedule slots, causing 8-13h delays).
+    - cron: "23 1 * * *"
   workflow_dispatch: {}
 
 permissions:

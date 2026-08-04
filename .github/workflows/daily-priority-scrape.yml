@@ -2,8 +2,9 @@ name: Daily priority banner scrape
 
 on:
   schedule:
-    # 5:20 AM IST = 23:50 UTC (previous day)
-    - cron: "50 23 * * *"
+    # ~7:11 AM IST = 01:41 UTC. Moved off 23:xx UTC (near-midnight is one of
+    # GitHub Actions' most congested schedule slots, causing 8-13h delays).
+    - cron: "41 1 * * *"
   workflow_dispatch: {}
 
 permissions:

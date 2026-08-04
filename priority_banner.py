@@ -143,40 +143,80 @@ def is_recent(published_str, cutoff_date):
         return False
 
 
+# Single source of truth for the open/close phrase sets and the retail-context
+# words. build_query() joins these into the Google News query string, and
+# is_relevant() re-checks the same lists against the fetched title/summary —
+# Google News' RSS search doesn't strictly AND a long OR-heavy query (it's
+# relevance/date ranked, not a hard filter), so junk like "Rifle Gap State
+# Park" or "Gift Nifty Gap-Up" matches the query string but shares no actual
+# words with these lists.
+OPEN_PHRASES = [
+    "new store", "new location", "opening soon", "coming soon",
+    "grand opening", "now open", "opens new", "opening in",
+    "to open", "set to open", "plans to open", "breaks ground",
+    "now hiring", "store opening", "location opening",
+    "will open", "opening date", "opening weekend",
+    "soft opening", "ribbon cutting", "open for business",
+    "doors open", "expanding to", "announced plans",
+    "plans announced", "permit filed", "building permit",
+    "permit application", "zoning approval", "site plan approved",
+    "lease signed", "signed lease", "retail space leased",
+    "land acquired", "site acquired", "broke ground",
+    "groundbreaking ceremony", "under construction",
+    "construction underway", "construction started",
+    "construction begins", "tenant improvement",
+    "interior build-out", "build out", "certificate of occupancy",
+]
+
+CLOSE_PHRASES = [
+    "store closing", "closing soon", "closing", "closures",
+    "shutting down", "shutters", "permanent closure", "permanent closing",
+    "going out of business", "going-out-of-business", "liquidation",
+    "everything must go", "store closing sale", "last day", "final day",
+    "final closing", "ceases operations", "store to close", "stores to close",
+    "closing all locations", "closing locations", "shutter stores",
+]
+
+CONTEXT_WORDS = [
+    "store", "location", "retail", "shop", "outlet", "station",
+    "pharmacy", "supermarket", "grocery", "auto parts",
+]
+
+
 def build_query(store: str, is_closure: bool = False) -> str:
-    base_keywords_open = (
-        '"new store" OR "new location" OR "opening soon" OR "coming soon" OR '
-        '"grand opening" OR "now open" OR "opens new" OR "opening in" OR '
-        '"to open" OR "set to open" OR "plans to open" OR "breaks ground" OR '
-        '"now hiring" OR "store opening" OR "location opening" OR '
-        '"will open" OR "opening date" OR "opening weekend" OR '
-        '"soft opening" OR "ribbon cutting" OR "open for business" OR '
-        '"doors open" OR "expanding to" OR "announced plans" OR '
-        '"plans announced" OR "permit filed" OR "building permit" OR '
-        '"permit application" OR "zoning approval" OR "site plan approved" OR '
-        '"lease signed" OR "signed lease" OR "retail space leased" OR '
-        '"land acquired" OR "site acquired" OR "broke ground" OR '
-        '"groundbreaking ceremony" OR "under construction" OR '
-        '"construction underway" OR "construction started" OR '
-        '"construction begins" OR "tenant improvement" OR '
-        '"interior build-out" OR "build out" OR "certificate of occupancy"'
-    )
-
-    base_keywords_close = (
-        '"store closing" OR "closing soon" OR "closing" OR "closures" OR '
-        '"shutting down" OR "shutters" OR "permanent closure" OR "permanent closing" OR '
-        '"going out of business" OR "going-out-of-business" OR "liquidation" OR '
-        '"everything must go" OR "store closing sale" OR "last day" OR "final day" OR '
-        '"final closing" OR "ceases operations" OR "store to close" OR "stores to close" OR '
-        '"closing all locations" OR "closing locations" OR "shutter stores"'
-    )
-
-    keywords    = base_keywords_close if is_closure else base_keywords_open
-    context     = '(store OR location OR retail OR shop OR outlet OR station OR pharmacy OR supermarket OR grocery OR "auto parts")'
+    phrases     = CLOSE_PHRASES if is_closure else OPEN_PHRASES
+    keywords    = " OR ".join(f'"{p}"' for p in phrases)
+    context     = "(" + " OR ".join(f'"{w}"' if " " in w else w for w in CONTEXT_WORDS) + ")"
     locations   = '(USA OR Canada OR "United States" OR America OR state OR city OR county)'
     recent_date = (date.today() - timedelta(days=4)).strftime('%Y-%m-%d')
 
     return f'"{store}" {keywords} {context} {locations} after:{recent_date}'
+
+
+def is_relevant(store: str, title: str, summary: str, is_closure: bool) -> bool:
+    """Re-validate a fetched article against the same phrase/context lists used
+    to build the query. Needed because Google News' RSS search doesn't strictly
+    enforce the query's AND logic — it ranks by relevance/date, so articles that
+    merely contain the store name as a common word (e.g. "Gap") slip through
+    even when they share no actual retail vocabulary with the query."""
+    combined = f"{title} {summary}".lower()
+
+    def has_word(phrase: str) -> bool:
+        # \b-bounded so e.g. "pharmacy" doesn't match inside the domain name
+        # "pharmacypracticenews.com" that clean_summary() appends to the text.
+        return re.search(rf"\b{re.escape(phrase)}\b", combined) is not None
+
+    if not has_word(store.lower()):
+        return False
+
+    phrases = CLOSE_PHRASES if is_closure else OPEN_PHRASES
+    if not any(has_word(p) for p in phrases):
+        return False
+
+    if not any(has_word(w) for w in CONTEXT_WORDS):
+        return False
+
+    return True
 
 
 def fetch_via_zyte(url: str, max_retries: int = 3) -> bytes | None:
@@ -221,13 +261,22 @@ def fetch_news_for_store(store: str, is_closure: bool = False) -> list[dict]:
         if not is_recent(published_str, cutoff_date):
             continue
 
-        real_link   = resolve_real_url(entry.get('link', ''))
+        title       = entry.title
         raw_summary = entry.get('summary', 'No summary')
+        summary     = clean_summary(raw_summary)
+
+        # Filter before resolving the real URL (a Zyte round trip) so junk
+        # articles that only coincidentally matched the query don't cost us
+        # an extra API call.
+        if not is_relevant(store, title, summary, is_closure):
+            continue
+
+        real_link = resolve_real_url(entry.get('link', ''))
         results.append({
-            'title':     entry.title,
+            'title':     title,
             'link':      real_link,
             'published': published_str,
-            'summary':   clean_summary(raw_summary),
+            'summary':   summary,
             'type':      'Closing' if is_closure else 'Opening',
         })
 

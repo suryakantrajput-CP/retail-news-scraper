@@ -2,8 +2,9 @@ name: Daily grocery news scrape
 
 on:
   schedule:
-    # 5:00 AM IST = 23:30 UTC (previous day)
-    - cron: "30 23 * * *"
+    # ~6:37 AM IST = 01:07 UTC. Moved off 23:xx UTC (near-midnight is one of
+    # GitHub Actions' most congested schedule slots, causing 8-13h delays).
+    - cron: "7 1 * * *"
   workflow_dispatch: {}
 
 permissions:
