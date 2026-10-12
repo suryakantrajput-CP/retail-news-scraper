@@ -1,34 +1,56 @@
 {
-  "last_updated": "2026-10-11",
+  "last_updated": "2026-10-12",
   "data": {
-    "Birch Lane": [
-      {
-        "company_name": "Birch Lane",
-        "event_type": "Opening",
-        "Title": "Wayfair adds second New Jersey store to growth plans - Chain Store Age",
-        "Link": "https://chainstoreage.com/wayfair-adds-second-new-jersey-store-growth-plans",
-        "Published": "Fri, 09 Oct 2026 13:57:09 GMT",
-        "Summary": "Wayfair adds second New Jersey store to growth plans Chain Store Age"
-      }
-    ],
     "Cricket Wireless": [
       {
         "company_name": "Cricket Wireless",
         "event_type": "Closing",
         "Title": "CRICKET-Logo-ColorVariations-®-2 - WIXY.com |",
         "Link": "https://wixy.com/cricket-logo-colorvariations-2/",
-        "Published": "Fri, 09 Oct 2026 21:11:34 GMT",
+        "Published": "Sat, 10 Oct 2026 01:20:56 GMT",
         "Summary": "CRICKET-Logo-ColorVariations-®-2 WIXY.com |"
       }
     ],
-    "Joss & Main": [
+    "Gap": [
       {
-        "company_name": "Joss & Main",
-        "event_type": "Opening",
-        "Title": "Wayfair adds second New Jersey store to growth plans - Chain Store Age",
-        "Link": "https://chainstoreage.com/wayfair-adds-second-new-jersey-store-growth-plans",
-        "Published": "Fri, 09 Oct 2026 13:57:09 GMT",
-        "Summary": "Wayfair adds second New Jersey store to growth plans Chain Store Age"
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Is Santos (ASX:STO) Closing the Gap on Woodside at Last? - Kalkine Media",
+        "Link": "https://kalkinemedia.com/au/stocks/oil-gas/is-santos-asxsto-closing-the-gap-on-woodside-at-last-1",
+        "Published": "Sun, 11 Oct 2026 22:32:00 GMT",
+        "Summary": "Is Santos (ASX:STO) Closing the Gap on Woodside at Last? Kalkine Media"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "SeaShare Is Closing the Protein Gap in America’s Food Banks - Food Tank",
+        "Link": "https://foodtank.com/news/2026/10/seashare-is-closing-the-protein-gap-in-americas-food-banks/",
+        "Published": "Sun, 11 Oct 2026 16:45:16 GMT",
+        "Summary": "SeaShare Is Closing the Protein Gap in America’s Food Banks Food Tank"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Why Chinese EVs cost $11,000 less to build than European rivals, and why tariffs won’t close the gap - Automotive News",
+        "Link": "https://www.autonews.com/manufacturing/automakers/ane-closing-gap-with-chinese-europe-1010/",
+        "Published": "Sun, 11 Oct 2026 08:59:00 GMT",
+        "Summary": "Why Chinese EVs cost $11,000 less to build than European rivals, and why tariffs won’t close the gap Automotive News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Messi doesn't stop scoring and keeps closing the gap in the race to 1,000 goals with Cristiano Ronaldo - MARCA",
+        "Link": "https://www.marca.com/en/football/mls/2026/10/11/messi-doesn-t-stop-scoring-and-keeps-closing-the-gap-in-the-race-to-1-000-goals-with-cristiano-ronaldo.html",
+        "Published": "Sun, 11 Oct 2026 08:22:23 GMT",
+        "Summary": "Messi doesn't stop scoring and keeps closing the gap in the race to 1,000 goals with Cristiano Ronaldo MARCA"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Jeff Bezos Is Closing the Net Worth Gap With Elon Musk, Thanks to Blue Origin - Benzinga",
+        "Link": "https://www.benzinga.com/news/26/10/62288461/jeff-bezos-is-closing-the-net-worth-gap-with-elon-musk-thanks-to-blue-origin",
+        "Published": "Sat, 10 Oct 2026 17:40:13 GMT",
+        "Summary": "Jeff Bezos Is Closing the Net Worth Gap With Elon Musk, Thanks to Blue Origin Benzinga"
       }
     ],
     "Murphy Oil": [
@@ -45,109 +67,29 @@
       {
         "company_name": "Rockland Trust",
         "event_type": "Opening",
-        "Title": "Rockland Recovery Group to Open Its First South Shore Inpatient Campus - FinancialContent",
-        "Link": "https://www.financialcontent.com/article/marketersmedia-2026-10-9-rockland-recovery-group-to-open-its-first-south-shore-inpatient-campus",
-        "Published": "Fri, 09 Oct 2026 13:22:00 GMT",
-        "Summary": "Rockland Recovery Group to Open Its First South Shore Inpatient Campus FinancialContent"
-      }
-    ],
-    "Spectrum": [
-      {
-        "company_name": "Spectrum",
-        "event_type": "Opening",
-        "Title": "Wall St set to open higher as oil slips; telecoms hit by SpaceX spectrum deal - Central Oregon Daily",
-        "Link": "https://www.centraloregondaily.com/news/consumer/wall-st-set-to-open-higher-as-oil-slips-telecoms-hit-by-spacex-spectrum-deal/article_10abff8e-8baf-53ef-bc0f-fe854b1894ee.html",
-        "Published": "Fri, 09 Oct 2026 13:16:26 GMT",
-        "Summary": "Wall St set to open higher as oil slips; telecoms hit by SpaceX spectrum deal Central Oregon Daily"
-      },
-      {
-        "company_name": "Spectrum",
-        "event_type": "Closing",
-        "Title": "Closing Bell Movers: Telecom stocks fall on SpaceX spectrum license - TipRanks",
-        "Link": "https://www.tipranks.com/news/the-fly/closing-bell-movers-telecom-stocks-fall-on-spacex-spectrum-license-thefly-news",
-        "Published": "Fri, 09 Oct 2026 00:17:51 GMT",
-        "Summary": "Closing Bell Movers: Telecom stocks fall on SpaceX spectrum license TipRanks"
-      }
-    ],
-    "Gap": [
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Jeff Bezos Is Closing the Net Worth Gap With Elon Musk, Thanks to Blue Origin - Benzinga",
-        "Link": "https://www.benzinga.com/news/26/10/62288461/jeff-bezos-is-closing-the-net-worth-gap-with-elon-musk-thanks-to-blue-origin",
-        "Published": "Sat, 10 Oct 2026 17:40:13 GMT",
-        "Summary": "Jeff Bezos Is Closing the Net Worth Gap With Elon Musk, Thanks to Blue Origin Benzinga"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Pacific rugby league is closing the gap as the World Cup nears, says former Kiwis player - Pacific Media Network",
-        "Link": "https://pmn.co.nz/read/sports/pacific-rugby-league-is-closing-the-gap-as-the-world-cup-nears-says-former-kiwis-player",
-        "Published": "Sat, 10 Oct 2026 16:14:46 GMT",
-        "Summary": "Pacific rugby league is closing the gap as the World Cup nears, says former Kiwis player Pacific Media Network"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "JTA CEO mentions tolls during meeting about closing $39M budget gap; JTA says it wasn’t meant as a solution - News4JAX",
-        "Link": "https://www.news4jax.com/news/local/2026/10/09/jacksonvilles-jta-floats-bringing-back-tolls-to-help-close-budget-gap-amid-39m-shortfall/",
-        "Published": "Fri, 09 Oct 2026 19:33:42 GMT",
-        "Summary": "JTA CEO mentions tolls during meeting about closing $39M budget gap; JTA says it wasn’t meant as a solution News4JAX"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the gap between literacy training and practice - SmartBrief",
-        "Link": "https://www.smartbrief.com/original/closing-the-gap-between-literacy-training-and-practice",
-        "Published": "Fri, 09 Oct 2026 17:50:46 GMT",
-        "Summary": "Closing the gap between literacy training and practice SmartBrief"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "EU puts 46 more mines and recycling plants on ‘strategic’ list, without closing funding gap - EUobserver",
-        "Link": "https://euobserver.com/242079/eu-puts-46-more-mines-and-recycling-plants-on-strategic-list-without-closing-funding-gap/",
-        "Published": "Fri, 09 Oct 2026 14:14:25 GMT",
-        "Summary": "EU puts 46 more mines and recycling plants on ‘strategic’ list, without closing funding gap EUobserver"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Mastercard Move: A Real Example of Closing the SME Cross-Border Gap - FF News",
-        "Link": "https://ffnews.com/videos/mastercard-move-real-example-sme-cross-border-gap",
-        "Published": "Fri, 09 Oct 2026 13:00:00 GMT",
-        "Summary": "Mastercard Move: A Real Example of Closing the SME Cross-Border Gap FF News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing NATO’s deterrence gap - The Japan Times",
-        "Link": "https://www.japantimes.co.jp/commentary/2026/10/09/world/natos-deterrence-gap/",
-        "Published": "Fri, 09 Oct 2026 02:25:00 GMT",
-        "Summary": "Closing NATO’s deterrence gap The Japan Times"
-      }
-    ],
-    "Williams-Sonoma": [
-      {
-        "company_name": "Williams-Sonoma",
-        "event_type": "Opening",
-        "Title": "Williams Sonoma to Open New Store Amid Major Doylestown Retail Expansion - WhatNow",
-        "Link": "https://whatnow.com/philadelphia/retail/williams-sonoma-to-open-new-store-amid-major-doylestown-retail-expansion/",
-        "Published": "Fri, 09 Oct 2026 20:47:38 GMT",
-        "Summary": "Williams Sonoma to Open New Store Amid Major Doylestown Retail Expansion WhatNow"
-      }
-    ],
-    "Wren Kitchens": [
-      {
-        "company_name": "Wren Kitchens",
-        "event_type": "Closing",
-        "Title": "Connecticut customers still dealing with financial fallout of Wren Kitchens closing - WTNH.com",
-        "Link": "https://www.wtnh.com/video/connecticut-customers-still-dealing-with-financial-fallout-of-wren-kitchens-closing/12246280/",
-        "Published": "Fri, 09 Oct 2026 12:53:36 GMT",
-        "Summary": "Connecticut customers still dealing with financial fallout of Wren Kitchens closing WTNH.com"
+        "Title": "Anton’s and Rockland Trust: Coats for Kids & Families - Fig City News",
+        "Link": "https://www.figcitynews.com/2026/10/antons-and-rockland-trust-coats-for-kids-families/",
+        "Published": "Sun, 11 Oct 2026 21:26:45 GMT",
+        "Summary": "Anton’s and Rockland Trust: Coats for Kids & Families Fig City News"
       }
     ],
     "The Dump": [
+      {
+        "company_name": "The Dump",
+        "event_type": "Closing",
+        "Title": "Haynes Furniture & The Dump Going Out of Business After 128 Years - Home Furnishings Business",
+        "Link": "http://hfbusiness.com/hfbnow/ArticleId/29309/haynes-furniture-the-dump-going-out-of-business-after-128-years",
+        "Published": "Sun, 11 Oct 2026 21:04:53 GMT",
+        "Summary": "Haynes Furniture & The Dump Going Out of Business After 128 Years Home Furnishings Business"
+      },
+      {
+        "company_name": "The Dump",
+        "event_type": "Closing",
+        "Title": "Haynes Furniture, The Dump to close permanently - WAVY.com",
+        "Link": "https://www.wavy.com/video/haynes-furniture-the-dump-to-close-permanently/12250194/",
+        "Published": "Sun, 11 Oct 2026 03:24:28 GMT",
+        "Summary": "Haynes Furniture, The Dump to close permanently WAVY.com"
+      },
       {
         "company_name": "The Dump",
         "event_type": "Closing",
@@ -175,130 +117,10 @@
       {
         "company_name": "The Dump",
         "event_type": "Closing",
-        "Title": "‘Not Haynes!’: Strelitz retirement brings end to 128-year furniture business, shocking customers - WTKR",
-        "Link": "https://www.wtkr.com/news/in-the-community/virginia-beach/not-haynes-strelitz-retirement-brings-end-to-128-year-furniture-business-shocking-customers",
-        "Published": "Sat, 10 Oct 2026 08:16:22 GMT",
-        "Summary": "‘Not Haynes!’: Strelitz retirement brings end to 128-year furniture business, shocking customers WTKR"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
         "Title": "Haynes Furniture, The Dump closing permanently - WAVY.com",
         "Link": "https://www.wavy.com/video/haynes-furniture-the-dump-closing-permanently/12255160/",
         "Published": "Sat, 10 Oct 2026 01:05:30 GMT",
         "Summary": "Haynes Furniture, The Dump closing permanently WAVY.com"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Virginia Beach-based Haynes Furniture, The Dump to permanently close - The Virginian-Pilot",
-        "Link": "https://www.pilotonline.com/2026/10/09/virginia-beach-haynes-furniture-close/",
-        "Published": "Fri, 09 Oct 2026 22:29:57 GMT",
-        "Summary": "Virginia Beach-based Haynes Furniture, The Dump to permanently close The Virginian-Pilot"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "'The Dump' Irving furniture store is closing down - Dallas News",
-        "Link": "https://www.dallasnews.com/business/retail/article/the-dump-furniture-store-readying-close-22470328.php",
-        "Published": "Fri, 09 Oct 2026 18:17:10 GMT",
-        "Summary": "'The Dump' Irving furniture store is closing down Dallas News"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Virginia's Haynes Furniture and The Dump are closing after nearly 130 years: 'Bittersweet ending' - WTVR.com",
-        "Link": "https://www.wtvr.com/videos/news/local-news/virginias-haynes-furniture-and-the-dump-are-closing-after-nearly-130-years-bittersweet-ending",
-        "Published": "Fri, 09 Oct 2026 16:43:56 GMT",
-        "Summary": "Virginia's Haynes Furniture and The Dump are closing after nearly 130 years: 'Bittersweet ending' WTVR.com"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Haynes Furniture, The Dump closing after nearly 130 years - Henrico Citizen",
-        "Link": "https://www.henricocitizen.com/haynes-furniture-the-dump-closing-after-nearly-130-years/",
-        "Published": "Fri, 09 Oct 2026 15:53:07 GMT",
-        "Summary": "Haynes Furniture, The Dump closing after nearly 130 years Henrico Citizen"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Haynes Furniture, The Dump Closing Permanently in Virginia - Hoodline",
-        "Link": "https://hoodline.com/2026/10/haynes-furniture-the-dump-close-for-good-ending-128-year-family-legacy/",
-        "Published": "Fri, 09 Oct 2026 15:21:51 GMT",
-        "Summary": "Haynes Furniture, The Dump Closing Permanently in Virginia Hoodline"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "End of an Era: Haynes, The Dump closing all stores after 128 years - WWBT",
-        "Link": "https://www.12onyourside.com/2026/10/09/end-an-era-haynes-dump-closing-all-stores-after-128-years/",
-        "Published": "Fri, 09 Oct 2026 15:17:00 GMT",
-        "Summary": "End of an Era: Haynes, The Dump closing all stores after 128 years WWBT"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "End of an Era: Haynes, The Dump closing all stores after 128 years - WWBT",
-        "Link": "https://www.nbc12.com/2026/10/09/end-an-era-haynes-dump-closing-all-stores-after-128-years/",
-        "Published": "Fri, 09 Oct 2026 15:17:00 GMT",
-        "Summary": "End of an Era: Haynes, The Dump closing all stores after 128 years WWBT"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "An Atlanta Furniture Store Is Closing as Part of a Chainwide Liquidation Sale - WhatNow",
-        "Link": "https://whatnow.com/atlanta/retail/an-atlanta-furniture-store-is-closing-as-part-of-a-chainwide-liquidation-sale/",
-        "Published": "Fri, 09 Oct 2026 15:08:49 GMT",
-        "Summary": "An Atlanta Furniture Store Is Closing as Part of a Chainwide Liquidation Sale WhatNow"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Virginia furniture retailer Haynes and The Dump to close - Virginia Business",
-        "Link": "https://virginiabusiness.com/virginia-furniture-retailer-haynes-and-the-dump-to-close/",
-        "Published": "Fri, 09 Oct 2026 14:43:48 GMT",
-        "Summary": "Virginia furniture retailer Haynes and The Dump to close Virginia Business"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Haynes Furniture, The Dump to close after 128 years - Richmond Times-Dispatch",
-        "Link": "https://richmond.com/news/local/business/employment/article_ae114861-70c3-4c4f-bce3-8e292113e7bc.html",
-        "Published": "Fri, 09 Oct 2026 12:55:00 GMT",
-        "Summary": "Haynes Furniture, The Dump to close after 128 years Richmond Times-Dispatch"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Haynes Furniture and The Dump to close permanently after 128 years - 13newsnow.com",
-        "Link": "https://www.13newsnow.com/article/money/business/haynes-furniture-the-dump-to-close-permanently-128-years-going-out-of-business/291-eb1ff630-4163-495d-8340-cd19f5dd9c38",
-        "Published": "Fri, 09 Oct 2026 02:28:00 GMT",
-        "Summary": "Haynes Furniture and The Dump to close permanently after 128 years 13newsnow.com"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "After nearly 130 years in Virginia, Haynes Furniture and The Dump are closing - WTVR.com",
-        "Link": "https://www.wtvr.com/news/local-news/haynes-furniture-the-dump-are-closing-oct-8-2026",
-        "Published": "Fri, 09 Oct 2026 00:57:04 GMT",
-        "Summary": "After nearly 130 years in Virginia, Haynes Furniture and The Dump are closing WTVR.com"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Haynes, The Dump closing after 128 years - WWBT",
-        "Link": "https://www.12onyourside.com/video/2026/10/09/haynes-dump-closing-after-128-years/",
-        "Published": "Fri, 09 Oct 2026 00:33:49 GMT",
-        "Summary": "Haynes, The Dump closing after 128 years WWBT"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Haynes Furniture, The Dump permanently closing after 128 years - WTKR",
-        "Link": "https://www.wtkr.com/news/in-the-community/virginia-beach/haynes-furniture-the-dump-permanently-closing-after-128-years",
-        "Published": "Fri, 09 Oct 2026 00:02:57 GMT",
-        "Summary": "Haynes Furniture, The Dump permanently closing after 128 years WTKR"
       }
     ]
   }
