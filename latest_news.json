@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13",
+  "last_updated": "2026-10-14",
   "data": {
     "Birch Lane": [
       {
@@ -19,6 +19,16 @@
         "Link": "https://wdwnt.com/2026/10/exclusive-muppet-christmas-carol-collection-coming-soon-to-disney-store/",
         "Published": "Mon, 12 Oct 2026 20:28:11 GMT",
         "Summary": "Exclusive 'Muppet Christmas Carol' Collection Coming Soon to Disney Store WDW News Today"
+      }
+    ],
+    "J.Crew": [
+      {
+        "company_name": "J.Crew",
+        "event_type": "Opening",
+        "Title": "AC Hotel breaks ground in downtown Goodyear - Your Valley",
+        "Link": "https://www.yourvalley.net/litchfield-park-independent/stories/ac-hotel-breaks-ground-in-downtown-goodyear,728289",
+        "Published": "Tue, 13 Oct 2026 22:29:00 GMT",
+        "Summary": "AC Hotel breaks ground in downtown Goodyear Your Valley"
       }
     ],
     "Jersey Mike's": [
@@ -41,17 +51,225 @@
         "Summary": "Jersey Mike’s to Open New Location in Hobe Sound WhatNow"
       }
     ],
-    "Mor Furniture for Less": [
+    "Krispy Kreme Doughnuts": [
       {
-        "company_name": "Mor Furniture for Less",
+        "company_name": "Krispy Kreme Doughnuts",
         "event_type": "Opening",
-        "Title": "New chiropractic service opens on Lincoln Way - Hagadone News Network",
-        "Link": "https://hagadonenewsnetwork.com/news/2026/oct/11/new-chiropractic-service-opens-on-lincoln-way/",
-        "Published": "Sun, 11 Oct 2026 08:05:00 GMT",
-        "Summary": "New chiropractic service opens on Lincoln Way Hagadone News Network"
+        "Title": "Krispy Kreme Reveals Huge Northeast Expansion Plans Amid Financial Comeback - DailyVoice.com",
+        "Link": "https://dailyvoice.com/article/krispy-kreme-planning-to-open-33-locations-across-nyc-region/",
+        "Published": "Tue, 13 Oct 2026 14:11:13 GMT",
+        "Summary": "Krispy Kreme Reveals Huge Northeast Expansion Plans Amid Financial Comeback DailyVoice.com"
+      }
+    ],
+    "Levi Strauss & Co.": [
+      {
+        "company_name": "Levi Strauss & Co.",
+        "event_type": "Closing",
+        "Title": "Weekly Recap: Q3 results, $100M ASR and raised FY EPS, weaker U.S. sales - TradingView",
+        "Link": "https://www.tradingview.com/news/tradingview:e24bd28aa12f2:0-weekly-recap-q3-results-100m-asr-and-raised-fy-eps-weaker-u-s-sales/",
+        "Published": "Mon, 12 Oct 2026 11:00:00 GMT",
+        "Summary": "Weekly Recap: Q3 results, $100M ASR and raised FY EPS, weaker U.S. sales TradingView"
+      }
+    ],
+    "LabCorp": [
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test - Clinical Lab Products",
+        "Link": "https://clpmag.com/disease-states/diabetes-metabolic/labcorp-thrive-global-launch-cardiometabolic-test/",
+        "Published": "Tue, 13 Oct 2026 14:07:53 GMT",
+        "Summary": "Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test Clinical Lab Products"
+      }
+    ],
+    "Shoe Carnival": [
+      {
+        "company_name": "Shoe Carnival",
+        "event_type": "Closing",
+        "Title": "Shoe Carnival (NASDAQ:SHOE) Stock Price Breaks Above Two Hundred Day Moving Average - What's Next? - MarketBeat",
+        "Link": "https://www.marketbeat.com/instant-alerts/price-shoe-carnival-nasdaq-shoe-stock-price-breaks-above-two-hundred-day-moving-average-whats-next-2026-10-13/",
+        "Published": "Tue, 13 Oct 2026 06:06:27 GMT",
+        "Summary": "Shoe Carnival (NASDAQ:SHOE) Stock Price Breaks Above Two Hundred Day Moving Average - What's Next? MarketBeat"
+      }
+    ],
+    "The UPS Store": [
+      {
+        "company_name": "The UPS Store",
+        "event_type": "Closing",
+        "Title": "Is The UPS Store Open Today (October 12, 2026)? Columbus Day Hours Explained: Check Store Opening & Closing Times, Shipping Services, Package Drop-Off, Pickup Availability & Holiday Delivery Schedule - The Sunday Guardian",
+        "Link": "https://sundayguardianlive.com/world/is-the-ups-store-open-today-october-12-2026-columbus-day-hours-explained-check-store-opening-closing-times-shipping-services-package-drop-off-pickup-availability-holiday-delivery-schedule-304415/",
+        "Published": "Mon, 12 Oct 2026 19:02:07 GMT",
+        "Summary": "Is The UPS Store Open Today (October 12, 2026)? Columbus Day Hours Explained: Check Store Opening & Closing Times, Shipping Services, Package Drop-Off, Pickup Availability & Holiday Delivery Schedule The Sunday Guardian"
+      }
+    ],
+    "The Dump": [
+      {
+        "company_name": "The Dump",
+        "event_type": "Closing",
+        "Title": "The Dump shutters all stores, why AI might be replacing real estate agents and more - Business of Home",
+        "Link": "https://businessofhome.com/articles/the-dump-shutters-all-stores-why-ai-might-be-replacing-real-estate-agents-and-more",
+        "Published": "Tue, 13 Oct 2026 18:19:24 GMT",
+        "Summary": "The Dump shutters all stores, why AI might be replacing real estate agents and more Business of Home"
+      },
+      {
+        "company_name": "The Dump",
+        "event_type": "Closing",
+        "Title": "128-year-old furniture retailer closing ALL locations as liquidation sales begin - The Sun",
+        "Link": "https://www.the-sun.com/money/17135160/haynes-furniture-the-dump-closing-all-stores-liquidation-sales/",
+        "Published": "Mon, 12 Oct 2026 18:10:03 GMT",
+        "Summary": "128-year-old furniture retailer closing ALL locations as liquidation sales begin The Sun"
+      },
+      {
+        "company_name": "The Dump",
+        "event_type": "Closing",
+        "Title": "Haynes Furniture, The Dump closing permanently - WAVY.com",
+        "Link": "https://www.wavy.com/video/haynes-furniture-the-dump-closing-permanently/12255160/",
+        "Published": "Mon, 12 Oct 2026 03:58:47 GMT",
+        "Summary": "Haynes Furniture, The Dump closing permanently WAVY.com"
+      }
+    ],
+    "Tumbles": [
+      {
+        "company_name": "Tumbles",
+        "event_type": "Closing",
+        "Title": "Sensex sheds 548 points, Nifty settles at 22,363 on oil price spike, foreign fund outflow, rising bond yields - Telegraph India",
+        "Link": "https://www.telegraphindia.com/business/sensex-tumbles-547-points-to-settle-at-71924-nifty-drops-157-points-to-22363/cid/2184348",
+        "Published": "Mon, 12 Oct 2026 10:18:20 GMT",
+        "Summary": "Sensex sheds 548 points, Nifty settles at 22,363 on oil price spike, foreign fund outflow, rising bond yields Telegraph India"
+      },
+      {
+        "company_name": "Tumbles",
+        "event_type": "Closing",
+        "Title": "[Closing Market] KOSPI Tumbles to 6,300 Range amid Foreigners' Selling Bomb - Businesskorea",
+        "Link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278624",
+        "Published": "Mon, 12 Oct 2026 09:39:18 GMT",
+        "Summary": "[Closing Market] KOSPI Tumbles to 6,300 Range amid Foreigners' Selling Bomb Businesskorea"
+      }
+    ],
+    "WSS": [
+      {
+        "company_name": "WSS",
+        "event_type": "Closing",
+        "Title": "6 MLD Water Supply Scheme Tender in Govane, Maharashtra by Government - Urban Acres",
+        "Link": "https://urbanacres.in/6-mld-water-supply-scheme-tender-maharashtr-tender-notice-no-01-for-2026-27/",
+        "Published": "Mon, 12 Oct 2026 18:43:05 GMT",
+        "Summary": "6 MLD Water Supply Scheme Tender in Govane, Maharashtra by Government Urban Acres"
+      }
+    ],
+    "Steve Madden": [
+      {
+        "company_name": "Steve Madden",
+        "event_type": "Opening",
+        "Title": "Steve Madden Opens New Store in Bathinda, Punjab - Indian Retailer",
+        "Link": "https://www.indianretailer.com/news/steve-madden-opens-new-store-bathinda-punjab",
+        "Published": "Tue, 13 Oct 2026 12:12:16 GMT",
+        "Summary": "Steve Madden Opens New Store in Bathinda, Punjab Indian Retailer"
       }
     ],
     "Gap": [
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Referendum’s major impact on Closing the Gap progress - The Nightly",
+        "Link": "https://thenightly.com.au/australia/closing-the-gap-progress-stalled-since-indigenous-voice-to-parliament-referendum-c-23014661",
+        "Published": "Tue, 13 Oct 2026 22:31:48 GMT",
+        "Summary": "Referendum’s major impact on Closing the Gap progress The Nightly"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Geraldine Dodge Foundation goes all in on closing the racial wealth gap - ImpactAlpha",
+        "Link": "https://impactalpha.com/geraldine-dodge-foundation-goes-all-in-on-closing-the-racial-wealth-gap/",
+        "Published": "Tue, 13 Oct 2026 22:15:05 GMT",
+        "Summary": "Geraldine Dodge Foundation goes all in on closing the racial wealth gap ImpactAlpha"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Why closing the health gap requires ambitious action on obesity - Nesta | UK innovation agency for social good",
+        "Link": "https://www.nesta.org.uk/blog/why-closing-the-health-requires-ambitious-action-on-obesity/",
+        "Published": "Tue, 13 Oct 2026 21:20:08 GMT",
+        "Summary": "Why closing the health gap requires ambitious action on obesity Nesta | UK innovation agency for social good"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "New poll shows Foulkes ahead for RI governor, but Block is closing the gap - The Providence Journal",
+        "Link": "https://www.providencejournal.com/story/news/politics/elections/2026/10/13/new-ri-poll-shows-ken-block-closing-the-gap-with-helena-foulkes-for-governor/92235271007/",
+        "Published": "Tue, 13 Oct 2026 21:03:00 GMT",
+        "Summary": "New poll shows Foulkes ahead for RI governor, but Block is closing the gap The Providence Journal"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Gap progress 'stalled' since referendum - https://aapnews.aap.com.au/",
+        "Link": "https://aapnews.aap.com.au/news/closing-the-gap-progress-stalled-since-referendum",
+        "Published": "Tue, 13 Oct 2026 19:00:00 GMT",
+        "Summary": "Closing the Gap progress 'stalled' since referendum https://aapnews.aap.com.au/"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Second edition of VTM's Closing the Gap brings entrepreneurs and accountants closer to better business decisions - Business Review",
+        "Link": "https://business-review.eu/bucharest-going-out/events/second-edition-of-vtms-closing-the-gap-brings-entrepreneurs-and-accountants-closer-to-better-business-decisions-301893",
+        "Published": "Tue, 13 Oct 2026 14:19:49 GMT",
+        "Summary": "Second edition of VTM's Closing the Gap brings entrepreneurs and accountants closer to better business decisions Business Review"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the nutrition gap - Food and Drink Technology",
+        "Link": "https://www.foodanddrinktechnology.com/blog/70719/closing-the-nutrition-gap/",
+        "Published": "Tue, 13 Oct 2026 13:17:46 GMT",
+        "Summary": "Closing the nutrition gap Food and Drink Technology"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the gap: what legal departments do next - Thomson Reuters Legal Solutions",
+        "Link": "https://legal.thomsonreuters.com/blog/closing-the-gap-what-legal-departments-do-next/",
+        "Published": "Tue, 13 Oct 2026 13:10:45 GMT",
+        "Summary": "Closing the gap: what legal departments do next Thomson Reuters Legal Solutions"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Meta’s New Muse Wonder AI Model Is Closing The Gap to Anthropic and OpenAI - WinBuzzer",
+        "Link": "https://winbuzzer.com/2026/10/13/metas-wonder-ai-models-improve-coding-test-scores-xcxwbn/",
+        "Published": "Tue, 13 Oct 2026 12:05:57 GMT",
+        "Summary": "Meta’s New Muse Wonder AI Model Is Closing The Gap to Anthropic and OpenAI WinBuzzer"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "EXCLUSIVE POLL: Bradford closing gap with Chow in Toronto’s mayoral race - CTV News",
+        "Link": "https://www.ctvnews.ca/toronto/article/exclusive-poll-bradford-closing-gap-with-chow-in-torontos-mayoral-race/",
+        "Published": "Tue, 13 Oct 2026 11:27:59 GMT",
+        "Summary": "EXCLUSIVE POLL: Bradford closing gap with Chow in Toronto’s mayoral race CTV News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "CLOSING THE GAP BETWEEN MEDICINES SUPPLIED AND MEDICINES PATIENTS RECEIVE - health.go.ke",
+        "Link": "https://www.health.go.ke/closing-gap-between-medicines-supplied-and-medicines-patients-receive",
+        "Published": "Tue, 13 Oct 2026 08:13:47 GMT",
+        "Summary": "CLOSING THE GAP BETWEEN MEDICINES SUPPLIED AND MEDICINES PATIENTS RECEIVE health.go.ke"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing Papua New Guinea’s skills gap - Business Advantage PNG",
+        "Link": "https://www.businessadvantagepng.com/closing-papua-new-guineas-skills-gap/",
+        "Published": "Tue, 13 Oct 2026 05:20:31 GMT",
+        "Summary": "Closing Papua New Guinea’s skills gap Business Advantage PNG"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Women Are Closing the Startup Gap While Capital Still Flows to Men - Blockhead",
+        "Link": "https://www.blockhead.co/2026/10/13/women-are-closing-the-startup-gap-while-capital-still-flows-to-men/",
+        "Published": "Tue, 13 Oct 2026 05:02:22 GMT",
+        "Summary": "Women Are Closing the Startup Gap While Capital Still Flows to Men Blockhead"
+      },
       {
         "company_name": "Gap",
         "event_type": "Closing",
@@ -67,54 +285,6 @@
         "Link": "https://sports.yahoo.com/video/emma-hayes-on-closing-the-gap-with-spain-uswnt-is-right-side-by-side-025556114.html",
         "Published": "Tue, 13 Oct 2026 02:55:00 GMT",
         "Summary": "Emma Hayes on closing the gap with Spain: USWNT is 'right side by side' Yahoo Sports"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Is Santos (ASX:STO) Closing the Gap on Woodside at Last? - Kalkine Media",
-        "Link": "https://kalkinemedia.com/au/stocks/oil-gas/is-santos-asxsto-closing-the-gap-on-woodside-at-last",
-        "Published": "Sun, 11 Oct 2026 22:31:00 GMT",
-        "Summary": "Is Santos (ASX:STO) Closing the Gap on Woodside at Last? Kalkine Media"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Volunteer Speedway owners announce permanent closure of track property - SuperTalk 92.9",
-        "Link": "https://www.supertalk929.com/2026/10/11/volunteer-speedway-owners-announce-permanent-closure-of-track-property/",
-        "Published": "Sun, 11 Oct 2026 21:01:30 GMT",
-        "Summary": "Volunteer Speedway owners announce permanent closure of track property SuperTalk 92.9"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "SeaShare Is Closing the Protein Gap in America’s Food Banks - Food Tank",
-        "Link": "https://foodtank.com/news/2026/10/seashare-is-closing-the-protein-gap-in-americas-food-banks/",
-        "Published": "Sun, 11 Oct 2026 16:45:16 GMT",
-        "Summary": "SeaShare Is Closing the Protein Gap in America’s Food Banks Food Tank"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Why Chinese EVs cost $11,000 less to build than European rivals, and why tariffs won’t close the gap - Automotive News",
-        "Link": "https://www.autonews.com/manufacturing/automakers/ane-closing-gap-with-chinese-europe-1010/",
-        "Published": "Sun, 11 Oct 2026 08:59:00 GMT",
-        "Summary": "Why Chinese EVs cost $11,000 less to build than European rivals, and why tariffs won’t close the gap Automotive News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Messi doesn't stop scoring and keeps closing the gap in the race to 1,000 goals with Cristiano Ronaldo - MARCA",
-        "Link": "https://www.marca.com/en/football/mls/2026/10/11/messi-doesn-t-stop-scoring-and-keeps-closing-the-gap-in-the-race-to-1-000-goals-with-cristiano-ronaldo.html",
-        "Published": "Sun, 11 Oct 2026 08:22:23 GMT",
-        "Summary": "Messi doesn't stop scoring and keeps closing the gap in the race to 1,000 goals with Cristiano Ronaldo MARCA"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Context Gap: Powering AI with Tableau Semantics - Salesforce",
-        "Link": "https://www.salesforce.com/uk/analytics/resources/closing-context-gap-powering-ai-tableau-semantics-on-demand/",
-        "Published": "Sun, 11 Oct 2026 07:01:44 GMT",
-        "Summary": "Closing the Context Gap: Powering AI with Tableau Semantics Salesforce"
       },
       {
         "company_name": "Gap",
@@ -151,26 +321,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Grantsburg Elementary Among 8 Wisconsin Schools Honored With Blue Ribbon Recognition - DrydenWire.com",
-        "Link": "https://drydenwire.com/news/grantsburg-elementary-among-8-wisconsin-schools-honored-with-blue-ribbon-recognition/",
-        "Published": "Mon, 12 Oct 2026 16:06:50 GMT",
-        "Summary": "Grantsburg Elementary Among 8 Wisconsin Schools Honored With Blue Ribbon Recognition DrydenWire.com"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Fall Creek High School one of eight schools honored with Blue Ribbon recognition - WEAU",
+        "Title": "Fall Creek High School 1 of 8 schools honored with Blue Ribbon recognition - WEAU",
         "Link": "https://www.weau.com/2026/10/12/fall-creek-high-school-one-eight-schools-honored-with-blue-ribbon-recognition/",
         "Published": "Mon, 12 Oct 2026 16:02:00 GMT",
-        "Summary": "Fall Creek High School one of eight schools honored with Blue Ribbon recognition WEAU"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the reality gap: Why real-time execution has become the new competitive advantage - The Robot Report",
-        "Link": "https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage/",
-        "Published": "Mon, 12 Oct 2026 14:36:37 GMT",
-        "Summary": "Closing the reality gap: Why real-time execution has become the new competitive advantage The Robot Report"
+        "Summary": "Fall Creek High School 1 of 8 schools honored with Blue Ribbon recognition WEAU"
       },
       {
         "company_name": "Gap",
@@ -235,70 +389,6 @@
         "Link": "https://www.food-safety.com/articles/11915-closing-the-knowingdoing-gap-informal-training-and-food-safety-outcomes",
         "Published": "Mon, 12 Oct 2026 04:00:00 GMT",
         "Summary": "Closing the Knowing–Doing Gap: Informal Training and Food Safety Outcomes Food Safety Magazine"
-      }
-    ],
-    "The Dump": [
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Haynes Furniture, The Dump to close after 128 years - Richmond Times-Dispatch",
-        "Link": "https://richmond.com/news/local/business/employment/article_ae114861-70c3-4c4f-bce3-8e292113e7bc.html",
-        "Published": "Sun, 11 Oct 2026 23:13:00 GMT",
-        "Summary": "Haynes Furniture, The Dump to close after 128 years Richmond Times-Dispatch"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Haynes Furniture, The Dump to close permanently - WAVY.com",
-        "Link": "https://www.wavy.com/video/haynes-furniture-the-dump-to-close-permanently/12250194/",
-        "Published": "Sun, 11 Oct 2026 03:24:28 GMT",
-        "Summary": "Haynes Furniture, The Dump to close permanently WAVY.com"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "128-year-old furniture retailer closing ALL locations as liquidation sales begin - The Sun",
-        "Link": "https://www.the-sun.com/money/17135160/haynes-furniture-the-dump-closing-all-stores-liquidation-sales/",
-        "Published": "Mon, 12 Oct 2026 18:10:03 GMT",
-        "Summary": "128-year-old furniture retailer closing ALL locations as liquidation sales begin The Sun"
-      }
-    ],
-    "The UPS Store": [
-      {
-        "company_name": "The UPS Store",
-        "event_type": "Closing",
-        "Title": "Is The UPS Store Open Today (October 12, 2026)? Columbus Day Hours Explained: Check Store Opening & Closing Times, Shipping Services, Package Drop-Off, Pickup Availability & Holiday Delivery Schedule - The Sunday Guardian",
-        "Link": "https://sundayguardianlive.com/world/is-the-ups-store-open-today-october-12-2026-columbus-day-hours-explained-check-store-opening-closing-times-shipping-services-package-drop-off-pickup-availability-holiday-delivery-schedule-304415/",
-        "Published": "Mon, 12 Oct 2026 19:02:07 GMT",
-        "Summary": "Is The UPS Store Open Today (October 12, 2026)? Columbus Day Hours Explained: Check Store Opening & Closing Times, Shipping Services, Package Drop-Off, Pickup Availability & Holiday Delivery Schedule The Sunday Guardian"
-      }
-    ],
-    "Tumbles": [
-      {
-        "company_name": "Tumbles",
-        "event_type": "Closing",
-        "Title": "Sensex sheds 548 points, Nifty settles at 22,363 on oil price spike, foreign fund outflow, rising bond yields - Telegraph India",
-        "Link": "https://www.telegraphindia.com/business/sensex-tumbles-547-points-to-settle-at-71924-nifty-drops-157-points-to-22363/cid/2184348",
-        "Published": "Mon, 12 Oct 2026 10:18:20 GMT",
-        "Summary": "Sensex sheds 548 points, Nifty settles at 22,363 on oil price spike, foreign fund outflow, rising bond yields Telegraph India"
-      },
-      {
-        "company_name": "Tumbles",
-        "event_type": "Closing",
-        "Title": "[Closing Market] KOSPI Tumbles to 6,300 Range amid Foreigners' Selling Bomb - Businesskorea",
-        "Link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278624",
-        "Published": "Mon, 12 Oct 2026 09:39:18 GMT",
-        "Summary": "[Closing Market] KOSPI Tumbles to 6,300 Range amid Foreigners' Selling Bomb Businesskorea"
-      }
-    ],
-    "WSS": [
-      {
-        "company_name": "WSS",
-        "event_type": "Closing",
-        "Title": "6 MLD Water Supply Scheme Tender in Govane, Maharashtra by Government - Urban Acres",
-        "Link": "https://urbanacres.in/6-mld-water-supply-scheme-tender-maharashtr-tender-notice-no-01-for-2026-27/",
-        "Published": "Mon, 12 Oct 2026 18:43:05 GMT",
-        "Summary": "6 MLD Water Supply Scheme Tender in Govane, Maharashtra by Government Urban Acres"
       }
     ]
   }
