@@ -1,24 +1,14 @@
 {
-  "last_updated": "2026-10-14",
+  "last_updated": "2026-10-15",
   "data": {
-    "Birch Lane": [
+    "Farrell's eXtreme Bodyshaping": [
       {
-        "company_name": "Birch Lane",
-        "event_type": "Closing",
-        "Title": "Road closures planned across Dacorum for utility and maintenance works - Hemel Today",
-        "Link": "https://www.hemeltoday.co.uk/news/transport/road-closures-planned-across-dacorum-for-utility-and-maintenance-works-9281251",
-        "Published": "Mon, 12 Oct 2026 09:15:00 GMT",
-        "Summary": "Road closures planned across Dacorum for utility and maintenance works Hemel Today"
-      }
-    ],
-    "Disney Store": [
-      {
-        "company_name": "Disney Store",
+        "company_name": "Farrell's eXtreme Bodyshaping",
         "event_type": "Opening",
-        "Title": "Exclusive 'Muppet Christmas Carol' Collection Coming Soon to Disney Store - WDW News Today",
-        "Link": "https://wdwnt.com/2026/10/exclusive-muppet-christmas-carol-collection-coming-soon-to-disney-store/",
-        "Published": "Mon, 12 Oct 2026 20:28:11 GMT",
-        "Summary": "Exclusive 'Muppet Christmas Carol' Collection Coming Soon to Disney Store WDW News Today"
+        "Title": "Yard House set to open in West Des Moines in April - KCCI",
+        "Link": "https://www.kcci.com/article/yard-house-set-to-open-in-west-des-moines-in-april/74137662",
+        "Published": "Thu, 15 Oct 2026 00:33:00 GMT",
+        "Summary": "Yard House set to open in West Des Moines in April KCCI"
       }
     ],
     "J.Crew": [
@@ -31,46 +21,6 @@
         "Summary": "AC Hotel breaks ground in downtown Goodyear Your Valley"
       }
     ],
-    "Jersey Mike's": [
-      {
-        "company_name": "Jersey Mike's",
-        "event_type": "Opening",
-        "Title": "Jersey Mike’s to Open New Location in Hobe Sound - WhatNow",
-        "Link": "https://whatnow.com/orlando/restaurants/jersey-mikes-to-open-new-location-in-hobe-sound/",
-        "Published": "Mon, 12 Oct 2026 18:43:39 GMT",
-        "Summary": "Jersey Mike’s to Open New Location in Hobe Sound WhatNow"
-      }
-    ],
-    "Jersey Mike's Subs": [
-      {
-        "company_name": "Jersey Mike's Subs",
-        "event_type": "Opening",
-        "Title": "Jersey Mike’s to Open New Location in Hobe Sound - WhatNow",
-        "Link": "https://whatnow.com/orlando/restaurants/jersey-mikes-to-open-new-location-in-hobe-sound/",
-        "Published": "Mon, 12 Oct 2026 18:43:39 GMT",
-        "Summary": "Jersey Mike’s to Open New Location in Hobe Sound WhatNow"
-      }
-    ],
-    "Krispy Kreme Doughnuts": [
-      {
-        "company_name": "Krispy Kreme Doughnuts",
-        "event_type": "Opening",
-        "Title": "Krispy Kreme Reveals Huge Northeast Expansion Plans Amid Financial Comeback - DailyVoice.com",
-        "Link": "https://dailyvoice.com/article/krispy-kreme-planning-to-open-33-locations-across-nyc-region/",
-        "Published": "Tue, 13 Oct 2026 14:11:13 GMT",
-        "Summary": "Krispy Kreme Reveals Huge Northeast Expansion Plans Amid Financial Comeback DailyVoice.com"
-      }
-    ],
-    "Levi Strauss & Co.": [
-      {
-        "company_name": "Levi Strauss & Co.",
-        "event_type": "Closing",
-        "Title": "Weekly Recap: Q3 results, $100M ASR and raised FY EPS, weaker U.S. sales - TradingView",
-        "Link": "https://www.tradingview.com/news/tradingview:e24bd28aa12f2:0-weekly-recap-q3-results-100m-asr-and-raised-fy-eps-weaker-u-s-sales/",
-        "Published": "Mon, 12 Oct 2026 11:00:00 GMT",
-        "Summary": "Weekly Recap: Q3 results, $100M ASR and raised FY EPS, weaker U.S. sales TradingView"
-      }
-    ],
     "LabCorp": [
       {
         "company_name": "LabCorp",
@@ -79,6 +29,44 @@
         "Link": "https://clpmag.com/disease-states/diabetes-metabolic/labcorp-thrive-global-launch-cardiometabolic-test/",
         "Published": "Tue, 13 Oct 2026 14:07:53 GMT",
         "Summary": "Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test Clinical Lab Products"
+      }
+    ],
+    "Krispy Kreme Doughnuts": [
+      {
+        "company_name": "Krispy Kreme Doughnuts",
+        "event_type": "Opening",
+        "Title": "Krispy Kreme signs deal to open 33 units in New York metro - Restaurant Dive",
+        "Link": "https://www.restaurantdive.com/news/krispy-kreme-franchising-deal-original-entrepreneurs-33-new-york-metro-expansion/832878/",
+        "Published": "Wed, 14 Oct 2026 13:40:19 GMT",
+        "Summary": "Krispy Kreme signs deal to open 33 units in New York metro Restaurant Dive"
+      },
+      {
+        "company_name": "Krispy Kreme Doughnuts",
+        "event_type": "Opening",
+        "Title": "Krispy Kreme Reveals Huge Northeast Expansion Plans Amid Financial Comeback - Daily Voice",
+        "Link": "https://dailyvoice.com/article/krispy-kreme-planning-to-open-33-locations-across-nyc-region/",
+        "Published": "Tue, 13 Oct 2026 14:11:13 GMT",
+        "Summary": "Krispy Kreme Reveals Huge Northeast Expansion Plans Amid Financial Comeback Daily Voice"
+      }
+    ],
+    "Popeyes": [
+      {
+        "company_name": "Popeyes",
+        "event_type": "Opening",
+        "Title": "Construction well under way on fast food giant's first Norfolk restaurant - EDP24",
+        "Link": "https://www.edp24.co.uk/news/26630480.popeyes-opening-broadland-gate-business-park-near-norwich/",
+        "Published": "Tue, 13 Oct 2026 09:25:00 GMT",
+        "Summary": "Construction well under way on fast food giant's first Norfolk restaurant EDP24"
+      }
+    ],
+    "Sam Edelman": [
+      {
+        "company_name": "Sam Edelman",
+        "event_type": "Opening",
+        "Title": "Sam Edelman Opens Its Fourth Malaysian Boutique at Suria KLCC, With Exclusive Styles for Shoe Lovers - Newswav",
+        "Link": "https://newswav.com/article/sam-edelman-opens-its-fourth-malaysian-boutique-at-suria-klcc-with-exclusiv-A2610_JGtevW",
+        "Published": "Wed, 14 Oct 2026 02:09:25 GMT",
+        "Summary": "Sam Edelman Opens Its Fourth Malaysian Boutique at Suria KLCC, With Exclusive Styles for Shoe Lovers Newswav"
       }
     ],
     "Shoe Carnival": [
@@ -91,70 +79,6 @@
         "Summary": "Shoe Carnival (NASDAQ:SHOE) Stock Price Breaks Above Two Hundred Day Moving Average - What's Next? MarketBeat"
       }
     ],
-    "The UPS Store": [
-      {
-        "company_name": "The UPS Store",
-        "event_type": "Closing",
-        "Title": "Is The UPS Store Open Today (October 12, 2026)? Columbus Day Hours Explained: Check Store Opening & Closing Times, Shipping Services, Package Drop-Off, Pickup Availability & Holiday Delivery Schedule - The Sunday Guardian",
-        "Link": "https://sundayguardianlive.com/world/is-the-ups-store-open-today-october-12-2026-columbus-day-hours-explained-check-store-opening-closing-times-shipping-services-package-drop-off-pickup-availability-holiday-delivery-schedule-304415/",
-        "Published": "Mon, 12 Oct 2026 19:02:07 GMT",
-        "Summary": "Is The UPS Store Open Today (October 12, 2026)? Columbus Day Hours Explained: Check Store Opening & Closing Times, Shipping Services, Package Drop-Off, Pickup Availability & Holiday Delivery Schedule The Sunday Guardian"
-      }
-    ],
-    "The Dump": [
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "The Dump shutters all stores, why AI might be replacing real estate agents and more - Business of Home",
-        "Link": "https://businessofhome.com/articles/the-dump-shutters-all-stores-why-ai-might-be-replacing-real-estate-agents-and-more",
-        "Published": "Tue, 13 Oct 2026 18:19:24 GMT",
-        "Summary": "The Dump shutters all stores, why AI might be replacing real estate agents and more Business of Home"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "128-year-old furniture retailer closing ALL locations as liquidation sales begin - The Sun",
-        "Link": "https://www.the-sun.com/money/17135160/haynes-furniture-the-dump-closing-all-stores-liquidation-sales/",
-        "Published": "Mon, 12 Oct 2026 18:10:03 GMT",
-        "Summary": "128-year-old furniture retailer closing ALL locations as liquidation sales begin The Sun"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Haynes Furniture, The Dump closing permanently - WAVY.com",
-        "Link": "https://www.wavy.com/video/haynes-furniture-the-dump-closing-permanently/12255160/",
-        "Published": "Mon, 12 Oct 2026 03:58:47 GMT",
-        "Summary": "Haynes Furniture, The Dump closing permanently WAVY.com"
-      }
-    ],
-    "Tumbles": [
-      {
-        "company_name": "Tumbles",
-        "event_type": "Closing",
-        "Title": "Sensex sheds 548 points, Nifty settles at 22,363 on oil price spike, foreign fund outflow, rising bond yields - Telegraph India",
-        "Link": "https://www.telegraphindia.com/business/sensex-tumbles-547-points-to-settle-at-71924-nifty-drops-157-points-to-22363/cid/2184348",
-        "Published": "Mon, 12 Oct 2026 10:18:20 GMT",
-        "Summary": "Sensex sheds 548 points, Nifty settles at 22,363 on oil price spike, foreign fund outflow, rising bond yields Telegraph India"
-      },
-      {
-        "company_name": "Tumbles",
-        "event_type": "Closing",
-        "Title": "[Closing Market] KOSPI Tumbles to 6,300 Range amid Foreigners' Selling Bomb - Businesskorea",
-        "Link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278624",
-        "Published": "Mon, 12 Oct 2026 09:39:18 GMT",
-        "Summary": "[Closing Market] KOSPI Tumbles to 6,300 Range amid Foreigners' Selling Bomb Businesskorea"
-      }
-    ],
-    "WSS": [
-      {
-        "company_name": "WSS",
-        "event_type": "Closing",
-        "Title": "6 MLD Water Supply Scheme Tender in Govane, Maharashtra by Government - Urban Acres",
-        "Link": "https://urbanacres.in/6-mld-water-supply-scheme-tender-maharashtr-tender-notice-no-01-for-2026-27/",
-        "Published": "Mon, 12 Oct 2026 18:43:05 GMT",
-        "Summary": "6 MLD Water Supply Scheme Tender in Govane, Maharashtra by Government Urban Acres"
-      }
-    ],
     "Steve Madden": [
       {
         "company_name": "Steve Madden",
@@ -165,14 +89,136 @@
         "Summary": "Steve Madden Opens New Store in Bathinda, Punjab Indian Retailer"
       }
     ],
+    "The Dump": [
+      {
+        "company_name": "The Dump",
+        "event_type": "Closing",
+        "Title": "The Dump shutters all stores, why AI might be replacing real estate agents and more - Business of Home",
+        "Link": "https://businessofhome.com/articles/the-dump-shutters-all-stores-why-ai-might-be-replacing-real-estate-agents-and-more",
+        "Published": "Tue, 13 Oct 2026 18:19:24 GMT",
+        "Summary": "The Dump shutters all stores, why AI might be replacing real estate agents and more Business of Home"
+      }
+    ],
     "Gap": [
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Referendum’s major impact on Closing the Gap progress - The Nightly",
-        "Link": "https://thenightly.com.au/australia/closing-the-gap-progress-stalled-since-indigenous-voice-to-parliament-referendum-c-23014661",
-        "Published": "Tue, 13 Oct 2026 22:31:48 GMT",
-        "Summary": "Referendum’s major impact on Closing the Gap progress The Nightly"
+        "Title": "Closing the Advice Gap in America - The Australian",
+        "Link": "https://www.theaustralian.com.au/business/closing-the-advice-gap-in-america/video/f034afcbc86dd1ff34ca25c14cb00020",
+        "Published": "Wed, 14 Oct 2026 19:13:36 GMT",
+        "Summary": "Closing the Advice Gap in America The Australian"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "How employers, colleges, talent all play role in closing ‘employability gap’ - SiouxFalls.Business",
+        "Link": "https://siouxfalls.business/how-employers-colleges-talent-all-play-role-in-closing-employability-gap/",
+        "Published": "Wed, 14 Oct 2026 18:37:28 GMT",
+        "Summary": "How employers, colleges, talent all play role in closing ‘employability gap’ SiouxFalls.Business"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Cyber Resilience Operating Model Guide for CISOs | KPMG - kpmg.com",
+        "Link": "https://kpmg.com/us/en/articles/2026/closing-the-cyber-resilience-gap.html",
+        "Published": "Wed, 14 Oct 2026 18:08:13 GMT",
+        "Summary": "Cyber Resilience Operating Model Guide for CISOs | KPMG kpmg.com"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Gap on FX Exposure: Best Practices for Your Finance Team - Royal Bank",
+        "Link": "https://www.rbcroyalbank.com/en-ca/my-money-matters/business/get-inspired/innovation/closing-the-gap-on-foreign-exchange-fx-exposure-best-practices-treasury-canada/",
+        "Published": "Wed, 14 Oct 2026 16:15:39 GMT",
+        "Summary": "Closing the Gap on FX Exposure: Best Practices for Your Finance Team Royal Bank"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Menopause training: closing dentistry’s knowledge gap - Dentistry.co.uk",
+        "Link": "https://dentistry.co.uk/2026/10/14/menopause-is-in-the-chair-are-we-trained-to-see-it/",
+        "Published": "Wed, 14 Oct 2026 15:47:10 GMT",
+        "Summary": "Menopause training: closing dentistry’s knowledge gap Dentistry.co.uk"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "XPO, Inc.: The Margin Gap Is Closing, The Valuation Gap Already Has - Seeking Alpha",
+        "Link": "https://seekingalpha.com/article/4954137-xpo-the-margin-gap-is-closing-the-valuation-gap-already-has",
+        "Published": "Wed, 14 Oct 2026 15:25:00 GMT",
+        "Summary": "XPO, Inc.: The Margin Gap Is Closing, The Valuation Gap Already Has Seeking Alpha"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the AI data gap in automotive manufacturing - Just Auto",
+        "Link": "https://www.just-auto.com/interview/closing-the-ai-data-gap-in-automotive-manufacturing/",
+        "Published": "Wed, 14 Oct 2026 14:40:42 GMT",
+        "Summary": "Closing the AI data gap in automotive manufacturing Just Auto"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Financing super pollutant action: closing the gap, unlocking the benefits - Climate and Clean Air Coalition (CCAC)",
+        "Link": "https://www.ccacoalition.org/content/financing-super-pollutant-action-closing-gap-unlocking-benefits",
+        "Published": "Wed, 14 Oct 2026 13:52:49 GMT",
+        "Summary": "Financing super pollutant action: closing the gap, unlocking the benefits Climate and Clean Air Coalition (CCAC)"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Brent $106, WTI $94: What's Behind The Widening Gap Between Oil Benchmarks - NDTV Profit",
+        "Link": "https://www.ndtvprofit.com/markets/brent-106-wti-94-whats-behind-the-widening-gap-between-oil-benchmarks-12185105",
+        "Published": "Wed, 14 Oct 2026 13:20:07 GMT",
+        "Summary": "Brent $106, WTI $94: What's Behind The Widening Gap Between Oil Benchmarks NDTV Profit"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Women farmers and gender equality: Why closing the gender gap matters - UN Women",
+        "Link": "https://www.unwomen.org/en/articles/explainer/women-farmers-and-gender-equality-why-closing-the-gender-gap-matters",
+        "Published": "Wed, 14 Oct 2026 12:00:00 GMT",
+        "Summary": "Women farmers and gender equality: Why closing the gender gap matters UN Women"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "‘Ishan Kishan closing the gap’: Former India cricketer warns Rishabh Pant to raise his game - Yahoo Sports",
+        "Link": "https://sports.yahoo.com/articles/ishan-kishan-closing-gap-former-091000623.html",
+        "Published": "Wed, 14 Oct 2026 09:10:00 GMT",
+        "Summary": "‘Ishan Kishan closing the gap’: Former India cricketer warns Rishabh Pant to raise his game Yahoo Sports"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Standards Gap: A New Global Consortium for Person-Centred Care and Simulation in Midwifery Education and Practice - International Confederation of Midwives",
+        "Link": "https://internationalmidwives.org/a-new-global-consortium-for-person-centred-care-and-simulation-in-midwifery-education-and-practice/",
+        "Published": "Wed, 14 Oct 2026 07:13:47 GMT",
+        "Summary": "Closing the Standards Gap: A New Global Consortium for Person-Centred Care and Simulation in Midwifery Education and Practice International Confederation of Midwives"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "NYC Budget Cost Estimate for Closing The Human Services Pay Equity Gap - Center for New York City Affairs",
+        "Link": "https://www.centernyc.org/publications-collection/nyc-budget-cost-estimate-for-closing-the-human-services-pay-equity-gap",
+        "Published": "Wed, 14 Oct 2026 06:58:19 GMT",
+        "Summary": "NYC Budget Cost Estimate for Closing The Human Services Pay Equity Gap Center for New York City Affairs"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "The APS-C lens gap is closing. Here’s what the latest releases actually mean - Yahoo Tech",
+        "Link": "https://tech.yahoo.com/cameras/articles/aps-c-lens-gap-closing-060000802.html",
+        "Published": "Wed, 14 Oct 2026 06:00:00 GMT",
+        "Summary": "The APS-C lens gap is closing. Here’s what the latest releases actually mean Yahoo Tech"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "SURVEY. State Coastal Conservancy 2026 Public Engagement Survey for Pedro Point Headlands Coastal Trail Project: \"Closing the Gap\" - coastside buzz",
+        "Link": "https://coastsidebuzz.com/survey-state-coastal-conservancy-2026-public-engagement-survey-for-pedro-point-headlands-coastal-trail-project-closing-the-gap/",
+        "Published": "Wed, 14 Oct 2026 00:48:02 GMT",
+        "Summary": "SURVEY. State Coastal Conservancy 2026 Public Engagement Survey for Pedro Point Headlands Coastal Trail Project: \"Closing the Gap\" coastside buzz"
       },
       {
         "company_name": "Gap",
@@ -195,16 +241,8 @@
         "event_type": "Closing",
         "Title": "New poll shows Foulkes ahead for RI governor, but Block is closing the gap - The Providence Journal",
         "Link": "https://www.providencejournal.com/story/news/politics/elections/2026/10/13/new-ri-poll-shows-ken-block-closing-the-gap-with-helena-foulkes-for-governor/92235271007/",
-        "Published": "Tue, 13 Oct 2026 21:03:00 GMT",
+        "Published": "Tue, 13 Oct 2026 21:05:35 GMT",
         "Summary": "New poll shows Foulkes ahead for RI governor, but Block is closing the gap The Providence Journal"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Gap progress 'stalled' since referendum - https://aapnews.aap.com.au/",
-        "Link": "https://aapnews.aap.com.au/news/closing-the-gap-progress-stalled-since-referendum",
-        "Published": "Tue, 13 Oct 2026 19:00:00 GMT",
-        "Summary": "Closing the Gap progress 'stalled' since referendum https://aapnews.aap.com.au/"
       },
       {
         "company_name": "Gap",
@@ -241,42 +279,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "EXCLUSIVE POLL: Bradford closing gap with Chow in Toronto’s mayoral race - CTV News",
-        "Link": "https://www.ctvnews.ca/toronto/article/exclusive-poll-bradford-closing-gap-with-chow-in-torontos-mayoral-race/",
-        "Published": "Tue, 13 Oct 2026 11:27:59 GMT",
-        "Summary": "EXCLUSIVE POLL: Bradford closing gap with Chow in Toronto’s mayoral race CTV News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "CLOSING THE GAP BETWEEN MEDICINES SUPPLIED AND MEDICINES PATIENTS RECEIVE - health.go.ke",
-        "Link": "https://www.health.go.ke/closing-gap-between-medicines-supplied-and-medicines-patients-receive",
-        "Published": "Tue, 13 Oct 2026 08:13:47 GMT",
-        "Summary": "CLOSING THE GAP BETWEEN MEDICINES SUPPLIED AND MEDICINES PATIENTS RECEIVE health.go.ke"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing Papua New Guinea’s skills gap - Business Advantage PNG",
-        "Link": "https://www.businessadvantagepng.com/closing-papua-new-guineas-skills-gap/",
-        "Published": "Tue, 13 Oct 2026 05:20:31 GMT",
-        "Summary": "Closing Papua New Guinea’s skills gap Business Advantage PNG"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Women Are Closing the Startup Gap While Capital Still Flows to Men - Blockhead",
         "Link": "https://www.blockhead.co/2026/10/13/women-are-closing-the-startup-gap-while-capital-still-flows-to-men/",
         "Published": "Tue, 13 Oct 2026 05:02:22 GMT",
         "Summary": "Women Are Closing the Startup Gap While Capital Still Flows to Men Blockhead"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the gap on a crisis - The Warragul & Drouin Gazette",
-        "Link": "https://www.thegazette.com.au/headline-1152/",
-        "Published": "Tue, 13 Oct 2026 03:00:31 GMT",
-        "Summary": "Closing the gap on a crisis The Warragul & Drouin Gazette"
       },
       {
         "company_name": "Gap",
@@ -289,106 +295,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "8 Wisconsin schools named Blue Ribbon School winners - FOX6 News Milwaukee",
-        "Link": "https://www.fox6now.com/news/eight-wisconsin-schools-honored-blue-ribbon-recognition",
-        "Published": "Mon, 12 Oct 2026 22:24:35 GMT",
-        "Summary": "8 Wisconsin schools named Blue Ribbon School winners FOX6 News Milwaukee"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Health Literacy Gap in Blood Cancer Care - The American Journal of Managed Care",
-        "Link": "https://www.ajmc.com/view/closing-the-health-literacy-gap-in-blood-cancer-care",
-        "Published": "Mon, 12 Oct 2026 17:10:22 GMT",
-        "Summary": "Closing the Health Literacy Gap in Blood Cancer Care The American Journal of Managed Care"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Mark Lewis: Closing the Gap Between Academic and Community Oncology - Oncodaily",
-        "Link": "https://oncodaily.com/voices/mark-lewis-606852",
-        "Published": "Mon, 12 Oct 2026 16:56:33 GMT",
-        "Summary": "Mark Lewis: Closing the Gap Between Academic and Community Oncology Oncodaily"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Little Chute Middle School among 8 statewide Wisconsin Blue Ribbon winners for 2026 - WLUK",
-        "Link": "https://fox11online.com/news/local/little-chute-middle-school-among-8-statewide-wisconsin-blue-ribbon-winners-for-2026-education",
-        "Published": "Mon, 12 Oct 2026 16:13:43 GMT",
-        "Summary": "Little Chute Middle School among 8 statewide Wisconsin Blue Ribbon winners for 2026 WLUK"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Fall Creek High School 1 of 8 schools honored with Blue Ribbon recognition - WEAU",
-        "Link": "https://www.weau.com/2026/10/12/fall-creek-high-school-one-eight-schools-honored-with-blue-ribbon-recognition/",
-        "Published": "Mon, 12 Oct 2026 16:02:00 GMT",
-        "Summary": "Fall Creek High School 1 of 8 schools honored with Blue Ribbon recognition WEAU"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "XRP’s ETFs Are $160 Million Behind Solana’s and Closing. Solana’s Funds Have Had Outflows on Six of Seven October Days. - AOL.com",
-        "Link": "https://www.aol.com/articles/xrp-etfs-160-million-behind-130047000.html",
-        "Published": "Mon, 12 Oct 2026 13:00:47 GMT",
-        "Summary": "XRP’s ETFs Are $160 Million Behind Solana’s and Closing. Solana’s Funds Have Had Outflows on Six of Seven October Days. AOL.com"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "XRP's ETFs Are $160 Million Behind Solana's and Closing. Solana's Funds Have Had Outflows on Six of Seven October Days. - 24/7 Wall St.",
-        "Link": "https://247wallst.com/investing/cryptocurrency/2026/10/12/xrps-etfs-are-160-million-behind-solanas-and-closing-solanas-funds-have-had-outflows-on-six-of-seven-october-days/",
-        "Published": "Mon, 12 Oct 2026 13:00:00 GMT",
-        "Summary": "XRP's ETFs Are $160 Million Behind Solana's and Closing. Solana's Funds Have Had Outflows on Six of Seven October Days. 24/7 Wall St."
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Overcome the Deployment Gap Derailing Healthcare AI Investment - Modern Healthcare",
-        "Link": "https://www.modernhealthcare.com/content-studio/publishing-partner/mh-overcome-the-deployment-gap-derailing-healthcare-ai-investment/",
-        "Published": "Mon, 12 Oct 2026 12:42:00 GMT",
-        "Summary": "Overcome the Deployment Gap Derailing Healthcare AI Investment Modern Healthcare"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Gap: Nurses call for action to Pediatric Palliative Care - eHospice",
-        "Link": "https://ehospice.com/inter_childrens_posts/closing-the-gap-nurses-call-for-action-to-pediatric-palliative-care/",
-        "Published": "Mon, 12 Oct 2026 11:38:47 GMT",
-        "Summary": "Closing the Gap: Nurses call for action to Pediatric Palliative Care eHospice"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "NFL MVP watch: Josh Allen is in front for now, but another QB is closing the gap - Buffalo News",
-        "Link": "https://buffalonews.com/sports/professional/nfl/bills/article_485368f1-40d2-4269-a222-1b1105d0aeb5.html",
-        "Published": "Mon, 12 Oct 2026 11:00:00 GMT",
-        "Summary": "NFL MVP watch: Josh Allen is in front for now, but another QB is closing the gap Buffalo News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Democratising Intelligence: Low-Code AI Is Closing the Technology Gap for Nigeria’s Mid-Market Businesses - Tech Build Africa",
-        "Link": "https://techbuild.africa/low-code-ai-nigerias-mid-market-businesses/",
-        "Published": "Mon, 12 Oct 2026 09:58:26 GMT",
-        "Summary": "Democratising Intelligence: Low-Code AI Is Closing the Technology Gap for Nigeria’s Mid-Market Businesses Tech Build Africa"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the gap between identity fraud and income fraud - ITWeb",
-        "Link": "https://www.itweb.co.za/article/closing-the-gap-between-identity-fraud-and-income-fraud/lwrKx73Y8QGqmg1o",
-        "Published": "Mon, 12 Oct 2026 06:32:00 GMT",
-        "Summary": "Closing the gap between identity fraud and income fraud ITWeb"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Knowing–Doing Gap: Informal Training and Food Safety Outcomes - Food Safety Magazine",
-        "Link": "https://www.food-safety.com/articles/11915-closing-the-knowingdoing-gap-informal-training-and-food-safety-outcomes",
-        "Published": "Mon, 12 Oct 2026 04:00:00 GMT",
-        "Summary": "Closing the Knowing–Doing Gap: Informal Training and Food Safety Outcomes Food Safety Magazine"
+        "Title": "Is Mesoblast (ASX:MSB) Closing a Key Ryoncil Quality Gap? - Kalkine Media",
+        "Link": "https://kalkinemedia.com/au/stocks/healthcare/is-mesoblast-asxmsb-closing-a-key-ryoncil-quality-gap",
+        "Published": "Thu, 15 Oct 2026 00:40:00 GMT",
+        "Summary": "Is Mesoblast (ASX:MSB) Closing a Key Ryoncil Quality Gap? Kalkine Media"
       }
     ]
   }
