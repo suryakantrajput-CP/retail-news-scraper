@@ -1,62 +1,112 @@
 {
-  "last_updated": "2026-10-15",
+  "last_updated": "2026-10-16",
   "data": {
-    "Farrell's eXtreme Bodyshaping": [
+    "Eyemart Express": [
       {
-        "company_name": "Farrell's eXtreme Bodyshaping",
+        "company_name": "Eyemart Express",
         "event_type": "Opening",
-        "Title": "Yard House set to open in West Des Moines in April - KCCI",
-        "Link": "https://www.kcci.com/article/yard-house-set-to-open-in-west-des-moines-in-april/74137662",
-        "Published": "Thu, 15 Oct 2026 00:33:00 GMT",
-        "Summary": "Yard House set to open in West Des Moines in April KCCI"
+        "Title": "Eyemart Express now open near Kauffman Loop in Leander - Community Impact Newspaper",
+        "Link": "https://communityimpact.com/leander-liberty-hill/business/eyemart-express-now-open-near-kauffman-loop-in-leander/",
+        "Published": "Fri, 16 Oct 2026 00:08:35 GMT",
+        "Summary": "Eyemart Express now open near Kauffman Loop in Leander Community Impact Newspaper"
       }
     ],
-    "J.Crew": [
+    "HCA Healthcare": [
       {
-        "company_name": "J.Crew",
-        "event_type": "Opening",
-        "Title": "AC Hotel breaks ground in downtown Goodyear - Your Valley",
-        "Link": "https://www.yourvalley.net/litchfield-park-independent/stories/ac-hotel-breaks-ground-in-downtown-goodyear,728289",
-        "Published": "Tue, 13 Oct 2026 22:29:00 GMT",
-        "Summary": "AC Hotel breaks ground in downtown Goodyear Your Valley"
-      }
-    ],
-    "LabCorp": [
-      {
-        "company_name": "LabCorp",
+        "company_name": "HCA Healthcare",
         "event_type": "Closing",
-        "Title": "Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test - Clinical Lab Products",
-        "Link": "https://clpmag.com/disease-states/diabetes-metabolic/labcorp-thrive-global-launch-cardiometabolic-test/",
-        "Published": "Tue, 13 Oct 2026 14:07:53 GMT",
-        "Summary": "Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test Clinical Lab Products"
+        "Title": "Deals tracker: Agilent Technologies to acquire Proscia - Modern Healthcare",
+        "Link": "https://www.modernhealthcare.com/mergers-acquisitions/mh-healthcare-deals-live-updates/",
+        "Published": "Wed, 14 Oct 2026 19:13:00 GMT",
+        "Summary": "Deals tracker: Agilent Technologies to acquire Proscia Modern Healthcare"
+      }
+    ],
+    "Jersey Mike's": [
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Jersey Mike's, L&L expand in Campbell - The Business Journals",
+        "Link": "https://www.bizjournals.com/sanjose/news/2026/10/14/campbell-jersey-mikes-expansion.html",
+        "Published": "Wed, 14 Oct 2026 20:42:00 GMT",
+        "Summary": "Jersey Mike's, L&L expand in Campbell The Business Journals"
       }
     ],
     "Krispy Kreme Doughnuts": [
       {
         "company_name": "Krispy Kreme Doughnuts",
         "event_type": "Opening",
-        "Title": "Krispy Kreme signs deal to open 33 units in New York metro - Restaurant Dive",
-        "Link": "https://www.restaurantdive.com/news/krispy-kreme-franchising-deal-original-entrepreneurs-33-new-york-metro-expansion/832878/",
-        "Published": "Wed, 14 Oct 2026 13:40:19 GMT",
-        "Summary": "Krispy Kreme signs deal to open 33 units in New York metro Restaurant Dive"
-      },
-      {
-        "company_name": "Krispy Kreme Doughnuts",
-        "event_type": "Opening",
-        "Title": "Krispy Kreme Reveals Huge Northeast Expansion Plans Amid Financial Comeback - Daily Voice",
-        "Link": "https://dailyvoice.com/article/krispy-kreme-planning-to-open-33-locations-across-nyc-region/",
-        "Published": "Tue, 13 Oct 2026 14:11:13 GMT",
-        "Summary": "Krispy Kreme Reveals Huge Northeast Expansion Plans Amid Financial Comeback Daily Voice"
+        "Title": "Krispy Kreme To Open 33 Shops in New York/New Jersey Metro Under Franchise Deal - WDHA FM",
+        "Link": "https://wdhafm.com/2026/10/15/krispy-kreme-to-open-33-shops-in-new-york-new-jersey-metro-under-franchise-deal/",
+        "Published": "Thu, 15 Oct 2026 18:17:08 GMT",
+        "Summary": "Krispy Kreme To Open 33 Shops in New York/New Jersey Metro Under Franchise Deal WDHA FM"
       }
     ],
-    "Popeyes": [
+    "Murphy Oil": [
       {
-        "company_name": "Popeyes",
+        "company_name": "Murphy Oil",
         "event_type": "Opening",
-        "Title": "Construction well under way on fast food giant's first Norfolk restaurant - EDP24",
-        "Link": "https://www.edp24.co.uk/news/26630480.popeyes-opening-broadland-gate-business-park-near-norwich/",
-        "Published": "Tue, 13 Oct 2026 09:25:00 GMT",
-        "Summary": "Construction well under way on fast food giant's first Norfolk restaurant EDP24"
+        "Title": "Murphy Oil announces exploration discovery, development progress in Vietnam - Theinvestor",
+        "Link": "https://theinvestor.vn/murphy-oil-announces-exploration-discovery-development-progress-in-vietnam-d20224.html",
+        "Published": "Wed, 14 Oct 2026 16:53:14 GMT",
+        "Summary": "Murphy Oil announces exploration discovery, development progress in Vietnam Theinvestor"
+      }
+    ],
+    "LabCorp": [
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments - Kalkine Media",
+        "Link": "https://kalkinemedia.com/us/news/announcements/opko-health-to-sell-bioreference-laboratory-division-to-labcorp-for-722-million-plus-contingent-payments",
+        "Published": "Thu, 15 Oct 2026 21:37:21 GMT",
+        "Summary": "OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments Kalkine Media"
+      },
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Labcorp to buy BioReference assets for up to $872M - MedTech Dive",
+        "Link": "https://www.medtechdive.com/news/labcorp-to-buy-bioreference-assets-for-up-to-872m/833116/",
+        "Published": "Thu, 15 Oct 2026 16:05:15 GMT",
+        "Summary": "Labcorp to buy BioReference assets for up to $872M MedTech Dive"
+      },
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Labcorp to buy select assets from Opko Health unit for up to $872 million - The Mighty 790 KFGO",
+        "Link": "https://kfgo.com/2026/10/15/labcorp-to-buy-select-assets-from-opko-health-unit-for-up-to-872-million/",
+        "Published": "Thu, 15 Oct 2026 15:21:31 GMT",
+        "Summary": "Labcorp to buy select assets from Opko Health unit for up to $872 million The Mighty 790 KFGO"
+      },
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Labcorp to Acquire Select Assets of BioReference Health for $722M - GenomeWeb",
+        "Link": "https://www.genomeweb.com/company/laboratory-corporation-america/gnw-labcorp-bioreference-opko-4kscore-20261015/",
+        "Published": "Thu, 15 Oct 2026 14:13:00 GMT",
+        "Summary": "Labcorp to Acquire Select Assets of BioReference Health for $722M GenomeWeb"
+      },
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Labcorp to Acquire BioReference Health Assets From OPKO Health for Up to $872M - citybiz",
+        "Link": "https://www.citybiz.co/article/919026/labcorp-to-acquire-bioreference-health-assets-from-opko-health-for-up-to-872m/",
+        "Published": "Thu, 15 Oct 2026 12:43:42 GMT",
+        "Summary": "Labcorp to Acquire BioReference Health Assets From OPKO Health for Up to $872M citybiz"
+      },
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Labcorp to buy select assets of OPKO’s BioReference Health for up to $872M - TradingView",
+        "Link": "https://www.tradingview.com/news/seekingalpha:e09f69991094b:0-labcorp-to-buy-select-assets-of-opko-s-bioreference-health-for-up-to-872m/",
+        "Published": "Thu, 15 Oct 2026 12:02:25 GMT",
+        "Summary": "Labcorp to buy select assets of OPKO’s BioReference Health for up to $872M TradingView"
+      },
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "A prostate cancer blood test may reach more patients if Labcorp completes its deal - Stock Titan",
+        "Link": "https://www.stocktitan.net/news/LH/labcorp-enters-into-agreement-with-opko-health-to-acquire-select-ga8uz49ycs9e.html",
+        "Published": "Thu, 15 Oct 2026 11:30:00 GMT",
+        "Summary": "A prostate cancer blood test may reach more patients if Labcorp completes its deal Stock Titan"
       }
     ],
     "Sam Edelman": [
@@ -67,46 +117,52 @@
         "Link": "https://newswav.com/article/sam-edelman-opens-its-fourth-malaysian-boutique-at-suria-klcc-with-exclusiv-A2610_JGtevW",
         "Published": "Wed, 14 Oct 2026 02:09:25 GMT",
         "Summary": "Sam Edelman Opens Its Fourth Malaysian Boutique at Suria KLCC, With Exclusive Styles for Shoe Lovers Newswav"
-      }
-    ],
-    "Shoe Carnival": [
+      },
       {
-        "company_name": "Shoe Carnival",
+        "company_name": "Sam Edelman",
         "event_type": "Closing",
-        "Title": "Shoe Carnival (NASDAQ:SHOE) Stock Price Breaks Above Two Hundred Day Moving Average - What's Next? - MarketBeat",
-        "Link": "https://www.marketbeat.com/instant-alerts/price-shoe-carnival-nasdaq-shoe-stock-price-breaks-above-two-hundred-day-moving-average-whats-next-2026-10-13/",
-        "Published": "Tue, 13 Oct 2026 06:06:27 GMT",
-        "Summary": "Shoe Carnival (NASDAQ:SHOE) Stock Price Breaks Above Two Hundred Day Moving Average - What's Next? MarketBeat"
+        "Title": "148-year-old mall retailer behind Famous Footwear closes 18 stores as shoppers change what they buy - AOL.com",
+        "Link": "https://www.aol.com/articles/148-old-mall-retailer-behind-203700000.html",
+        "Published": "Thu, 15 Oct 2026 20:37:00 GMT",
+        "Summary": "148-year-old mall retailer behind Famous Footwear closes 18 stores as shoppers change what they buy AOL.com"
       }
     ],
-    "Steve Madden": [
+    "Spectrum": [
       {
-        "company_name": "Steve Madden",
+        "company_name": "Spectrum",
         "event_type": "Opening",
-        "Title": "Steve Madden Opens New Store in Bathinda, Punjab - Indian Retailer",
-        "Link": "https://www.indianretailer.com/news/steve-madden-opens-new-store-bathinda-punjab",
-        "Published": "Tue, 13 Oct 2026 12:12:16 GMT",
-        "Summary": "Steve Madden Opens New Store in Bathinda, Punjab Indian Retailer"
+        "Title": "St. Louis City ties 'Caps 0-0, extends unbeaten streak in all com­pe­ti­tions to MLS-record 21 games - Spectrum News",
+        "Link": "https://spectrumlocalnews.com/mo/st-louis/news/2026/10/15/st--louis-city-ties--caps-0-0--extends-unbeaten-streak",
+        "Published": "Thu, 15 Oct 2026 15:09:00 GMT",
+        "Summary": "St. Louis City ties 'Caps 0-0, extends unbeaten streak in all com­pe­ti­tions to MLS-record 21 games Spectrum News"
       }
     ],
-    "The Dump": [
+    "Stuart Weitzman": [
       {
-        "company_name": "The Dump",
+        "company_name": "Stuart Weitzman",
         "event_type": "Closing",
-        "Title": "The Dump shutters all stores, why AI might be replacing real estate agents and more - Business of Home",
-        "Link": "https://businessofhome.com/articles/the-dump-shutters-all-stores-why-ai-might-be-replacing-real-estate-agents-and-more",
-        "Published": "Tue, 13 Oct 2026 18:19:24 GMT",
-        "Summary": "The Dump shutters all stores, why AI might be replacing real estate agents and more Business of Home"
+        "Title": "148-year-old mall retailer behind Famous Footwear closes 18 stores as shoppers change what they buy - AOL.com",
+        "Link": "https://www.aol.com/articles/148-old-mall-retailer-behind-203700000.html",
+        "Published": "Thu, 15 Oct 2026 20:37:00 GMT",
+        "Summary": "148-year-old mall retailer behind Famous Footwear closes 18 stores as shoppers change what they buy AOL.com"
       }
     ],
     "Gap": [
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the Advice Gap in America - The Australian",
-        "Link": "https://www.theaustralian.com.au/business/closing-the-advice-gap-in-america/video/f034afcbc86dd1ff34ca25c14cb00020",
-        "Published": "Wed, 14 Oct 2026 19:13:36 GMT",
-        "Summary": "Closing the Advice Gap in America The Australian"
+        "Title": "Navy Strength and Vinnie's Wine Shop are both closing at the end of October, leaving a notable gap in Belltown's nightlife scene - Secret Seattle",
+        "Link": "https://secretseattle.co/navy-strength-vinnies-wine-shop-closing/",
+        "Published": "Wed, 14 Oct 2026 23:17:40 GMT",
+        "Summary": "Navy Strength and Vinnie's Wine Shop are both closing at the end of October, leaving a notable gap in Belltown's nightlife scene Secret Seattle"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Advice Gap in America - Barron's",
+        "Link": "https://www.barrons.com/video/series/barrons-advisor-the-way-forward/closing-the-advice-gap-in-america/C976D005-A353-49AA-AC78-030C2D0DC656",
+        "Published": "Wed, 14 Oct 2026 22:58:56 GMT",
+        "Summary": "Closing the Advice Gap in America Barron's"
       },
       {
         "company_name": "Gap",
@@ -123,14 +179,6 @@
         "Link": "https://kpmg.com/us/en/articles/2026/closing-the-cyber-resilience-gap.html",
         "Published": "Wed, 14 Oct 2026 18:08:13 GMT",
         "Summary": "Cyber Resilience Operating Model Guide for CISOs | KPMG kpmg.com"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Gap on FX Exposure: Best Practices for Your Finance Team - Royal Bank",
-        "Link": "https://www.rbcroyalbank.com/en-ca/my-money-matters/business/get-inspired/innovation/closing-the-gap-on-foreign-exchange-fx-exposure-best-practices-treasury-canada/",
-        "Published": "Wed, 14 Oct 2026 16:15:39 GMT",
-        "Summary": "Closing the Gap on FX Exposure: Best Practices for Your Finance Team Royal Bank"
       },
       {
         "company_name": "Gap",
@@ -155,6 +203,14 @@
         "Link": "https://www.just-auto.com/interview/closing-the-ai-data-gap-in-automotive-manufacturing/",
         "Published": "Wed, 14 Oct 2026 14:40:42 GMT",
         "Summary": "Closing the AI data gap in automotive manufacturing Just Auto"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the AI trust gap: What leaders are seeing about trust in AI - Fujitsu Global",
+        "Link": "https://global.fujitsu/en-US/wayfinders/insight/tl-trust-in-ai-20260601",
+        "Published": "Wed, 14 Oct 2026 14:14:05 GMT",
+        "Summary": "Closing the AI trust gap: What leaders are seeing about trust in AI Fujitsu Global"
       },
       {
         "company_name": "Gap",
@@ -191,14 +247,6 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the Standards Gap: A New Global Consortium for Person-Centred Care and Simulation in Midwifery Education and Practice - International Confederation of Midwives",
-        "Link": "https://internationalmidwives.org/a-new-global-consortium-for-person-centred-care-and-simulation-in-midwifery-education-and-practice/",
-        "Published": "Wed, 14 Oct 2026 07:13:47 GMT",
-        "Summary": "Closing the Standards Gap: A New Global Consortium for Person-Centred Care and Simulation in Midwifery Education and Practice International Confederation of Midwives"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "NYC Budget Cost Estimate for Closing The Human Services Pay Equity Gap - Center for New York City Affairs",
         "Link": "https://www.centernyc.org/publications-collection/nyc-budget-cost-estimate-for-closing-the-human-services-pay-equity-gap",
         "Published": "Wed, 14 Oct 2026 06:58:19 GMT",
@@ -207,90 +255,90 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "The APS-C lens gap is closing. Here’s what the latest releases actually mean - Yahoo Tech",
-        "Link": "https://tech.yahoo.com/cameras/articles/aps-c-lens-gap-closing-060000802.html",
-        "Published": "Wed, 14 Oct 2026 06:00:00 GMT",
-        "Summary": "The APS-C lens gap is closing. Here’s what the latest releases actually mean Yahoo Tech"
+        "Title": "Closing E-Commerce Maturity Gap: T1 Unveils Unified AI Ecosystem - Mexico Business News",
+        "Link": "https://mexicobusiness.news/ecommerce/news/closing-e-commerce-maturity-gap-t1-unveils-unified-ai-ecosystem",
+        "Published": "Thu, 15 Oct 2026 19:51:02 GMT",
+        "Summary": "Closing E-Commerce Maturity Gap: T1 Unveils Unified AI Ecosystem Mexico Business News"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "SURVEY. State Coastal Conservancy 2026 Public Engagement Survey for Pedro Point Headlands Coastal Trail Project: \"Closing the Gap\" - coastside buzz",
-        "Link": "https://coastsidebuzz.com/survey-state-coastal-conservancy-2026-public-engagement-survey-for-pedro-point-headlands-coastal-trail-project-closing-the-gap/",
-        "Published": "Wed, 14 Oct 2026 00:48:02 GMT",
-        "Summary": "SURVEY. State Coastal Conservancy 2026 Public Engagement Survey for Pedro Point Headlands Coastal Trail Project: \"Closing the Gap\" coastside buzz"
+        "Title": "Beyond Arrival: Closing the Confidence Gap in International Student Support - The Koala News",
+        "Link": "https://thekoalanews.com/beyond-arrival-closing-the-confidence-gap-in-international-student-support/",
+        "Published": "Thu, 15 Oct 2026 19:18:06 GMT",
+        "Summary": "Beyond Arrival: Closing the Confidence Gap in International Student Support The Koala News"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Geraldine Dodge Foundation goes all in on closing the racial wealth gap - ImpactAlpha",
-        "Link": "https://impactalpha.com/geraldine-dodge-foundation-goes-all-in-on-closing-the-racial-wealth-gap/",
-        "Published": "Tue, 13 Oct 2026 22:15:05 GMT",
-        "Summary": "Geraldine Dodge Foundation goes all in on closing the racial wealth gap ImpactAlpha"
+        "Title": "‘Thousands of points of fixation’: new surgery technique closing the gap in Alaska shoulder care - Alaska's News Source",
+        "Link": "https://www.alaskasnewssource.com/2026/10/15/thousands-points-fixation-new-surgery-technique-closing-gap-alaska-shoulder-care/",
+        "Published": "Thu, 15 Oct 2026 17:33:00 GMT",
+        "Summary": "‘Thousands of points of fixation’: new surgery technique closing the gap in Alaska shoulder care Alaska's News Source"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Why closing the health gap requires ambitious action on obesity - Nesta | UK innovation agency for social good",
-        "Link": "https://www.nesta.org.uk/blog/why-closing-the-health-requires-ambitious-action-on-obesity/",
-        "Published": "Tue, 13 Oct 2026 21:20:08 GMT",
-        "Summary": "Why closing the health gap requires ambitious action on obesity Nesta | UK innovation agency for social good"
+        "Title": "Toyota Bet on Hybrids, GM Bet on EVs. The Sales Gap Is Closing - Road Ethos",
+        "Link": "https://roadethos.com/news/toyota-bet-on-hybrids-gm-bet-on-evs-the-sales-gap-is-closing",
+        "Published": "Thu, 15 Oct 2026 17:30:00 GMT",
+        "Summary": "Toyota Bet on Hybrids, GM Bet on EVs. The Sales Gap Is Closing Road Ethos"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "New poll shows Foulkes ahead for RI governor, but Block is closing the gap - The Providence Journal",
-        "Link": "https://www.providencejournal.com/story/news/politics/elections/2026/10/13/new-ri-poll-shows-ken-block-closing-the-gap-with-helena-foulkes-for-governor/92235271007/",
-        "Published": "Tue, 13 Oct 2026 21:05:35 GMT",
-        "Summary": "New poll shows Foulkes ahead for RI governor, but Block is closing the gap The Providence Journal"
+        "Title": "‘Thousands of points of fixation’: new surgery technique closing the gap in Alaska shoulder care - Alaska's News Source",
+        "Link": "https://www.alaskasnewssource.com/video/2026/10/15/thousands-points-fixation-new-surgery-technique-closing-gap-alaska-shoulder-care/",
+        "Published": "Thu, 15 Oct 2026 15:55:00 GMT",
+        "Summary": "‘Thousands of points of fixation’: new surgery technique closing the gap in Alaska shoulder care Alaska's News Source"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Second edition of VTM's Closing the Gap brings entrepreneurs and accountants closer to better business decisions - Business Review",
-        "Link": "https://business-review.eu/bucharest-going-out/events/second-edition-of-vtms-closing-the-gap-brings-entrepreneurs-and-accountants-closer-to-better-business-decisions-301893",
-        "Published": "Tue, 13 Oct 2026 14:19:49 GMT",
-        "Summary": "Second edition of VTM's Closing the Gap brings entrepreneurs and accountants closer to better business decisions Business Review"
+        "Title": "Closing the automation gap in parcel hubs - https://www.facilitiesmanagement-now.com/",
+        "Link": "https://www.facilitiesmanagement-now.com/article/291285/closing-the-automation-gap-in-parcel-hubs",
+        "Published": "Thu, 15 Oct 2026 14:23:02 GMT",
+        "Summary": "Closing the automation gap in parcel hubs https://www.facilitiesmanagement-now.com/"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the nutrition gap - Food and Drink Technology",
-        "Link": "https://www.foodanddrinktechnology.com/blog/70719/closing-the-nutrition-gap/",
-        "Published": "Tue, 13 Oct 2026 13:17:46 GMT",
-        "Summary": "Closing the nutrition gap Food and Drink Technology"
+        "Title": "Closing the gap: Defra’s Good Food Neighbourhoods - IGD (Institute of Grocery Distribution)",
+        "Link": "https://www.igd.com/articles/closing-the-gap-defras-good-food-neighbourhoods/74361",
+        "Published": "Thu, 15 Oct 2026 14:04:38 GMT",
+        "Summary": "Closing the gap: Defra’s Good Food Neighbourhoods IGD (Institute of Grocery Distribution)"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the gap: what legal departments do next - Thomson Reuters Legal Solutions",
-        "Link": "https://legal.thomsonreuters.com/blog/closing-the-gap-what-legal-departments-do-next/",
-        "Published": "Tue, 13 Oct 2026 13:10:45 GMT",
-        "Summary": "Closing the gap: what legal departments do next Thomson Reuters Legal Solutions"
+        "Title": "Policy brief: Closing the financing gap for adolescent sexual and reproductive health and rights - Partnership for Maternal, Newborn and Child Health",
+        "Link": "https://pmnch.who.int/resources/publications/m/item/policy-brief-closing-the-financing-gap-for-adolescent-sexual-and-reproductive-health-and-rights",
+        "Published": "Thu, 15 Oct 2026 12:44:30 GMT",
+        "Summary": "Policy brief: Closing the financing gap for adolescent sexual and reproductive health and rights Partnership for Maternal, Newborn and Child Health"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Meta’s New Muse Wonder AI Model Is Closing The Gap to Anthropic and OpenAI - WinBuzzer",
-        "Link": "https://winbuzzer.com/2026/10/13/metas-wonder-ai-models-improve-coding-test-scores-xcxwbn/",
-        "Published": "Tue, 13 Oct 2026 12:05:57 GMT",
-        "Summary": "Meta’s New Muse Wonder AI Model Is Closing The Gap to Anthropic and OpenAI WinBuzzer"
+        "Title": "Closing the skills gap - why Salesforce UK is offering free Slack Enterprise to Higher and Further Education students - Diginomica",
+        "Link": "https://diginomica.com/closing-skills-gap-why-salesforce-uk-offering-free-slack-enterprise-higher-and-further-education",
+        "Published": "Thu, 15 Oct 2026 10:39:47 GMT",
+        "Summary": "Closing the skills gap - why Salesforce UK is offering free Slack Enterprise to Higher and Further Education students Diginomica"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Women Are Closing the Startup Gap While Capital Still Flows to Men - Blockhead",
-        "Link": "https://www.blockhead.co/2026/10/13/women-are-closing-the-startup-gap-while-capital-still-flows-to-men/",
-        "Published": "Tue, 13 Oct 2026 05:02:22 GMT",
-        "Summary": "Women Are Closing the Startup Gap While Capital Still Flows to Men Blockhead"
+        "Title": "FAME Advisory’s Nirav Shah on Closing the Gap Between Tax Advice and Execution - Hubbis",
+        "Link": "https://www.hubbis.com/article/fame-advisory-s-nirav-shah-on-closing-the-gap-between-tax-advice-and-execution",
+        "Published": "Thu, 15 Oct 2026 07:53:46 GMT",
+        "Summary": "FAME Advisory’s Nirav Shah on Closing the Gap Between Tax Advice and Execution Hubbis"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Emma Hayes on closing the gap with Spain: USWNT is 'right side by side' - Yahoo Sports",
-        "Link": "https://sports.yahoo.com/video/emma-hayes-on-closing-the-gap-with-spain-uswnt-is-right-side-by-side-025556114.html",
-        "Published": "Tue, 13 Oct 2026 02:55:00 GMT",
-        "Summary": "Emma Hayes on closing the gap with Spain: USWNT is 'right side by side' Yahoo Sports"
+        "Title": "NERC cites rejection, tampering as obstacles to closing metering gap - The Guardian Nigeria News",
+        "Link": "https://guardian.ng/news/nerc-cites-rejection-tampering-as-obstacles-to-closing-metering-gap/",
+        "Published": "Thu, 15 Oct 2026 04:00:00 GMT",
+        "Summary": "NERC cites rejection, tampering as obstacles to closing metering gap The Guardian Nigeria News"
       },
       {
         "company_name": "Gap",
@@ -299,6 +347,36 @@
         "Link": "https://kalkinemedia.com/au/stocks/healthcare/is-mesoblast-asxmsb-closing-a-key-ryoncil-quality-gap",
         "Published": "Thu, 15 Oct 2026 00:40:00 GMT",
         "Summary": "Is Mesoblast (ASX:MSB) Closing a Key Ryoncil Quality Gap? Kalkine Media"
+      }
+    ],
+    "Trimble": [
+      {
+        "company_name": "Trimble",
+        "event_type": "Closing",
+        "Title": "Wheeler Machinery Co. to Acquire SITECH Intermountain, Adding a Dedicated Construction Technology Team - The Manila Times",
+        "Link": "https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/wheeler-machinery-co-to-acquire-sitech-intermountain-adding-a-dedicated-construction-technology-team/2446780",
+        "Published": "Thu, 15 Oct 2026 14:27:07 GMT",
+        "Summary": "Wheeler Machinery Co. to Acquire SITECH Intermountain, Adding a Dedicated Construction Technology Team The Manila Times"
+      }
+    ],
+    "Tumbles": [
+      {
+        "company_name": "Tumbles",
+        "event_type": "Closing",
+        "Title": "PSEi falls to 5,617 as ICTSI tumbles - Inquirer.net",
+        "Link": "https://business.inquirer.net/615879/psei-falls-to-5617-as-ictsi-tumbles",
+        "Published": "Wed, 14 Oct 2026 09:01:00 GMT",
+        "Summary": "PSEi falls to 5,617 as ICTSI tumbles Inquirer.net"
+      }
+    ],
+    "WSS": [
+      {
+        "company_name": "WSS",
+        "event_type": "Closing",
+        "Title": "Dick’s SG To Slash Seasonal Hires - SGB Media",
+        "Link": "https://sgbonline.com/dicks-sg-to-slash-seasonal-hires/",
+        "Published": "Thu, 15 Oct 2026 21:02:01 GMT",
+        "Summary": "Dick’s SG To Slash Seasonal Hires SGB Media"
       }
     ]
   }
