@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-10-16",
+  "last_updated": "2026-10-17",
   "data": {
+    "Boucheron": [
+      {
+        "company_name": "Boucheron",
+        "event_type": "Closing",
+        "Title": "Judge the Jewels: Celine Dion Wears Boucheron Diamond Necklace in Paris as a Tribute to Her Late Husband - instoremag.com",
+        "Link": "https://instoremag.com/judge-the-jewels-celine-dion-wears-boucheron-diamond-necklace-in-paris-as-a-tribute-to-her-late-husband/",
+        "Published": "Fri, 16 Oct 2026 04:59:40 GMT",
+        "Summary": "Judge the Jewels: Celine Dion Wears Boucheron Diamond Necklace in Paris as a Tribute to Her Late Husband instoremag.com"
+      }
+    ],
     "Eyemart Express": [
+      {
+        "company_name": "Eyemart Express",
+        "event_type": "Opening",
+        "Title": "Eyemart Express Opens First Leander, TX Location - Hoodline",
+        "Link": "https://hoodline.com/2026/10/new-eyemart-express-opens-in-leander-with-2-000-frames-bogo-deals/",
+        "Published": "Fri, 16 Oct 2026 11:56:12 GMT",
+        "Summary": "Eyemart Express Opens First Leander, TX Location Hoodline"
+      },
       {
         "company_name": "Eyemart Express",
         "event_type": "Opening",
@@ -11,24 +29,64 @@
         "Summary": "Eyemart Express now open near Kauffman Loop in Leander Community Impact Newspaper"
       }
     ],
-    "HCA Healthcare": [
+    "Consumer Cellular": [
       {
-        "company_name": "HCA Healthcare",
+        "company_name": "Consumer Cellular",
         "event_type": "Closing",
-        "Title": "Deals tracker: Agilent Technologies to acquire Proscia - Modern Healthcare",
-        "Link": "https://www.modernhealthcare.com/mergers-acquisitions/mh-healthcare-deals-live-updates/",
-        "Published": "Wed, 14 Oct 2026 19:13:00 GMT",
-        "Summary": "Deals tracker: Agilent Technologies to acquire Proscia Modern Healthcare"
+        "Title": "Pennsylvania doctor urges vaccination amid measles outbreak - WKAR",
+        "Link": "https://www.wkar.org/shows/newshour/clip/measles-outbreak-1792098316",
+        "Published": "Fri, 16 Oct 2026 15:04:10 GMT",
+        "Summary": "Pennsylvania doctor urges vaccination amid measles outbreak WKAR"
+      },
+      {
+        "company_name": "Consumer Cellular",
+        "event_type": "Closing",
+        "Title": "An accounting of Trump's promised payouts - PBS",
+        "Link": "https://www.pbs.org/video/promised-payouts-1792098364/",
+        "Published": "Fri, 16 Oct 2026 02:17:13 GMT",
+        "Summary": "An accounting of Trump's promised payouts PBS"
+      },
+      {
+        "company_name": "Consumer Cellular",
+        "event_type": "Closing",
+        "Title": "Why small colleges are closing and the toll on communities - PBS",
+        "Link": "https://www.pbs.org/video/rethinking-college-1792099641/",
+        "Published": "Fri, 16 Oct 2026 02:17:12 GMT",
+        "Summary": "Why small colleges are closing and the toll on communities PBS"
+      },
+      {
+        "company_name": "Consumer Cellular",
+        "event_type": "Closing",
+        "Title": "Ukraine less reliant on U.S. amid rift, ex-ambassador says - PBS",
+        "Link": "https://www.pbs.org/video/russian-invasion-dis-1792097669/",
+        "Published": "Fri, 16 Oct 2026 02:17:12 GMT",
+        "Summary": "Ukraine less reliant on U.S. amid rift, ex-ambassador says PBS"
+      },
+      {
+        "company_name": "Consumer Cellular",
+        "event_type": "Closing",
+        "Title": "News Wrap: Trump says execution will not be livestreamed - PBS",
+        "Link": "https://www.pbs.org/video/news-wrap-execution-1792097692/",
+        "Published": "Fri, 16 Oct 2026 02:17:11 GMT",
+        "Summary": "News Wrap: Trump says execution will not be livestreamed PBS"
       }
     ],
     "Jersey Mike's": [
       {
         "company_name": "Jersey Mike's",
         "event_type": "Opening",
-        "Title": "Jersey Mike's, L&L expand in Campbell - The Business Journals",
-        "Link": "https://www.bizjournals.com/sanjose/news/2026/10/14/campbell-jersey-mikes-expansion.html",
-        "Published": "Wed, 14 Oct 2026 20:42:00 GMT",
-        "Summary": "Jersey Mike's, L&L expand in Campbell The Business Journals"
+        "Title": "City official confirms Jersey Mike’s is coming soon to Hannibal - WGEM",
+        "Link": "https://www.wgem.com/video/2026/10/16/city-official-confirms-jersey-mikes-is-coming-soon-hannibal/",
+        "Published": "Fri, 16 Oct 2026 22:40:00 GMT",
+        "Summary": "City official confirms Jersey Mike’s is coming soon to Hannibal WGEM"
+      },
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "City official confirms Jersey Mike’s is coming soon to Hannibal - WGEM",
+        "Link": "https://www.wgem.com/2026/10/16/city-official-confirms-jersey-mikes-is-coming-soon-hannibal/",
+        "Published": "Fri, 16 Oct 2026 21:10:00 GMT",
+        "Summary": "City official confirms Jersey Mike’s is coming soon to Hannibal WGEM"
       }
     ],
     "Krispy Kreme Doughnuts": [
@@ -45,10 +103,10 @@
       {
         "company_name": "Murphy Oil",
         "event_type": "Opening",
-        "Title": "Murphy Oil announces exploration discovery, development progress in Vietnam - Theinvestor",
-        "Link": "https://theinvestor.vn/murphy-oil-announces-exploration-discovery-development-progress-in-vietnam-d20224.html",
-        "Published": "Wed, 14 Oct 2026 16:53:14 GMT",
-        "Summary": "Murphy Oil announces exploration discovery, development progress in Vietnam Theinvestor"
+        "Title": "Vingroup launches AI-focused international school in Hanoi, opening in 2027 - Theinvestor",
+        "Link": "https://theinvestor.vn/vingroup-launches-ai-focused-international-school-in-hanoi-opening-in-2027-d20242.html",
+        "Published": "Fri, 16 Oct 2026 08:15:40 GMT",
+        "Summary": "Vingroup launches AI-focused international school in Hanoi, opening in 2027 Theinvestor"
       }
     ],
     "LabCorp": [
@@ -107,151 +165,25 @@
         "Link": "https://www.stocktitan.net/news/LH/labcorp-enters-into-agreement-with-opko-health-to-acquire-select-ga8uz49ycs9e.html",
         "Published": "Thu, 15 Oct 2026 11:30:00 GMT",
         "Summary": "A prostate cancer blood test may reach more patients if Labcorp completes its deal Stock Titan"
-      }
-    ],
-    "Sam Edelman": [
-      {
-        "company_name": "Sam Edelman",
-        "event_type": "Opening",
-        "Title": "Sam Edelman Opens Its Fourth Malaysian Boutique at Suria KLCC, With Exclusive Styles for Shoe Lovers - Newswav",
-        "Link": "https://newswav.com/article/sam-edelman-opens-its-fourth-malaysian-boutique-at-suria-klcc-with-exclusiv-A2610_JGtevW",
-        "Published": "Wed, 14 Oct 2026 02:09:25 GMT",
-        "Summary": "Sam Edelman Opens Its Fourth Malaysian Boutique at Suria KLCC, With Exclusive Styles for Shoe Lovers Newswav"
       },
       {
-        "company_name": "Sam Edelman",
+        "company_name": "LabCorp",
         "event_type": "Closing",
-        "Title": "148-year-old mall retailer behind Famous Footwear closes 18 stores as shoppers change what they buy - AOL.com",
-        "Link": "https://www.aol.com/articles/148-old-mall-retailer-behind-203700000.html",
-        "Published": "Thu, 15 Oct 2026 20:37:00 GMT",
-        "Summary": "148-year-old mall retailer behind Famous Footwear closes 18 stores as shoppers change what they buy AOL.com"
-      }
-    ],
-    "Spectrum": [
+        "Title": "Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million - BioBuzz",
+        "Link": "https://biobuzz.io/news/burlingtons-labcorp-to-acquire-select-bioreference-health-assets-from-opko-health-for-722-million/",
+        "Published": "Fri, 16 Oct 2026 16:19:58 GMT",
+        "Summary": "Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million BioBuzz"
+      },
       {
-        "company_name": "Spectrum",
-        "event_type": "Opening",
-        "Title": "St. Louis City ties 'Caps 0-0, extends unbeaten streak in all com­pe­ti­tions to MLS-record 21 games - Spectrum News",
-        "Link": "https://spectrumlocalnews.com/mo/st-louis/news/2026/10/15/st--louis-city-ties--caps-0-0--extends-unbeaten-streak",
-        "Published": "Thu, 15 Oct 2026 15:09:00 GMT",
-        "Summary": "St. Louis City ties 'Caps 0-0, extends unbeaten streak in all com­pe­ti­tions to MLS-record 21 games Spectrum News"
-      }
-    ],
-    "Stuart Weitzman": [
-      {
-        "company_name": "Stuart Weitzman",
+        "company_name": "LabCorp",
         "event_type": "Closing",
-        "Title": "148-year-old mall retailer behind Famous Footwear closes 18 stores as shoppers change what they buy - AOL.com",
-        "Link": "https://www.aol.com/articles/148-old-mall-retailer-behind-203700000.html",
-        "Published": "Thu, 15 Oct 2026 20:37:00 GMT",
-        "Summary": "148-year-old mall retailer behind Famous Footwear closes 18 stores as shoppers change what they buy AOL.com"
+        "Title": "OPKO Health to Sell Select BioReference Assets to Labcorp for $722M - TradingView",
+        "Link": "https://www.tradingview.com/news/zacks:558a64ff1094b:0-opko-health-to-sell-select-bioreference-assets-to-labcorp-for-722m/",
+        "Published": "Fri, 16 Oct 2026 14:20:00 GMT",
+        "Summary": "OPKO Health to Sell Select BioReference Assets to Labcorp for $722M TradingView"
       }
     ],
     "Gap": [
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Navy Strength and Vinnie's Wine Shop are both closing at the end of October, leaving a notable gap in Belltown's nightlife scene - Secret Seattle",
-        "Link": "https://secretseattle.co/navy-strength-vinnies-wine-shop-closing/",
-        "Published": "Wed, 14 Oct 2026 23:17:40 GMT",
-        "Summary": "Navy Strength and Vinnie's Wine Shop are both closing at the end of October, leaving a notable gap in Belltown's nightlife scene Secret Seattle"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Advice Gap in America - Barron's",
-        "Link": "https://www.barrons.com/video/series/barrons-advisor-the-way-forward/closing-the-advice-gap-in-america/C976D005-A353-49AA-AC78-030C2D0DC656",
-        "Published": "Wed, 14 Oct 2026 22:58:56 GMT",
-        "Summary": "Closing the Advice Gap in America Barron's"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "How employers, colleges, talent all play role in closing ‘employability gap’ - SiouxFalls.Business",
-        "Link": "https://siouxfalls.business/how-employers-colleges-talent-all-play-role-in-closing-employability-gap/",
-        "Published": "Wed, 14 Oct 2026 18:37:28 GMT",
-        "Summary": "How employers, colleges, talent all play role in closing ‘employability gap’ SiouxFalls.Business"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Cyber Resilience Operating Model Guide for CISOs | KPMG - kpmg.com",
-        "Link": "https://kpmg.com/us/en/articles/2026/closing-the-cyber-resilience-gap.html",
-        "Published": "Wed, 14 Oct 2026 18:08:13 GMT",
-        "Summary": "Cyber Resilience Operating Model Guide for CISOs | KPMG kpmg.com"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Menopause training: closing dentistry’s knowledge gap - Dentistry.co.uk",
-        "Link": "https://dentistry.co.uk/2026/10/14/menopause-is-in-the-chair-are-we-trained-to-see-it/",
-        "Published": "Wed, 14 Oct 2026 15:47:10 GMT",
-        "Summary": "Menopause training: closing dentistry’s knowledge gap Dentistry.co.uk"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "XPO, Inc.: The Margin Gap Is Closing, The Valuation Gap Already Has - Seeking Alpha",
-        "Link": "https://seekingalpha.com/article/4954137-xpo-the-margin-gap-is-closing-the-valuation-gap-already-has",
-        "Published": "Wed, 14 Oct 2026 15:25:00 GMT",
-        "Summary": "XPO, Inc.: The Margin Gap Is Closing, The Valuation Gap Already Has Seeking Alpha"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the AI data gap in automotive manufacturing - Just Auto",
-        "Link": "https://www.just-auto.com/interview/closing-the-ai-data-gap-in-automotive-manufacturing/",
-        "Published": "Wed, 14 Oct 2026 14:40:42 GMT",
-        "Summary": "Closing the AI data gap in automotive manufacturing Just Auto"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the AI trust gap: What leaders are seeing about trust in AI - Fujitsu Global",
-        "Link": "https://global.fujitsu/en-US/wayfinders/insight/tl-trust-in-ai-20260601",
-        "Published": "Wed, 14 Oct 2026 14:14:05 GMT",
-        "Summary": "Closing the AI trust gap: What leaders are seeing about trust in AI Fujitsu Global"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Financing super pollutant action: closing the gap, unlocking the benefits - Climate and Clean Air Coalition (CCAC)",
-        "Link": "https://www.ccacoalition.org/content/financing-super-pollutant-action-closing-gap-unlocking-benefits",
-        "Published": "Wed, 14 Oct 2026 13:52:49 GMT",
-        "Summary": "Financing super pollutant action: closing the gap, unlocking the benefits Climate and Clean Air Coalition (CCAC)"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Brent $106, WTI $94: What's Behind The Widening Gap Between Oil Benchmarks - NDTV Profit",
-        "Link": "https://www.ndtvprofit.com/markets/brent-106-wti-94-whats-behind-the-widening-gap-between-oil-benchmarks-12185105",
-        "Published": "Wed, 14 Oct 2026 13:20:07 GMT",
-        "Summary": "Brent $106, WTI $94: What's Behind The Widening Gap Between Oil Benchmarks NDTV Profit"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Women farmers and gender equality: Why closing the gender gap matters - UN Women",
-        "Link": "https://www.unwomen.org/en/articles/explainer/women-farmers-and-gender-equality-why-closing-the-gender-gap-matters",
-        "Published": "Wed, 14 Oct 2026 12:00:00 GMT",
-        "Summary": "Women farmers and gender equality: Why closing the gender gap matters UN Women"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "‘Ishan Kishan closing the gap’: Former India cricketer warns Rishabh Pant to raise his game - Yahoo Sports",
-        "Link": "https://sports.yahoo.com/articles/ishan-kishan-closing-gap-former-091000623.html",
-        "Published": "Wed, 14 Oct 2026 09:10:00 GMT",
-        "Summary": "‘Ishan Kishan closing the gap’: Former India cricketer warns Rishabh Pant to raise his game Yahoo Sports"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "NYC Budget Cost Estimate for Closing The Human Services Pay Equity Gap - Center for New York City Affairs",
-        "Link": "https://www.centernyc.org/publications-collection/nyc-budget-cost-estimate-for-closing-the-human-services-pay-equity-gap",
-        "Published": "Wed, 14 Oct 2026 06:58:19 GMT",
-        "Summary": "NYC Budget Cost Estimate for Closing The Human Services Pay Equity Gap Center for New York City Affairs"
-      },
       {
         "company_name": "Gap",
         "event_type": "Closing",
@@ -287,38 +219,6 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "‘Thousands of points of fixation’: new surgery technique closing the gap in Alaska shoulder care - Alaska's News Source",
-        "Link": "https://www.alaskasnewssource.com/video/2026/10/15/thousands-points-fixation-new-surgery-technique-closing-gap-alaska-shoulder-care/",
-        "Published": "Thu, 15 Oct 2026 15:55:00 GMT",
-        "Summary": "‘Thousands of points of fixation’: new surgery technique closing the gap in Alaska shoulder care Alaska's News Source"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the automation gap in parcel hubs - https://www.facilitiesmanagement-now.com/",
-        "Link": "https://www.facilitiesmanagement-now.com/article/291285/closing-the-automation-gap-in-parcel-hubs",
-        "Published": "Thu, 15 Oct 2026 14:23:02 GMT",
-        "Summary": "Closing the automation gap in parcel hubs https://www.facilitiesmanagement-now.com/"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the gap: Defra’s Good Food Neighbourhoods - IGD (Institute of Grocery Distribution)",
-        "Link": "https://www.igd.com/articles/closing-the-gap-defras-good-food-neighbourhoods/74361",
-        "Published": "Thu, 15 Oct 2026 14:04:38 GMT",
-        "Summary": "Closing the gap: Defra’s Good Food Neighbourhoods IGD (Institute of Grocery Distribution)"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Policy brief: Closing the financing gap for adolescent sexual and reproductive health and rights - Partnership for Maternal, Newborn and Child Health",
-        "Link": "https://pmnch.who.int/resources/publications/m/item/policy-brief-closing-the-financing-gap-for-adolescent-sexual-and-reproductive-health-and-rights",
-        "Published": "Thu, 15 Oct 2026 12:44:30 GMT",
-        "Summary": "Policy brief: Closing the financing gap for adolescent sexual and reproductive health and rights Partnership for Maternal, Newborn and Child Health"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Closing the skills gap - why Salesforce UK is offering free Slack Enterprise to Higher and Further Education students - Diginomica",
         "Link": "https://diginomica.com/closing-skills-gap-why-salesforce-uk-offering-free-slack-enterprise-higher-and-further-education",
         "Published": "Thu, 15 Oct 2026 10:39:47 GMT",
@@ -327,46 +227,80 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "FAME Advisory’s Nirav Shah on Closing the Gap Between Tax Advice and Execution - Hubbis",
-        "Link": "https://www.hubbis.com/article/fame-advisory-s-nirav-shah-on-closing-the-gap-between-tax-advice-and-execution",
-        "Published": "Thu, 15 Oct 2026 07:53:46 GMT",
-        "Summary": "FAME Advisory’s Nirav Shah on Closing the Gap Between Tax Advice and Execution Hubbis"
+        "Title": "The engineers closing AI’s widening gap with its users - Tomorrow's Publisher",
+        "Link": "https://tomorrowspublisher.today/news/the-engineers-closing-ai-s-widening-gap-with-its-users-938082d058d2/index.html",
+        "Published": "Sat, 17 Oct 2026 00:01:01 GMT",
+        "Summary": "The engineers closing AI’s widening gap with its users Tomorrow's Publisher"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "NERC cites rejection, tampering as obstacles to closing metering gap - The Guardian Nigeria News",
-        "Link": "https://guardian.ng/news/nerc-cites-rejection-tampering-as-obstacles-to-closing-metering-gap/",
-        "Published": "Thu, 15 Oct 2026 04:00:00 GMT",
-        "Summary": "NERC cites rejection, tampering as obstacles to closing metering gap The Guardian Nigeria News"
+        "Title": "Closing the Enthusiasm Gap - National Review",
+        "Link": "https://www.nationalreview.com/corner/closing-the-enthusiasm-gap/",
+        "Published": "Fri, 16 Oct 2026 19:28:07 GMT",
+        "Summary": "Closing the Enthusiasm Gap National Review"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Is Mesoblast (ASX:MSB) Closing a Key Ryoncil Quality Gap? - Kalkine Media",
-        "Link": "https://kalkinemedia.com/au/stocks/healthcare/is-mesoblast-asxmsb-closing-a-key-ryoncil-quality-gap",
-        "Published": "Thu, 15 Oct 2026 00:40:00 GMT",
-        "Summary": "Is Mesoblast (ASX:MSB) Closing a Key Ryoncil Quality Gap? Kalkine Media"
+        "Title": "Closing the financing gap to preserve tropical forests - Asset Publishing and Research Limited",
+        "Link": "https://www.theasset.com/article-esg/57341/closing-the-financing-gap-to-preserve-tropical-forests",
+        "Published": "Fri, 16 Oct 2026 16:23:37 GMT",
+        "Summary": "Closing the financing gap to preserve tropical forests Asset Publishing and Research Limited"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Magnoli Technologies Adds Native Payroll Processing, Closing the Last Gap Between Schedule and Paycheck for Dry Cleaning Operators - PR Newswire",
+        "Link": "https://www.prnewswire.com/news-releases/magnoli-technologies-adds-native-payroll-processing-closing-the-last-gap-between-schedule-and-paycheck-for-dry-cleaning-operators-302910741.html",
+        "Published": "Fri, 16 Oct 2026 12:41:00 GMT",
+        "Summary": "Magnoli Technologies Adds Native Payroll Processing, Closing the Last Gap Between Schedule and Paycheck for Dry Cleaning Operators PR Newswire"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing India’s foundational literacy gap | Hindustan Times - Hindustan Times",
+        "Link": "https://www.hindustantimes.com/ht-insight/knowledge/closing-india-s-foundational-literacy-gap-101792134992753.html",
+        "Published": "Fri, 16 Oct 2026 07:19:15 GMT",
+        "Summary": "Closing India’s foundational literacy gap | Hindustan Times Hindustan Times"
       }
     ],
-    "Trimble": [
+    "Sam Edelman": [
       {
-        "company_name": "Trimble",
+        "company_name": "Sam Edelman",
+        "event_type": "Opening",
+        "Title": "Sam Edelman Keeps Retail Momentum Rolling With Suria KLCC Store Opening - Hype.MY",
+        "Link": "https://hype.my/sam-edelman-keeps-retail-momentum-rolling-with-suria-klcc-store-opening/",
+        "Published": "Fri, 16 Oct 2026 02:00:53 GMT",
+        "Summary": "Sam Edelman Keeps Retail Momentum Rolling With Suria KLCC Store Opening Hype.MY"
+      },
+      {
+        "company_name": "Sam Edelman",
         "event_type": "Closing",
-        "Title": "Wheeler Machinery Co. to Acquire SITECH Intermountain, Adding a Dedicated Construction Technology Team - The Manila Times",
-        "Link": "https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/wheeler-machinery-co-to-acquire-sitech-intermountain-adding-a-dedicated-construction-technology-team/2446780",
-        "Published": "Thu, 15 Oct 2026 14:27:07 GMT",
-        "Summary": "Wheeler Machinery Co. to Acquire SITECH Intermountain, Adding a Dedicated Construction Technology Team The Manila Times"
+        "Title": "148-year-old mall retailer behind Famous Footwear closes 18 stores as shoppers change what they buy - AOL.com",
+        "Link": "https://www.aol.com/articles/148-old-mall-retailer-behind-203700000.html",
+        "Published": "Thu, 15 Oct 2026 20:37:00 GMT",
+        "Summary": "148-year-old mall retailer behind Famous Footwear closes 18 stores as shoppers change what they buy AOL.com"
       }
     ],
-    "Tumbles": [
+    "Spectrum": [
       {
-        "company_name": "Tumbles",
-        "event_type": "Closing",
-        "Title": "PSEi falls to 5,617 as ICTSI tumbles - Inquirer.net",
-        "Link": "https://business.inquirer.net/615879/psei-falls-to-5617-as-ictsi-tumbles",
-        "Published": "Wed, 14 Oct 2026 09:01:00 GMT",
-        "Summary": "PSEi falls to 5,617 as ICTSI tumbles Inquirer.net"
+        "company_name": "Spectrum",
+        "event_type": "Opening",
+        "Title": "St. Louis City ties 'Caps 0-0, extends unbeaten streak in all com­pe­ti­tions to MLS-record 21 games - Spectrum News",
+        "Link": "https://spectrumlocalnews.com/mo/st-louis/news/2026/10/15/st--louis-city-ties--caps-0-0--extends-unbeaten-streak",
+        "Published": "Thu, 15 Oct 2026 15:09:00 GMT",
+        "Summary": "St. Louis City ties 'Caps 0-0, extends unbeaten streak in all com­pe­ti­tions to MLS-record 21 games Spectrum News"
+      }
+    ],
+    "Tempur-Pedic": [
+      {
+        "company_name": "Tempur-Pedic",
+        "event_type": "Opening",
+        "Title": "Gardner White opens new Grand Rapids location, gives back to community - FOX 17 West Michigan News",
+        "Link": "https://www.fox17online.com/morning-mix/gardner-white-opens-new-grand-rapids-location-gives-back-to-community",
+        "Published": "Fri, 16 Oct 2026 15:47:04 GMT",
+        "Summary": "Gardner White opens new Grand Rapids location, gives back to community FOX 17 West Michigan News"
       }
     ],
     "WSS": [
