@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20",
+  "last_updated": "2026-10-21",
   "data": {
     "Acadia Healthcare": [
       {
@@ -7,38 +7,18 @@
         "event_type": "Closing",
         "Title": "Layoffs, closures tracker: Provider Partners to cut 161 roles - Modern Healthcare",
         "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
-        "Published": "Mon, 19 Oct 2026 01:56:28 GMT",
+        "Published": "Tue, 20 Oct 2026 17:57:14 GMT",
         "Summary": "Layoffs, closures tracker: Provider Partners to cut 161 roles Modern Healthcare"
       }
     ],
-    "Carhartt": [
+    "Jersey Mike's": [
       {
-        "company_name": "Carhartt",
-        "event_type": "Closing",
-        "Title": "Carhartt's Fan-Favorite Dog Chore Coat Just Got a Major Price Drop—Here's Why Pet Parents Are Loving It - PetHelpful",
-        "Link": "https://pethelpful.com/shopping/carhartt-denim-insulated-dog-chore-coat",
-        "Published": "Sun, 18 Oct 2026 09:17:00 GMT",
-        "Summary": "Carhartt's Fan-Favorite Dog Chore Coat Just Got a Major Price Drop—Here's Why Pet Parents Are Loving It PetHelpful"
-      }
-    ],
-    "LabCorp": [
-      {
-        "company_name": "LabCorp",
-        "event_type": "Closing",
-        "Title": "Labcorp To Acquire Select BioReference Health Assets From OPKO Health For Up To $872 Million - Pulse 2.0",
-        "Link": "https://pulse2.com/labcorp-to-acquire-select-bioreference-health-assets-from-opko-health-for-up-to-872-million/",
-        "Published": "Mon, 19 Oct 2026 13:09:46 GMT",
-        "Summary": "Labcorp To Acquire Select BioReference Health Assets From OPKO Health For Up To $872 Million Pulse 2.0"
-      }
-    ],
-    "Mor Furniture for Less": [
-      {
-        "company_name": "Mor Furniture for Less",
+        "company_name": "Jersey Mike's",
         "event_type": "Opening",
-        "Title": "New Apothecary opens in Rathdrum - Hagadone News Network",
-        "Link": "https://hagadonenewsnetwork.com/news/2026/oct/18/new-apothecary-opens-in-rathdrum/",
-        "Published": "Sun, 18 Oct 2026 08:06:00 GMT",
-        "Summary": "New Apothecary opens in Rathdrum Hagadone News Network"
+        "Title": "Looks Like Jersey Mike's Subs Will Be Opening Up a New Location in Yakima - News Talk KIT",
+        "Link": "https://newstalkkit.com/jersey-mikes-subs-yakima-opens-soon/",
+        "Published": "Tue, 20 Oct 2026 18:09:55 GMT",
+        "Summary": "Looks Like Jersey Mike's Subs Will Be Opening Up a New Location in Yakima News Talk KIT"
       }
     ],
     "HCA Healthcare": [
@@ -55,96 +35,216 @@
         "event_type": "Closing",
         "Title": "Layoffs, closures tracker: Provider Partners to cut 161 roles - Modern Healthcare",
         "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
-        "Published": "Mon, 19 Oct 2026 01:56:28 GMT",
+        "Published": "Tue, 20 Oct 2026 17:57:14 GMT",
         "Summary": "Layoffs, closures tracker: Provider Partners to cut 161 roles Modern Healthcare"
+      },
+      {
+        "company_name": "HCA Healthcare",
+        "event_type": "Closing",
+        "Title": "Deals tracker: Parkview Health to acquire Ovation Healthcare - Modern Healthcare",
+        "Link": "https://www.modernhealthcare.com/mergers-acquisitions/mh-healthcare-deals-live-updates/",
+        "Published": "Mon, 19 Oct 2026 16:43:00 GMT",
+        "Summary": "Deals tracker: Parkview Health to acquire Ovation Healthcare Modern Healthcare"
+      }
+    ],
+    "LabCorp": [
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Labcorp acquisition spree continues - BioWorld News",
+        "Link": "https://www.bioworld.com/articles/734860-labcorp-acquisition-spree-continues",
+        "Published": "Tue, 20 Oct 2026 16:00:00 GMT",
+        "Summary": "Labcorp acquisition spree continues BioWorld News"
+      },
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Myriad Genetics to Sell Prenatal Health Division to LabCorp for $210 Million Cash - Kalkine Media",
+        "Link": "https://kalkinemedia.com/us/news/announcements/myriad-genetics-to-sell-prenatal-health-division-to-labcorp-for-210-million-cash",
+        "Published": "Tue, 20 Oct 2026 12:45:34 GMT",
+        "Summary": "Myriad Genetics to Sell Prenatal Health Division to LabCorp for $210 Million Cash Kalkine Media"
+      },
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Labcorp agreed to pay $210 million in cash, plus inventory value at closing, for Myriad's prenatal testing business. - Stock Titan",
+        "Link": "https://www.stocktitan.net/news/MYGN/myriad-genetics-and-labcorp-announce-definitive-agreement-for-myriad-l498spt656rz.html",
+        "Published": "Tue, 20 Oct 2026 12:30:00 GMT",
+        "Summary": "Labcorp agreed to pay $210 million in cash, plus inventory value at closing, for Myriad's prenatal testing business. Stock Titan"
+      },
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp - FinancialContent",
+        "Link": "https://www.financialcontent.com/article/gnwcq-2026-10-20-myriad-genetics-and-labcorp-announce-definitive-agreement-for-myriad-to-sell-prenatal-health-testing-business-to-labcorp",
+        "Published": "Tue, 20 Oct 2026 12:30:00 GMT",
+        "Summary": "Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp FinancialContent"
+      },
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Labcorp To Acquire Select BioReference Health Assets From OPKO Health For Up To $872 Million - Pulse 2.0",
+        "Link": "https://pulse2.com/labcorp-to-acquire-select-bioreference-health-assets-from-opko-health-for-up-to-872-million/",
+        "Published": "Mon, 19 Oct 2026 13:09:46 GMT",
+        "Summary": "Labcorp To Acquire Select BioReference Health Assets From OPKO Health For Up To $872 Million Pulse 2.0"
+      },
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Weekly Recap: 2026 outlook raise and $250M acquisition revenue boost - TradingView",
+        "Link": "https://www.tradingview.com/news/tradingview:6e3a14ace140d:0-weekly-recap-2026-outlook-raise-and-250m-acquisition-revenue-boost/",
+        "Published": "Mon, 19 Oct 2026 11:00:00 GMT",
+        "Summary": "Weekly Recap: 2026 outlook raise and $250M acquisition revenue boost TradingView"
+      }
+    ],
+    "Panera Bread": [
+      {
+        "company_name": "Panera Bread",
+        "event_type": "Closing",
+        "Title": "Panera Bread at Keizer Station is set to close - Statesman Journal",
+        "Link": "https://www.statesmanjournal.com/story/life/food/2026/10/20/panera-bread-close-keizer-station-location/92332748007/",
+        "Published": "Tue, 20 Oct 2026 11:02:00 GMT",
+        "Summary": "Panera Bread at Keizer Station is set to close Statesman Journal"
       }
     ],
     "Popeyes": [
       {
         "company_name": "Popeyes",
         "event_type": "Opening",
-        "Title": "Major fast food chain preparing to launch in Norfolk – everything you need to know - Norwich Evening News",
-        "Link": "https://www.eveningnews24.co.uk/news/26638263.need-know-popeyes-opening-norfolk/",
-        "Published": "Sun, 18 Oct 2026 12:00:00 GMT",
-        "Summary": "Major fast food chain preparing to launch in Norfolk – everything you need to know Norwich Evening News"
-      }
-    ],
-    "Panera Bread": [
-      {
-        "company_name": "Panera Bread",
-        "event_type": "Opening",
-        "Title": "Panera Bread Katy Freeway Grand Opening - Covering Katy News",
-        "Link": "https://coveringkaty.com/events/panera-bread-katy-freeway-grand-opening/?occ_dtstart=2026-10-21T06:00",
-        "Published": "Sun, 18 Oct 2026 00:15:30 GMT",
-        "Summary": "Panera Bread Katy Freeway Grand Opening Covering Katy News"
-      },
-      {
-        "company_name": "Panera Bread",
-        "event_type": "Closing",
-        "Title": "Panera Bread Closing Downtown Grand Rapids Location After 13 Years - 97.9 WGRD",
-        "Link": "https://wgrd.com/panera-downtown-grand-rapids-closing/",
-        "Published": "Mon, 19 Oct 2026 16:44:37 GMT",
-        "Summary": "Panera Bread Closing Downtown Grand Rapids Location After 13 Years 97.9 WGRD"
-      }
-    ],
-    "SNIPES": [
-      {
-        "company_name": "SNIPES",
-        "event_type": "Closing",
-        "Title": "Longtime coastal restaurant can't find buyer, will close - The Business Journals",
-        "Link": "https://www.bizjournals.com/triangle/news/2026/10/19/blue-cow-grille-restaurant-southport-closing.html",
-        "Published": "Mon, 19 Oct 2026 16:21:00 GMT",
-        "Summary": "Longtime coastal restaurant can't find buyer, will close The Business Journals"
+        "Title": "Fast food giant opens new restaurant in York city centre - Yorkshire Live",
+        "Link": "https://www.examinerlive.co.uk/whats-on/food-drink-news/fast-food-giants-opens-new-34789324.amp",
+        "Published": "Tue, 20 Oct 2026 13:27:00 GMT",
+        "Summary": "Fast food giant opens new restaurant in York city centre Yorkshire Live"
       }
     ],
     "Gap": [
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "How MTN, Gates Foundation are Closing Nigeria’s Maternal Health Gap Through AI, Connectivity and a $25m Partnership - THISDAYLIVE",
-        "Link": "https://www.thisdaylive.com/2026/10/20/how-mtn-gates-foundation-are-closing-nigerias-maternal-health-gap-through-ai-connectivity-and-a-25m-partnership/",
-        "Published": "Tue, 20 Oct 2026 02:01:22 GMT",
-        "Summary": "How MTN, Gates Foundation are Closing Nigeria’s Maternal Health Gap Through AI, Connectivity and a $25m Partnership THISDAYLIVE"
+        "Title": "The AI capability gap is closing faster than many expected - SDxCentral",
+        "Link": "https://www.sdxcentral.com/opinions/the-ai-capability-gap-is-closing-faster-than-many-expected/",
+        "Published": "Wed, 21 Oct 2026 00:26:14 GMT",
+        "Summary": "The AI capability gap is closing faster than many expected SDxCentral"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing Virginia’s child care affordability gap could cost up to $4.5B a year - WWBT",
+        "Link": "https://www.12onyourside.com/2026/10/20/closing-virginias-child-care-affordability-gap-could-cost-up-45b-year/",
+        "Published": "Tue, 20 Oct 2026 18:42:00 GMT",
+        "Summary": "Closing Virginia’s child care affordability gap could cost up to $4.5B a year WWBT"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the gap between healthcare availability and access in Nigeria - Premium Times Nigeria",
+        "Link": "https://www.premiumtimesng.com/promoted/918618-closing-the-gap-between-healthcare-availability-and-access-in-nigeria.html",
+        "Published": "Tue, 20 Oct 2026 18:36:47 GMT",
+        "Summary": "Closing the gap between healthcare availability and access in Nigeria Premium Times Nigeria"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Dems Closing Midterm Funding Gap - Erie News Now",
+        "Link": "https://www.erienewsnow.com/watch/video/dems-closing-midterm-funding-gap/video_fd9cc18b-c67d-5d84-b733-7bf7d1ec106d.html",
+        "Published": "Tue, 20 Oct 2026 18:29:15 GMT",
+        "Summary": "Dems Closing Midterm Funding Gap Erie News Now"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Why closing the capacity gap is key to growth - Bdaily",
+        "Link": "https://bdaily.co.uk/articles/2026/10/20/why-closing-the-capacity-gap-is-key-to-growth",
+        "Published": "Tue, 20 Oct 2026 16:07:18 GMT",
+        "Summary": "Why closing the capacity gap is key to growth Bdaily"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the gender pension gap - labor supply and welfare effects of progressive pensions - IFS | Institute for Fiscal Studies",
+        "Link": "https://ifs.org.uk/publications/closing-gender-pension-gap-labor-supply-and-welfare-effects-progressive-pensions",
+        "Published": "Tue, 20 Oct 2026 13:35:36 GMT",
+        "Summary": "Closing the gender pension gap - labor supply and welfare effects of progressive pensions IFS | Institute for Fiscal Studies"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "RICS CEO on closing the skills gap and unlocking growth through devolution - Property Week",
+        "Link": "https://www.propertyweek.com/analysis/rics-ceo-on-closing-the-skills-gap-and-unlocking-growth-through-devolution",
+        "Published": "Tue, 20 Oct 2026 13:10:41 GMT",
+        "Summary": "RICS CEO on closing the skills gap and unlocking growth through devolution Property Week"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "African Development Bank Group and Rwandan commercial banks discuss closing Africa’s $92 billion trade finance gap - African Development Bank Group",
+        "Link": "https://www.afdb.org/en/news-and-events/african-development-bank-group-rwandan-commercial-97673",
+        "Published": "Tue, 20 Oct 2026 11:49:12 GMT",
+        "Summary": "African Development Bank Group and Rwandan commercial banks discuss closing Africa’s $92 billion trade finance gap African Development Bank Group"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Expert Views - Closing the Gender Gap in the Maritime Industry - Riviera Maritime Media",
+        "Link": "https://www.rivieramm.com/expert-views/closing-the-gender-gap-in-the-maritime-industry",
+        "Published": "Tue, 20 Oct 2026 11:01:09 GMT",
+        "Summary": "Expert Views - Closing the Gender Gap in the Maritime Industry Riviera Maritime Media"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing Virginia’s child care affordability gap could cost up to $4.5B a year - Virginia Mercury",
+        "Link": "https://virginiamercury.com/2026/10/20/closing-virginias-child-care-affordability-gap-could-cost-up-to-gap-4-5-billion-a-year/",
+        "Published": "Tue, 20 Oct 2026 09:35:53 GMT",
+        "Summary": "Closing Virginia’s child care affordability gap could cost up to $4.5B a year Virginia Mercury"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the agent governance gap - CIO",
+        "Link": "https://www.cio.com/article/4237146/closing-the-agent-governance-gap.html",
+        "Published": "Tue, 20 Oct 2026 09:04:46 GMT",
+        "Summary": "Closing the agent governance gap CIO"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Rhode Island is closing the test score gap with Massachusetts. But is that really progress? - Ocean State Media",
+        "Link": "https://www.oceanstatemedia.org/education-news/2026-10-20/rhode-island-is-closing-the-test-score-gap-with-massachusetts-but-is-that-really-progress",
+        "Published": "Tue, 20 Oct 2026 09:03:00 GMT",
+        "Summary": "Rhode Island is closing the test score gap with Massachusetts. But is that really progress? Ocean State Media"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the protection gap: Why maternal immunisation needs country-led readiness - FIGO.org",
+        "Link": "https://www.figo.org/news/closing-protection-gap-why-maternal-immunisation-needs-country-led-readiness",
+        "Published": "Tue, 20 Oct 2026 08:20:22 GMT",
+        "Summary": "Closing the protection gap: Why maternal immunisation needs country-led readiness FIGO.org"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Vincent Sourdaine: Closing the deep brain stimulation awareness gap - Healthcare Today",
+        "Link": "https://healthcaretoday.com/article/vincent-sourdaine-closing-the-deep-brain-stimulation-awareness-gap",
+        "Published": "Tue, 20 Oct 2026 05:44:05 GMT",
+        "Summary": "Vincent Sourdaine: Closing the deep brain stimulation awareness gap Healthcare Today"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Gap: Europe's EV and Battery Production Disconnect - Benchmark Mineral Intelligence",
+        "Link": "https://www.benchmarkminerals.com/events/closing-the-gap-europe-s-ev-and-battery-production-disconnect",
+        "Published": "Tue, 20 Oct 2026 03:18:34 GMT",
+        "Summary": "Closing the Gap: Europe's EV and Battery Production Disconnect Benchmark Mineral Intelligence"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
         "Title": "No, Blakeman is not closing the gap as his campaign douses GOP’s 2022 momentum - The South Shore Press",
-        "Link": "https://southshorepress.com/opinion/no-blakeman-is-not-closing-the-gap-as-his-campaign-douses-gop-s-2022-momentum-594de222",
+        "Link": "https://www.southshorepress.com/opinion/no-blakeman-is-not-closing-the-gap-as-his-campaign-douses-gop-s-2022-momentum-594de222",
         "Published": "Tue, 20 Oct 2026 01:02:33 GMT",
         "Summary": "No, Blakeman is not closing the gap as his campaign douses GOP’s 2022 momentum The South Shore Press"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the gap between approval and treatment - Fierce Pharma",
-        "Link": "https://www.fiercepharma.com/sponsored/closing-gap-between-approval-and-treatment",
-        "Published": "Tue, 20 Oct 2026 00:05:38 GMT",
-        "Summary": "Closing the gap between approval and treatment Fierce Pharma"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Blaney reflects on Phoenix runner-up finish, closing Chase gap - NASCAR.com",
-        "Link": "https://www.nascar.com/videos/franchise/nascar-cup-post-race-reactions/blaney-reflects-on-phoenix-runner-up-finish-closing-chase-gap/",
-        "Published": "Sun, 18 Oct 2026 22:38:54 GMT",
-        "Summary": "Blaney reflects on Phoenix runner-up finish, closing Chase gap NASCAR.com"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "How Lantronix Is Closing the Compute Gap for Autonomous Drones and Robots - Mobility Engineering Technology",
-        "Link": "https://www.mobilityengineeringtech.com/component/content/article/56096-how-lantronix-is-closing-the-compute-gap-for-autonomous-drones-and-robots",
-        "Published": "Sun, 18 Oct 2026 11:00:00 GMT",
-        "Summary": "How Lantronix Is Closing the Compute Gap for Autonomous Drones and Robots Mobility Engineering Technology"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Treatment Gap: Individualized Care for Hispanic Patients - Psychiatric Times",
-        "Link": "https://www.psychiatrictimes.com/view/closing-the-treatment-gap-individualized-care-for-hispanic-patients",
-        "Published": "Sun, 18 Oct 2026 07:00:00 GMT",
-        "Summary": "Closing the Treatment Gap: Individualized Care for Hispanic Patients Psychiatric Times"
       },
       {
         "company_name": "Gap",
@@ -153,14 +253,6 @@
         "Link": "https://louisianaradionetwork.com/2026/10/19/48614/",
         "Published": "Mon, 19 Oct 2026 22:59:40 GMT",
         "Summary": "As Louisiana U.S. Senate election approaches, the campaign financial gap is closing between Jamie Davis and Julia Letlow louisianaradionetwork.com"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing Canada’s life insurance protection gap - Advisor.ca",
-        "Link": "https://www.advisor.ca/partner-content/industry-insights/desjardins/closing-canadas-life-insurance-protection-gap/",
-        "Published": "Mon, 19 Oct 2026 19:39:03 GMT",
-        "Summary": "Closing Canada’s life insurance protection gap Advisor.ca"
       },
       {
         "company_name": "Gap",
@@ -189,26 +281,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Why Good Intentions Aren’t Closing Cybersecurity’s Gender Gap - DIGIT.FYI",
-        "Link": "https://www.digit.fyi/women-in-cybersecurity/",
-        "Published": "Mon, 19 Oct 2026 15:21:22 GMT",
-        "Summary": "Why Good Intentions Aren’t Closing Cybersecurity’s Gender Gap DIGIT.FYI"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Sustainable Finance Live: Closing the gap between talk and community action - Finextra Research",
         "Link": "https://www.finextra.com/the-long-read/1782/sustainable-finance-live-closing-the-gap-between-talk-and-community-action",
         "Published": "Mon, 19 Oct 2026 15:00:00 GMT",
         "Summary": "Sustainable Finance Live: Closing the gap between talk and community action Finextra Research"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "doola MCP Brings US LLC Formation to Grok Build, Closing the Gap Between Building an App and Owning a Company - Newswire",
-        "Link": "https://www.newswire.com/news/doola-mcp-brings-us-llc-formation-to-grok-build-closing-the-gap-22875936",
-        "Published": "Mon, 19 Oct 2026 13:30:00 GMT",
-        "Summary": "doola MCP Brings US LLC Formation to Grok Build, Closing the Gap Between Building an App and Owning a Company Newswire"
       },
       {
         "company_name": "Gap",
@@ -229,22 +305,6 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Event round-up | Closing the gap: Women, work & AI adoption - Wired Gov",
-        "Link": "https://www.wired-gov.net/wg/news.nsf/articles/Event+roundup+%7C+Closing+the+gap+Women+work++AI+adoption+19102026092000?open",
-        "Published": "Mon, 19 Oct 2026 10:48:37 GMT",
-        "Summary": "Event round-up | Closing the gap: Women, work & AI adoption Wired Gov"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the gap between project technology and performance - MEED",
-        "Link": "https://www.meed.com/closing-the-gap-between-project-technology-and-performance",
-        "Published": "Mon, 19 Oct 2026 10:46:07 GMT",
-        "Summary": "Closing the gap between project technology and performance MEED"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Closing the taste gap: How close can natural sweeteners get to sugar and sucralose - NutraIngredients.com",
         "Link": "https://www.nutraingredients.com/Product-innovations/closing-the-taste-gap-how-close-can-natural-sweeteners-get-to-sugar-and-sucralose/",
         "Published": "Mon, 19 Oct 2026 10:40:09 GMT",
@@ -253,34 +313,36 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "NIL Africa becomes Trainocate Africa: A new chapter in closing Africa’s digital skills gap - ITWeb",
-        "Link": "https://www.itweb.co.za/article/nil-africa-becomes-trainocate-africa-a-new-chapter-in-closing-africas-digital-skills-gap/kYbe97XbjAyqAWpG",
-        "Published": "Mon, 19 Oct 2026 09:06:00 GMT",
-        "Summary": "NIL Africa becomes Trainocate Africa: A new chapter in closing Africa’s digital skills gap ITWeb"
+        "Title": "Closing the gap between approval and treatment - Fierce Pharma",
+        "Link": "https://www.fiercepharma.com/sponsored/closing-gap-between-approval-and-treatment",
+        "Published": "Mon, 19 Oct 2026 07:00:00 GMT",
+        "Summary": "Closing the gap between approval and treatment Fierce Pharma"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the Gap between Map and Track: Clearance Analysis and Asset Database Reconciliation with Mobile Mapping - Railway-News",
-        "Link": "https://railway-news.com/infraview-closing-the-gap-between-map-and-track-clearance-analysis-and-asset-database-reconciliation-with-mobile-mapping/",
-        "Published": "Mon, 19 Oct 2026 07:12:22 GMT",
-        "Summary": "Closing the Gap between Map and Track: Clearance Analysis and Asset Database Reconciliation with Mobile Mapping Railway-News"
+        "Title": "Closing $4 Trillion Development Financing Gap Requires Urgent Action, Speakers Tell Joint Meeting of Second Committee, Economic and Social Council - UN Meetings Coverage and Press Releases",
+        "Link": "https://press.un.org/en/2026/gaef3629.doc.htm",
+        "Published": "Mon, 19 Oct 2026 04:00:00 GMT",
+        "Summary": "Closing $4 Trillion Development Financing Gap Requires Urgent Action, Speakers Tell Joint Meeting of Second Committee, Economic and Social Council UN Meetings Coverage and Press Releases"
+      }
+    ],
+    "SNIPES": [
+      {
+        "company_name": "SNIPES",
+        "event_type": "Closing",
+        "Title": "France's 35-Hour Workweek Fuels Economic Stagnation and Factory Closures - 조선일보",
+        "Link": "https://www.chosun.com/english/market-money-en/2026/10/20/FIGDVWGL3ZDCZAZEPJ5NQH635M/",
+        "Published": "Tue, 20 Oct 2026 05:21:08 GMT",
+        "Summary": "France's 35-Hour Workweek Fuels Economic Stagnation and Factory Closures 조선일보"
       },
       {
-        "company_name": "Gap",
+        "company_name": "SNIPES",
         "event_type": "Closing",
-        "Title": "The AI capability gap is closing faster than many expected - SDxCentral",
-        "Link": "https://www.sdxcentral.com/opinions/the-ai-capability-gap-is-closing-faster-than-many-expected/",
-        "Published": "Mon, 19 Oct 2026 06:24:19 GMT",
-        "Summary": "The AI capability gap is closing faster than many expected SDxCentral"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Meaning Gap: A Team Conversation Activity - AASA, The School Superintendents Association",
-        "Link": "https://www.aasa.org/resources/resource/closing-the-meaning-gap-team-activity",
-        "Published": "Mon, 19 Oct 2026 04:01:32 GMT",
-        "Summary": "Closing the Meaning Gap: A Team Conversation Activity AASA, The School Superintendents Association"
+        "Title": "Longtime coastal restaurant can't find buyer, will close - The Business Journals",
+        "Link": "https://www.bizjournals.com/triangle/news/2026/10/19/blue-cow-grille-restaurant-southport-closing.html",
+        "Published": "Mon, 19 Oct 2026 16:21:00 GMT",
+        "Summary": "Longtime coastal restaurant can't find buyer, will close The Business Journals"
       }
     ],
     "The UPS Store": [
@@ -297,20 +359,28 @@
       {
         "company_name": "Tumbles",
         "event_type": "Closing",
-        "Title": "Sensex tumbles 876 points to settle at 73,852, Nifty drops 257 points to 22,888 - Telegraph India",
-        "Link": "https://www.telegraphindia.com/amp/business/sensex-tumbles-876-points-to-settle-at-73852-nifty-drops-257-points-to-22888/cid/2185406",
+        "Title": "Sensex crashes 876 points, Nifty falls below 22,900 on private bank sell-off - Telegraph India",
+        "Link": "https://www.telegraphindia.com/business/sensex-tumbles-876-points-to-settle-at-73852-nifty-drops-257-points-to-22888/cid/2185406",
         "Published": "Mon, 19 Oct 2026 10:12:14 GMT",
-        "Summary": "Sensex tumbles 876 points to settle at 73,852, Nifty drops 257 points to 22,888 Telegraph India"
+        "Summary": "Sensex crashes 876 points, Nifty falls below 22,900 on private bank sell-off Telegraph India"
       }
     ],
-    "Wayfair": [
+    "World Market": [
       {
-        "company_name": "Wayfair",
+        "company_name": "World Market",
         "event_type": "Opening",
-        "Title": "Wayfair announces grand opening dates for large store in Denver - CBS News",
-        "Link": "https://www.cbsnews.com/colorado/video/wayfair-announces-grand-opening-dates-for-large-store-in-denver/",
-        "Published": "Tue, 20 Oct 2026 00:36:00 GMT",
-        "Summary": "Wayfair announces grand opening dates for large store in Denver CBS News"
+        "Title": "World Market to Open 16,984-Square-Foot Store in Spokane Valley, Washington - citybiz",
+        "Link": "https://www.citybiz.co/article/921199/world-market-to-open-16984-square-foot-store-in-spokane-valley-washington/",
+        "Published": "Tue, 20 Oct 2026 12:56:09 GMT",
+        "Summary": "World Market to Open 16,984-Square-Foot Store in Spokane Valley, Washington citybiz"
+      },
+      {
+        "company_name": "World Market",
+        "event_type": "Opening",
+        "Title": "World Market Opens New Store in Spokane Valley, WA - Business Wire",
+        "Link": "https://www.businesswire.com/news/home/20261020954641/en/World-Market-Opens-New-Store-in-Spokane-Valley-WA",
+        "Published": "Tue, 20 Oct 2026 11:00:00 GMT",
+        "Summary": "World Market Opens New Store in Spokane Valley, WA Business Wire"
       }
     ]
   }
