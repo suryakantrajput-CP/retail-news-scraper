@@ -1,50 +1,54 @@
 {
-  "last_updated": "2026-10-21",
+  "last_updated": "2026-10-22",
   "data": {
-    "Acadia Healthcare": [
+    "Boost Mobile": [
       {
-        "company_name": "Acadia Healthcare",
-        "event_type": "Closing",
-        "Title": "Layoffs, closures tracker: Provider Partners to cut 161 roles - Modern Healthcare",
-        "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
-        "Published": "Tue, 20 Oct 2026 17:57:14 GMT",
-        "Summary": "Layoffs, closures tracker: Provider Partners to cut 161 roles Modern Healthcare"
+        "company_name": "Boost Mobile",
+        "event_type": "Opening",
+        "Title": "Little Caesars is coming to West Haven next year - CTPost",
+        "Link": "https://www.ctpost.com/food/article/little-caesars-west-haven-opening-22486143.php",
+        "Published": "Tue, 20 Oct 2026 21:37:18 GMT",
+        "Summary": "Little Caesars is coming to West Haven next year CTPost"
       }
     ],
-    "Jersey Mike's": [
+    "Bonobos": [
       {
-        "company_name": "Jersey Mike's",
+        "company_name": "Bonobos",
+        "event_type": "Closing",
+        "Title": "Every Henderson Avenue Opening & Closing (Updated Fall 2026) - D Magazine",
+        "Link": "https://www.dmagazine.com/food-drink/2026/10/henderson-avenue-openings-and-closings/",
+        "Published": "Tue, 20 Oct 2026 07:00:00 GMT",
+        "Summary": "Every Henderson Avenue Opening & Closing (Updated Fall 2026) D Magazine"
+      }
+    ],
+    "Carhartt": [
+      {
+        "company_name": "Carhartt",
+        "event_type": "Closing",
+        "Title": "Carhartt’s Technical New Outerwear Is Made to Withstand the Coldest Conditions - Gear Patrol",
+        "Link": "https://www.gearpatrol.com/outdoors/carhartt-great-lands-jacket/",
+        "Published": "Wed, 21 Oct 2026 16:31:20 GMT",
+        "Summary": "Carhartt’s Technical New Outerwear Is Made to Withstand the Coldest Conditions Gear Patrol"
+      }
+    ],
+    "Disney Store": [
+      {
+        "company_name": "Disney Store",
         "event_type": "Opening",
-        "Title": "Looks Like Jersey Mike's Subs Will Be Opening Up a New Location in Yakima - News Talk KIT",
-        "Link": "https://newstalkkit.com/jersey-mikes-subs-yakima-opens-soon/",
-        "Published": "Tue, 20 Oct 2026 18:09:55 GMT",
-        "Summary": "Looks Like Jersey Mike's Subs Will Be Opening Up a New Location in Yakima News Talk KIT"
+        "Title": "Ariel & Lottie Limited Edition Designer Dolls Coming Soon to Disney Parks and Online - WDW News Today",
+        "Link": "https://wdwnt.com/2026/10/ariel-lottie-limited-edition-designer-dolls-coming-soon-to-disney-parks-and-online/",
+        "Published": "Wed, 21 Oct 2026 16:02:00 GMT",
+        "Summary": "Ariel & Lottie Limited Edition Designer Dolls Coming Soon to Disney Parks and Online WDW News Today"
       }
     ],
     "HCA Healthcare": [
       {
         "company_name": "HCA Healthcare",
-        "event_type": "Opening",
-        "Title": "HCA Healthcare opens new Center for Clinical Advancement to strengthen clinical education and patient care - Alachua Chronicle",
-        "Link": "https://alachuachronicle.com/hca-healthcare-opens-new-center-for-clinical-advancement-to-strengthen-clinical-education-and-patient-care/",
-        "Published": "Mon, 19 Oct 2026 19:35:27 GMT",
-        "Summary": "HCA Healthcare opens new Center for Clinical Advancement to strengthen clinical education and patient care Alachua Chronicle"
-      },
-      {
-        "company_name": "HCA Healthcare",
         "event_type": "Closing",
-        "Title": "Layoffs, closures tracker: Provider Partners to cut 161 roles - Modern Healthcare",
-        "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
-        "Published": "Tue, 20 Oct 2026 17:57:14 GMT",
-        "Summary": "Layoffs, closures tracker: Provider Partners to cut 161 roles Modern Healthcare"
-      },
-      {
-        "company_name": "HCA Healthcare",
-        "event_type": "Closing",
-        "Title": "Deals tracker: Parkview Health to acquire Ovation Healthcare - Modern Healthcare",
-        "Link": "https://www.modernhealthcare.com/mergers-acquisitions/mh-healthcare-deals-live-updates/",
-        "Published": "Mon, 19 Oct 2026 16:43:00 GMT",
-        "Summary": "Deals tracker: Parkview Health to acquire Ovation Healthcare Modern Healthcare"
+        "Title": "Closing the preeclampsia prevention gap with low-dose aspirin - HCA Healthcare Today",
+        "Link": "https://hcahealthcaretoday.com/2026/10/21/closing-the-preeclampsia-prevention-gap-with-low-dose-aspirin/",
+        "Published": "Wed, 21 Oct 2026 20:47:59 GMT",
+        "Summary": "Closing the preeclampsia prevention gap with low-dose aspirin HCA Healthcare Today"
       }
     ],
     "LabCorp": [
@@ -55,6 +59,14 @@
         "Link": "https://www.bioworld.com/articles/734860-labcorp-acquisition-spree-continues",
         "Published": "Tue, 20 Oct 2026 16:00:00 GMT",
         "Summary": "Labcorp acquisition spree continues BioWorld News"
+      },
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Myriad Genetics to Sell Prenatal Testing Business to Labcorp for $210M - GenomeWeb",
+        "Link": "https://www.genomeweb.com/business-news/financial/mergers-acquisitions/gnw-myriad-labcorp-prenatal-testing-20261020/",
+        "Published": "Tue, 20 Oct 2026 14:13:00 GMT",
+        "Summary": "Myriad Genetics to Sell Prenatal Testing Business to Labcorp for $210M GenomeWeb"
       },
       {
         "company_name": "LabCorp",
@@ -79,22 +91,6 @@
         "Link": "https://www.financialcontent.com/article/gnwcq-2026-10-20-myriad-genetics-and-labcorp-announce-definitive-agreement-for-myriad-to-sell-prenatal-health-testing-business-to-labcorp",
         "Published": "Tue, 20 Oct 2026 12:30:00 GMT",
         "Summary": "Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp FinancialContent"
-      },
-      {
-        "company_name": "LabCorp",
-        "event_type": "Closing",
-        "Title": "Labcorp To Acquire Select BioReference Health Assets From OPKO Health For Up To $872 Million - Pulse 2.0",
-        "Link": "https://pulse2.com/labcorp-to-acquire-select-bioreference-health-assets-from-opko-health-for-up-to-872-million/",
-        "Published": "Mon, 19 Oct 2026 13:09:46 GMT",
-        "Summary": "Labcorp To Acquire Select BioReference Health Assets From OPKO Health For Up To $872 Million Pulse 2.0"
-      },
-      {
-        "company_name": "LabCorp",
-        "event_type": "Closing",
-        "Title": "Weekly Recap: 2026 outlook raise and $250M acquisition revenue boost - TradingView",
-        "Link": "https://www.tradingview.com/news/tradingview:6e3a14ace140d:0-weekly-recap-2026-outlook-raise-and-250m-acquisition-revenue-boost/",
-        "Published": "Mon, 19 Oct 2026 11:00:00 GMT",
-        "Summary": "Weekly Recap: 2026 outlook raise and $250M acquisition revenue boost TradingView"
       }
     ],
     "Panera Bread": [
@@ -117,14 +113,80 @@
         "Summary": "Fast food giant opens new restaurant in York city centre Yorkshire Live"
       }
     ],
+    "Sam Edelman": [
+      {
+        "company_name": "Sam Edelman",
+        "event_type": "Opening",
+        "Title": "Henderson Avenue project attracts more high-end retailers as scope expands - The Business Journals",
+        "Link": "https://www.bizjournals.com/dallas/news/2026/10/20/henderson-avenue-moscot-jenni-kayne-frankies-bikin.html",
+        "Published": "Tue, 20 Oct 2026 12:30:00 GMT",
+        "Summary": "Henderson Avenue project attracts more high-end retailers as scope expands The Business Journals"
+      }
+    ],
     "Gap": [
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "The AI capability gap is closing faster than many expected - SDxCentral",
-        "Link": "https://www.sdxcentral.com/opinions/the-ai-capability-gap-is-closing-faster-than-many-expected/",
-        "Published": "Wed, 21 Oct 2026 00:26:14 GMT",
-        "Summary": "The AI capability gap is closing faster than many expected SDxCentral"
+        "Title": "Closing the Gap Between Threat Detection and Response - Security Info Watch",
+        "Link": "https://www.securityinfowatch.com/security-executives/protective-operations-guard-services/executive-vip-protection/article/55413516/closing-the-gap-between-threat-detection-and-response",
+        "Published": "Wed, 21 Oct 2026 22:28:44 GMT",
+        "Summary": "Closing the Gap Between Threat Detection and Response Security Info Watch"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Information Gap • News & Events - Penn Carey Law School",
+        "Link": "https://www.law.upenn.edu/live/news/18996-closing-the-information-gap",
+        "Published": "Wed, 21 Oct 2026 15:53:38 GMT",
+        "Summary": "Closing the Information Gap • News & Events Penn Carey Law School"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Visier Debuts Talent Agents, Closing the Gap Between HR Programs and Business Impact - PR Newswire",
+        "Link": "https://www.prnewswire.com/news-releases/visier-debuts-talent-agents-closing-the-gap-between-hr-programs-and-business-impact-302915328.html",
+        "Published": "Wed, 21 Oct 2026 15:00:00 GMT",
+        "Summary": "Visier Debuts Talent Agents, Closing the Gap Between HR Programs and Business Impact PR Newswire"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Poll shows Dems closing gap in Florida Governor and Senate races - Key Biscayne Independent",
+        "Link": "https://kbindependent.org/2026/10/21/poll-shows-dems-closing-gap-in-florida-governor-and-senate-races/",
+        "Published": "Wed, 21 Oct 2026 14:18:49 GMT",
+        "Summary": "Poll shows Dems closing gap in Florida Governor and Senate races Key Biscayne Independent"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Drugstore hair products are closing the gap with salon brands as formulas keep improving - Miami Herald",
+        "Link": "https://www.miamiherald.com/living/article317703837.html",
+        "Published": "Wed, 21 Oct 2026 13:10:12 GMT",
+        "Summary": "Drugstore hair products are closing the gap with salon brands as formulas keep improving Miami Herald"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Delta Expands Free Wi-Fi to Asia-Pacific Routes, Closing Final Global Coverage Gap - Travel Market Report",
+        "Link": "https://www.travelmarketreport.com/air/articles/delta-expands-free-wi-fi-to-asia-pacific-routes-closing-final-global-coverage-gap",
+        "Published": "Wed, 21 Oct 2026 12:05:47 GMT",
+        "Summary": "Delta Expands Free Wi-Fi to Asia-Pacific Routes, Closing Final Global Coverage Gap Travel Market Report"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the gap between cancer breakthroughs and patient access - Modern Healthcare",
+        "Link": "https://www.modernhealthcare.com/content-studio/quicktake/mh-expanding-access-advanced-cancer-care-robert-stone/",
+        "Published": "Wed, 21 Oct 2026 10:00:00 GMT",
+        "Summary": "Closing the gap between cancer breakthroughs and patient access Modern Healthcare"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Cyber Resilience Operating Model Guide for CISOs | KPMG - kpmg.com",
+        "Link": "https://kpmg.com/us/en/articles/2026/closing-the-cyber-resilience-gap.html",
+        "Published": "Wed, 21 Oct 2026 02:22:30 GMT",
+        "Summary": "Cyber Resilience Operating Model Guide for CISOs | KPMG kpmg.com"
       },
       {
         "company_name": "Gap",
@@ -137,14 +199,6 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the gap between healthcare availability and access in Nigeria - Premium Times Nigeria",
-        "Link": "https://www.premiumtimesng.com/promoted/918618-closing-the-gap-between-healthcare-availability-and-access-in-nigeria.html",
-        "Published": "Tue, 20 Oct 2026 18:36:47 GMT",
-        "Summary": "Closing the gap between healthcare availability and access in Nigeria Premium Times Nigeria"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Dems Closing Midterm Funding Gap - Erie News Now",
         "Link": "https://www.erienewsnow.com/watch/video/dems-closing-midterm-funding-gap/video_fd9cc18b-c67d-5d84-b733-7bf7d1ec106d.html",
         "Published": "Tue, 20 Oct 2026 18:29:15 GMT",
@@ -153,26 +207,26 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Why closing the capacity gap is key to growth - Bdaily",
-        "Link": "https://bdaily.co.uk/articles/2026/10/20/why-closing-the-capacity-gap-is-key-to-growth",
-        "Published": "Tue, 20 Oct 2026 16:07:18 GMT",
-        "Summary": "Why closing the capacity gap is key to growth Bdaily"
+        "Title": "24 Illinois Schools Earn Governor's Blue Ribbon Honors - Patch",
+        "Link": "https://patch.com/illinois/glenview/24-illinois-schools-earn-governor-s-blue-ribbon-honors",
+        "Published": "Tue, 20 Oct 2026 15:47:48 GMT",
+        "Summary": "24 Illinois Schools Earn Governor's Blue Ribbon Honors Patch"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the gender pension gap - labor supply and welfare effects of progressive pensions - IFS | Institute for Fiscal Studies",
-        "Link": "https://ifs.org.uk/publications/closing-gender-pension-gap-labor-supply-and-welfare-effects-progressive-pensions",
-        "Published": "Tue, 20 Oct 2026 13:35:36 GMT",
-        "Summary": "Closing the gender pension gap - labor supply and welfare effects of progressive pensions IFS | Institute for Fiscal Studies"
+        "Title": "Glastonbury CT Opens Main Street Sidewalk on Route 17 - Hoodline",
+        "Link": "https://hoodline.com/2026/10/glastonbury-opens-new-sidewalk-closing-20-year-gap-on-main-street/",
+        "Published": "Tue, 20 Oct 2026 15:26:39 GMT",
+        "Summary": "Glastonbury CT Opens Main Street Sidewalk on Route 17 Hoodline"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "RICS CEO on closing the skills gap and unlocking growth through devolution - Property Week",
-        "Link": "https://www.propertyweek.com/analysis/rics-ceo-on-closing-the-skills-gap-and-unlocking-growth-through-devolution",
-        "Published": "Tue, 20 Oct 2026 13:10:41 GMT",
-        "Summary": "RICS CEO on closing the skills gap and unlocking growth through devolution Property Week"
+        "Title": "UNESCO Design Training in Uzbekistan is Closing a Skills Gap - UNESCO",
+        "Link": "https://www.unesco.org/en/articles/unesco-design-training-uzbekistan-closing-skills-gap",
+        "Published": "Tue, 20 Oct 2026 15:03:33 GMT",
+        "Summary": "UNESCO Design Training in Uzbekistan is Closing a Skills Gap UNESCO"
       },
       {
         "company_name": "Gap",
@@ -209,10 +263,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Rhode Island is closing the test score gap with Massachusetts. But is that really progress? - Ocean State Media",
-        "Link": "https://www.oceanstatemedia.org/education-news/2026-10-20/rhode-island-is-closing-the-test-score-gap-with-massachusetts-but-is-that-really-progress",
+        "Title": "Rhode Island is closing the test score gap with Massachusetts. But is that really progress? - Connecticut Public",
+        "Link": "https://www.ctpublic.org/2026-10-20/rhode-island-is-closing-the-test-score-gap-with-massachusetts-but-is-that-really-progress",
         "Published": "Tue, 20 Oct 2026 09:03:00 GMT",
-        "Summary": "Rhode Island is closing the test score gap with Massachusetts. But is that really progress? Ocean State Media"
+        "Summary": "Rhode Island is closing the test score gap with Massachusetts. But is that really progress? Connecticut Public"
       },
       {
         "company_name": "Gap",
@@ -221,14 +275,6 @@
         "Link": "https://www.figo.org/news/closing-protection-gap-why-maternal-immunisation-needs-country-led-readiness",
         "Published": "Tue, 20 Oct 2026 08:20:22 GMT",
         "Summary": "Closing the protection gap: Why maternal immunisation needs country-led readiness FIGO.org"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Vincent Sourdaine: Closing the deep brain stimulation awareness gap - Healthcare Today",
-        "Link": "https://healthcaretoday.com/article/vincent-sourdaine-closing-the-deep-brain-stimulation-awareness-gap",
-        "Published": "Tue, 20 Oct 2026 05:44:05 GMT",
-        "Summary": "Vincent Sourdaine: Closing the deep brain stimulation awareness gap Healthcare Today"
       },
       {
         "company_name": "Gap",
@@ -249,120 +295,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "As Louisiana U.S. Senate election approaches, the campaign financial gap is closing between Jamie Davis and Julia Letlow - louisianaradionetwork.com",
-        "Link": "https://louisianaradionetwork.com/2026/10/19/48614/",
-        "Published": "Mon, 19 Oct 2026 22:59:40 GMT",
-        "Summary": "As Louisiana U.S. Senate election approaches, the campaign financial gap is closing between Jamie Davis and Julia Letlow louisianaradionetwork.com"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "The Real-Time Leap: Closing the Gap Between Receiving and Sending - PYMNTS.com",
-        "Link": "https://www.pymnts.com/report/tracker/the-real-time-leap-closing-the-gap-between-receiving-and-sending/",
-        "Published": "Mon, 19 Oct 2026 17:55:30 GMT",
-        "Summary": "The Real-Time Leap: Closing the Gap Between Receiving and Sending PYMNTS.com"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "AAO 2026: Closing the Screening Gap in Diabetic Retinopathy - The American Journal of Managed Care",
-        "Link": "https://www.ajmc.com/view/aao-2026-closing-the-screening-gap-in-diabetic-retinopathy-with-point-of-care-imaging",
-        "Published": "Mon, 19 Oct 2026 15:52:22 GMT",
-        "Summary": "AAO 2026: Closing the Screening Gap in Diabetic Retinopathy The American Journal of Managed Care"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Pac-12 football power rankings: Is Oregon State closing the gap on Boise State? - Sports Illustrated",
-        "Link": "https://www.si.com/college/boise-state/football/pac-12-football-power-rankings-oregon-state-threatening-no-21-boise-state-at-the-top",
-        "Published": "Mon, 19 Oct 2026 15:31:51 GMT",
-        "Summary": "Pac-12 football power rankings: Is Oregon State closing the gap on Boise State? Sports Illustrated"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Sustainable Finance Live: Closing the gap between talk and community action - Finextra Research",
-        "Link": "https://www.finextra.com/the-long-read/1782/sustainable-finance-live-closing-the-gap-between-talk-and-community-action",
-        "Published": "Mon, 19 Oct 2026 15:00:00 GMT",
-        "Summary": "Sustainable Finance Live: Closing the gap between talk and community action Finextra Research"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Gap Between Agentic CX Pilots and Production - Emerj Artificial Intelligence Research",
-        "Link": "https://emerj.com/closing-the-gap-between-agentic-cx-pilots-and-production/",
-        "Published": "Mon, 19 Oct 2026 12:30:48 GMT",
-        "Summary": "Closing the Gap Between Agentic CX Pilots and Production Emerj Artificial Intelligence Research"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Enterprise Context Gap - The Futurum Group",
-        "Link": "https://futurumgroup.com/research-reports/closing-the-enterprise-context-gap/",
-        "Published": "Mon, 19 Oct 2026 11:18:09 GMT",
-        "Summary": "Closing the Enterprise Context Gap The Futurum Group"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the taste gap: How close can natural sweeteners get to sugar and sucralose - NutraIngredients.com",
-        "Link": "https://www.nutraingredients.com/Product-innovations/closing-the-taste-gap-how-close-can-natural-sweeteners-get-to-sugar-and-sucralose/",
-        "Published": "Mon, 19 Oct 2026 10:40:09 GMT",
-        "Summary": "Closing the taste gap: How close can natural sweeteners get to sugar and sucralose NutraIngredients.com"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the gap between approval and treatment - Fierce Pharma",
-        "Link": "https://www.fiercepharma.com/sponsored/closing-gap-between-approval-and-treatment",
-        "Published": "Mon, 19 Oct 2026 07:00:00 GMT",
-        "Summary": "Closing the gap between approval and treatment Fierce Pharma"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing $4 Trillion Development Financing Gap Requires Urgent Action, Speakers Tell Joint Meeting of Second Committee, Economic and Social Council - UN Meetings Coverage and Press Releases",
-        "Link": "https://press.un.org/en/2026/gaef3629.doc.htm",
-        "Published": "Mon, 19 Oct 2026 04:00:00 GMT",
-        "Summary": "Closing $4 Trillion Development Financing Gap Requires Urgent Action, Speakers Tell Joint Meeting of Second Committee, Economic and Social Council UN Meetings Coverage and Press Releases"
-      }
-    ],
-    "SNIPES": [
-      {
-        "company_name": "SNIPES",
-        "event_type": "Closing",
-        "Title": "France's 35-Hour Workweek Fuels Economic Stagnation and Factory Closures - 조선일보",
-        "Link": "https://www.chosun.com/english/market-money-en/2026/10/20/FIGDVWGL3ZDCZAZEPJ5NQH635M/",
-        "Published": "Tue, 20 Oct 2026 05:21:08 GMT",
-        "Summary": "France's 35-Hour Workweek Fuels Economic Stagnation and Factory Closures 조선일보"
-      },
-      {
-        "company_name": "SNIPES",
-        "event_type": "Closing",
-        "Title": "Longtime coastal restaurant can't find buyer, will close - The Business Journals",
-        "Link": "https://www.bizjournals.com/triangle/news/2026/10/19/blue-cow-grille-restaurant-southport-closing.html",
-        "Published": "Mon, 19 Oct 2026 16:21:00 GMT",
-        "Summary": "Longtime coastal restaurant can't find buyer, will close The Business Journals"
-      }
-    ],
-    "The UPS Store": [
-      {
-        "company_name": "The UPS Store",
-        "event_type": "Opening",
-        "Title": "New Lehigh Valley location of The UPS Store opens at former jewelry store site - WFMZ.com",
-        "Link": "https://www.wfmz.com/features/eat-sip-shop/new-location-of-the-ups-store-now-open-at-former-jewelry-store-site-in-the-lehigh-valley/article_d88961ed-32de-4180-8217-37cf21e4d0b5.html",
-        "Published": "Mon, 19 Oct 2026 15:42:00 GMT",
-        "Summary": "New Lehigh Valley location of The UPS Store opens at former jewelry store site WFMZ.com"
-      }
-    ],
-    "Tumbles": [
-      {
-        "company_name": "Tumbles",
-        "event_type": "Closing",
-        "Title": "Sensex crashes 876 points, Nifty falls below 22,900 on private bank sell-off - Telegraph India",
-        "Link": "https://www.telegraphindia.com/business/sensex-tumbles-876-points-to-settle-at-73852-nifty-drops-257-points-to-22888/cid/2185406",
-        "Published": "Mon, 19 Oct 2026 10:12:14 GMT",
-        "Summary": "Sensex crashes 876 points, Nifty falls below 22,900 on private bank sell-off Telegraph India"
+        "Title": "The AI capability gap is closing faster than many expected - SDxCentral",
+        "Link": "https://www.sdxcentral.com/opinions/the-ai-capability-gap-is-closing-faster-than-many-expected/",
+        "Published": "Thu, 22 Oct 2026 00:26:15 GMT",
+        "Summary": "The AI capability gap is closing faster than many expected SDxCentral"
       }
     ],
     "World Market": [
