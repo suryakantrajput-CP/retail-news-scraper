@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-10-23",
+  "last_updated": "2026-10-24",
   "data": {
+    "Acadia Healthcare": [
+      {
+        "company_name": "Acadia Healthcare",
+        "event_type": "Closing",
+        "Title": "Layoffs, closures tracker: PacificSource to lay off 134 workers - Modern Healthcare",
+        "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
+        "Published": "Fri, 23 Oct 2026 18:00:30 GMT",
+        "Summary": "Layoffs, closures tracker: PacificSource to lay off 134 workers Modern Healthcare"
+      }
+    ],
     "Brandy Melville": [
       {
         "company_name": "Brandy Melville",
@@ -11,34 +21,34 @@
         "Summary": "New space, new excitement: Brandy Melville’s change in location. Inklings News"
       }
     ],
-    "Carhartt": [
+    "HCA Healthcare": [
       {
-        "company_name": "Carhartt",
+        "company_name": "HCA Healthcare",
         "event_type": "Closing",
-        "Title": "Carhartt’s Technical New Outerwear Is Made to Withstand the Coldest Conditions - Gear Patrol",
-        "Link": "https://www.gearpatrol.com/outdoors/carhartt-great-lands-jacket/",
-        "Published": "Wed, 21 Oct 2026 16:31:20 GMT",
-        "Summary": "Carhartt’s Technical New Outerwear Is Made to Withstand the Coldest Conditions Gear Patrol"
+        "Title": "Layoffs, closures tracker: PacificSource to lay off 134 workers - Modern Healthcare",
+        "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
+        "Published": "Fri, 23 Oct 2026 18:00:30 GMT",
+        "Summary": "Layoffs, closures tracker: PacificSource to lay off 134 workers Modern Healthcare"
       }
     ],
-    "Farrell's eXtreme Bodyshaping": [
+    "Jersey Mike's Subs": [
       {
-        "company_name": "Farrell's eXtreme Bodyshaping",
+        "company_name": "Jersey Mike's Subs",
         "event_type": "Opening",
-        "Title": "First Light Cafe is Now Open in Cedar Rapids - K92.3",
-        "Link": "https://k923.fm/ixp/675/p/first-light-cafe-cedar-rapids-opening/",
-        "Published": "Thu, 22 Oct 2026 11:31:13 GMT",
-        "Summary": "First Light Cafe is Now Open in Cedar Rapids K92.3"
+        "Title": "Jersey Mike’s Bellefonte Location Set to Open - StateCollege.com",
+        "Link": "https://www.statecollege.com/articles/business/jersey-mikes-bellefonte-location-set-to-open/",
+        "Published": "Thu, 22 Oct 2026 22:25:52 GMT",
+        "Summary": "Jersey Mike’s Bellefonte Location Set to Open StateCollege.com"
       }
     ],
     "Disney Store": [
       {
         "company_name": "Disney Store",
         "event_type": "Opening",
-        "Title": "Ariel & Lottie Limited Edition Designer Dolls Coming Soon to Disney Parks and Online - WDW News Today",
-        "Link": "https://wdwnt.com/2026/10/ariel-lottie-limited-edition-designer-dolls-coming-soon-to-disney-parks-and-online/",
-        "Published": "Wed, 21 Oct 2026 16:02:00 GMT",
-        "Summary": "Ariel & Lottie Limited Edition Designer Dolls Coming Soon to Disney Parks and Online WDW News Today"
+        "Title": "First Look at 'The Muppet Christmas Carol' Collection & More Mickey Family Christmas Merch Coming Soon - WDW News Today",
+        "Link": "https://wdwnt.com/2026/10/first-look-at-the-muppet-christmas-carol-collection-more-mickey-family-christmas-merch-coming-soon/",
+        "Published": "Thu, 22 Oct 2026 20:05:00 GMT",
+        "Summary": "First Look at 'The Muppet Christmas Carol' Collection & More Mickey Family Christmas Merch Coming Soon WDW News Today"
       },
       {
         "company_name": "Disney Store",
@@ -71,16 +81,22 @@
         "Link": "https://www.manchestereveningnews.co.uk/whats-on/whats-on-news/disney-store-open-first-uk-34800635",
         "Published": "Thu, 22 Oct 2026 11:26:00 GMT",
         "Summary": "Disney Store to open its first UK outlet at Cheshire Oaks Manchester Evening News"
-      }
-    ],
-    "Jersey Mike's Subs": [
+      },
       {
-        "company_name": "Jersey Mike's Subs",
+        "company_name": "Disney Store",
         "event_type": "Opening",
-        "Title": "Jersey Mike’s Bellefonte Location Set to Open - StateCollege.com",
-        "Link": "https://www.statecollege.com/articles/business/jersey-mikes-bellefonte-location-set-to-open/",
-        "Published": "Thu, 22 Oct 2026 22:25:52 GMT",
-        "Summary": "Jersey Mike’s Bellefonte Location Set to Open StateCollege.com"
+        "Title": "Disney to open first UK outlet store at Cheshire Oaks - Completely Retail News",
+        "Link": "https://news.completelyretail.co.uk/disney-to-open-first-uk-outlet-store-at-cheshire-oaks/",
+        "Published": "Fri, 23 Oct 2026 14:33:07 GMT",
+        "Summary": "Disney to open first UK outlet store at Cheshire Oaks Completely Retail News"
+      },
+      {
+        "company_name": "Disney Store",
+        "event_type": "Opening",
+        "Title": "Disney to open its first UK outlet store with big discounts on offer - The Bolton News",
+        "Link": "https://www.theboltonnews.co.uk/news/national/uk-today/26664954.disney-store-open-first-uk-outlet-autumn/",
+        "Published": "Fri, 23 Oct 2026 12:59:25 GMT",
+        "Summary": "Disney to open its first UK outlet store with big discounts on offer The Bolton News"
       }
     ],
     "Jersey Mike's": [
@@ -101,115 +117,7 @@
         "Summary": "Jersey Mike’s, Verizon set opening dates for new locations in Bellefonte Centre Daily Times"
       }
     ],
-    "One Medical": [
-      {
-        "company_name": "One Medical",
-        "event_type": "Closing",
-        "Title": "Deals tracker: Cencora to acquire American Oncology Network - Modern Healthcare",
-        "Link": "https://www.modernhealthcare.com/mergers-acquisitions/mh-healthcare-deals-live-updates/",
-        "Published": "Wed, 21 Oct 2026 16:03:00 GMT",
-        "Summary": "Deals tracker: Cencora to acquire American Oncology Network Modern Healthcare"
-      }
-    ],
-    "HCA Healthcare": [
-      {
-        "company_name": "HCA Healthcare",
-        "event_type": "Closing",
-        "Title": "Closing the preeclampsia prevention gap with low-dose aspirin - HCA Healthcare Today",
-        "Link": "https://hcahealthcaretoday.com/2026/10/21/closing-the-preeclampsia-prevention-gap-with-low-dose-aspirin/",
-        "Published": "Wed, 21 Oct 2026 20:47:59 GMT",
-        "Summary": "Closing the preeclampsia prevention gap with low-dose aspirin HCA Healthcare Today"
-      },
-      {
-        "company_name": "HCA Healthcare",
-        "event_type": "Closing",
-        "Title": "HCA Healthcare to host eighth annual “Crush the Crisis” national prescription drug take back day - HCA Healthcare Today",
-        "Link": "https://hcahealthcaretoday.com/2026/10/21/hca-healthcare-to-host-eighth-annual-crush-the-crisis-national-prescription-drug-take-back-day/",
-        "Published": "Wed, 21 Oct 2026 20:22:59 GMT",
-        "Summary": "HCA Healthcare to host eighth annual “Crush the Crisis” national prescription drug take back day HCA Healthcare Today"
-      },
-      {
-        "company_name": "HCA Healthcare",
-        "event_type": "Closing",
-        "Title": "Deals tracker: Cencora to acquire American Oncology Network - Modern Healthcare",
-        "Link": "https://www.modernhealthcare.com/mergers-acquisitions/mh-healthcare-deals-live-updates/",
-        "Published": "Wed, 21 Oct 2026 16:03:00 GMT",
-        "Summary": "Deals tracker: Cencora to acquire American Oncology Network Modern Healthcare"
-      },
-      {
-        "company_name": "HCA Healthcare",
-        "event_type": "Closing",
-        "Title": "Layoffs, closures tracker: PacificSource to lay off 134 workers - Modern Healthcare",
-        "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
-        "Published": "Thu, 22 Oct 2026 19:59:41 GMT",
-        "Summary": "Layoffs, closures tracker: PacificSource to lay off 134 workers Modern Healthcare"
-      }
-    ],
     "Gap": [
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Gap Between Threat Detection and Response - Security Info Watch",
-        "Link": "https://www.securityinfowatch.com/security-executives/protective-operations-guard-services/executive-vip-protection/article/55413516/closing-the-gap-between-threat-detection-and-response",
-        "Published": "Wed, 21 Oct 2026 22:28:44 GMT",
-        "Summary": "Closing the Gap Between Threat Detection and Response Security Info Watch"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the preeclampsia prevention gap with low-dose aspirin - HCA Healthcare Today",
-        "Link": "https://hcahealthcaretoday.com/2026/10/21/closing-the-preeclampsia-prevention-gap-with-low-dose-aspirin/",
-        "Published": "Wed, 21 Oct 2026 20:47:59 GMT",
-        "Summary": "Closing the preeclampsia prevention gap with low-dose aspirin HCA Healthcare Today"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Information Gap • News & Events - Penn Carey Law School",
-        "Link": "https://www.law.upenn.edu/live/news/18996-closing-the-information-gap",
-        "Published": "Wed, 21 Oct 2026 15:53:38 GMT",
-        "Summary": "Closing the Information Gap • News & Events Penn Carey Law School"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Visier Debuts Talent Agents, Closing the Gap Between HR Programs and Business Impact - PR Newswire",
-        "Link": "https://www.prnewswire.com/news-releases/visier-debuts-talent-agents-closing-the-gap-between-hr-programs-and-business-impact-302915328.html",
-        "Published": "Wed, 21 Oct 2026 15:00:00 GMT",
-        "Summary": "Visier Debuts Talent Agents, Closing the Gap Between HR Programs and Business Impact PR Newswire"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Poll shows Dems closing gap in Florida Governor and Senate races - Key Biscayne Independent",
-        "Link": "https://kbindependent.org/2026/10/21/poll-shows-dems-closing-gap-in-florida-governor-and-senate-races/",
-        "Published": "Wed, 21 Oct 2026 14:18:49 GMT",
-        "Summary": "Poll shows Dems closing gap in Florida Governor and Senate races Key Biscayne Independent"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Drugstore hair products are closing the gap with salon brands as formulas keep improving - Miami Herald",
-        "Link": "https://www.miamiherald.com/living/article317703837.html",
-        "Published": "Wed, 21 Oct 2026 13:10:12 GMT",
-        "Summary": "Drugstore hair products are closing the gap with salon brands as formulas keep improving Miami Herald"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Delta Expands Free Wi-Fi to Asia-Pacific Routes, Closing Final Global Coverage Gap - Travel Market Report",
-        "Link": "https://www.travelmarketreport.com/air/articles/delta-expands-free-wi-fi-to-asia-pacific-routes-closing-final-global-coverage-gap",
-        "Published": "Wed, 21 Oct 2026 12:05:47 GMT",
-        "Summary": "Delta Expands Free Wi-Fi to Asia-Pacific Routes, Closing Final Global Coverage Gap Travel Market Report"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Cyber Resilience Operating Model Guide for CISOs | KPMG - kpmg.com",
-        "Link": "https://kpmg.com/us/en/articles/2026/closing-the-cyber-resilience-gap.html",
-        "Published": "Wed, 21 Oct 2026 02:22:30 GMT",
-        "Summary": "Cyber Resilience Operating Model Guide for CISOs | KPMG kpmg.com"
-      },
       {
         "company_name": "Gap",
         "event_type": "Closing",
@@ -221,34 +129,18 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the Hardware‑Software Gap for ISO 50001‑Ready Energy Management - Eco-Business",
-        "Link": "https://www.eco-business.com/events/closing-the-hardwaresoftware-gap-for-iso-50001ready-energy-management/",
-        "Published": "Thu, 22 Oct 2026 13:23:53 GMT",
-        "Summary": "Closing the Hardware‑Software Gap for ISO 50001‑Ready Energy Management Eco-Business"
+        "Title": "DUP voices hope of funding gap ‘potentially closing’ to allow budget agreement - The Independent",
+        "Link": "https://www.independent.co.uk/news/uk/home-news/gavin-robinson-chris-bryant-stormont-northern-ireland-dup-b3071601.html",
+        "Published": "Thu, 22 Oct 2026 16:54:00 GMT",
+        "Summary": "DUP voices hope of funding gap ‘potentially closing’ to allow budget agreement The Independent"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Pediatric & Adolescent Obesity: Closing the Evidence Gap Through Better Trial Design, Upcoming Webinar Hosted by Xtalks - PR Newswire",
-        "Link": "https://www.prnewswire.com/news-releases/pediatric--adolescent-obesity-closing-the-evidence-gap-through-better-trial-design-upcoming-webinar-hosted-by-xtalks-302916348.html",
-        "Published": "Thu, 22 Oct 2026 12:30:00 GMT",
-        "Summary": "Pediatric & Adolescent Obesity: Closing the Evidence Gap Through Better Trial Design, Upcoming Webinar Hosted by Xtalks PR Newswire"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Robotic NDT Cells: Closing Mexico's Skilled Labor Gap - Mexico Business News",
-        "Link": "https://mexicobusiness.news/automotive/news/robotic-ndt-cells-closing-mexicos-skilled-labor-gap",
-        "Published": "Thu, 22 Oct 2026 11:00:00 GMT",
-        "Summary": "Robotic NDT Cells: Closing Mexico's Skilled Labor Gap Mexico Business News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Data Gap: Inside Baseline Vision’s Scalable Computer-Vision Partnership with the ATP - iSportConnect",
-        "Link": "https://www.isportconnect.com/closing-the-data-gap-inside-baselines-scalable-computer-vision-partnership-with-the-atp/",
-        "Published": "Thu, 22 Oct 2026 10:30:23 GMT",
-        "Summary": "Closing the Data Gap: Inside Baseline Vision’s Scalable Computer-Vision Partnership with the ATP iSportConnect"
+        "Title": "Cyber Insurance SMEs: Closing the Protection Gap Today - Collision Repair Mag",
+        "Link": "https://www.collisionrepairmag.com/news/auto-insurance/article/15838200/insurance-bureau-of-canada-ibc-cyber-insurance-smes-closing-the-protection-gap-today",
+        "Published": "Thu, 22 Oct 2026 15:01:48 GMT",
+        "Summary": "Cyber Insurance SMEs: Closing the Protection Gap Today Collision Repair Mag"
       },
       {
         "company_name": "Gap",
@@ -277,29 +169,89 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing AI medicine’s manufacturing gap - European Biotechnology Magazine",
-        "Link": "https://european-biotechnology.com/sponsored-publications/closing-ai-medicines-manufacturing-gap/",
-        "Published": "Thu, 22 Oct 2026 06:01:53 GMT",
-        "Summary": "Closing AI medicine’s manufacturing gap European Biotechnology Magazine"
+        "Title": "NASA Chief Warns China Is Closing Gap in ‘New Space Race’ - Newsweek",
+        "Link": "https://www.newsweek.com/nasa-space-race-with-china-12613279",
+        "Published": "Sat, 24 Oct 2026 01:08:00 GMT",
+        "Summary": "NASA Chief Warns China Is Closing Gap in ‘New Space Race’ Newsweek"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Twice the work, half the recognition. How women in farming are closing the authority gap - Farmers Guardian",
-        "Link": "https://www.farmersguardian.com/news/4537703/twice-half-recognition-women-farming-closing-authority-gap",
-        "Published": "Thu, 22 Oct 2026 05:05:00 GMT",
-        "Summary": "Twice the work, half the recognition. How women in farming are closing the authority gap Farmers Guardian"
+        "Title": "The Price Standoff: Closing The Gap Between Buyers And Sellers - Inman Real Estate News",
+        "Link": "https://www.inman.com/2026/10/23/the-price-standoff-closing-the-gap-between-buyers-and-sellers/",
+        "Published": "Fri, 23 Oct 2026 17:39:54 GMT",
+        "Summary": "The Price Standoff: Closing The Gap Between Buyers And Sellers Inman Real Estate News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Teressa Fisk on closing the modular home finance gap for brokers - Australian Broker",
+        "Link": "https://www.brokernews.com.au/news/breaking-news/teressa-fisk-on-closing-the-modular-home-finance-gap-for-brokers-290198.aspx",
+        "Published": "Fri, 23 Oct 2026 15:33:35 GMT",
+        "Summary": "Teressa Fisk on closing the modular home finance gap for brokers Australian Broker"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Beyond the final report: Closing the public inquiry implementation gap - Solicitors Journal",
+        "Link": "https://www.solicitorsjournal.com/sjarticle/beyond-the-final-report-closing-the-public-inquiry-implementation-gap?category=none",
+        "Published": "Fri, 23 Oct 2026 12:22:00 GMT",
+        "Summary": "Beyond the final report: Closing the public inquiry implementation gap Solicitors Journal"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "German conservatives closing gap with far-right AfD, poll shows - Yahoo",
+        "Link": "https://www.yahoo.com/news/world/articles/german-conservatives-closing-gap-far-094913779.html",
+        "Published": "Fri, 23 Oct 2026 09:49:13 GMT",
+        "Summary": "German conservatives closing gap with far-right AfD, poll shows Yahoo"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
         "Title": "Asahi's Never Never reports vodka closing gap on gin, teases Japan entry - Drinks Trade",
         "Link": "https://www.drinkstrade.com.au/news/asahis-never-never-reports-vodka-closing-gap-on-gin-teases-japan-launch/",
-        "Published": "Fri, 23 Oct 2026 01:00:37 GMT",
+        "Published": "Fri, 23 Oct 2026 01:04:56 GMT",
         "Summary": "Asahi's Never Never reports vodka closing gap on gin, teases Japan entry Drinks Trade"
       }
     ],
+    "Murphy Oil": [
+      {
+        "company_name": "Murphy Oil",
+        "event_type": "Closing",
+        "Title": "Murphy Oil Jumps 6.0% Amid Sector-Wide Rally - AlphaStreet",
+        "Link": "https://news.alphastreet.com/murphy-oil-jumps-6-0-amid-sector-wide-rally/amp/",
+        "Published": "Fri, 23 Oct 2026 15:55:51 GMT",
+        "Summary": "Murphy Oil Jumps 6.0% Amid Sector-Wide Rally AlphaStreet"
+      },
+      {
+        "company_name": "Murphy Oil",
+        "event_type": "Closing",
+        "Title": "Yinson Production, PTSC cheer FSO’s first oil at Southeast Asian project - Offshore Energy",
+        "Link": "https://www.offshore-energy.biz/2026/10/23/yinson-production-ptsc-cheer-fsos-first-oil-at-southeast-asian-project",
+        "Published": "Fri, 23 Oct 2026 13:08:37 GMT",
+        "Summary": "Yinson Production, PTSC cheer FSO’s first oil at Southeast Asian project Offshore Energy"
+      }
+    ],
+    "Rockland Trust": [
+      {
+        "company_name": "Rockland Trust",
+        "event_type": "Closing",
+        "Title": "Beacon Financial CEO eyes branch closures as bank pursues post-merger efficiencies - The Business Journals",
+        "Link": "https://www.bizjournals.com/boston/news/2026/10/22/beacons-new-ceo-sees-more-efficiences-gains-merger.html",
+        "Published": "Fri, 23 Oct 2026 01:58:00 GMT",
+        "Summary": "Beacon Financial CEO eyes branch closures as bank pursues post-merger efficiencies The Business Journals"
+      }
+    ],
     "Quest Diagnostics": [
+      {
+        "company_name": "Quest Diagnostics",
+        "event_type": "Opening",
+        "Title": "Quest Diagnostics reports cyber breach affecting 'certain patient records' - WFMZ.com",
+        "Link": "https://www.wfmz.com/business/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/article_2751ebf8-5393-5efc-8df5-aabcd212f4bd.html",
+        "Published": "Thu, 22 Oct 2026 20:22:11 GMT",
+        "Summary": "Quest Diagnostics reports cyber breach affecting 'certain patient records' WFMZ.com"
+      },
       {
         "company_name": "Quest Diagnostics",
         "event_type": "Opening",
@@ -311,10 +263,10 @@
       {
         "company_name": "Quest Diagnostics",
         "event_type": "Opening",
-        "Title": "Quest Diagnostics Reports Cyber Breach Affecting 'Certain Patient Records' - U.S. News & World Report",
-        "Link": "https://www.usnews.com/news/us/articles/2026-10-22/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records",
-        "Published": "Thu, 22 Oct 2026 14:31:00 GMT",
-        "Summary": "Quest Diagnostics Reports Cyber Breach Affecting 'Certain Patient Records' U.S. News & World Report"
+        "Title": "Quest closes PeaceHealth blood-draw sites, opens Santa Clara location - Lookout Eugene-Springfield",
+        "Link": "https://lookouteugene-springfield.com/story/health/2026/10/23/quest-closes-peacehealth-blood-draw-sites-expands-santa-clara-location/",
+        "Published": "Fri, 23 Oct 2026 11:36:00 GMT",
+        "Summary": "Quest closes PeaceHealth blood-draw sites, opens Santa Clara location Lookout Eugene-Springfield"
       },
       {
         "company_name": "Quest Diagnostics",
@@ -339,6 +291,14 @@
         "Link": "https://www.chicagotribune.com/2026/10/22/quest-diagnostics-cyber-breach/",
         "Published": "Thu, 22 Oct 2026 15:40:04 GMT",
         "Summary": "Quest Diagnostics reports cyber breach affecting ‘certain patient records’ Chicago Tribune"
+      },
+      {
+        "company_name": "Quest Diagnostics",
+        "event_type": "Closing",
+        "Title": "What health system leaders should know about PHP2Shell and Quest Diagnostics - Chief Healthcare Executive",
+        "Link": "https://www.chiefhealthcareexecutive.com/view/what-health-system-leaders-should-know-about-php2shell-and-quest-diagnostics",
+        "Published": "Fri, 23 Oct 2026 19:52:37 GMT",
+        "Summary": "What health system leaders should know about PHP2Shell and Quest Diagnostics Chief Healthcare Executive"
       }
     ],
     "Stuart Weitzman": [
@@ -359,6 +319,16 @@
         "Link": "https://www.villages-news.com/2026/10/22/sur-la-table-working-on-first-location-in-the-villages/",
         "Published": "Thu, 22 Oct 2026 18:03:16 GMT",
         "Summary": "Sur La Table working on first location in The Villages Villages-News.com"
+      }
+    ],
+    "UGG": [
+      {
+        "company_name": "UGG",
+        "event_type": "Closing",
+        "Title": "UGG alternatives that feel just as good, but aren’t as pricey - WAVY.com",
+        "Link": "https://www.wavy.com/reviews/br/ugg-alternatives-that-feel-just-as-good-but-arent-as-pricey-2/",
+        "Published": "Thu, 22 Oct 2026 18:29:09 GMT",
+        "Summary": "UGG alternatives that feel just as good, but aren’t as pricey WAVY.com"
       }
     ],
     "The UPS Store": [
