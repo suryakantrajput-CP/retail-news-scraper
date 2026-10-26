@@ -1,56 +1,32 @@
 {
-  "last_updated": "2026-10-25",
+  "last_updated": "2026-10-26",
   "data": {
-    "DoDo": [
+    "Bulgari": [
       {
-        "company_name": "DoDo",
+        "company_name": "Bulgari",
         "event_type": "Closing",
-        "Title": "Platinum Guild USA is closing - The Jewelry Wire",
-        "Link": "https://thejewelrywire.substack.com/p/platinum-guild-usa-is-closing",
-        "Published": "Fri, 23 Oct 2026 13:30:11 GMT",
-        "Summary": "Platinum Guild USA is closing The Jewelry Wire"
+        "Title": "Why France Keeps Boiling Over And Nobody Is Listening - ИФЗ РАН",
+        "Link": "https://geosirius.ifz.ru/france-keeps-boiling-nobody-listening",
+        "Published": "Sun, 25 Oct 2026 17:22:12 GMT",
+        "Summary": "Why France Keeps Boiling Over And Nobody Is Listening ИФЗ РАН"
       }
     ],
     "Disney Store": [
       {
         "company_name": "Disney Store",
         "event_type": "Opening",
-        "Title": "Disney to open its first UK outlet store with big discounts on offer - Hampshire Chronicle",
-        "Link": "https://www.romseyadvertiser.co.uk/news/26666867.disney-store-open-first-uk-outlet-autumn/",
-        "Published": "Sat, 24 Oct 2026 08:54:30 GMT",
-        "Summary": "Disney to open its first UK outlet store with big discounts on offer Hampshire Chronicle"
+        "Title": "Exciting news for Disney fans!! 🪄 Disney is opening its very first UK outlet store at the McArthurGlen Designer Outlet at Cheshire Oaks. 📍The permanent 1,300 sq ft Disney Store Pop Up is set to open its doors this autumn in time for Christmas shopping. Shopp - Facebook",
+        "Link": "https://www.facebook.com/ManchesterEveningNews/posts/exciting-news-for-disney-fans-disney-is-opening-its-very-first-uk-outlet-store-a/1630487095780316/",
+        "Published": "Sun, 25 Oct 2026 06:04:18 GMT",
+        "Summary": "Exciting news for Disney fans!! 🪄 Disney is opening its very first UK outlet store at the McArthurGlen Designer Outlet at Cheshire Oaks. 📍The permanent 1,300 sq ft Disney Store Pop Up is set to open its doors this autumn in time for Christmas shopping. Shopp Facebook"
       },
       {
         "company_name": "Disney Store",
         "event_type": "Opening",
-        "Title": "Disney Store Pop Up Coming to Cheshire Oaks in the UK This Autumn - LaughingPlace.com",
-        "Link": "https://www.laughingplace.com/disney-merchandise/disney-store-pop-up-cheshire-oaks-uk/",
-        "Published": "Fri, 23 Oct 2026 21:49:36 GMT",
-        "Summary": "Disney Store Pop Up Coming to Cheshire Oaks in the UK This Autumn LaughingPlace.com"
-      },
-      {
-        "company_name": "Disney Store",
-        "event_type": "Opening",
-        "Title": "Disney to open first UK outlet store at Cheshire Oaks - Completely Retail News",
-        "Link": "https://news.completelyretail.co.uk/disney-to-open-first-uk-outlet-store-at-cheshire-oaks/",
-        "Published": "Fri, 23 Oct 2026 14:33:07 GMT",
-        "Summary": "Disney to open first UK outlet store at Cheshire Oaks Completely Retail News"
-      },
-      {
-        "company_name": "Disney Store",
-        "event_type": "Opening",
-        "Title": "Disney to open its first UK outlet store with big discounts on offer - Somerset County Gazette",
-        "Link": "http://www.middevonstar.co.uk/news/national/uk-today/26664954.disney-store-open-first-uk-outlet-autumn/",
-        "Published": "Fri, 23 Oct 2026 12:59:25 GMT",
-        "Summary": "Disney to open its first UK outlet store with big discounts on offer Somerset County Gazette"
-      },
-      {
-        "company_name": "Disney Store",
-        "event_type": "Opening",
-        "Title": "Disney to open its first UK outlet store with big discounts on offer - Northwich Guardian",
-        "Link": "https://www.winsfordguardian.co.uk/news/national/uk-today/26664954.disney-store-open-first-uk-outlet-autumn/",
-        "Published": "Fri, 23 Oct 2026 12:59:25 GMT",
-        "Summary": "Disney to open its first UK outlet store with big discounts on offer Northwich Guardian"
+        "Title": "Disney Store Pop Up to open at Cheshire Oaks - ATV Today",
+        "Link": "https://www.atvtoday.co.uk/319618-disney-retail/",
+        "Published": "Sat, 24 Oct 2026 03:44:28 GMT",
+        "Summary": "Disney Store Pop Up to open at Cheshire Oaks ATV Today"
       }
     ],
     "Kérastase": [
@@ -66,6 +42,22 @@
     "Gap": [
       {
         "company_name": "Gap",
+        "event_type": "Opening",
+        "Title": "Arsenal 2-0 Everton: Player ratings as defenders fire Gunners to crucial victory - Pain in the Arsenal",
+        "Link": "https://paininthearsenal.com/arsenal-2-0-everton-player-ratings-as-defenders-fire-gunners-to-crucial-victory",
+        "Published": "Sat, 24 Oct 2026 16:02:02 GMT",
+        "Summary": "Arsenal 2-0 Everton: Player ratings as defenders fire Gunners to crucial victory Pain in the Arsenal"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Shallow-Water Source Control Gap - JPT Homepage",
+        "Link": "https://jpt.spe.org/closing-the-shallow-water-source-control-gap",
+        "Published": "Sun, 25 Oct 2026 05:04:26 GMT",
+        "Summary": "Closing the Shallow-Water Source Control Gap JPT Homepage"
+      },
+      {
+        "company_name": "Gap",
         "event_type": "Closing",
         "Title": "Steve Hilton Is Closing The Gap On Xavier Becerra, California Post Poll Shows - News.com.au",
         "Link": "https://www.news.com.au/world/steve-hilton-is-closing-the-gap-on-xavier-becerra-california-post-poll-shows/video/73377fce96be4969abcc895b89dbbdd3",
@@ -75,10 +67,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "MUMS-14 and the Impact Force: Closing the Gap Steel Knight Exposed - Defense.info",
-        "Link": "https://defense.info/featured-story/2026/10/mums-14-and-the-impact-force-closing-the-gap-steel-knight-exposed/",
-        "Published": "Sat, 24 Oct 2026 11:45:01 GMT",
-        "Summary": "MUMS-14 and the Impact Force: Closing the Gap Steel Knight Exposed Defense.info"
+        "Title": "Closing the Hardware‑Software Gap for ISO 50001‑Ready Energy Management - Eco-Business",
+        "Link": "https://www.eco-business.com/events/closing-the-hardwaresoftware-gap-for-iso-50001ready-energy-management/",
+        "Published": "Sat, 24 Oct 2026 13:23:53 GMT",
+        "Summary": "Closing the Hardware‑Software Gap for ISO 50001‑Ready Energy Management Eco-Business"
       },
       {
         "company_name": "Gap",
@@ -91,26 +83,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "DUP voices hope of funding gap ‘potentially closing’ to allow budget agreement - London Evening Standard",
-        "Link": "https://www.standard.co.uk/news/politics/chris-bryant-stormont-northern-ireland-dup-secretary-of-state-b1301963.html",
-        "Published": "Fri, 23 Oct 2026 18:58:32 GMT",
-        "Summary": "DUP voices hope of funding gap ‘potentially closing’ to allow budget agreement London Evening Standard"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "The Price Standoff: Closing The Gap Between Buyers And Sellers - Inman Real Estate News",
-        "Link": "https://www.inman.com/2026/10/23/the-price-standoff-closing-the-gap-between-buyers-and-sellers/",
-        "Published": "Fri, 23 Oct 2026 17:39:54 GMT",
-        "Summary": "The Price Standoff: Closing The Gap Between Buyers And Sellers Inman Real Estate News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Beyond the final report: Closing the public inquiry implementation gap - Solicitors Journal",
-        "Link": "https://www.solicitorsjournal.com/sjarticle/beyond-the-final-report-closing-the-public-inquiry-implementation-gap?category=none",
-        "Published": "Fri, 23 Oct 2026 12:22:00 GMT",
-        "Summary": "Beyond the final report: Closing the public inquiry implementation gap Solicitors Journal"
+        "Title": "NASA chief warns China is closing gap in \"new space race\" - Yahoo Tech",
+        "Link": "https://tech.yahoo.com/science/articles/nasa-chief-warns-china-closing-010857797.html",
+        "Published": "Sat, 24 Oct 2026 01:08:00 GMT",
+        "Summary": "NASA chief warns China is closing gap in \"new space race\" Yahoo Tech"
       }
     ],
     "MyEyeDr.": [
@@ -123,76 +99,24 @@
         "Summary": "Goldman Sachs, GHO, MidEuropa set sights on eye care; Medical component demand drives Artemis’ acquisition of Optikos PEI Private Equity"
       }
     ],
-    "Murphy Oil": [
+    "The Dump": [
       {
-        "company_name": "Murphy Oil",
-        "event_type": "Closing",
-        "Title": "Murphy Oil Jumps 6.0% Amid Sector-Wide Rally - AlphaStreet",
-        "Link": "https://news.alphastreet.com/murphy-oil-jumps-6-0-amid-sector-wide-rally/amp/",
-        "Published": "Fri, 23 Oct 2026 15:55:51 GMT",
-        "Summary": "Murphy Oil Jumps 6.0% Amid Sector-Wide Rally AlphaStreet"
-      },
-      {
-        "company_name": "Murphy Oil",
-        "event_type": "Closing",
-        "Title": "Yinson Production, PTSC cheer FSO’s first oil at Southeast Asian project - Offshore Energy",
-        "Link": "https://www.offshore-energy.biz/2026/10/23/yinson-production-ptsc-cheer-fsos-first-oil-at-southeast-asian-project",
-        "Published": "Fri, 23 Oct 2026 13:08:37 GMT",
-        "Summary": "Yinson Production, PTSC cheer FSO’s first oil at Southeast Asian project Offshore Energy"
-      }
-    ],
-    "SNIPES": [
-      {
-        "company_name": "SNIPES",
-        "event_type": "Closing",
-        "Title": "Arkane Lyon Reportedly Facing Closure, ‘Marvel’s Blade’ Could Be Shelved - Hip-Hop Wired",
-        "Link": "https://hiphopwired.com/3068355/marvels-blade-future-grim-arkane-lyon-possibly-shutting-down-reactions/",
-        "Published": "Fri, 23 Oct 2026 18:31:36 GMT",
-        "Summary": "Arkane Lyon Reportedly Facing Closure, ‘Marvel’s Blade’ Could Be Shelved Hip-Hop Wired"
-      }
-    ],
-    "Quest Diagnostics": [
-      {
-        "company_name": "Quest Diagnostics",
+        "company_name": "The Dump",
         "event_type": "Opening",
-        "Title": "Quest closes PeaceHealth blood-draw sites, opens Santa Clara location - Lookout Eugene-Springfield",
-        "Link": "https://lookouteugene-springfield.com/story/health/2026/10/23/quest-closes-peacehealth-blood-draw-sites-expands-santa-clara-location/",
-        "Published": "Fri, 23 Oct 2026 11:36:00 GMT",
-        "Summary": "Quest closes PeaceHealth blood-draw sites, opens Santa Clara location Lookout Eugene-Springfield"
-      },
-      {
-        "company_name": "Quest Diagnostics",
-        "event_type": "Opening",
-        "Title": "Giants’ Matt Nagy ready to open up playbook for J.J. McCarthy’s first start - New York Post",
-        "Link": "https://nypost.com/2026/10/22/sports/giants-matt-nagy-ready-to-open-up-playbook-for-j-j-mccarthys-first-start/",
-        "Published": "Fri, 23 Oct 2026 01:33:00 GMT",
-        "Summary": "Giants’ Matt Nagy ready to open up playbook for J.J. McCarthy’s first start New York Post"
-      },
-      {
-        "company_name": "Quest Diagnostics",
-        "event_type": "Closing",
-        "Title": "What health system leaders should know about PHP2Shell and Quest Diagnostics - Chief Healthcare Executive",
-        "Link": "https://www.chiefhealthcareexecutive.com/view/what-health-system-leaders-should-know-about-php2shell-and-quest-diagnostics",
-        "Published": "Fri, 23 Oct 2026 19:52:37 GMT",
-        "Summary": "What health system leaders should know about PHP2Shell and Quest Diagnostics Chief Healthcare Executive"
+        "Title": "Video Shows Woman Narrowly Escaping Dump Truck Falling 30 Feet Off I-10 In New Orleans - Hot 107.9",
+        "Link": "https://1079ishot.com/dump-truck-fall-off-new-orleans/",
+        "Published": "Sat, 24 Oct 2026 03:08:34 GMT",
+        "Summary": "Video Shows Woman Narrowly Escaping Dump Truck Falling 30 Feet Off I-10 In New Orleans Hot 107.9"
       }
     ],
     "Wilder": [
       {
         "company_name": "Wilder",
         "event_type": "Closing",
-        "Title": "Chris Wilder slates Sheffield United for letting Derby dominate in first half - Colchester Gazette",
-        "Link": "https://www.gazette-news.co.uk/sport/national/26667340.chris-wilder-slates-sheffield-united-letting-derby-dominate-first-half/",
-        "Published": "Sat, 24 Oct 2026 14:52:11 GMT",
-        "Summary": "Chris Wilder slates Sheffield United for letting Derby dominate in first half Colchester Gazette"
-      },
-      {
-        "company_name": "Wilder",
-        "event_type": "Closing",
-        "Title": "Santa Cruz Marathon road closures: Which streets will be affected Sunday and when - Lookout Santa Cruz",
-        "Link": "https://lookout.co/santa-cruz-marathon-road-closures-which-streets-will-be-affected-sunday-and-when/story",
-        "Published": "Fri, 23 Oct 2026 19:43:05 GMT",
-        "Summary": "Santa Cruz Marathon road closures: Which streets will be affected Sunday and when Lookout Santa Cruz"
+        "Title": "Chris Wilder slates Sheffield United for letting Derby dominate in first half - The Irish News",
+        "Link": "https://www.irishnews.com/sport/soccer/chris-wilder-slates-sheffield-united-for-letting-derby-dominate-in-first-half-7QMDS2BQQ5PSTDZJ7LCVMVLFUE/",
+        "Published": "Sat, 24 Oct 2026 14:43:45 GMT",
+        "Summary": "Chris Wilder slates Sheffield United for letting Derby dominate in first half The Irish News"
       }
     ]
   }
