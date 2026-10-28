@@ -1,26 +1,6 @@
 {
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "data": {
-    "Boucheron": [
-      {
-        "company_name": "Boucheron",
-        "event_type": "Closing",
-        "Title": "Weekly Recap: Q3 revenue flat Gucci comps down and Luca de Meo margin plan - TradingView",
-        "Link": "https://www.tradingview.com/news/tradingview:4799c0f01469b:0-weekly-recap-q3-revenue-flat-gucci-comps-down-and-luca-de-meo-margin-plan/",
-        "Published": "Mon, 26 Oct 2026 05:00:00 GMT",
-        "Summary": "Weekly Recap: Q3 revenue flat Gucci comps down and Luca de Meo margin plan TradingView"
-      }
-    ],
-    "Bulgari": [
-      {
-        "company_name": "Bulgari",
-        "event_type": "Closing",
-        "Title": "Why France Keeps Boiling Over And Nobody Is Listening - ИФЗ РАН",
-        "Link": "https://geosirius.ifz.ru/france-keeps-boiling-nobody-listening",
-        "Published": "Sun, 25 Oct 2026 17:22:12 GMT",
-        "Summary": "Why France Keeps Boiling Over And Nobody Is Listening ИФЗ РАН"
-      }
-    ],
     "Carhartt": [
       {
         "company_name": "Carhartt",
@@ -35,18 +15,26 @@
       {
         "company_name": "Disney Store",
         "event_type": "Opening",
-        "Title": "Disney to open its first UK outlet store with big discounts on offer - Telegraph and Argus",
-        "Link": "https://www.thetelegraphandargus.co.uk/news/26668060.disney-store-open-first-uk-outlet-autumn/",
-        "Published": "Sun, 25 Oct 2026 12:15:37 GMT",
-        "Summary": "Disney to open its first UK outlet store with big discounts on offer Telegraph and Argus"
+        "Title": "Disney & Starbucks Unveil 'Mint to Be' Holiday Merchandise Collection Coming Soon - WDW News Today",
+        "Link": "https://wdwnt.com/2026/10/disney-starbucks-unveil-mint-to-be-holiday-merchandise-collection-coming-soon/",
+        "Published": "Tue, 27 Oct 2026 17:22:00 GMT",
+        "Summary": "Disney & Starbucks Unveil 'Mint to Be' Holiday Merchandise Collection Coming Soon WDW News Today"
       },
       {
         "company_name": "Disney Store",
         "event_type": "Opening",
-        "Title": "Exciting news for Disney fans!! 🪄 Disney is opening its very first UK outlet store at the McArthurGlen Designer Outlet at Cheshire Oaks. 📍The permanent 1,300 sq ft Disney Store Pop Up is set to open its doors this autumn in time for Christmas shopping. Shopp - Facebook",
-        "Link": "https://www.facebook.com/ManchesterEveningNews/posts/exciting-news-for-disney-fans-disney-is-opening-its-very-first-uk-outlet-store-a/1630487095780316/",
-        "Published": "Sun, 25 Oct 2026 06:04:18 GMT",
-        "Summary": "Exciting news for Disney fans!! 🪄 Disney is opening its very first UK outlet store at the McArthurGlen Designer Outlet at Cheshire Oaks. 📍The permanent 1,300 sq ft Disney Store Pop Up is set to open its doors this autumn in time for Christmas shopping. Shopp Facebook"
+        "Title": "Disney opening first outlet store opening in north of UK with big discounts on offer - The Northern Echo",
+        "Link": "https://www.thenorthernecho.co.uk/news/26672355.disney-store-open-first-uk-outlet-autumn/",
+        "Published": "Tue, 27 Oct 2026 08:23:30 GMT",
+        "Summary": "Disney opening first outlet store opening in north of UK with big discounts on offer The Northern Echo"
+      },
+      {
+        "company_name": "Disney Store",
+        "event_type": "Opening",
+        "Title": "Disney Store to Open First UK Outlet at Cheshire Oaks - Jedi News",
+        "Link": "https://www.jedinews.com/collecting/articles/disney-store-to-open-first-uk-outlet-at-cheshire-oaks/",
+        "Published": "Mon, 26 Oct 2026 18:12:41 GMT",
+        "Summary": "Disney Store to Open First UK Outlet at Cheshire Oaks Jedi News"
       },
       {
         "company_name": "Disney Store",
@@ -65,14 +53,228 @@
         "Summary": "Disney Store to Open First U.K. Outlet Store License Global"
       }
     ],
+    "Boucheron": [
+      {
+        "company_name": "Boucheron",
+        "event_type": "Closing",
+        "Title": "Weekly Recap: Q3 revenue flat Gucci comps down and Luca de Meo margin plan - TradingView",
+        "Link": "https://www.tradingview.com/news/tradingview:4799c0f01469b:0-weekly-recap-q3-revenue-flat-gucci-comps-down-and-luca-de-meo-margin-plan/",
+        "Published": "Mon, 26 Oct 2026 05:00:00 GMT",
+        "Summary": "Weekly Recap: Q3 revenue flat Gucci comps down and Luca de Meo margin plan TradingView"
+      }
+    ],
+    "Jersey Mike's": [
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Another Jersey Mike's is opening in UTEP’s neighborhood - El Paso Inc.",
+        "Link": "https://www.elpasoinc.com/news/openings_and_closings/another-jersey-mikes-is-opening-in-utep-s-neighborhood/article_86fc2085-90fe-43c9-b69f-df4d54b75278.html",
+        "Published": "Tue, 27 Oct 2026 19:46:00 GMT",
+        "Summary": "Another Jersey Mike's is opening in UTEP’s neighborhood El Paso Inc."
+      }
+    ],
+    "Popeyes": [
+      {
+        "company_name": "Popeyes",
+        "event_type": "Opening",
+        "Title": "First Popeyes in Essex town to open next month creating more than 60 jobs - Clacton Gazette",
+        "Link": "https://www.clactonandfrintongazette.co.uk/news/26670364.clactons-first-popeyes-restaurant-open-next-month/",
+        "Published": "Tue, 27 Oct 2026 15:20:00 GMT",
+        "Summary": "First Popeyes in Essex town to open next month creating more than 60 jobs Clacton Gazette"
+      },
+      {
+        "company_name": "Popeyes",
+        "event_type": "Opening",
+        "Title": "First Popeyes in Essex town to open next month creating more than 60 jobs - Maldon & Burnham Standard",
+        "Link": "https://www.maldonandburnhamstandard.co.uk/news/26670364.clactons-first-popeyes-restaurant-open-next-month/",
+        "Published": "Tue, 27 Oct 2026 15:20:00 GMT",
+        "Summary": "First Popeyes in Essex town to open next month creating more than 60 jobs Maldon & Burnham Standard"
+      }
+    ],
+    "Quest Diagnostics": [
+      {
+        "company_name": "Quest Diagnostics",
+        "event_type": "Opening",
+        "Title": "U.S. Patient Records Exposed in Latest Quest Diagnostics Data Breach - All About Cookies",
+        "Link": "https://allaboutcookies.org/quest-diagnostics-data-breach",
+        "Published": "Mon, 26 Oct 2026 13:50:00 GMT",
+        "Summary": "U.S. Patient Records Exposed in Latest Quest Diagnostics Data Breach All About Cookies"
+      }
+    ],
+    "Rogers & Hollands": [
+      {
+        "company_name": "Rogers & Hollands",
+        "event_type": "Opening",
+        "Title": "Toys R Us opens new store at CherryVale Mall - WIFR",
+        "Link": "https://www.rockfordnewsfirst.com/2026/10/27/toys-r-us-opens-new-store-cherryvale-mall/",
+        "Published": "Tue, 27 Oct 2026 12:18:00 GMT",
+        "Summary": "Toys R Us opens new store at CherryVale Mall WIFR"
+      },
+      {
+        "company_name": "Rogers & Hollands",
+        "event_type": "Opening",
+        "Title": "Toys R Us opens new store at CherryVale Mall - WIFR",
+        "Link": "https://www.wifr.com/2026/10/27/toys-r-us-opens-new-store-cherryvale-mall/",
+        "Published": "Tue, 27 Oct 2026 12:18:00 GMT",
+        "Summary": "Toys R Us opens new store at CherryVale Mall WIFR"
+      }
+    ],
+    "Shopko Optical": [
+      {
+        "company_name": "Shopko Optical",
+        "event_type": "Opening",
+        "Title": "Shopko Optical opens new center in Duluth, - BusinessNorth",
+        "Link": "https://www.businessnorth.com/press_releases/shopko-optical-opens-new-center-in-duluth/article_b07b7a9a-d51b-4937-9bc1-bfae56809f51.html",
+        "Published": "Mon, 26 Oct 2026 15:36:00 GMT",
+        "Summary": "Shopko Optical opens new center in Duluth, BusinessNorth"
+      }
+    ],
+    "Tempur-Pedic": [
+      {
+        "company_name": "Tempur-Pedic",
+        "event_type": "Closing",
+        "Title": "Beloved Mass. furniture store closing its doors, but not before auctioning off 500+ items - MassLive.com",
+        "Link": "https://www.masslive.com/centralmass/2026/10/closing-central-mass-furniture-store-to-auction-off-more-than-500-items.html",
+        "Published": "Tue, 27 Oct 2026 09:55:00 GMT",
+        "Summary": "Beloved Mass. furniture store closing its doors, but not before auctioning off 500+ items MassLive.com"
+      },
+      {
+        "company_name": "Tempur-Pedic",
+        "event_type": "Closing",
+        "Title": "More than 280 people in NC laid off in Piedmont Triad area plant closures - Charlotte Observer",
+        "Link": "https://www.charlotteobserver.com/news/local/article317785397.html",
+        "Published": "Mon, 26 Oct 2026 19:00:00 GMT",
+        "Summary": "More than 280 people in NC laid off in Piedmont Triad area plant closures Charlotte Observer"
+      }
+    ],
     "Gap": [
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Commentary: A New Approach to Closing the Disability Wealth Gap - Michigan Advance",
-        "Link": "https://michiganadvance.com/2026/10/26/a-new-approach-to-closing-the-disability-wealth-gap/",
-        "Published": "Tue, 27 Oct 2026 00:01:02 GMT",
-        "Summary": "Commentary: A New Approach to Closing the Disability Wealth Gap Michigan Advance"
+        "Title": "Juschie sees PH closing gap with China, Malaysia in Honor of Kings - ABS-CBN",
+        "Link": "https://www.abs-cbn.com/sports/esports/2026/10/28/juschie-sees-ph-closing-gap-with-china-malaysia-in-honor-of-kings-0900",
+        "Published": "Wed, 28 Oct 2026 01:49:02 GMT",
+        "Summary": "Juschie sees PH closing gap with China, Malaysia in Honor of Kings ABS-CBN"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Gap: LGBTQ-Inclusive Hospice Bereavement Care - Hospice News",
+        "Link": "https://hospicenews.com/2026/10/27/closing-the-gap-lgbtq-inclusive-hospice-bereavement-care/",
+        "Published": "Tue, 27 Oct 2026 20:12:30 GMT",
+        "Summary": "Closing the Gap: LGBTQ-Inclusive Hospice Bereavement Care Hospice News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Care Gap for Antihistamine-Refractory CIndU - HCPLive",
+        "Link": "https://www.hcplive.com/view/closing-the-care-gap-for-antihistamine-refractory-cindu",
+        "Published": "Tue, 27 Oct 2026 18:18:24 GMT",
+        "Summary": "Closing the Care Gap for Antihistamine-Refractory CIndU HCPLive"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Daily Memo: Fuel Costs Dash American’s Hopes Of Closing Competitive Gap With Peers - Aviation Week",
+        "Link": "https://aviationweek.com/air-transport/airlines-lessors/daily-memo-fuel-costs-dash-americans-hopes-closing-competitive-gap",
+        "Published": "Tue, 27 Oct 2026 17:50:51 GMT",
+        "Summary": "Daily Memo: Fuel Costs Dash American’s Hopes Of Closing Competitive Gap With Peers Aviation Week"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the gap in eating disorder care - The Shepparton Adviser",
+        "Link": "https://www.sheppadviser.com.au/closing-the-gap-in-eating-disorder-care/",
+        "Published": "Tue, 27 Oct 2026 17:12:00 GMT",
+        "Summary": "Closing the gap in eating disorder care The Shepparton Adviser"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing Ireland’s healthcare innovation gap - Medical Independent",
+        "Link": "https://www.medicalindependent.ie/comment/opinion/closing-irelands-healthcare-innovation-gap/",
+        "Published": "Tue, 27 Oct 2026 15:52:16 GMT",
+        "Summary": "Closing Ireland’s healthcare innovation gap Medical Independent"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Australian co-ops want community ownership recognised in Closing the Gap policy - Co-operative News",
+        "Link": "https://www.thenews.coop/australian-co-ops-want-community-ownership-recognised-in-closing-the-gap-policy/",
+        "Published": "Tue, 27 Oct 2026 14:44:25 GMT",
+        "Summary": "Australian co-ops want community ownership recognised in Closing the Gap policy Co-operative News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Kindsight announces Kindsight for Foundations, closing the gap between grantmaking and donor engagement - PR Newswire",
+        "Link": "https://www.prnewswire.com/news-releases/kindsight-announces-kindsight-for-foundations-closing-the-gap-between-grantmaking-and-donor-engagement-302919899.html",
+        "Published": "Tue, 27 Oct 2026 14:02:00 GMT",
+        "Summary": "Kindsight announces Kindsight for Foundations, closing the gap between grantmaking and donor engagement PR Newswire"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "State laws not closing kidney transplant gap for patients with developmental disabilities, Ohio State study s - Cleveland.com",
+        "Link": "https://www.cleveland.com/news/2026/10/state-laws-not-closing-kidney-transplant-gap-for-patients-with-developmental-disabilities-ohio-state-study-suggests.html",
+        "Published": "Tue, 27 Oct 2026 13:15:00 GMT",
+        "Summary": "State laws not closing kidney transplant gap for patients with developmental disabilities, Ohio State study s Cleveland.com"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Aerospace & Defense Outlook with Chris Cavoli - J.P. Morgan",
+        "Link": "https://www.jpmorgan.com/insights/security-and-resiliency-initiative/closing-defense-production-gap",
+        "Published": "Tue, 27 Oct 2026 13:02:45 GMT",
+        "Summary": "Aerospace & Defense Outlook with Chris Cavoli J.P. Morgan"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Knowing Is Not Teaching: Closing the Instructor Gap in Aviation - Halldale Group",
+        "Link": "https://www.halldale.com/events-news-hub/knowing-is-not-teaching-closing-the-instructor-gap-in-aviation",
+        "Published": "Tue, 27 Oct 2026 12:47:53 GMT",
+        "Summary": "Knowing Is Not Teaching: Closing the Instructor Gap in Aviation Halldale Group"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Commentary: A New Approach to Closing the Disability Wealth Gap - Nevada Current",
+        "Link": "https://nevadacurrent.com/2026/10/27/a-new-approach-to-closing-the-disability-wealth-gap/",
+        "Published": "Tue, 27 Oct 2026 12:47:21 GMT",
+        "Summary": "Commentary: A New Approach to Closing the Disability Wealth Gap Nevada Current"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "2026 Toronto Benefits Summit: Closing hormone gap key to reducing chronic disease rates, burden - Benefits Canada.com",
+        "Link": "https://www.benefitscanada.com/events/conference-coverage/2026-toronto-benefits-summit-closing-hormone-gap-key-to-reducing-chronic-disease-rates-burden/",
+        "Published": "Tue, 27 Oct 2026 12:01:27 GMT",
+        "Summary": "2026 Toronto Benefits Summit: Closing hormone gap key to reducing chronic disease rates, burden Benefits Canada.com"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "'Gap is closing': Why O'Riordan believes Swans are ready to challenge - afl.com.au",
+        "Link": "https://www.afl.com.au/aflw/news/1636399/gap-is-closing-why-colin-oriordan-believe-sydney-swans-are-ready-to-challenge-aflws-best",
+        "Published": "Tue, 27 Oct 2026 06:49:00 GMT",
+        "Summary": "'Gap is closing': Why O'Riordan believes Swans are ready to challenge afl.com.au"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Thea Care: The dermatologist-built AI closing skincare’s advice gap - Premium Beauty News",
+        "Link": "https://www.premiumbeautynews.com/en/thea-care-the-dermatologist-built,28423",
+        "Published": "Tue, 27 Oct 2026 06:13:33 GMT",
+        "Summary": "Thea Care: The dermatologist-built AI closing skincare’s advice gap Premium Beauty News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Hardware‑Software Gap for ISO 50001‑Ready Energy Management - Eco-Business",
+        "Link": "https://www.eco-business.com/events/closing-the-hardwaresoftware-gap-for-iso-50001ready-energy-management/",
+        "Published": "Tue, 27 Oct 2026 01:07:27 GMT",
+        "Summary": "Closing the Hardware‑Software Gap for ISO 50001‑Ready Energy Management Eco-Business"
       },
       {
         "company_name": "Gap",
@@ -125,14 +327,6 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the Tech Gap on Capitol Hill - McCourt School of Public Policy",
-        "Link": "https://mccourt.georgetown.edu/discovery-impact/closing-the-tech-gap-on-capitol-hill/",
-        "Published": "Mon, 26 Oct 2026 14:51:48 GMT",
-        "Summary": "Closing the Tech Gap on Capitol Hill McCourt School of Public Policy"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Closing the gap: Why access to breast cancerscreening must be a national priority - Jamaica Observer",
         "Link": "https://www.jamaicaobserver.com/allwoman/2026/10/26/closing-gap-access-breast-cancerscreening-must-national-priority/",
         "Published": "Mon, 26 Oct 2026 13:47:52 GMT",
@@ -141,18 +335,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Ghana’s Expanding Public University System: Closing the Regional Access Gap - Modern Ghana",
-        "Link": "https://www.modernghana.com/news/1539217/ghanas-expanding-public-university-system-closin.html",
-        "Published": "Mon, 26 Oct 2026 13:46:00 GMT",
-        "Summary": "Ghana’s Expanding Public University System: Closing the Regional Access Gap Modern Ghana"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Hardware‑Software Gap for ISO 50001‑Ready Energy Management - Eco-Business",
-        "Link": "https://www.eco-business.com/events/closing-the-hardwaresoftware-gap-for-iso-50001ready-energy-management/",
-        "Published": "Mon, 26 Oct 2026 12:04:41 GMT",
-        "Summary": "Closing the Hardware‑Software Gap for ISO 50001‑Ready Energy Management Eco-Business"
+        "Title": "Hussein: Strong leagues key to closing gap on top football nations - The Star, Kenya",
+        "Link": "https://www.the-star.co.ke/sports/football/2026-10-26-hussein-strong-leagues-key-to-closing-gap-on-top-football-nations",
+        "Published": "Mon, 26 Oct 2026 12:24:00 GMT",
+        "Summary": "Hussein: Strong leagues key to closing gap on top football nations The Star, Kenya"
       },
       {
         "company_name": "Gap",
@@ -165,41 +351,37 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Continual Closing the Gap concerns in the NT prompt federal funding 'adjustments' - National Indigenous Times",
-        "Link": "https://nit.com.au/26-10-2026/27175/commonwealth-adjusts-nt-funding-over-closing-the-gap-concerns",
-        "Published": "Mon, 26 Oct 2026 06:45:00 GMT",
-        "Summary": "Continual Closing the Gap concerns in the NT prompt federal funding 'adjustments' National Indigenous Times"
+        "Title": "Closing Nigeria’s conflict response gap in the Middle Belt - the authority news",
+        "Link": "https://authorityngr.com/2026/10/26/closing-nigerias-conflict-response-gap-in-the-middle-belt/",
+        "Published": "Mon, 26 Oct 2026 07:00:54 GMT",
+        "Summary": "Closing Nigeria’s conflict response gap in the Middle Belt the authority news"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the HAT Detection Gap in South Sudan - ReliefWeb",
-        "Link": "https://reliefweb.int/report/south-sudan/closing-hat-detection-gap-south-sudan",
-        "Published": "Mon, 26 Oct 2026 01:41:44 GMT",
-        "Summary": "Closing the HAT Detection Gap in South Sudan ReliefWeb"
-      }
-    ],
-    "Quest Diagnostics": [
-      {
-        "company_name": "Quest Diagnostics",
-        "event_type": "Opening",
-        "Title": "U.S. Patient Records Exposed in Latest Quest Diagnostics Data Breach - All About Cookies",
-        "Link": "https://allaboutcookies.org/quest-diagnostics-data-breach",
-        "Published": "Mon, 26 Oct 2026 13:50:00 GMT",
-        "Summary": "U.S. Patient Records Exposed in Latest Quest Diagnostics Data Breach All About Cookies"
-      }
-    ],
-    "Shopko Optical": [
-      {
-        "company_name": "Shopko Optical",
-        "event_type": "Opening",
-        "Title": "Shopko Optical opens new center in Duluth, - BusinessNorth",
-        "Link": "https://www.businessnorth.com/press_releases/shopko-optical-opens-new-center-in-duluth/article_b07b7a9a-d51b-4937-9bc1-bfae56809f51.html",
-        "Published": "Mon, 26 Oct 2026 15:36:00 GMT",
-        "Summary": "Shopko Optical opens new center in Duluth, BusinessNorth"
+        "Title": "Continual Closing the Gap concerns in the NT prompt federal funding 'adjustments' - National Indigenous Times",
+        "Link": "https://nit.com.au/26-10-2026/27175/commonwealth-adjusts-nt-funding-over-closing-the-gap-concerns",
+        "Published": "Mon, 26 Oct 2026 06:45:00 GMT",
+        "Summary": "Continual Closing the Gap concerns in the NT prompt federal funding 'adjustments' National Indigenous Times"
       }
     ],
     "The Dump": [
+      {
+        "company_name": "The Dump",
+        "event_type": "Closing",
+        "Title": "Overturned dump truck trailer forces closure at St. George intersection - KJZZ",
+        "Link": "https://kjzz.com/news/local/overturned-dump-truck-trailer-forces-closure-at-st-george-intersection?teaserSource=trending",
+        "Published": "Tue, 27 Oct 2026 03:11:15 GMT",
+        "Summary": "Overturned dump truck trailer forces closure at St. George intersection KJZZ"
+      },
+      {
+        "company_name": "The Dump",
+        "event_type": "Closing",
+        "Title": "Overturned dump truck trailer forces closure at St. George intersection - KMYU",
+        "Link": "https://kmyu.tv/news/local/overturned-dump-truck-trailer-forces-closure-at-st-george-intersection?teaserSource=trending",
+        "Published": "Tue, 27 Oct 2026 02:11:34 GMT",
+        "Summary": "Overturned dump truck trailer forces closure at St. George intersection KMYU"
+      },
       {
         "company_name": "The Dump",
         "event_type": "Closing",
@@ -211,26 +393,10 @@
       {
         "company_name": "The Dump",
         "event_type": "Closing",
-        "Title": "Overturned dump truck trailer forces closure at St. George intersection - KMYU",
-        "Link": "https://kmyu.tv/news/local/overturned-dump-truck-trailer-forces-closure-at-st-george-intersection?teaserSource=trending",
-        "Published": "Mon, 26 Oct 2026 20:37:30 GMT",
-        "Summary": "Overturned dump truck trailer forces closure at St. George intersection KMYU"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
         "Title": "Historic US furniture chain closes all its stores after 128 years and begins a $100 million liquidation: where the liquidation sales are - El Cronista",
         "Link": "https://www.cronista.com/en/finance/historic-us-furniture-chain-closes-all-its-stores-after-128-years-and-begins-a-100-million-liquidation-where-the-liquidation-sales-are/",
         "Published": "Mon, 26 Oct 2026 18:12:18 GMT",
         "Summary": "Historic US furniture chain closes all its stores after 128 years and begins a $100 million liquidation: where the liquidation sales are El Cronista"
-      },
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Overturned dump truck trailer forces closure at St. George intersection - KUTV",
-        "Link": "https://kutv.com/news/local/overturned-dump-truck-trailer-forces-closure-at-st-george-intersection",
-        "Published": "Mon, 26 Oct 2026 16:34:10 GMT",
-        "Summary": "Overturned dump truck trailer forces closure at St. George intersection KUTV"
       }
     ]
   }
