@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-10-30",
+  "last_updated": "2026-10-31",
   "data": {
+    "Acadia Healthcare": [
+      {
+        "company_name": "Acadia Healthcare",
+        "event_type": "Closing",
+        "Title": "Layoffs, closures tracker: 61 workers face AmeriHealth Caritas cuts - Modern Healthcare News",
+        "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
+        "Published": "Fri, 30 Oct 2026 04:02:11 GMT",
+        "Summary": "Layoffs, closures tracker: 61 workers face AmeriHealth Caritas cuts Modern Healthcare News"
+      }
+    ],
+    "Disney Store": [
+      {
+        "company_name": "Disney Store",
+        "event_type": "Opening",
+        "Title": "Disney Store to Open First U.K. Outlet Store - License Global",
+        "Link": "https://www.licenseglobal.com/retail-news-trends/disney-store-to-open-first-uk-outlet-store",
+        "Published": "Thu, 29 Oct 2026 02:10:40 GMT",
+        "Summary": "Disney Store to Open First U.K. Outlet Store License Global"
+      }
+    ],
+    "Jersey Mike's": [
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Jersey Mike’s Subs Coming to Lincoln - WhatNow",
+        "Link": "https://whatnow.com/portland/restaurants/jersey-mikes-subs-coming-to-lincoln/",
+        "Published": "Fri, 30 Oct 2026 00:38:37 GMT",
+        "Summary": "Jersey Mike’s Subs Coming to Lincoln WhatNow"
+      }
+    ],
+    "LabCorp": [
+      {
+        "company_name": "LabCorp",
+        "event_type": "Closing",
+        "Title": "Revenue rises 6.9% as Labcorp (LH) agrees to buy BioReference Health laboratory businesses. - Stock Titan",
+        "Link": "https://www.stocktitan.net/sec-filings/LH/10-q-labcorp-holdings-inc-quarterly-earnings-report-003ca6f22c64.html",
+        "Published": "Fri, 30 Oct 2026 20:12:02 GMT",
+        "Summary": "Revenue rises 6.9% as Labcorp (LH) agrees to buy BioReference Health laboratory businesses. Stock Titan"
+      }
+    ],
+    "Jersey Mike's Subs": [
+      {
+        "company_name": "Jersey Mike's Subs",
+        "event_type": "Opening",
+        "Title": "Jersey Mike’s Subs Coming to Lincoln - WhatNow",
+        "Link": "https://whatnow.com/portland/restaurants/jersey-mikes-subs-coming-to-lincoln/",
+        "Published": "Fri, 30 Oct 2026 00:38:37 GMT",
+        "Summary": "Jersey Mike’s Subs Coming to Lincoln WhatNow"
+      }
+    ],
+    "Massage Envy": [
+      {
+        "company_name": "Massage Envy",
+        "event_type": "Opening",
+        "Title": "Sponsored Content: Massage Envy Grand Opening - WJHL",
+        "Link": "https://www.wjhl.com/video/sponsored-content-massage-envy-grand-opening/12313260/",
+        "Published": "Fri, 30 Oct 2026 14:56:51 GMT",
+        "Summary": "Sponsored Content: Massage Envy Grand Opening WJHL"
+      }
+    ],
     "Bulgari": [
       {
         "company_name": "Bulgari",
@@ -17,98 +77,34 @@
         "Link": "https://dailybeirut.com/en/lifestyle/kim-kardashian-wears-historic-bulgari-necklace-rome-photoshoot/",
         "Published": "Thu, 29 Oct 2026 13:26:28 GMT",
         "Summary": "Kim Kardashian Wears Elizabeth Taylor's Bulgari Necklace Daily Beirut"
-      }
-    ],
-    "Calvin Klein": [
-      {
-        "company_name": "Calvin Klein",
-        "event_type": "Opening",
-        "Title": "Jude Bellingham is teased as the star of Calvin Klein’s new underwear campaign - attitude.co.uk",
-        "Link": "https://www.attitude.co.uk/news/jude-bellingham-teased-calvin-kleins-latest-underwear-star-538322/",
-        "Published": "Wed, 28 Oct 2026 15:42:15 GMT",
-        "Summary": "Jude Bellingham is teased as the star of Calvin Klein’s new underwear campaign attitude.co.uk"
-      }
-    ],
-    "Disney Store": [
-      {
-        "company_name": "Disney Store",
-        "event_type": "Opening",
-        "Title": "Disney Store to Open First U.K. Outlet Store - License Global",
-        "Link": "https://www.licenseglobal.com/retail-news-trends/disney-store-to-open-first-uk-outlet-store",
-        "Published": "Thu, 29 Oct 2026 02:10:40 GMT",
-        "Summary": "Disney Store to Open First U.K. Outlet Store License Global"
-      }
-    ],
-    "Great Expressions Dental Centers": [
-      {
-        "company_name": "Great Expressions Dental Centers",
-        "event_type": "Opening",
-        "Title": "MOJO Family of Brands names Matt White chief financial officer - Professional Carwashing & Detailing",
-        "Link": "https://www.carwash.com/mojo-matt-white-chief-financial-officer/",
-        "Published": "Wed, 28 Oct 2026 18:05:00 GMT",
-        "Summary": "MOJO Family of Brands names Matt White chief financial officer Professional Carwashing & Detailing"
-      }
-    ],
-    "Jersey Mike's": [
-      {
-        "company_name": "Jersey Mike's",
-        "event_type": "Opening",
-        "Title": "Dave’s Hot Chicken fires up first in South Jersey as Jersey Mike’s opens next door - NJ.com",
-        "Link": "https://www.nj.com/business/2026/10/daves-hot-chicken-jersey-mikes-opening-back-to-back-at-this-busy-nj-shopping-center.html",
-        "Published": "Wed, 28 Oct 2026 21:00:00 GMT",
-        "Summary": "Dave’s Hot Chicken fires up first in South Jersey as Jersey Mike’s opens next door NJ.com"
       },
       {
-        "company_name": "Jersey Mike's",
-        "event_type": "Opening",
-        "Title": "What we know about new Jersey Mike's Subs 'coming soon' to Marshfield - Marshfield News-Herald",
-        "Link": "https://www.marshfieldnewsherald.com/story/money/2026/10/28/jersey-mikes-subs-sandwich-shop-coming-soon-to-marshfield-wisconsin/92460511007/",
-        "Published": "Wed, 28 Oct 2026 10:07:00 GMT",
-        "Summary": "What we know about new Jersey Mike's Subs 'coming soon' to Marshfield Marshfield News-Herald"
+        "company_name": "Bulgari",
+        "event_type": "Closing",
+        "Title": "Kim Kardashian plucks Elizabeth Taylor’s $12.7M emerald necklace from the vault - NEWS.am STYLE",
+        "Link": "https://style.news.am/eng/print/116895/",
+        "Published": "Fri, 30 Oct 2026 08:30:00 GMT",
+        "Summary": "Kim Kardashian plucks Elizabeth Taylor’s $12.7M emerald necklace from the vault NEWS.am STYLE"
       }
     ],
-    "Massage Envy": [
+    "Nando's U.S.": [
       {
-        "company_name": "Massage Envy",
+        "company_name": "Nando's U.S.",
         "event_type": "Opening",
-        "Title": "Sponsored Content: Massage Envy Grand Opening - WJHL",
-        "Link": "https://www.wjhl.com/daytime-tri-cities/sponsored-content-massage-envy-grand-opening/",
-        "Published": "Wed, 28 Oct 2026 17:33:42 GMT",
-        "Summary": "Sponsored Content: Massage Envy Grand Opening WJHL"
-      },
-      {
-        "company_name": "Massage Envy",
-        "event_type": "Opening",
-        "Title": "Sponsored Content: Massage Envy Grand Opening - WJHL",
-        "Link": "https://www.wjhl.com/video/sponsored-content-massage-envy-grand-opening/12313260/",
-        "Published": "Wed, 28 Oct 2026 15:20:20 GMT",
-        "Summary": "Sponsored Content: Massage Envy Grand Opening WJHL"
+        "Title": "Nando's PERi-PERi Opening New Fairfax Restaurant, Offering Free Chicken To First 500 Guests - Patch",
+        "Link": "https://patch.com/virginia/fairfaxcity/nandos-peri-peri-opening-new-fairfax-restaurant-offering-free-chicken-first-500",
+        "Published": "Fri, 30 Oct 2026 12:33:27 GMT",
+        "Summary": "Nando's PERi-PERi Opening New Fairfax Restaurant, Offering Free Chicken To First 500 Guests Patch"
       }
     ],
-    "Jersey Mike's Subs": [
+    "Panera Bread": [
       {
-        "company_name": "Jersey Mike's Subs",
+        "company_name": "Panera Bread",
         "event_type": "Opening",
-        "Title": "Dave’s Hot Chicken fires up first in South Jersey as Jersey Mike’s opens next door - NJ.com",
-        "Link": "https://www.nj.com/business/2026/10/daves-hot-chicken-jersey-mikes-opening-back-to-back-at-this-busy-nj-shopping-center.html",
-        "Published": "Wed, 28 Oct 2026 21:00:00 GMT",
-        "Summary": "Dave’s Hot Chicken fires up first in South Jersey as Jersey Mike’s opens next door NJ.com"
-      },
-      {
-        "company_name": "Jersey Mike's Subs",
-        "event_type": "Opening",
-        "Title": "What we know about new Jersey Mike's Subs 'coming soon' to Marshfield - Marshfield News-Herald",
-        "Link": "https://www.marshfieldnewsherald.com/story/money/2026/10/28/jersey-mikes-subs-sandwich-shop-coming-soon-to-marshfield-wisconsin/92460511007/",
-        "Published": "Wed, 28 Oct 2026 10:07:00 GMT",
-        "Summary": "What we know about new Jersey Mike's Subs 'coming soon' to Marshfield Marshfield News-Herald"
-      },
-      {
-        "company_name": "Jersey Mike's Subs",
-        "event_type": "Opening",
-        "Title": "Jersey Mike’s Subs Coming to Lincoln - WhatNow",
-        "Link": "https://whatnow.com/portland/restaurants/jersey-mikes-subs-coming-to-lincoln/",
-        "Published": "Fri, 30 Oct 2026 00:38:37 GMT",
-        "Summary": "Jersey Mike’s Subs Coming to Lincoln WhatNow"
+        "Title": "Panera set to open in San Tan Valley - Your Valley",
+        "Link": "https://www.yourvalley.net/queen-creek-independent/stories/panera-set-to-open-in-san-tan-valley,736467",
+        "Published": "Fri, 30 Oct 2026 20:57:31 GMT",
+        "Summary": "Panera set to open in San Tan Valley Your Valley"
       }
     ],
     "One Medical": [
@@ -117,87 +113,11 @@
         "event_type": "Closing",
         "Title": "Deals tracker: Stryker acquires ZuriMED - Modern Healthcare News",
         "Link": "https://www.modernhealthcare.com/mergers-acquisitions/mh-healthcare-deals-live-updates/",
-        "Published": "Thu, 29 Oct 2026 05:32:36 GMT",
+        "Published": "Fri, 30 Oct 2026 14:57:57 GMT",
         "Summary": "Deals tracker: Stryker acquires ZuriMED Modern Healthcare News"
       }
     ],
-    "Quest Diagnostics": [
-      {
-        "company_name": "Quest Diagnostics",
-        "event_type": "Closing",
-        "Title": "Quest Diagnostics stock at EUR 227.05 in late October 29 quote - ad-hoc-news.de",
-        "Link": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/quest-diagnostics-stock-at-eur-227-05-in-late-october-29-quote/70432214",
-        "Published": "Fri, 30 Oct 2026 02:04:35 GMT",
-        "Summary": "Quest Diagnostics stock at EUR 227.05 in late October 29 quote ad-hoc-news.de"
-      }
-    ],
-    "Trimble": [
-      {
-        "company_name": "Trimble",
-        "event_type": "Closing",
-        "Title": "Reata Puts Fort Worth ISD Culinary Students Behind the Burners - Fort Worth Magazine",
-        "Link": "https://fwtx.com/eat-drink/reata-restaurant-fort-worth-isd-culinary-students/",
-        "Published": "Wed, 28 Oct 2026 22:33:05 GMT",
-        "Summary": "Reata Puts Fort Worth ISD Culinary Students Behind the Burners Fort Worth Magazine"
-      }
-    ],
     "Gap": [
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Serious flaws have only widened the gap, not closed it - The Australian",
-        "Link": "https://www.theaustralian.com.au/nation/serious-policy-flaws-have-only-widened-the-gap/news-story/69113cf7369457b56537cace05e673b9",
-        "Published": "Wed, 28 Oct 2026 23:48:43 GMT",
-        "Summary": "Serious flaws have only widened the gap, not closed it The Australian"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Where Environmental Commissioning Creates Value in Digital Infrastructure: Closing the Gap Between Construction and Operations - JD Supra",
-        "Link": "https://www.jdsupra.com/legalnews/where-environmental-commissioning-6790423/",
-        "Published": "Wed, 28 Oct 2026 18:53:30 GMT",
-        "Summary": "Where Environmental Commissioning Creates Value in Digital Infrastructure: Closing the Gap Between Construction and Operations JD Supra"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Kansas Senate odds: Marshall still favored, but Hamilton closing gap as midterms approach - Kalshi News",
-        "Link": "https://news.kalshi.com/p/kansas-senate-odds-hamilton-closing-gap-on-marshall-as-midterms-approach",
-        "Published": "Wed, 28 Oct 2026 17:11:47 GMT",
-        "Summary": "Kansas Senate odds: Marshall still favored, but Hamilton closing gap as midterms approach Kalshi News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "🌏💰 Closing Southeast Asia's $300B missing middle gap: Key takeaways from KUMPUL C4C 2026 - The Southeast Asia Desk",
-        "Link": "https://www.thesoutheastasiadesk.com/p/asean-missing-middle-financing-gap-kumpul-c4c-2026",
-        "Published": "Wed, 28 Oct 2026 14:03:20 GMT",
-        "Summary": "🌏💰 Closing Southeast Asia's $300B missing middle gap: Key takeaways from KUMPUL C4C 2026 The Southeast Asia Desk"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the climate–economics communication gap - Nature",
-        "Link": "https://www.nature.com/articles/s41558-026-02784-w",
-        "Published": "Wed, 28 Oct 2026 10:25:20 GMT",
-        "Summary": "Closing the climate–economics communication gap Nature"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Vietnam Grows 9.95% in 3Q 2026, Closing Gap With Thailand - SME & Entrepreneurship Magazine",
-        "Link": "https://sme.asia/vietnam-grows-9-95-in-3q-2026-closing-gap-with-thailand/",
-        "Published": "Wed, 28 Oct 2026 04:00:06 GMT",
-        "Summary": "Vietnam Grows 9.95% in 3Q 2026, Closing Gap With Thailand SME & Entrepreneurship Magazine"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Watch: Closing the Skills Gap in Supply Chain Talent - Supply Chain Brain",
-        "Link": "https://www.supplychainbrain.com/articles/45087-watch-closing-the-skills-gap-in-supply-chain-talent",
-        "Published": "Wed, 28 Oct 2026 04:00:00 GMT",
-        "Summary": "Watch: Closing the Skills Gap in Supply Chain Talent Supply Chain Brain"
-      },
       {
         "company_name": "Gap",
         "event_type": "Closing",
@@ -209,18 +129,26 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
+        "Title": "Closing the Gap Between New CKD Therapies and Patients Who Need Them - The American Journal of Managed Care",
+        "Link": "https://www.ajmc.com/view/closing-the-gap-between-new-ckd-therapies-and-patients-who-need-them",
+        "Published": "Thu, 29 Oct 2026 22:10:59 GMT",
+        "Summary": "Closing the Gap Between New CKD Therapies and Patients Who Need Them The American Journal of Managed Care"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
         "Title": "Closing the Records Gap: New Executive Order Targets Delays Between the Military and the VA - Ogletree",
-        "Link": "https://ogletree.com/insights-resources/blog-posts/closing-the-records-gap-new-executive-order-targets-delays-between-the-military-and-the-va/",
-        "Published": "Thu, 29 Oct 2026 20:43:24 GMT",
+        "Link": "https://ogletree.com/insights-resources/blog-posts/closing-the-records-gap-new-executive-order-targets-delays-between-the-military-and-the-va",
+        "Published": "Thu, 29 Oct 2026 20:43:37 GMT",
         "Summary": "Closing the Records Gap: New Executive Order Targets Delays Between the Military and the VA Ogletree"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "A New Approach to Closing the Disability Wealth Gap - Stateline",
-        "Link": "https://stateline.org/2026/10/29/a-new-approach/",
-        "Published": "Thu, 29 Oct 2026 19:01:03 GMT",
-        "Summary": "A New Approach to Closing the Disability Wealth Gap Stateline"
+        "Title": "Closing the Gap From HCV Diagnosis to Cure: Norah Terrault, MD, MPH - The American Journal of Managed Care",
+        "Link": "https://www.ajmc.com/view/closing-the-gap-from-hcv-diagnosis-to-cure-norah-terrault-md-mph",
+        "Published": "Thu, 29 Oct 2026 20:02:42 GMT",
+        "Summary": "Closing the Gap From HCV Diagnosis to Cure: Norah Terrault, MD, MPH The American Journal of Managed Care"
       },
       {
         "company_name": "Gap",
@@ -229,14 +157,6 @@
         "Link": "https://www.trucknews.com/sustainability/closing-tractor-trailer-gap-offers-fleets-fresh-opportunity-to-cut-fuel-costs-nacfe/1003224282/",
         "Published": "Thu, 29 Oct 2026 18:43:33 GMT",
         "Summary": "Closing tractor-trailer gap offers fleets fresh opportunity to cut fuel costs: NACFE Truck News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "NES32: NITDA Boss Believes Stronger Partnerships Key to Closing Nigeria’s Digital Skills Gap - Techeconomy",
-        "Link": "https://techeconomy.ng/nes32-nitda-boss-believes-stronger-partnerships-key-to-closing-nigerias-digital-skills-gap",
-        "Published": "Thu, 29 Oct 2026 16:37:09 GMT",
-        "Summary": "NES32: NITDA Boss Believes Stronger Partnerships Key to Closing Nigeria’s Digital Skills Gap Techeconomy"
       },
       {
         "company_name": "Gap",
@@ -257,42 +177,66 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the Immutable Backup Gap With an Offsite Storage VPS - The Future of Things",
-        "Link": "https://thefutureofthings.com/30061-closing-the-immutable-backup-gap-with-an-offsite-storage-vps/",
-        "Published": "Thu, 29 Oct 2026 11:47:15 GMT",
-        "Summary": "Closing the Immutable Backup Gap With an Offsite Storage VPS The Future of Things"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Beyond pay: Why closing the gender pay gap starts with supporting working parents - Employee Benefits",
-        "Link": "https://www.employeebenefits.co.uk/pay-strategy/2026/10/29/watch-beyond-pay-why-closing-the-gender-pay-gap-starts-with-supporting-working-parents/",
-        "Published": "Thu, 29 Oct 2026 11:01:22 GMT",
-        "Summary": "Beyond pay: Why closing the gender pay gap starts with supporting working parents Employee Benefits"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "How Logitech is closing the gap between pro and casual gamers - GadgetGuy",
-        "Link": "https://www.gadgetguy.com.au/logitech-closing-gap-between-pro-casual-gamers/",
-        "Published": "Thu, 29 Oct 2026 06:03:50 GMT",
-        "Summary": "How Logitech is closing the gap between pro and casual gamers GadgetGuy"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Glioblastoma care in Mexico and Latin America: a roadmap for closing the treatment gap - Bioengineer.org",
-        "Link": "https://bioengineer.org/glioblastoma-care-in-mexico-and-latin-america-a-roadmap-for-closing-the-treatment-gap/",
-        "Published": "Thu, 29 Oct 2026 04:47:47 GMT",
-        "Summary": "Glioblastoma care in Mexico and Latin America: a roadmap for closing the treatment gap Bioengineer.org"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Closing the gap: McCarty Lane H-E-B opens in San Marcos's east side, alleviating local food desert - Community Impact",
         "Link": "https://communityimpact.com/san-marcos-buda-kyle/development/closing-the-gap-mccarty-lane-h-e-b-opens-in-san-marcos-s-east-side-alleviating-local-food-desert/",
         "Published": "Thu, 29 Oct 2026 03:34:00 GMT",
         "Summary": "Closing the gap: McCarty Lane H-E-B opens in San Marcos's east side, alleviating local food desert Community Impact"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "SHINE-2 and Closing the Pediatric UC Treatment Gap, With Marla Dubinsky, MD - HCPLive",
+        "Link": "https://www.hcplive.com/view/shine-2-and-closing-the-pediatric-uc-treatment-gap-with-marla-dubinsky-md",
+        "Published": "Fri, 30 Oct 2026 20:11:06 GMT",
+        "Summary": "SHINE-2 and Closing the Pediatric UC Treatment Gap, With Marla Dubinsky, MD HCPLive"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "NITDA: Stronger partnerships critical to closing Nigeria’s digital skills gap - ConsumerConnect",
+        "Link": "https://consumerconnectng.com/?p=5765",
+        "Published": "Fri, 30 Oct 2026 15:27:37 GMT",
+        "Summary": "NITDA: Stronger partnerships critical to closing Nigeria’s digital skills gap ConsumerConnect"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Beyond the Pink: Closing the gap on breast cancer care in Mississippi - WDAM-TV",
+        "Link": "https://www.wdam.com/video/2026/10/30/beyond-pink-closing-gap-breast-cancer-care-mississippi/",
+        "Published": "Fri, 30 Oct 2026 13:48:36 GMT",
+        "Summary": "Beyond the Pink: Closing the gap on breast cancer care in Mississippi WDAM-TV"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Commentary: A New Approach to Closing the Disability Wealth Gap - Iowa Capital Dispatch",
+        "Link": "https://iowacapitaldispatch.com/2026/10/30/a-new-approach-to-closing-the-disability-wealth-gap/",
+        "Published": "Fri, 30 Oct 2026 12:03:20 GMT",
+        "Summary": "Commentary: A New Approach to Closing the Disability Wealth Gap Iowa Capital Dispatch"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "GAP's Big Savage Tunnel to close for the winter - Daily American",
+        "Link": "https://www.dailyamerican.com/story/lifestyle/around-town/2026/10/30/date-set-for-closing-gaps-big-savage-tunnel-for-the-winter/92493644007/",
+        "Published": "Fri, 30 Oct 2026 10:17:00 GMT",
+        "Summary": "GAP's Big Savage Tunnel to close for the winter Daily American"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Pediatric Evidence Gap - Pharmaceutical Executive",
+        "Link": "https://www.pharmexec.com/view/closing-pediatric-evidence-gap",
+        "Published": "Fri, 30 Oct 2026 10:06:06 GMT",
+        "Summary": "Closing the Pediatric Evidence Gap Pharmaceutical Executive"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Beyond the Pink: Closing the gap on breast cancer care in Mississippi - WLBT",
+        "Link": "https://www.wlbt.com/2026/10/30/beyond-pink-closing-gap-breast-cancer-care-mississippi/",
+        "Published": "Fri, 30 Oct 2026 03:32:00 GMT",
+        "Summary": "Beyond the Pink: Closing the gap on breast cancer care in Mississippi WLBT"
       },
       {
         "company_name": "Gap",
@@ -303,6 +247,34 @@
         "Summary": "Induction Sealing Gap System From: Enercon Industries Corp. Packaging World"
       }
     ],
+    "Quest Diagnostics": [
+      {
+        "company_name": "Quest Diagnostics",
+        "event_type": "Closing",
+        "Title": "Quest Diagnostics Incorporated (DGX) Stock Forecast & Price Prediction 2026–2030 - CoinCodex",
+        "Link": "https://coincodex.com/stock/DGX/price-prediction/",
+        "Published": "Thu, 29 Oct 2026 04:11:00 GMT",
+        "Summary": "Quest Diagnostics Incorporated (DGX) Stock Forecast & Price Prediction 2026–2030 CoinCodex"
+      },
+      {
+        "company_name": "Quest Diagnostics",
+        "event_type": "Closing",
+        "Title": "Quest Diagnostics stock at EUR 227.05 in late October 29 quote - ad-hoc-news.de",
+        "Link": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/quest-diagnostics-stock-at-eur-227-05-in-late-october-29-quote/70432214",
+        "Published": "Fri, 30 Oct 2026 02:04:35 GMT",
+        "Summary": "Quest Diagnostics stock at EUR 227.05 in late October 29 quote ad-hoc-news.de"
+      }
+    ],
+    "Tesla Motors": [
+      {
+        "company_name": "Tesla Motors",
+        "event_type": "Closing",
+        "Title": "Tesla Breaks Compatibility With Third-Party V2L Devices - Not a Tesla App",
+        "Link": "https://www.notateslaapp.com/news/4916/tesla-breaks-compatibility-with-third-party-v2l-devices",
+        "Published": "Thu, 29 Oct 2026 16:17:00 GMT",
+        "Summary": "Tesla Breaks Compatibility With Third-Party V2L Devices Not a Tesla App"
+      }
+    ],
     "The RoomPlace": [
       {
         "company_name": "The RoomPlace",
@@ -311,6 +283,26 @@
         "Link": "https://www.lakemchenryscanner.com/2026/10/29/exciting-step-burlington-opening-new-store-this-week-in-former-furniture-store-building-in-mchenry/",
         "Published": "Fri, 30 Oct 2026 01:44:36 GMT",
         "Summary": "'Exciting step': Burlington opening new store this week in former furniture store building in McHenry Lake and McHenry County Scanner"
+      }
+    ],
+    "Urban Barn": [
+      {
+        "company_name": "Urban Barn",
+        "event_type": "Opening",
+        "Title": "URBAN BARN EXPANDS TO NEW BRUNSWICK WITH FIRST STORE IN MONCTON OPENING TODAY - Tolerance.ca",
+        "Link": "https://www.tolerance.ca/en/newswire?rkey=20261030C0298&filter=21675",
+        "Published": "Fri, 30 Oct 2026 16:00:31 GMT",
+        "Summary": "URBAN BARN EXPANDS TO NEW BRUNSWICK WITH FIRST STORE IN MONCTON OPENING TODAY Tolerance.ca"
+      }
+    ],
+    "World Market": [
+      {
+        "company_name": "World Market",
+        "event_type": "Opening",
+        "Title": "Nordstrom Rack opens new store in metro Denver - The Denver Post",
+        "Link": "https://www.denverpost.com/2026/10/29/nordstrom-rack-new-store-lakewood/",
+        "Published": "Thu, 29 Oct 2026 10:00:08 GMT",
+        "Summary": "Nordstrom Rack opens new store in metro Denver The Denver Post"
       }
     ]
   }
