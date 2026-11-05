@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04",
+  "last_updated": "2026-11-05",
   "data": {
     "Acadia Healthcare": [
       {
@@ -7,11 +7,37 @@
         "event_type": "Closing",
         "Title": "Layoffs, closures tracker: Children’s Mercy cuts 115 roles - Modern Healthcare",
         "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
-        "Published": "Tue, 03 Nov 2026 03:20:37 GMT",
+        "Published": "Wed, 04 Nov 2026 19:00:38 GMT",
         "Summary": "Layoffs, closures tracker: Children’s Mercy cuts 115 roles Modern Healthcare"
       }
     ],
+    "Christy Sports": [
+      {
+        "company_name": "Christy Sports",
+        "event_type": "Opening",
+        "Title": "Christy Sports Brings Outlet Pricing, Expert Service and Trade-In Program to Littleton With New Concept Store - The National Law Review",
+        "Link": "https://www.natlawreview.com/press-releases/christy-sports-brings-outlet-pricing-expert-service-and-trade-program",
+        "Published": "Wed, 04 Nov 2026 04:53:02 GMT",
+        "Summary": "Christy Sports Brings Outlet Pricing, Expert Service and Trade-In Program to Littleton With New Concept Store The National Law Review"
+      }
+    ],
     "Boost Mobile": [
+      {
+        "company_name": "Boost Mobile",
+        "event_type": "Opening",
+        "Title": "SpaceX in Talks to Buy Boost Mobile: What It Means for Travelers - YeahThatsKosher",
+        "Link": "https://yeahthatskosher.com/2026/11/spacex-in-talks-to-buy-boost-mobile-what-it-means-for-travelers/",
+        "Published": "Tue, 03 Nov 2026 20:44:07 GMT",
+        "Summary": "SpaceX in Talks to Buy Boost Mobile: What It Means for Travelers YeahThatsKosher"
+      },
+      {
+        "company_name": "Boost Mobile",
+        "event_type": "Opening",
+        "Title": "SpaceX to buy Boost Mobile? (Telco Diary) - RCR Wireless News",
+        "Link": "https://rcrwireless.com/20261103/network-infrastructure/spacex-to-buy-boost-mobile-telco-diary",
+        "Published": "Tue, 03 Nov 2026 09:39:06 GMT",
+        "Summary": "SpaceX to buy Boost Mobile? (Telco Diary) RCR Wireless News"
+      },
       {
         "company_name": "Boost Mobile",
         "event_type": "Opening",
@@ -19,22 +45,6 @@
         "Link": "https://mediasat.info/en/2026/11/03/spacex-eyes-boost-mobile-to-break-into-the-us-wireless-market/",
         "Published": "Tue, 03 Nov 2026 08:02:44 GMT",
         "Summary": "SpaceX Eyes Boost Mobile to Break Into the US Wireless Market mediasat.info"
-      },
-      {
-        "company_name": "Boost Mobile",
-        "event_type": "Opening",
-        "Title": "SpaceX eyes back door to MVNO via Boost Mobile – report - Light Reading",
-        "Link": "https://www.lightreading.com/satellite/spacex-eyes-back-door-to-mvno-via-boost-mobile-report",
-        "Published": "Mon, 02 Nov 2026 13:45:13 GMT",
-        "Summary": "SpaceX eyes back door to MVNO via Boost Mobile – report Light Reading"
-      },
-      {
-        "company_name": "Boost Mobile",
-        "event_type": "Opening",
-        "Title": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports - Reuters",
-        "Link": "https://www.reuters.com/business/media-telecom/spacex-talks-buy-boost-mobile-or-use-its-network-washington-post-reports-2026-11-02/",
-        "Published": "Mon, 02 Nov 2026 11:20:09 GMT",
-        "Summary": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports Reuters"
       },
       {
         "company_name": "Boost Mobile",
@@ -53,7 +63,35 @@
         "Summary": "SpaceX Stock Price Rebounds as Boost Mobile Deal Talks Surface The Coin Republic"
       }
     ],
+    "David Yurman": [
+      {
+        "company_name": "David Yurman",
+        "event_type": "Closing",
+        "Title": "Jewelers of America Announces the Opening of the David Yurman GEM Awards Grant Applications - instoremag.com",
+        "Link": "https://instoremag.com/jewelers-of-america-announces-the-opening-of-the-david-yurman-gem-awards-grant-applications/",
+        "Published": "Wed, 04 Nov 2026 14:13:34 GMT",
+        "Summary": "Jewelers of America Announces the Opening of the David Yurman GEM Awards Grant Applications instoremag.com"
+      }
+    ],
+    "Jersey Mike's Subs": [
+      {
+        "company_name": "Jersey Mike's Subs",
+        "event_type": "Opening",
+        "Title": "Jersey Mike’s now open in Princeton - Shaw Local",
+        "Link": "https://www.shawlocal.com/illinois-valley/2026/11/04/jersey-mikes-now-open-in-princeton/",
+        "Published": "Wed, 04 Nov 2026 18:00:00 GMT",
+        "Summary": "Jersey Mike’s now open in Princeton Shaw Local"
+      }
+    ],
     "Jersey Mike's": [
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Jersey Mike’s now open in Princeton - Shaw Local",
+        "Link": "https://www.shawlocal.com/illinois-valley/2026/11/04/jersey-mikes-now-open-in-princeton/",
+        "Published": "Wed, 04 Nov 2026 18:00:00 GMT",
+        "Summary": "Jersey Mike’s now open in Princeton Shaw Local"
+      },
       {
         "company_name": "Jersey Mike's",
         "event_type": "Opening",
@@ -61,34 +99,6 @@
         "Link": "https://www.wsaw.com/2026/11/03/three-new-restaurants-opening-soon-marshfield/",
         "Published": "Tue, 03 Nov 2026 03:59:00 GMT",
         "Summary": "Three new restaurants opening soon in Marshfield WSAW"
-      },
-      {
-        "company_name": "Jersey Mike's",
-        "event_type": "Opening",
-        "Title": "Counting down the grand opening of Jersey Mike’s in E. Wenatchee - NewsRadio 560 KPQ",
-        "Link": "https://kpq.com/ixp/1135/p/jersey-mikes-opens-east-wenatchee/",
-        "Published": "Mon, 02 Nov 2026 21:00:44 GMT",
-        "Summary": "Counting down the grand opening of Jersey Mike’s in E. Wenatchee NewsRadio 560 KPQ"
-      }
-    ],
-    "Massage Envy": [
-      {
-        "company_name": "Massage Envy",
-        "event_type": "Opening",
-        "Title": "New Massage Parlor To Open On Route 59 In Plainfield - Patch",
-        "Link": "https://patch.com/illinois/plainfield/new-massage-parlor-open-route-59-plainfield",
-        "Published": "Tue, 03 Nov 2026 19:30:46 GMT",
-        "Summary": "New Massage Parlor To Open On Route 59 In Plainfield Patch"
-      }
-    ],
-    "Murphy Oil": [
-      {
-        "company_name": "Murphy Oil",
-        "event_type": "Closing",
-        "Title": "LONN: Five-site US CDMO deal doubles the footprint; closing is expected mid-2027 - TradingView",
-        "Link": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4436476:0-lonn-five-site-us-cdmo-deal-doubles-the-footprint-closing-is-expected-mid-2027/",
-        "Published": "Tue, 03 Nov 2026 06:11:00 GMT",
-        "Summary": "LONN: Five-site US CDMO deal doubles the footprint; closing is expected mid-2027 TradingView"
       }
     ],
     "Nando's U.S.": [
@@ -99,26 +109,6 @@
         "Link": "https://www.ffxnow.com/2026/11/03/nandos-peri-peri-chicken-to-open-in-fairfax-corner-with-free-food-pop-up/",
         "Published": "Tue, 03 Nov 2026 13:30:28 GMT",
         "Summary": "Nando’s Peri-Peri Chicken to open in Fairfax Corner with free food pop-up FFXnow"
-      }
-    ],
-    "Consumer Cellular": [
-      {
-        "company_name": "Consumer Cellular",
-        "event_type": "Closing",
-        "Title": "Here's when polls are closing in your state this midterm election - PBS",
-        "Link": "https://www.pbs.org/newshour/amp/politics/heres-when-polls-are-closing-in-your-state-this-midterm-election",
-        "Published": "Mon, 02 Nov 2026 17:46:35 GMT",
-        "Summary": "Here's when polls are closing in your state this midterm election PBS"
-      }
-    ],
-    "Rogers & Hollands": [
-      {
-        "company_name": "Rogers & Hollands",
-        "event_type": "Opening",
-        "Title": "Ashcroft & Oak Jewelers Opens Second North Carolina Location at Carolina Place - FinancialContent",
-        "Link": "https://www.financialcontent.com/article/marketersmedia-2026-11-3-ashcroft-and-oak-jewelers-opens-second-north-carolina-location-at-carolina-place",
-        "Published": "Tue, 03 Nov 2026 14:19:00 GMT",
-        "Summary": "Ashcroft & Oak Jewelers Opens Second North Carolina Location at Carolina Place FinancialContent"
       }
     ],
     "Gap": [
@@ -133,18 +123,58 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Indigenous families can’t wait forever to end disadvantage - The Australian",
-        "Link": "https://www.theaustralian.com.au/commentary/indigenous-families-cant-wait-forever-to-end-disadvantage/news-story/b32eca11ed76a6ea13d2757f0ecd4db8",
-        "Published": "Tue, 03 Nov 2026 19:02:29 GMT",
-        "Summary": "Indigenous families can’t wait forever to end disadvantage The Australian"
+        "Title": "'We do see that gap closing... which is why you've seen battery life on our OLED products continue to increase': Garmin's iconic MIP screen is dying, but its COO says you won't see it completely gone anytime soon - Yahoo Tech",
+        "Link": "https://tech.yahoo.com/wearables/articles/see-gap-closing-why-youve-220000137.html",
+        "Published": "Wed, 04 Nov 2026 22:00:00 GMT",
+        "Summary": "'We do see that gap closing... which is why you've seen battery life on our OLED products continue to increase': Garmin's iconic MIP screen is dying, but its COO says you won't see it completely gone anytime soon Yahoo Tech"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the “Growth Gap”: How Paycom’s automation can help you reclaim your work week - TechRadar",
-        "Link": "https://www.techradar.com/pro/closing-the-growth-gap-how-paycoms-automation-can-help-you-reclaim-your-work-week",
-        "Published": "Tue, 03 Nov 2026 18:14:26 GMT",
-        "Summary": "Closing the “Growth Gap”: How Paycom’s automation can help you reclaim your work week TechRadar"
+        "Title": "Closing the Health Gap hosting workshop for conversations on men's health - WLWT",
+        "Link": "https://www.wlwt.com/article/closing-the-health-gap-hosting-workshop-conversations/74336981",
+        "Published": "Wed, 04 Nov 2026 21:33:08 GMT",
+        "Summary": "Closing the Health Gap hosting workshop for conversations on men's health WLWT"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "OVN LLC Adds Box Trucks to Its Expedited Freight Network, Closing the Gap Between a Cargo Van and a Full-Size Truck - Akron Beacon Journal",
+        "Link": "https://www.beaconjournal.com/press-release/story/257839/ovn-llc-adds-box-trucks-to-its-expedited-freight-network-closing-the-gap-between-a-cargo-van-and-a-full-size-truck/",
+        "Published": "Wed, 04 Nov 2026 14:52:56 GMT",
+        "Summary": "OVN LLC Adds Box Trucks to Its Expedited Freight Network, Closing the Gap Between a Cargo Van and a Full-Size Truck Akron Beacon Journal"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Innovation Equity Gap: Dr Christine Ekechi’s Challenge to Women’s Health and FemTech - https://politicsuk.com/",
+        "Link": "https://www.politicsuk.com/p/closing-the-innovation-equity-gap",
+        "Published": "Wed, 04 Nov 2026 09:16:58 GMT",
+        "Summary": "Closing the Innovation Equity Gap: Dr Christine Ekechi’s Challenge to Women’s Health and FemTech https://politicsuk.com/"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "College football G6 rankings: New Mexico closing the gap on Boise State - Yahoo Sports",
+        "Link": "https://sports.yahoo.com/articles/college-football-g6-rankings-mexico-225351146.html",
+        "Published": "Tue, 03 Nov 2026 22:53:51 GMT",
+        "Summary": "College football G6 rankings: New Mexico closing the gap on Boise State Yahoo Sports"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Is The Gap Is Closing on Concerns Over Fake News vs. Government Control of News? - Napolitan News Service",
+        "Link": "https://napolitannews.org/posts/is-the-gap-is-closing-on-concerns-over-fake-news-vs-government-control-of-news",
+        "Published": "Tue, 03 Nov 2026 22:02:20 GMT",
+        "Summary": "Is The Gap Is Closing on Concerns Over Fake News vs. Government Control of News? Napolitan News Service"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Indigenous families can’t wait forever to end disadvantage - The Australian",
+        "Link": "https://www.theaustralian.com.au/commentary/indigenous-families-cant-wait-forever-to-end-disadvantage/news-story/b32eca11ed76a6ea13d2757f0ecd4db8",
+        "Published": "Tue, 03 Nov 2026 19:01:03 GMT",
+        "Summary": "Indigenous families can’t wait forever to end disadvantage The Australian"
       },
       {
         "company_name": "Gap",
@@ -173,18 +203,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the project logistics data gap - Heavy Lift & Project Forwarding International",
-        "Link": "https://www.heavyliftpfi.com/news/2026/11/03/closing-the-project-logistics-data-gap/",
-        "Published": "Tue, 03 Nov 2026 12:06:29 GMT",
-        "Summary": "Closing the project logistics data gap Heavy Lift & Project Forwarding International"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Activation Gap: How AI-Led Efficiency Gains Can Boost India's Economic Expansion - CXOToday.com",
-        "Link": "https://cxotoday.com/ai/closing-the-activation-gap-how-ai-led-efficiency-gains-can-boost-indias-economic-expansion/",
-        "Published": "Tue, 03 Nov 2026 12:02:13 GMT",
-        "Summary": "Closing the Activation Gap: How AI-Led Efficiency Gains Can Boost India's Economic Expansion CXOToday.com"
+        "Title": "Kemi Badenoch snapping at Andy Burnham's heels as Tories close gap in bombshell poll - Daily Express",
+        "Link": "https://www.express.co.uk/news/politics/2262882/polls-tories-yougov",
+        "Published": "Tue, 03 Nov 2026 12:59:00 GMT",
+        "Summary": "Kemi Badenoch snapping at Andy Burnham's heels as Tories close gap in bombshell poll Daily Express"
       },
       {
         "company_name": "Gap",
@@ -197,10 +219,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Rural Broadband Conference focuses on closing the connectivity gap - DiscoverWestman",
-        "Link": "https://www.discoverwestman.com/articles/rural-broadband-conference-focuses-on-closing-the-connectivity-gap",
-        "Published": "Tue, 03 Nov 2026 10:45:08 GMT",
-        "Summary": "Rural Broadband Conference focuses on closing the connectivity gap DiscoverWestman"
+        "Title": "Rural Broadband Conference focuses on closing the connectivity gap - PembinaValleyOnline",
+        "Link": "https://www.pembinavalleyonline.com/articles/rural-broadband-conference-focuses-on-closing-the-connectivity-gap",
+        "Published": "Tue, 03 Nov 2026 10:45:12 GMT",
+        "Summary": "Rural Broadband Conference focuses on closing the connectivity gap PembinaValleyOnline"
       },
       {
         "company_name": "Gap",
@@ -229,10 +251,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing Europe’s Tactical ISR Gap Through Smarter Force Architecture - Unmanned Systems Technology",
-        "Link": "https://www.unmannedsystemstechnology.com/feature/closing-europes-tactical-isr-gap-through-smarter-force-architecture/",
-        "Published": "Tue, 03 Nov 2026 05:20:30 GMT",
-        "Summary": "Closing Europe’s Tactical ISR Gap Through Smarter Force Architecture Unmanned Systems Technology"
+        "Title": "Federal government commits to closing the gap in Indigenous eye health by 2035 at first Global Summit - National Indigenous Times",
+        "Link": "https://nit.com.au/03-11-2026/27302/federal-government-commits-to-closing-the-gap-in-indigenous-eye-health-by-2035-at-first-global-summit",
+        "Published": "Tue, 03 Nov 2026 05:05:00 GMT",
+        "Summary": "Federal government commits to closing the gap in Indigenous eye health by 2035 at first Global Summit National Indigenous Times"
       },
       {
         "company_name": "Gap",
@@ -253,42 +275,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Portland Public Schools has a $65M budget gap, district says, necessitating hundreds of layoffs - KGW",
-        "Link": "https://www.kgw.com/article/news/education/portland-public-schools-65m-budget-gap-450-staff-cuts-layoffs-closures-district/283-f568164f-3a42-43e3-a55f-c7ee149f5696",
-        "Published": "Mon, 02 Nov 2026 22:38:00 GMT",
-        "Summary": "Portland Public Schools has a $65M budget gap, district says, necessitating hundreds of layoffs KGW"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the sustainability valuation gap - kpmg.com",
-        "Link": "https://kpmg.com/xx/en/our-insights/sustainability/closing-the-sustainability-valuation-gap.html",
-        "Published": "Mon, 02 Nov 2026 14:06:35 GMT",
-        "Summary": "Closing the sustainability valuation gap kpmg.com"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Whose Stories Get Remembered? WikiGap Nigeria 2026 Takes Another Step Towards Closing the Gender Gap - WikiMedia.org",
-        "Link": "https://diff.wikimedia.org/2026/11/02/whose-stories-get-remembered-wikigap-nigeria-2026-takes-another-step-towards-closing-the-gender-gap/",
-        "Published": "Mon, 02 Nov 2026 09:00:00 GMT",
-        "Summary": "Whose Stories Get Remembered? WikiGap Nigeria 2026 Takes Another Step Towards Closing the Gender Gap WikiMedia.org"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "From Pledges to Progress: Closing the COP28 Implementation Gap - Dansk Industri",
-        "Link": "https://www.danskindustri.dk/arkiv/analyser/2026/11/from-pledges-to-progress-closing-the-cop28-implementation-gap/",
-        "Published": "Mon, 02 Nov 2026 08:40:19 GMT",
-        "Summary": "From Pledges to Progress: Closing the COP28 Implementation Gap Dansk Industri"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Cat bonds offer roadmap for closing private ILS transparency gap - Intelligent Insurer",
-        "Link": "https://www.intelligentinsurer.com/apcia-today/cat-bonds-offer-roadmap-for-closing-private-ils-transparency-gap",
-        "Published": "Mon, 02 Nov 2026 00:12:01 GMT",
-        "Summary": "Cat bonds offer roadmap for closing private ILS transparency gap Intelligent Insurer"
+        "Title": "Closing the Gap: Is Dexus Convenience's (ASX:DXC) Capital Return Working? - Kalkine Media",
+        "Link": "https://kalkinemedia.com/au/stocks/dividend/closing-the-gap-is-dexus-conveniences-asxdxc-capital-return-working",
+        "Published": "Tue, 03 Nov 2026 01:24:00 GMT",
+        "Summary": "Closing the Gap: Is Dexus Convenience's (ASX:DXC) Capital Return Working? Kalkine Media"
       }
     ],
     "Standard Optical": [
@@ -301,6 +291,16 @@
         "Summary": "News Content Hub - TenneT to install monitoring and threat detection technology on offshore windfarms Riviera Maritime Media"
       }
     ],
+    "Stanton Optical": [
+      {
+        "company_name": "Stanton Optical",
+        "event_type": "Opening",
+        "Title": "Looking good, Del Rio, TX: Stanton Optical is now open. - EIN Presswire",
+        "Link": "https://www.einpresswire.com/article/953998685/looking-good-del-rio-tx-stanton-optical-is-now-open",
+        "Published": "Wed, 04 Nov 2026 14:00:00 GMT",
+        "Summary": "Looking good, Del Rio, TX: Stanton Optical is now open. EIN Presswire"
+      }
+    ],
     "Sur La Table": [
       {
         "company_name": "Sur La Table",
@@ -309,44 +309,6 @@
         "Link": "https://whatnow.com/tampa/retail/sur-la-table-bring-cookware-kitchenware-and-more-to-the-villages/",
         "Published": "Tue, 03 Nov 2026 18:00:17 GMT",
         "Summary": "Sur La Table Bringing Cookware, Kitchenware, and More to The Villages WhatNow"
-      }
-    ],
-    "Spectrum": [
-      {
-        "company_name": "Spectrum",
-        "event_type": "Opening",
-        "Title": "We Rock the Spectrum’s new location brings inclusive indoor play to St. Peters - St. Louis Magazine",
-        "Link": "https://www.stlmag.com/family/we-rock-the-spectrum-st-peters/",
-        "Published": "Tue, 03 Nov 2026 17:24:22 GMT",
-        "Summary": "We Rock the Spectrum’s new location brings inclusive indoor play to St. Peters St. Louis Magazine"
-      },
-      {
-        "company_name": "Spectrum",
-        "event_type": "Opening",
-        "Title": "SpaceX Eyes Boost Mobile to Break Into the US Wireless Market - mediasat.info",
-        "Link": "https://mediasat.info/en/2026/11/03/spacex-eyes-boost-mobile-to-break-into-the-us-wireless-market/",
-        "Published": "Tue, 03 Nov 2026 08:02:44 GMT",
-        "Summary": "SpaceX Eyes Boost Mobile to Break Into the US Wireless Market mediasat.info"
-      }
-    ],
-    "The Manitowoc Company": [
-      {
-        "company_name": "The Manitowoc Company",
-        "event_type": "Opening",
-        "Title": "Manitowoc opens new service centres in Victoria and Queensland - Cranes Today",
-        "Link": "https://www.cranestodaymagazine.com/news/manitowoc-opens-centres-victoria-queensland/",
-        "Published": "Mon, 02 Nov 2026 12:24:32 GMT",
-        "Summary": "Manitowoc opens new service centres in Victoria and Queensland Cranes Today"
-      }
-    ],
-    "Urban Barn": [
-      {
-        "company_name": "Urban Barn",
-        "event_type": "Opening",
-        "Title": "Urban Barn opens first New Brunswick store in Moncton, expanding Canadian retail network - Retail Insider",
-        "Link": "https://retail-insider.com/retail-insider/2026/11/urban-barn-opens-first-new-brunswick-store-in-moncton-expanding-canadian-retail-network/",
-        "Published": "Mon, 02 Nov 2026 12:03:38 GMT",
-        "Summary": "Urban Barn opens first New Brunswick store in Moncton, expanding Canadian retail network Retail Insider"
       }
     ],
     "Vanderbilt's": [
@@ -359,26 +321,6 @@
         "Summary": "Vanderbilt’s Best Shot at an SEC Win This Season wtsp.com"
       }
     ],
-    "Waldorf Astoria Hotels & Resorts": [
-      {
-        "company_name": "Waldorf Astoria Hotels & Resorts",
-        "event_type": "Opening",
-        "Title": "Waldorf Astoria Kuala Lumpur Debuts in Malaysia - Hotel Online",
-        "Link": "https://www.hotel-online.com/news/waldorf-astoria-kuala-lumpur-debuts-in-malaysia",
-        "Published": "Mon, 02 Nov 2026 19:50:41 GMT",
-        "Summary": "Waldorf Astoria Kuala Lumpur Debuts in Malaysia Hotel Online"
-      }
-    ],
-    "Wilder": [
-      {
-        "company_name": "Wilder",
-        "event_type": "Closing",
-        "Title": "Deontay Wilder Targets Murat Gassiev, Vows To Bring Heavyweight Boxing Back To Life - FightNews",
-        "Link": "https://fightnews.com/deontay-wilder-targets-murat-gassiev-vows-to-bring-heavyweight-boxing-back-to-life/199621",
-        "Published": "Mon, 02 Nov 2026 21:06:18 GMT",
-        "Summary": "Deontay Wilder Targets Murat Gassiev, Vows To Bring Heavyweight Boxing Back To Life FightNews"
-      }
-    ],
     "World Market": [
       {
         "company_name": "World Market",
@@ -387,16 +329,6 @@
         "Link": "https://patch.com/california/dublin/world-market-open-3rd-east-bay-store-month",
         "Published": "Tue, 03 Nov 2026 17:21:18 GMT",
         "Summary": "World Market To Open 3rd East Bay Store This Month Patch"
-      }
-    ],
-    "Westin Hotels & Resorts": [
-      {
-        "company_name": "Westin Hotels & Resorts",
-        "event_type": "Closing",
-        "Title": "Westin Hilton Head Island Closes for Five Months as $50 Million Renovation Begins - Rus Tourism News",
-        "Link": "https://www.rustourismnews.com/2026/11/02/westin-hilton-head-island-closes-for-five-months-as-50-million-renovation-begins/",
-        "Published": "Mon, 02 Nov 2026 16:40:13 GMT",
-        "Summary": "Westin Hilton Head Island Closes for Five Months as $50 Million Renovation Begins Rus Tourism News"
       }
     ]
   }
