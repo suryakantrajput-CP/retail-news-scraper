@@ -1,54 +1,64 @@
 {
-  "last_updated": "2026-11-06",
+  "last_updated": "2026-11-07",
   "data": {
-    "Boost Mobile": [
+    "Acadia Healthcare": [
       {
-        "company_name": "Boost Mobile",
+        "company_name": "Acadia Healthcare",
         "event_type": "Closing",
-        "Title": "SpaceX Stock (SPCX) Rises 3.6% on Reports of EchoStar Talks (Nov 3) - Gotrade",
-        "Link": "https://www.heygotrade.com/en/news/spacex-spcx-stock-news-november-4-2026/",
-        "Published": "Wed, 04 Nov 2026 03:45:00 GMT",
-        "Summary": "SpaceX Stock (SPCX) Rises 3.6% on Reports of EchoStar Talks (Nov 3) Gotrade"
+        "Title": "Layoffs, closures tracker: Altera Digital Health laying off 133 - Modern Healthcare",
+        "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
+        "Published": "Thu, 05 Nov 2026 22:35:28 GMT",
+        "Summary": "Layoffs, closures tracker: Altera Digital Health laying off 133 Modern Healthcare"
       }
     ],
-    "Christy Sports": [
+    "Disney Store": [
       {
-        "company_name": "Christy Sports",
+        "company_name": "Disney Store",
         "event_type": "Opening",
-        "Title": "Christy Sports Brings Outlet Pricing, Expert Service and Trade-In Program to Littleton With New Concept Store - The National Law Review",
-        "Link": "https://www.natlawreview.com/press-releases/christy-sports-brings-outlet-pricing-expert-service-and-trade-program",
-        "Published": "Wed, 04 Nov 2026 04:53:02 GMT",
-        "Summary": "Christy Sports Brings Outlet Pricing, Expert Service and Trade-In Program to Littleton With New Concept Store The National Law Review"
-      }
-    ],
-    "Jersey Mike's": [
-      {
-        "company_name": "Jersey Mike's",
-        "event_type": "Opening",
-        "Title": "Jersey Mike’s now open in Princeton - Shaw Local",
-        "Link": "https://www.shawlocal.com/illinois-valley/2026/11/04/jersey-mikes-now-open-in-princeton/",
-        "Published": "Wed, 04 Nov 2026 18:00:00 GMT",
-        "Summary": "Jersey Mike’s now open in Princeton Shaw Local"
+        "Title": "Disney Store Pop Up Outlet at Cheshire Oaks Opening on November 12th - Jedi News",
+        "Link": "https://www.jedinews.com/collecting/articles/disney-store-pop-up-outlet-at-cheshire-oaks-opening-on-november-12th/",
+        "Published": "Thu, 05 Nov 2026 18:41:04 GMT",
+        "Summary": "Disney Store Pop Up Outlet at Cheshire Oaks Opening on November 12th Jedi News"
       }
     ],
     "Jersey Mike's Subs": [
       {
         "company_name": "Jersey Mike's Subs",
         "event_type": "Opening",
-        "Title": "Jersey Mike’s now open in Princeton - Shaw Local",
-        "Link": "https://www.shawlocal.com/illinois-valley/2026/11/04/jersey-mikes-now-open-in-princeton/",
-        "Published": "Wed, 04 Nov 2026 18:00:00 GMT",
-        "Summary": "Jersey Mike’s now open in Princeton Shaw Local"
+        "Title": "Londoners can win free sandwiches for a YEAR at new Oxford Street opening - London Now",
+        "Link": "https://www.london-now.co.uk/news/26695870.jersey-mikes-oxford-street-uk-opening-date-free-sandwich-giveaway/",
+        "Published": "Fri, 06 Nov 2026 05:00:00 GMT",
+        "Summary": "Londoners can win free sandwiches for a YEAR at new Oxford Street opening London Now"
       }
     ],
-    "Stanton Optical": [
+    "Jersey Mike's": [
       {
-        "company_name": "Stanton Optical",
+        "company_name": "Jersey Mike's",
         "event_type": "Opening",
-        "Title": "Looking good, Del Rio, TX: Stanton Optical is now open. - EIN Presswire",
-        "Link": "https://www.einpresswire.com/article/953998685/looking-good-del-rio-tx-stanton-optical-is-now-open",
-        "Published": "Wed, 04 Nov 2026 14:00:00 GMT",
-        "Summary": "Looking good, Del Rio, TX: Stanton Optical is now open. EIN Presswire"
+        "Title": "Londoners can win free sandwiches for a YEAR at new Oxford Street opening - London Now",
+        "Link": "https://www.london-now.co.uk/news/26695870.jersey-mikes-oxford-street-uk-opening-date-free-sandwich-giveaway/",
+        "Published": "Fri, 06 Nov 2026 05:00:00 GMT",
+        "Summary": "Londoners can win free sandwiches for a YEAR at new Oxford Street opening London Now"
+      }
+    ],
+    "Levi Strauss & Co.": [
+      {
+        "company_name": "Levi Strauss & Co.",
+        "event_type": "Opening",
+        "Title": "Levi's Opens New Flagship Store in Chicago: Get a Closer Look - Complex",
+        "Link": "https://www.complex.com/style/a/backwoodsaltar/levis-chicago-flagship-store",
+        "Published": "Fri, 06 Nov 2026 16:33:34 GMT",
+        "Summary": "Levi's Opens New Flagship Store in Chicago: Get a Closer Look Complex"
+      }
+    ],
+    "Spectrum": [
+      {
+        "company_name": "Spectrum",
+        "event_type": "Opening",
+        "Title": "New Fisher House breaks ground in Middleton for Madison VA veterans - Spectrum News",
+        "Link": "https://spectrumnews1.com/wi/milwaukee/news/2026/11/05/madison-va-fisher-house",
+        "Published": "Fri, 06 Nov 2026 13:00:00 GMT",
+        "Summary": "New Fisher House breaks ground in Middleton for Madison VA veterans Spectrum News"
       }
     ],
     "Steve Madden": [
@@ -61,38 +71,58 @@
         "Summary": "What the collapse of David Jones means for Brisbane’s retail landscape SMH.com.au"
       }
     ],
+    "Tempur-Pedic": [
+      {
+        "company_name": "Tempur-Pedic",
+        "event_type": "Opening",
+        "Title": "Tempur-Pedic To Open Store At Shops At Mission Viejo - WhatNow",
+        "Link": "https://whatnow.com/orange-county/retail/tempur-pedic-to-open-store-at-shops-at-mission-viejo/",
+        "Published": "Sat, 07 Nov 2026 01:43:14 GMT",
+        "Summary": "Tempur-Pedic To Open Store At Shops At Mission Viejo WhatNow"
+      },
+      {
+        "company_name": "Tempur-Pedic",
+        "event_type": "Opening",
+        "Title": "Tempur-Pedic to Open Fashion Valley Store in San Diego - Hoodline",
+        "Link": "https://hoodline.com/2026/11/tempur-pedic-set-to-open-third-san-diego-store-inside-fashion-valley-mall/",
+        "Published": "Fri, 06 Nov 2026 16:33:45 GMT",
+        "Summary": "Tempur-Pedic to Open Fashion Valley Store in San Diego Hoodline"
+      },
+      {
+        "company_name": "Tempur-Pedic",
+        "event_type": "Opening",
+        "Title": "Tempur-Pedic to Open at Fashion Valley - WhatNow",
+        "Link": "https://whatnow.com/san-diego/retail/tempur-pedic-to-open-at-fashion-valley/",
+        "Published": "Fri, 06 Nov 2026 03:14:59 GMT",
+        "Summary": "Tempur-Pedic to Open at Fashion Valley WhatNow"
+      }
+    ],
+    "Tumbles": [
+      {
+        "company_name": "Tumbles",
+        "event_type": "Opening",
+        "Title": "Nikkei 225 Bucks Trend to Gain As Kospi Slumps 3%; Kioxia Tumbles 8%, SK Hynix and SoftBank Drop 6% - TradingKey",
+        "Link": "https://www.tradingkey.com/analysis/stocks/more/262278885-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-googl-amzn-tradingkey",
+        "Published": "Thu, 05 Nov 2026 00:48:11 GMT",
+        "Summary": "Nikkei 225 Bucks Trend to Gain As Kospi Slumps 3%; Kioxia Tumbles 8%, SK Hynix and SoftBank Drop 6% TradingKey"
+      },
+      {
+        "company_name": "Tumbles",
+        "event_type": "Closing",
+        "Title": "THE CLOSING BELL: A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4% - WPTF",
+        "Link": "https://www.wptf.com/2026/11/05/the-closing-bell-a-brutal-sell-off-for-ai-stocks-sends-wall-street-reeling-and-the-sp-500-tumbles-4-4/",
+        "Published": "Thu, 05 Nov 2026 21:16:19 GMT",
+        "Summary": "THE CLOSING BELL: A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4% WPTF"
+      }
+    ],
     "Gap": [
       {
         "company_name": "Gap",
         "event_type": "Opening",
         "Title": "The latest business openings and closings in Hampton Roads - The Virginian-Pilot",
         "Link": "https://www.pilotonline.com/2026/11/05/openings-closings-hampton-roads/",
-        "Published": "Fri, 06 Nov 2026 01:33:49 GMT",
+        "Published": "Thu, 05 Nov 2026 08:00:00 GMT",
         "Summary": "The latest business openings and closings in Hampton Roads The Virginian-Pilot"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "'We do see that gap closing... which is why you've seen battery life on our OLED products continue to increase': Garmin's iconic MIP screen is dying, but its COO says you won't see it completely gone anytime soon - Yahoo Tech",
-        "Link": "https://tech.yahoo.com/wearables/articles/see-gap-closing-why-youve-220000137.html",
-        "Published": "Wed, 04 Nov 2026 22:00:00 GMT",
-        "Summary": "'We do see that gap closing... which is why you've seen battery life on our OLED products continue to increase': Garmin's iconic MIP screen is dying, but its COO says you won't see it completely gone anytime soon Yahoo Tech"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Health Gap hosting workshop for conversations on men's health - WLWT",
-        "Link": "https://www.wlwt.com/article/closing-the-health-gap-hosting-workshop-conversations/74336981",
-        "Published": "Wed, 04 Nov 2026 21:27:00 GMT",
-        "Summary": "Closing the Health Gap hosting workshop for conversations on men's health WLWT"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the cyber security execution gap: How IT leaders are building cyber resilience - iTnews",
-        "Link": "https://www.itnews.com.au/resource/closing-the-cyber-security-execution-gap-how-it-leaders-are-building-cyber-resilience-629740",
-        "Published": "Thu, 05 Nov 2026 20:09:03 GMT",
-        "Summary": "Closing the cyber security execution gap: How IT leaders are building cyber resilience iTnews"
       },
       {
         "company_name": "Gap",
@@ -105,18 +135,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Lilli Tagger’s Breakout 2026 Season Has One Gap in Closing Out Finals - Sports Illustrated",
-        "Link": "https://www.si.com/onsi/serve/news/lilli-taggers-breakout-2026-season-has-one-gap-closing-out-finals-01m6kmmzjm94",
-        "Published": "Thu, 05 Nov 2026 18:41:33 GMT",
-        "Summary": "Lilli Tagger’s Breakout 2026 Season Has One Gap in Closing Out Finals Sports Illustrated"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Dallas ISD considers closing 6 schools amid $104 million budget shortfall - NBC 5 Dallas-Fort Worth",
-        "Link": "https://www.nbcdfw.com/news/local/dallas-isd-considers-closing-6-schools-amid-104-million-budget-shortfall/4102134/",
-        "Published": "Thu, 05 Nov 2026 18:41:08 GMT",
-        "Summary": "Dallas ISD considers closing 6 schools amid $104 million budget shortfall NBC 5 Dallas-Fort Worth"
+        "Title": "AI is closing the data gap in credit and trade finance underwriting, report finds - Insurance Business",
+        "Link": "https://www.insurancebusinessmag.com/reinsurance/news/breaking-news/ai-is-closing-the-data-gap-in-credit-and-trade-finance-underwriting-report-finds-596281.aspx",
+        "Published": "Thu, 05 Nov 2026 16:15:12 GMT",
+        "Summary": "AI is closing the data gap in credit and trade finance underwriting, report finds Insurance Business"
       },
       {
         "company_name": "Gap",
@@ -129,26 +151,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "AI is closing the data gap in credit and trade finance underwriting, report finds - Insurance Business",
-        "Link": "https://www.insurancebusinessmag.com/asia/news/technology/ai-is-closing-the-data-gap-in-credit-and-trade-finance-underwriting-report-finds-596285.aspx",
-        "Published": "Thu, 05 Nov 2026 14:44:39 GMT",
-        "Summary": "AI is closing the data gap in credit and trade finance underwriting, report finds Insurance Business"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Closing Oregon’s tax gap could bring the state billions - Oregon Public Broadcasting - OPB",
         "Link": "https://www.opb.org/article/2026/11/05/think-out-loud-tax-gap-oregon-center-public-policy/",
         "Published": "Thu, 05 Nov 2026 14:00:28 GMT",
         "Summary": "Closing Oregon’s tax gap could bring the state billions Oregon Public Broadcasting - OPB"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Gap - The Fragmentation Problem in Property Insurance Claims - - Insurance Edge",
-        "Link": "https://insurance-edge.net/2026/11/05/closing-the-gap-the-fragmentation-problem-in-property-insurance-claims/",
-        "Published": "Thu, 05 Nov 2026 12:53:35 GMT",
-        "Summary": "Closing the Gap - The Fragmentation Problem in Property Insurance Claims - Insurance Edge"
       },
       {
         "company_name": "Gap",
@@ -169,40 +175,62 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
+        "Title": "Candidate for Fresno County Superior judge seat 7 closing gap, despite being outspent - Fresno Bee",
+        "Link": "https://www.fresnobee.com/news/politics-government/election/local-election/article317965578.html",
+        "Published": "Fri, 06 Nov 2026 23:05:52 GMT",
+        "Summary": "Candidate for Fresno County Superior judge seat 7 closing gap, despite being outspent Fresno Bee"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Vals finds open AI models closing the hacking gap with gated frontier systems - Crypto Briefing",
+        "Link": "https://cryptobriefing.com/vals-open-ai-models-close-hacking-gap/",
+        "Published": "Fri, 06 Nov 2026 18:51:03 GMT",
+        "Summary": "Vals finds open AI models closing the hacking gap with gated frontier systems Crypto Briefing"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing Mexico’s Natural Gas Supply Gap - Mexico Business News",
+        "Link": "https://mexicobusiness.news/energy/news/closing-mexicos-natural-gas-supply-gap",
+        "Published": "Fri, 06 Nov 2026 13:00:00 GMT",
+        "Summary": "Closing Mexico’s Natural Gas Supply Gap Mexico Business News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Communication Gap in Breast Cancer Diagnosis - EMJ",
+        "Link": "https://www.emjreviews.com/oncology/news/closing-the-communication-gap-in-breast-cancer-diagnosis/",
+        "Published": "Fri, 06 Nov 2026 09:05:05 GMT",
+        "Summary": "Closing the Communication Gap in Breast Cancer Diagnosis EMJ"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
         "Title": "Closing the Epilepsy Gap - The Statesman",
         "Link": "https://www.thestatesman.com/opinion/closing-the-epilepsy-gap-1503659410.html",
         "Published": "Fri, 06 Nov 2026 01:59:00 GMT",
         "Summary": "Closing the Epilepsy Gap The Statesman"
       }
     ],
-    "Tempur-Pedic": [
+    "Wheeler Real Estate Investment Trust (WHLR)": [
       {
-        "company_name": "Tempur-Pedic",
-        "event_type": "Opening",
-        "Title": "Tempur-Pedic to Open at Fashion Valley - WhatNow",
-        "Link": "https://whatnow.com/san-diego/retail/tempur-pedic-to-open-at-fashion-valley/",
-        "Published": "Fri, 06 Nov 2026 03:14:59 GMT",
-        "Summary": "Tempur-Pedic to Open at Fashion Valley WhatNow"
-      }
-    ],
-    "Tumbles": [
-      {
-        "company_name": "Tumbles",
+        "company_name": "Wheeler Real Estate Investment Trust (WHLR)",
         "event_type": "Closing",
-        "Title": "THE CLOSING BELL: A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4% - WPTF",
-        "Link": "https://www.wptf.com/2026/11/05/the-closing-bell-a-brutal-sell-off-for-ai-stocks-sends-wall-street-reeling-and-the-sp-500-tumbles-4-4/",
-        "Published": "Thu, 05 Nov 2026 21:16:19 GMT",
-        "Summary": "THE CLOSING BELL: A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4% WPTF"
+        "Title": "Wheeler Real Estate Investment Trust (WHLR): Conversion price on 2031 notes cut to $0.59 after Series D redemptions - Quantisnow",
+        "Link": "https://quantisnow.com/insight/sec-form-424b3-filed-by-wheeler-real-estate-investment-trust-6778136",
+        "Published": "Fri, 06 Nov 2026 13:20:27 GMT",
+        "Summary": "Wheeler Real Estate Investment Trust (WHLR): Conversion price on 2031 notes cut to $0.59 after Series D redemptions Quantisnow"
       }
     ],
-    "Wilder": [
+    "World Market": [
       {
-        "company_name": "Wilder",
+        "company_name": "World Market",
         "event_type": "Opening",
-        "Title": "Why the international break could come at the perfect time for Sheffield United and Chris Wilder - The Star",
-        "Link": "https://www.thestar.co.uk/sport/football/sheffield-united/why-the-international-break-could-come-at-the-perfect-time-for-sheffield-united-and-chris-wilder-9330739",
-        "Published": "Wed, 04 Nov 2026 16:48:00 GMT",
-        "Summary": "Why the international break could come at the perfect time for Sheffield United and Chris Wilder The Star"
+        "Title": "World Market Opening In East Bay + Elusive One-Eyed Dog Safe, Needs Foster Family: Saturday Smiles - Patch",
+        "Link": "https://patch.com/california/san-francisco/amp/35158518/world-market-opening-in-east-bay-elusive-one-eyed-dog-safe-needs-foster-family-saturday-smiles",
+        "Published": "Fri, 06 Nov 2026 17:35:36 GMT",
+        "Summary": "World Market Opening In East Bay + Elusive One-Eyed Dog Safe, Needs Foster Family: Saturday Smiles Patch"
       }
     ]
   }
