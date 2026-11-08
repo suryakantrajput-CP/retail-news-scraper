@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07",
+  "last_updated": "2026-11-08",
   "data": {
     "Acadia Healthcare": [
       {
@@ -7,28 +7,18 @@
         "event_type": "Closing",
         "Title": "Layoffs, closures tracker: Altera Digital Health laying off 133 - Modern Healthcare",
         "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
-        "Published": "Thu, 05 Nov 2026 22:35:28 GMT",
+        "Published": "Sat, 07 Nov 2026 10:29:48 GMT",
         "Summary": "Layoffs, closures tracker: Altera Digital Health laying off 133 Modern Healthcare"
       }
     ],
-    "Disney Store": [
+    "Boost Mobile": [
       {
-        "company_name": "Disney Store",
-        "event_type": "Opening",
-        "Title": "Disney Store Pop Up Outlet at Cheshire Oaks Opening on November 12th - Jedi News",
-        "Link": "https://www.jedinews.com/collecting/articles/disney-store-pop-up-outlet-at-cheshire-oaks-opening-on-november-12th/",
-        "Published": "Thu, 05 Nov 2026 18:41:04 GMT",
-        "Summary": "Disney Store Pop Up Outlet at Cheshire Oaks Opening on November 12th Jedi News"
-      }
-    ],
-    "Jersey Mike's Subs": [
-      {
-        "company_name": "Jersey Mike's Subs",
-        "event_type": "Opening",
-        "Title": "Londoners can win free sandwiches for a YEAR at new Oxford Street opening - London Now",
-        "Link": "https://www.london-now.co.uk/news/26695870.jersey-mikes-oxford-street-uk-opening-date-free-sandwich-giveaway/",
-        "Published": "Fri, 06 Nov 2026 05:00:00 GMT",
-        "Summary": "Londoners can win free sandwiches for a YEAR at new Oxford Street opening London Now"
+        "company_name": "Boost Mobile",
+        "event_type": "Closing",
+        "Title": "Elon Musk's SpaceX Wants to Take On AT&T, T-Mobile — But Both Carriers Could Cut Off Boost Mobile: Report - TradingView",
+        "Link": "https://www.tradingview.com/news/benzinga:5462d1b6b094b:0-elon-musk-s-spacex-wants-to-take-on-at-t-t-mobile-but-both-carriers-could-cut-off-boost-mobile-report/",
+        "Published": "Fri, 06 Nov 2026 10:20:09 GMT",
+        "Summary": "Elon Musk's SpaceX Wants to Take On AT&T, T-Mobile — But Both Carriers Could Cut Off Boost Mobile: Report TradingView"
       }
     ],
     "Jersey Mike's": [
@@ -41,13 +31,57 @@
         "Summary": "Londoners can win free sandwiches for a YEAR at new Oxford Street opening London Now"
       }
     ],
+    "Jersey Mike's Subs": [
+      {
+        "company_name": "Jersey Mike's Subs",
+        "event_type": "Opening",
+        "Title": "Londoners can win free sandwiches for a YEAR at new Oxford Street opening - London Now",
+        "Link": "https://www.london-now.co.uk/news/26695870.jersey-mikes-oxford-street-uk-opening-date-free-sandwich-giveaway/",
+        "Published": "Fri, 06 Nov 2026 05:00:00 GMT",
+        "Summary": "Londoners can win free sandwiches for a YEAR at new Oxford Street opening London Now"
+      }
+    ],
+    "Gap": [
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the HCC Surveillance Gap in MASLD Without Cirrhosis - CancerNetwork",
+        "Link": "https://www.cancernetwork.com/view/closing-the-hcc-surveillance-gap-in-masld-without-cirrhosis",
+        "Published": "Sun, 08 Nov 2026 00:07:22 GMT",
+        "Summary": "Closing the HCC Surveillance Gap in MASLD Without Cirrhosis CancerNetwork"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Gap Between Tumor Board Recommendations and Liver Cancer Care - CancerNetwork",
+        "Link": "https://www.cancernetwork.com/view/closing-the-gap-between-tumor-board-recommendations-and-liver-cancer-care",
+        "Published": "Sat, 07 Nov 2026 21:07:20 GMT",
+        "Summary": "Closing the Gap Between Tumor Board Recommendations and Liver Cancer Care CancerNetwork"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Google Cloud - Closing the Data Gap in Elite Sport — LBB - LBB - Little Black Book",
+        "Link": "https://lbbonline.com/work/186503",
+        "Published": "Sat, 07 Nov 2026 16:31:50 GMT",
+        "Summary": "Google Cloud - Closing the Data Gap in Elite Sport — LBB LBB - Little Black Book"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Vals finds open AI models closing the hacking gap with gated frontier systems - Crypto Briefing",
+        "Link": "https://cryptobriefing.com/vals-open-ai-models-close-hacking-gap/",
+        "Published": "Fri, 06 Nov 2026 18:51:03 GMT",
+        "Summary": "Vals finds open AI models closing the hacking gap with gated frontier systems Crypto Briefing"
+      }
+    ],
     "Levi Strauss & Co.": [
       {
         "company_name": "Levi Strauss & Co.",
         "event_type": "Opening",
         "Title": "Levi's Opens New Flagship Store in Chicago: Get a Closer Look - Complex",
         "Link": "https://www.complex.com/style/a/backwoodsaltar/levis-chicago-flagship-store",
-        "Published": "Fri, 06 Nov 2026 16:33:34 GMT",
+        "Published": "Fri, 06 Nov 2026 16:29:09 GMT",
         "Summary": "Levi's Opens New Flagship Store in Chicago: Get a Closer Look Complex"
       }
     ],
@@ -59,16 +93,6 @@
         "Link": "https://spectrumnews1.com/wi/milwaukee/news/2026/11/05/madison-va-fisher-house",
         "Published": "Fri, 06 Nov 2026 13:00:00 GMT",
         "Summary": "New Fisher House breaks ground in Middleton for Madison VA veterans Spectrum News"
-      }
-    ],
-    "Steve Madden": [
-      {
-        "company_name": "Steve Madden",
-        "event_type": "Closing",
-        "Title": "What the collapse of David Jones means for Brisbane’s retail landscape - SMH.com.au",
-        "Link": "https://www.smh.com.au/national/queensland/what-the-collapse-of-david-jones-means-for-brisbane-s-retail-landscape-20261105-p61bom.html",
-        "Published": "Thu, 05 Nov 2026 05:27:27 GMT",
-        "Summary": "What the collapse of David Jones means for Brisbane’s retail landscape SMH.com.au"
       }
     ],
     "Tempur-Pedic": [
@@ -83,10 +107,10 @@
       {
         "company_name": "Tempur-Pedic",
         "event_type": "Opening",
-        "Title": "Tempur-Pedic to Open Fashion Valley Store in San Diego - Hoodline",
+        "Title": "Tempur-Pedic Set to Open Third San Diego Store Inside Fashion Valley Mall - Hoodline",
         "Link": "https://hoodline.com/2026/11/tempur-pedic-set-to-open-third-san-diego-store-inside-fashion-valley-mall/",
         "Published": "Fri, 06 Nov 2026 16:33:45 GMT",
-        "Summary": "Tempur-Pedic to Open Fashion Valley Store in San Diego Hoodline"
+        "Summary": "Tempur-Pedic Set to Open Third San Diego Store Inside Fashion Valley Mall Hoodline"
       },
       {
         "company_name": "Tempur-Pedic",
@@ -97,122 +121,6 @@
         "Summary": "Tempur-Pedic to Open at Fashion Valley WhatNow"
       }
     ],
-    "Tumbles": [
-      {
-        "company_name": "Tumbles",
-        "event_type": "Opening",
-        "Title": "Nikkei 225 Bucks Trend to Gain As Kospi Slumps 3%; Kioxia Tumbles 8%, SK Hynix and SoftBank Drop 6% - TradingKey",
-        "Link": "https://www.tradingkey.com/analysis/stocks/more/262278885-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-googl-amzn-tradingkey",
-        "Published": "Thu, 05 Nov 2026 00:48:11 GMT",
-        "Summary": "Nikkei 225 Bucks Trend to Gain As Kospi Slumps 3%; Kioxia Tumbles 8%, SK Hynix and SoftBank Drop 6% TradingKey"
-      },
-      {
-        "company_name": "Tumbles",
-        "event_type": "Closing",
-        "Title": "THE CLOSING BELL: A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4% - WPTF",
-        "Link": "https://www.wptf.com/2026/11/05/the-closing-bell-a-brutal-sell-off-for-ai-stocks-sends-wall-street-reeling-and-the-sp-500-tumbles-4-4/",
-        "Published": "Thu, 05 Nov 2026 21:16:19 GMT",
-        "Summary": "THE CLOSING BELL: A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4% WPTF"
-      }
-    ],
-    "Gap": [
-      {
-        "company_name": "Gap",
-        "event_type": "Opening",
-        "Title": "The latest business openings and closings in Hampton Roads - The Virginian-Pilot",
-        "Link": "https://www.pilotonline.com/2026/11/05/openings-closings-hampton-roads/",
-        "Published": "Thu, 05 Nov 2026 08:00:00 GMT",
-        "Summary": "The latest business openings and closings in Hampton Roads The Virginian-Pilot"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Republicans win Sussex County elections, but data shows gap is closing - Bergen Record",
-        "Link": "https://www.northjersey.com/story/news/sussex/2026/11/05/sussex-county-nj-election-2026-results-gap-closing-democrats-republicans/92610862007/",
-        "Published": "Thu, 05 Nov 2026 19:05:00 GMT",
-        "Summary": "Republicans win Sussex County elections, but data shows gap is closing Bergen Record"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "AI is closing the data gap in credit and trade finance underwriting, report finds - Insurance Business",
-        "Link": "https://www.insurancebusinessmag.com/reinsurance/news/breaking-news/ai-is-closing-the-data-gap-in-credit-and-trade-finance-underwriting-report-finds-596281.aspx",
-        "Published": "Thu, 05 Nov 2026 16:15:12 GMT",
-        "Summary": "AI is closing the data gap in credit and trade finance underwriting, report finds Insurance Business"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Identity Gap at the Service Desk - BleepingComputer",
-        "Link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-        "Published": "Thu, 05 Nov 2026 15:00:00 GMT",
-        "Summary": "Closing the Identity Gap at the Service Desk BleepingComputer"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing Oregon’s tax gap could bring the state billions - Oregon Public Broadcasting - OPB",
-        "Link": "https://www.opb.org/article/2026/11/05/think-out-loud-tax-gap-oregon-center-public-policy/",
-        "Published": "Thu, 05 Nov 2026 14:00:28 GMT",
-        "Summary": "Closing Oregon’s tax gap could bring the state billions Oregon Public Broadcasting - OPB"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the cancer screening gap - Borneo Bulletin",
-        "Link": "https://borneobulletin.com.bn/closing-the-cancer-screening-gap/",
-        "Published": "Thu, 05 Nov 2026 12:30:09 GMT",
-        "Summary": "Closing the cancer screening gap Borneo Bulletin"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the SpaceX Gap: China's Reusable Rocket Leap and the New China-U.S. Space Race - China-US Focus",
-        "Link": "https://www.chinausfocus.com/peace-security/closing-the-spacex-gap-chinas-reusable-rocket-leap-and-the-new-china-us-space-race",
-        "Published": "Thu, 05 Nov 2026 09:00:26 GMT",
-        "Summary": "Closing the SpaceX Gap: China's Reusable Rocket Leap and the New China-U.S. Space Race China-US Focus"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Candidate for Fresno County Superior judge seat 7 closing gap, despite being outspent - Fresno Bee",
-        "Link": "https://www.fresnobee.com/news/politics-government/election/local-election/article317965578.html",
-        "Published": "Fri, 06 Nov 2026 23:05:52 GMT",
-        "Summary": "Candidate for Fresno County Superior judge seat 7 closing gap, despite being outspent Fresno Bee"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Vals finds open AI models closing the hacking gap with gated frontier systems - Crypto Briefing",
-        "Link": "https://cryptobriefing.com/vals-open-ai-models-close-hacking-gap/",
-        "Published": "Fri, 06 Nov 2026 18:51:03 GMT",
-        "Summary": "Vals finds open AI models closing the hacking gap with gated frontier systems Crypto Briefing"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing Mexico’s Natural Gas Supply Gap - Mexico Business News",
-        "Link": "https://mexicobusiness.news/energy/news/closing-mexicos-natural-gas-supply-gap",
-        "Published": "Fri, 06 Nov 2026 13:00:00 GMT",
-        "Summary": "Closing Mexico’s Natural Gas Supply Gap Mexico Business News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Communication Gap in Breast Cancer Diagnosis - EMJ",
-        "Link": "https://www.emjreviews.com/oncology/news/closing-the-communication-gap-in-breast-cancer-diagnosis/",
-        "Published": "Fri, 06 Nov 2026 09:05:05 GMT",
-        "Summary": "Closing the Communication Gap in Breast Cancer Diagnosis EMJ"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Epilepsy Gap - The Statesman",
-        "Link": "https://www.thestatesman.com/opinion/closing-the-epilepsy-gap-1503659410.html",
-        "Published": "Fri, 06 Nov 2026 01:59:00 GMT",
-        "Summary": "Closing the Epilepsy Gap The Statesman"
-      }
-    ],
     "Wheeler Real Estate Investment Trust (WHLR)": [
       {
         "company_name": "Wheeler Real Estate Investment Trust (WHLR)",
@@ -221,6 +129,14 @@
         "Link": "https://quantisnow.com/insight/sec-form-424b3-filed-by-wheeler-real-estate-investment-trust-6778136",
         "Published": "Fri, 06 Nov 2026 13:20:27 GMT",
         "Summary": "Wheeler Real Estate Investment Trust (WHLR): Conversion price on 2031 notes cut to $0.59 after Series D redemptions Quantisnow"
+      },
+      {
+        "company_name": "Wheeler Real Estate Investment Trust (WHLR)",
+        "event_type": "Closing",
+        "Title": "Wheeler Real Estate Investment Trust Q3 2026 Earnings Results and Report - MarketBeat",
+        "Link": "https://www.marketbeat.com/earnings/reports/2026-11-5-wheeler-real-estate-investment-trust-inc-stock/",
+        "Published": "Fri, 06 Nov 2026 09:59:04 GMT",
+        "Summary": "Wheeler Real Estate Investment Trust Q3 2026 Earnings Results and Report MarketBeat"
       }
     ],
     "World Market": [
