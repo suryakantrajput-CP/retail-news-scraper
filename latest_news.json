@@ -1,47 +1,23 @@
 {
-  "last_updated": "2026-11-08",
+  "last_updated": "2026-11-09",
   "data": {
-    "Acadia Healthcare": [
-      {
-        "company_name": "Acadia Healthcare",
-        "event_type": "Closing",
-        "Title": "Layoffs, closures tracker: Altera Digital Health laying off 133 - Modern Healthcare",
-        "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
-        "Published": "Sat, 07 Nov 2026 10:29:48 GMT",
-        "Summary": "Layoffs, closures tracker: Altera Digital Health laying off 133 Modern Healthcare"
-      }
-    ],
-    "Boost Mobile": [
-      {
-        "company_name": "Boost Mobile",
-        "event_type": "Closing",
-        "Title": "Elon Musk's SpaceX Wants to Take On AT&T, T-Mobile — But Both Carriers Could Cut Off Boost Mobile: Report - TradingView",
-        "Link": "https://www.tradingview.com/news/benzinga:5462d1b6b094b:0-elon-musk-s-spacex-wants-to-take-on-at-t-t-mobile-but-both-carriers-could-cut-off-boost-mobile-report/",
-        "Published": "Fri, 06 Nov 2026 10:20:09 GMT",
-        "Summary": "Elon Musk's SpaceX Wants to Take On AT&T, T-Mobile — But Both Carriers Could Cut Off Boost Mobile: Report TradingView"
-      }
-    ],
-    "Jersey Mike's": [
-      {
-        "company_name": "Jersey Mike's",
-        "event_type": "Opening",
-        "Title": "Londoners can win free sandwiches for a YEAR at new Oxford Street opening - London Now",
-        "Link": "https://www.london-now.co.uk/news/26695870.jersey-mikes-oxford-street-uk-opening-date-free-sandwich-giveaway/",
-        "Published": "Fri, 06 Nov 2026 05:00:00 GMT",
-        "Summary": "Londoners can win free sandwiches for a YEAR at new Oxford Street opening London Now"
-      }
-    ],
-    "Jersey Mike's Subs": [
-      {
-        "company_name": "Jersey Mike's Subs",
-        "event_type": "Opening",
-        "Title": "Londoners can win free sandwiches for a YEAR at new Oxford Street opening - London Now",
-        "Link": "https://www.london-now.co.uk/news/26695870.jersey-mikes-oxford-street-uk-opening-date-free-sandwich-giveaway/",
-        "Published": "Fri, 06 Nov 2026 05:00:00 GMT",
-        "Summary": "Londoners can win free sandwiches for a YEAR at new Oxford Street opening London Now"
-      }
-    ],
     "Gap": [
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Nirmala Bhoo Pathy: Why We Are Not Making More Progress in Closing Cancer Inequity Gap - Oncodaily",
+        "Link": "https://oncodaily.com/voices/nirmala-bhoo-pathy-628164",
+        "Published": "Sun, 08 Nov 2026 21:32:33 GMT",
+        "Summary": "Nirmala Bhoo Pathy: Why We Are Not Making More Progress in Closing Cancer Inequity Gap Oncodaily"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Conservatives 'closing the gap' on Labour as General Election poll revealed - Yahoo News UK",
+        "Link": "https://uk.news.yahoo.com/conservatives-closing-gap-labour-general-050000489.html",
+        "Published": "Sun, 08 Nov 2026 05:00:00 GMT",
+        "Summary": "Conservatives 'closing the gap' on Labour as General Election poll revealed Yahoo News UK"
+      },
       {
         "company_name": "Gap",
         "event_type": "Closing",
@@ -57,42 +33,16 @@
         "Link": "https://www.cancernetwork.com/view/closing-the-gap-between-tumor-board-recommendations-and-liver-cancer-care",
         "Published": "Sat, 07 Nov 2026 21:07:20 GMT",
         "Summary": "Closing the Gap Between Tumor Board Recommendations and Liver Cancer Care CancerNetwork"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Google Cloud - Closing the Data Gap in Elite Sport — LBB - LBB - Little Black Book",
-        "Link": "https://lbbonline.com/work/186503",
-        "Published": "Sat, 07 Nov 2026 16:31:50 GMT",
-        "Summary": "Google Cloud - Closing the Data Gap in Elite Sport — LBB LBB - Little Black Book"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Vals finds open AI models closing the hacking gap with gated frontier systems - Crypto Briefing",
-        "Link": "https://cryptobriefing.com/vals-open-ai-models-close-hacking-gap/",
-        "Published": "Fri, 06 Nov 2026 18:51:03 GMT",
-        "Summary": "Vals finds open AI models closing the hacking gap with gated frontier systems Crypto Briefing"
       }
     ],
-    "Levi Strauss & Co.": [
+    "Mor Furniture for Less": [
       {
-        "company_name": "Levi Strauss & Co.",
+        "company_name": "Mor Furniture for Less",
         "event_type": "Opening",
-        "Title": "Levi's Opens New Flagship Store in Chicago: Get a Closer Look - Complex",
-        "Link": "https://www.complex.com/style/a/backwoodsaltar/levis-chicago-flagship-store",
-        "Published": "Fri, 06 Nov 2026 16:29:09 GMT",
-        "Summary": "Levi's Opens New Flagship Store in Chicago: Get a Closer Look Complex"
-      }
-    ],
-    "Spectrum": [
-      {
-        "company_name": "Spectrum",
-        "event_type": "Opening",
-        "Title": "New Fisher House breaks ground in Middleton for Madison VA veterans - Spectrum News",
-        "Link": "https://spectrumnews1.com/wi/milwaukee/news/2026/11/05/madison-va-fisher-house",
-        "Published": "Fri, 06 Nov 2026 13:00:00 GMT",
-        "Summary": "New Fisher House breaks ground in Middleton for Madison VA veterans Spectrum News"
+        "Title": "New boat and RV storage opening in Hayden - Hagadone News Network",
+        "Link": "https://hagadonenewsnetwork.com/news/2026/nov/08/new-boat-and-rv-storage-opening-in-hayden/",
+        "Published": "Sun, 08 Nov 2026 08:05:00 GMT",
+        "Summary": "New boat and RV storage opening in Hayden Hagadone News Network"
       }
     ],
     "Tempur-Pedic": [
@@ -103,50 +53,16 @@
         "Link": "https://whatnow.com/orange-county/retail/tempur-pedic-to-open-store-at-shops-at-mission-viejo/",
         "Published": "Sat, 07 Nov 2026 01:43:14 GMT",
         "Summary": "Tempur-Pedic To Open Store At Shops At Mission Viejo WhatNow"
-      },
-      {
-        "company_name": "Tempur-Pedic",
-        "event_type": "Opening",
-        "Title": "Tempur-Pedic Set to Open Third San Diego Store Inside Fashion Valley Mall - Hoodline",
-        "Link": "https://hoodline.com/2026/11/tempur-pedic-set-to-open-third-san-diego-store-inside-fashion-valley-mall/",
-        "Published": "Fri, 06 Nov 2026 16:33:45 GMT",
-        "Summary": "Tempur-Pedic Set to Open Third San Diego Store Inside Fashion Valley Mall Hoodline"
-      },
-      {
-        "company_name": "Tempur-Pedic",
-        "event_type": "Opening",
-        "Title": "Tempur-Pedic to Open at Fashion Valley - WhatNow",
-        "Link": "https://whatnow.com/san-diego/retail/tempur-pedic-to-open-at-fashion-valley/",
-        "Published": "Fri, 06 Nov 2026 03:14:59 GMT",
-        "Summary": "Tempur-Pedic to Open at Fashion Valley WhatNow"
       }
     ],
-    "Wheeler Real Estate Investment Trust (WHLR)": [
+    "Vision Source": [
       {
-        "company_name": "Wheeler Real Estate Investment Trust (WHLR)",
+        "company_name": "Vision Source",
         "event_type": "Closing",
-        "Title": "Wheeler Real Estate Investment Trust (WHLR): Conversion price on 2031 notes cut to $0.59 after Series D redemptions - Quantisnow",
-        "Link": "https://quantisnow.com/insight/sec-form-424b3-filed-by-wheeler-real-estate-investment-trust-6778136",
-        "Published": "Fri, 06 Nov 2026 13:20:27 GMT",
-        "Summary": "Wheeler Real Estate Investment Trust (WHLR): Conversion price on 2031 notes cut to $0.59 after Series D redemptions Quantisnow"
-      },
-      {
-        "company_name": "Wheeler Real Estate Investment Trust (WHLR)",
-        "event_type": "Closing",
-        "Title": "Wheeler Real Estate Investment Trust Q3 2026 Earnings Results and Report - MarketBeat",
-        "Link": "https://www.marketbeat.com/earnings/reports/2026-11-5-wheeler-real-estate-investment-trust-inc-stock/",
-        "Published": "Fri, 06 Nov 2026 09:59:04 GMT",
-        "Summary": "Wheeler Real Estate Investment Trust Q3 2026 Earnings Results and Report MarketBeat"
-      }
-    ],
-    "World Market": [
-      {
-        "company_name": "World Market",
-        "event_type": "Opening",
-        "Title": "World Market Opening In East Bay + Elusive One-Eyed Dog Safe, Needs Foster Family: Saturday Smiles - Patch",
-        "Link": "https://patch.com/california/san-francisco/amp/35158518/world-market-opening-in-east-bay-elusive-one-eyed-dog-safe-needs-foster-family-saturday-smiles",
-        "Published": "Fri, 06 Nov 2026 17:35:36 GMT",
-        "Summary": "World Market Opening In East Bay + Elusive One-Eyed Dog Safe, Needs Foster Family: Saturday Smiles Patch"
+        "Title": "Brazos Private Equity to sell Vision Source to Essilor - PEI Private Equity",
+        "Link": "https://www.privateequityinternational.com/brazos-private-equity-to-sell-vision-source-to-essilor/",
+        "Published": "Sat, 07 Nov 2026 20:02:21 GMT",
+        "Summary": "Brazos Private Equity to sell Vision Source to Essilor PEI Private Equity"
       }
     ]
   }
