@@ -1,7 +1,129 @@
 {
-  "last_updated": "2026-11-09",
+  "last_updated": "2026-11-10",
   "data": {
+    "Disney Store": [
+      {
+        "company_name": "Disney Store",
+        "event_type": "Closing",
+        "Title": "Permanent Closing Date for Rainforest Cafe as Casa Guilia Sets Soft Opening - WDW News Today",
+        "Link": "https://wdwnt.com/2026/11/permanent-closing-date-for-rainforest-cafe-as-casa-guilia-sets-soft-opening/",
+        "Published": "Mon, 09 Nov 2026 13:52:00 GMT",
+        "Summary": "Permanent Closing Date for Rainforest Cafe as Casa Guilia Sets Soft Opening WDW News Today"
+      }
+    ],
+    "Jersey Mike's Subs": [
+      {
+        "company_name": "Jersey Mike's Subs",
+        "event_type": "Opening",
+        "Title": "Jersey Mike's enters Europe with an opening in London (JMKE:NYSE) - Seeking Alpha",
+        "Link": "https://seekingalpha.com/news/4668876-jersey-mikes-enters-europe-with-an-opening-in-london",
+        "Published": "Mon, 09 Nov 2026 12:21:00 GMT",
+        "Summary": "Jersey Mike's enters Europe with an opening in London (JMKE:NYSE) Seeking Alpha"
+      },
+      {
+        "company_name": "Jersey Mike's Subs",
+        "event_type": "Opening",
+        "Title": "Jersey Mike's Expands Global Footprint with First UK Restaurant Opening in London - Yahoo Finance",
+        "Link": "https://finance.yahoo.com/small-business/articles/jersey-mikes-expands-global-footprint-114500359.html",
+        "Published": "Mon, 09 Nov 2026 11:45:00 GMT",
+        "Summary": "Jersey Mike's Expands Global Footprint with First UK Restaurant Opening in London Yahoo Finance"
+      }
+    ],
+    "Jersey Mike's": [
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Jersey Mike's opens first of hundreds of U.K., Ireland restaurants - Chain Store Age",
+        "Link": "https://chainstoreage.com/jersey-mikes-opens-first-hundreds-uk-ireland-restaurants",
+        "Published": "Mon, 09 Nov 2026 14:52:09 GMT",
+        "Summary": "Jersey Mike's opens first of hundreds of U.K., Ireland restaurants Chain Store Age"
+      },
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Jersey Mike's enters Europe with an opening in London (JMKE:NYSE) - Seeking Alpha",
+        "Link": "https://seekingalpha.com/news/4668876-jersey-mikes-enters-europe-with-an-opening-in-london",
+        "Published": "Mon, 09 Nov 2026 12:21:00 GMT",
+        "Summary": "Jersey Mike's enters Europe with an opening in London (JMKE:NYSE) Seeking Alpha"
+      },
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Jersey Mike's Expands Global Footprint with First UK Restaurant Opening in London - Yahoo Finance",
+        "Link": "https://finance.yahoo.com/small-business/articles/jersey-mikes-expands-global-footprint-114500359.html",
+        "Published": "Mon, 09 Nov 2026 11:45:00 GMT",
+        "Summary": "Jersey Mike's Expands Global Footprint with First UK Restaurant Opening in London Yahoo Finance"
+      }
+    ],
+    "Mor Furniture for Less": [
+      {
+        "company_name": "Mor Furniture for Less",
+        "event_type": "Opening",
+        "Title": "New boat and RV storage opening in Hayden - Hagadone News Network",
+        "Link": "https://hagadonenewsnetwork.com/news/2026/nov/08/new-boat-and-rv-storage-opening-in-hayden/",
+        "Published": "Sun, 08 Nov 2026 08:05:00 GMT",
+        "Summary": "New boat and RV storage opening in Hayden Hagadone News Network"
+      }
+    ],
+    "PREP Property Group": [
+      {
+        "company_name": "PREP Property Group",
+        "event_type": "Closing",
+        "Title": "Aberdeen Announces $1M Financing - The Manila Times",
+        "Link": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/aberdeen-announces-1m-financing/2465863/amp",
+        "Published": "Tue, 10 Nov 2026 00:08:01 GMT",
+        "Summary": "Aberdeen Announces $1M Financing The Manila Times"
+      },
+      {
+        "company_name": "PREP Property Group",
+        "event_type": "Closing",
+        "Title": "Kustom Entertainment, Inc. Announces Signing of an Amendment to the Purchase Agreement for Acquisition of TFL, LLC (dba Tickets For Less) - The Manila Times",
+        "Link": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/kustom-entertainment-inc-announces-signing-of-an-amendment-to-the-purchase-agreement-for-acquisition-of-tfl-llc-dba-tickets-for-less/2465715/amp",
+        "Published": "Mon, 09 Nov 2026 21:25:06 GMT",
+        "Summary": "Kustom Entertainment, Inc. Announces Signing of an Amendment to the Purchase Agreement for Acquisition of TFL, LLC (dba Tickets For Less) The Manila Times"
+      }
+    ],
     "Gap": [
+      {
+        "company_name": "Gap",
+        "event_type": "Opening",
+        "Title": "The worst-ranked motorway service station in Britain - Newswav",
+        "Link": "https://newswav.com/article/the-worst-ranked-motorway-service-station-in-britain-A2611_8rY7uQ",
+        "Published": "Tue, 10 Nov 2026 00:02:59 GMT",
+        "Summary": "The worst-ranked motorway service station in Britain Newswav"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Opening",
+        "Title": "Britain’s best and worst motorway services ranked by thousands of motorists - The Irish News",
+        "Link": "https://www.irishnews.com/news/uk/britains-best-and-worst-motorway-services-ranked-by-thousands-of-motorists-UALDHNSD6BJN3JYR2YY2ZIYPYI/",
+        "Published": "Tue, 10 Nov 2026 00:01:00 GMT",
+        "Summary": "Britain’s best and worst motorway services ranked by thousands of motorists The Irish News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Opening",
+        "Title": "“Trying to understand him is fascinating”: Groupama's director breaks down the numbers behind Pogacar's extraordinary performances - CyclingUpToDate.com",
+        "Link": "https://cyclinguptodate.com/cycling/trying-to-understand-him-is-fascinating-groupamas-director-breaks-down-the-numbers-behind-pogacars-extraordinary-performances",
+        "Published": "Mon, 09 Nov 2026 22:00:00 GMT",
+        "Summary": "“Trying to understand him is fascinating”: Groupama's director breaks down the numbers behind Pogacar's extraordinary performances CyclingUpToDate.com"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Opening",
+        "Title": "Italian steakhouse seeks tax break to open in former Tavern Littleton - BusinessDen",
+        "Link": "https://businessden.com/italian-steakhouse-seeks-tax-break-to-open-in-former-tavern-littleton/",
+        "Published": "Mon, 09 Nov 2026 12:02:30 GMT",
+        "Summary": "Italian steakhouse seeks tax break to open in former Tavern Littleton BusinessDen"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the COVID-19 Prevention Gap This Flu Season, With Juanita Mora, MD - HCPLive",
+        "Link": "https://www.hcplive.com/view/closing-covid-19-prevention-gap-this-flu-season-mora",
+        "Published": "Tue, 10 Nov 2026 01:04:15 GMT",
+        "Summary": "Closing the COVID-19 Prevention Gap This Flu Season, With Juanita Mora, MD HCPLive"
+      },
       {
         "company_name": "Gap",
         "event_type": "Closing",
@@ -29,40 +151,82 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the Gap Between Tumor Board Recommendations and Liver Cancer Care - CancerNetwork",
-        "Link": "https://www.cancernetwork.com/view/closing-the-gap-between-tumor-board-recommendations-and-liver-cancer-care",
-        "Published": "Sat, 07 Nov 2026 21:07:20 GMT",
-        "Summary": "Closing the Gap Between Tumor Board Recommendations and Liver Cancer Care CancerNetwork"
-      }
-    ],
-    "Mor Furniture for Less": [
+        "Title": "Is pay transparency closing the gap? - Canadian HR Reporter",
+        "Link": "https://www.hrreporter.com/focus-areas/compensation-and-benefits/is-pay-transparency-closing-the-gap/395134",
+        "Published": "Mon, 09 Nov 2026 22:42:54 GMT",
+        "Summary": "Is pay transparency closing the gap? Canadian HR Reporter"
+      },
       {
-        "company_name": "Mor Furniture for Less",
-        "event_type": "Opening",
-        "Title": "New boat and RV storage opening in Hayden - Hagadone News Network",
-        "Link": "https://hagadonenewsnetwork.com/news/2026/nov/08/new-boat-and-rv-storage-opening-in-hayden/",
-        "Published": "Sun, 08 Nov 2026 08:05:00 GMT",
-        "Summary": "New boat and RV storage opening in Hayden Hagadone News Network"
-      }
-    ],
-    "Tempur-Pedic": [
-      {
-        "company_name": "Tempur-Pedic",
-        "event_type": "Opening",
-        "Title": "Tempur-Pedic To Open Store At Shops At Mission Viejo - WhatNow",
-        "Link": "https://whatnow.com/orange-county/retail/tempur-pedic-to-open-store-at-shops-at-mission-viejo/",
-        "Published": "Sat, 07 Nov 2026 01:43:14 GMT",
-        "Summary": "Tempur-Pedic To Open Store At Shops At Mission Viejo WhatNow"
-      }
-    ],
-    "Vision Source": [
-      {
-        "company_name": "Vision Source",
+        "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Brazos Private Equity to sell Vision Source to Essilor - PEI Private Equity",
-        "Link": "https://www.privateequityinternational.com/brazos-private-equity-to-sell-vision-source-to-essilor/",
-        "Published": "Sat, 07 Nov 2026 20:02:21 GMT",
-        "Summary": "Brazos Private Equity to sell Vision Source to Essilor PEI Private Equity"
+        "Title": "ASCO Quality Care 2026: Closing the Gap Between Evidence and Practice - Oncology Nursing News",
+        "Link": "https://www.oncnursingnews.com/view/asco-quality-care-2026-closing-the-gap-between-evidence-and-practice",
+        "Published": "Mon, 09 Nov 2026 19:01:45 GMT",
+        "Summary": "ASCO Quality Care 2026: Closing the Gap Between Evidence and Practice Oncology Nursing News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the gap: All Blacks creeping up on Boks’ No 1 ranking - KickOff",
+        "Link": "https://www.kickoff.com/rugby/springboks/all-blacks-close-the-gap-on-springboks-at-world-no-1",
+        "Published": "Mon, 09 Nov 2026 18:50:29 GMT",
+        "Summary": "Closing the gap: All Blacks creeping up on Boks’ No 1 ranking KickOff"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the SOC Speed Gap with Conifers - LinkedIn",
+        "Link": "https://www.linkedin.com/pulse/closing-soc-speed-gap-conifers-cisoseries-vcgjc",
+        "Published": "Mon, 09 Nov 2026 18:01:20 GMT",
+        "Summary": "Closing the SOC Speed Gap with Conifers LinkedIn"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Sitewire and Nexys Close the Gap Between Loan Closing and First Draw - The Manila Times",
+        "Link": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/sitewire-and-nexys-close-the-gap-between-loan-closing-and-first-draw/2465369",
+        "Published": "Mon, 09 Nov 2026 14:17:06 GMT",
+        "Summary": "Sitewire and Nexys Close the Gap Between Loan Closing and First Draw The Manila Times"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "West Midlands fire chief warns MPs of £36m funding gap and station closures - Coventry Telegraph",
+        "Link": "https://www.coventrytelegraph.net/news/coventry-news/west-midlands-fire-chief-warns-34850948",
+        "Published": "Mon, 09 Nov 2026 14:05:54 GMT",
+        "Summary": "West Midlands fire chief warns MPs of £36m funding gap and station closures Coventry Telegraph"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "iPhone Duo’s App Gap Is Closing Fast, But Not Every App Is Equal - Android Headlines",
+        "Link": "https://www.androidheadlines.com/2026/11/iphone-duos-app-gap-is-closing-fast-but-not-every-app-is-equal.html",
+        "Published": "Mon, 09 Nov 2026 12:33:07 GMT",
+        "Summary": "iPhone Duo’s App Gap Is Closing Fast, But Not Every App Is Equal Android Headlines"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "One day until webinar Beyond pay: Why closing the gender pay gap starts with supporting working parents - Employee Benefits",
+        "Link": "https://www.employeebenefits.co.uk/pay-strategy/2026/11/09/one-day-until-webinar-beyond-pay-why-closing-the-gender-pay-gap-starts-with-supporting-working-parents/",
+        "Published": "Mon, 09 Nov 2026 11:38:50 GMT",
+        "Summary": "One day until webinar Beyond pay: Why closing the gender pay gap starts with supporting working parents Employee Benefits"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "CHARLES CHENG | Closing South Africa’s fibre access gap starts with better urban planning - Business Day",
+        "Link": "https://www.businessday.co.za/news/2026-11-09-charles-cheng-closing-south-africas-fibre-access-gap-starts-with-better-urban-planning/",
+        "Published": "Mon, 09 Nov 2026 09:48:09 GMT",
+        "Summary": "CHARLES CHENG | Closing South Africa’s fibre access gap starts with better urban planning Business Day"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Expectation Gap: How Transparency Builds Family Trust - Seniors Housing Business",
+        "Link": "https://seniorshousingbusiness.com/medtelligent-closing-the-expectation-gap-how-transparency-builds-family-trust/",
+        "Published": "Mon, 09 Nov 2026 07:00:00 GMT",
+        "Summary": "Closing the Expectation Gap: How Transparency Builds Family Trust Seniors Housing Business"
       }
     ]
   }
