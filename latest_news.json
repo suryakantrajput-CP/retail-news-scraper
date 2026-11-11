@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10",
+  "last_updated": "2026-11-11",
   "data": {
     "Disney Store": [
       {
@@ -55,14 +55,14 @@
         "Summary": "Jersey Mike's Expands Global Footprint with First UK Restaurant Opening in London Yahoo Finance"
       }
     ],
-    "Mor Furniture for Less": [
+    "Sam Edelman": [
       {
-        "company_name": "Mor Furniture for Less",
-        "event_type": "Opening",
-        "Title": "New boat and RV storage opening in Hayden - Hagadone News Network",
-        "Link": "https://hagadonenewsnetwork.com/news/2026/nov/08/new-boat-and-rv-storage-opening-in-hayden/",
-        "Published": "Sun, 08 Nov 2026 08:05:00 GMT",
-        "Summary": "New boat and RV storage opening in Hayden Hagadone News Network"
+        "company_name": "Sam Edelman",
+        "event_type": "Closing",
+        "Title": "Dillards Sam Edelman Shoes - Updated Dillard s to Anchor Texas Mall Shop Association - auroradesio.it",
+        "Link": "https://www.auroradesio.it/top/156793632/",
+        "Published": "Tue, 10 Nov 2026 05:58:03 GMT",
+        "Summary": "Dillards Sam Edelman Shoes - Updated Dillard s to Anchor Texas Mall Shop Association auroradesio.it"
       }
     ],
     "PREP Property Group": [
@@ -83,22 +83,50 @@
         "Summary": "Kustom Entertainment, Inc. Announces Signing of an Amendment to the Purchase Agreement for Acquisition of TFL, LLC (dba Tickets For Less) The Manila Times"
       }
     ],
+    "Wilder": [
+      {
+        "company_name": "Wilder",
+        "event_type": "Closing",
+        "Title": "Naresh Bhatt found guilty of first-degree murder in killing of wife, Mamta Kafle - NBC4 Washington",
+        "Link": "https://www.nbcwashington.com/news/local/northern-virginia/naresh-bhatt-found-guilty-of-first-degree-murder-in-killing-of-wife-mamta-kafle/4180627/",
+        "Published": "Wed, 11 Nov 2026 01:24:52 GMT",
+        "Summary": "Naresh Bhatt found guilty of first-degree murder in killing of wife, Mamta Kafle NBC4 Washington"
+      }
+    ],
+    "World Market": [
+      {
+        "company_name": "World Market",
+        "event_type": "Opening",
+        "Title": "World Market to Open Fifth Atlanta-Area Store in Cumming, Georgia - citybiz",
+        "Link": "https://www.citybiz.co/article/931954/world-market-to-open-fifth-atlanta-area-store-in-cumming-georgia/",
+        "Published": "Tue, 10 Nov 2026 16:05:16 GMT",
+        "Summary": "World Market to Open Fifth Atlanta-Area Store in Cumming, Georgia citybiz"
+      },
+      {
+        "company_name": "World Market",
+        "event_type": "Opening",
+        "Title": "World Market Opens New Store in Cumming, GA - Business Wire",
+        "Link": "https://www.businesswire.com/news/home/20261110240312/en/World-Market-Opens-New-Store-in-Cumming-GA",
+        "Published": "Tue, 10 Nov 2026 14:00:00 GMT",
+        "Summary": "World Market Opens New Store in Cumming, GA Business Wire"
+      }
+    ],
     "Gap": [
       {
         "company_name": "Gap",
         "event_type": "Opening",
-        "Title": "The worst-ranked motorway service station in Britain - Newswav",
-        "Link": "https://newswav.com/article/the-worst-ranked-motorway-service-station-in-britain-A2611_8rY7uQ",
-        "Published": "Tue, 10 Nov 2026 00:02:59 GMT",
-        "Summary": "The worst-ranked motorway service station in Britain Newswav"
+        "Title": "Ranked: The UK's best and worst motorway services - The Independent",
+        "Link": "https://www.independent.co.uk/news/uk/home-news/services-best-uk-welcome-break-rotherham-watford-gap-b3082171.html",
+        "Published": "Tue, 10 Nov 2026 07:34:00 GMT",
+        "Summary": "Ranked: The UK's best and worst motorway services The Independent"
       },
       {
         "company_name": "Gap",
         "event_type": "Opening",
-        "Title": "Britain’s best and worst motorway services ranked by thousands of motorists - The Irish News",
-        "Link": "https://www.irishnews.com/news/uk/britains-best-and-worst-motorway-services-ranked-by-thousands-of-motorists-UALDHNSD6BJN3JYR2YY2ZIYPYI/",
-        "Published": "Tue, 10 Nov 2026 00:01:00 GMT",
-        "Summary": "Britain’s best and worst motorway services ranked by thousands of motorists The Irish News"
+        "Title": "Britain’s best and worst motorway services ranked - Welwyn Hatfield Times",
+        "Link": "https://www.whtimes.co.uk/news/national/26714036.britains-best-worst-motorway-services-ranked/",
+        "Published": "Tue, 10 Nov 2026 07:12:07 GMT",
+        "Summary": "Britain’s best and worst motorway services ranked Welwyn Hatfield Times"
       },
       {
         "company_name": "Gap",
@@ -119,34 +147,106 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
+        "Title": "Trump envoy says ‘gap closing’ between Russia and Ukraine - Nine.com.au",
+        "Link": "https://www.nine.com.au/world-news/russia-ukraine-hold-first-peace-talks-for-nine-months-20261111-p61d43.html",
+        "Published": "Tue, 10 Nov 2026 23:28:55 GMT",
+        "Summary": "Trump envoy says ‘gap closing’ between Russia and Ukraine Nine.com.au"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "COVER, Talks Live: Closing the Beneficiary Gap in Protection - Cover Magazine",
+        "Link": "https://www.covermagazine.co.uk/event/4538296/cover-talks-live-closing-beneficiary-gap-protection",
+        "Published": "Tue, 10 Nov 2026 22:54:35 GMT",
+        "Summary": "COVER, Talks Live: Closing the Beneficiary Gap in Protection Cover Magazine"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "OpenAI is closing the revenue growth gap with Anthropic: Exclusive Q3 numbers - Yahoo Finance",
+        "Link": "https://finance.yahoo.com/video/openai-is-closing-the-revenue-growth-gap-with-anthropic-exclusive-q3-numbers-215904018.html",
+        "Published": "Tue, 10 Nov 2026 21:59:04 GMT",
+        "Summary": "OpenAI is closing the revenue growth gap with Anthropic: Exclusive Q3 numbers Yahoo Finance"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "NHL Norris Trophy Rankings: Wild's Hughes Closing Gap On Oilers' Bouchard - Yahoo Sports",
+        "Link": "https://sports.yahoo.com/videos/nhl-norris-trophy-rankings-wilds-210139716.html",
+        "Published": "Tue, 10 Nov 2026 21:01:39 GMT",
+        "Summary": "NHL Norris Trophy Rankings: Wild's Hughes Closing Gap On Oilers' Bouchard Yahoo Sports"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Microsoft Briefly Passes Nvidia, Closing a $1.84T Gap - FourWeekMBA",
+        "Link": "https://fourweekmba.com/ai-microsoft-passes-nvidia-closing-a-1-84t-gap-in-25-sessions/",
+        "Published": "Tue, 10 Nov 2026 17:41:53 GMT",
+        "Summary": "Microsoft Briefly Passes Nvidia, Closing a $1.84T Gap FourWeekMBA"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Microsoft market value tops $4T, closing gap wi... - Pluang",
+        "Link": "https://pluang.com/en/news-feed/microsoft-kembali-di-atas-4-triliun-dekat-nvidia-di-tengah-pertumbuhan-ai-dan",
+        "Published": "Tue, 10 Nov 2026 17:06:01 GMT",
+        "Summary": "Microsoft market value tops $4T, closing gap wi... Pluang"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the \"AI Gap\" - PR Newswire",
+        "Link": "https://www.prnewswire.com/news-releases/closing-the-ai-gap-302935073.html",
+        "Published": "Tue, 10 Nov 2026 15:04:00 GMT",
+        "Summary": "Closing the \"AI Gap\" PR Newswire"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Delivery Gap: From better regulation to better policymaking - EPC, European Policy Centre",
+        "Link": "https://www.epc.eu/publication/closing-the-delivery-gap-from-better-regulation-to-better-policymaking/",
+        "Published": "Tue, 10 Nov 2026 13:18:36 GMT",
+        "Summary": "Closing the Delivery Gap: From better regulation to better policymaking EPC, European Policy Centre"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Alabama Closing Gap on Georgia in Polymarket College Football National Championship - Sports Illustrated",
+        "Link": "https://www.si.com/prediction-markets/alabama-closing-gap-on-georgia-in-polymarket-college-football-national-championship-01m70krwann4",
+        "Published": "Tue, 10 Nov 2026 12:00:05 GMT",
+        "Summary": "Alabama Closing Gap on Georgia in Polymarket College Football National Championship Sports Illustrated"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "'You can't be healthy if you're not housed': How a Halifax health centre is bridging the gap between health and homelessness - PNI Atlantic News",
+        "Link": "https://www.saltwire.com/nova-scotia/halifax/health-homelessness-program-addictions-barriers",
+        "Published": "Tue, 10 Nov 2026 11:10:58 GMT",
+        "Summary": "'You can't be healthy if you're not housed': How a Halifax health centre is bridging the gap between health and homelessness PNI Atlantic News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Women retire on typical pension income of £14,500 versus men's £18,300 - This is Money",
+        "Link": "https://www.thisismoney.co.uk/money/pensions/article-16277715/Women-men-pensions-typical-annual-income.html",
+        "Published": "Tue, 10 Nov 2026 10:35:41 GMT",
+        "Summary": "Women retire on typical pension income of £14,500 versus men's £18,300 This is Money"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Gap Between CCBHC Appointments: Technology, Care Coordination and Serious Mental Illness - National Council for Mental Wellbeing",
+        "Link": "https://www.thenationalcouncil.org/ccbhc-appointments-technology-care-coordination-serious-mental-illness/",
+        "Published": "Tue, 10 Nov 2026 10:22:53 GMT",
+        "Summary": "Closing the Gap Between CCBHC Appointments: Technology, Care Coordination and Serious Mental Illness National Council for Mental Wellbeing"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
         "Title": "Closing the COVID-19 Prevention Gap This Flu Season, With Juanita Mora, MD - HCPLive",
         "Link": "https://www.hcplive.com/view/closing-covid-19-prevention-gap-this-flu-season-mora",
         "Published": "Tue, 10 Nov 2026 01:04:15 GMT",
         "Summary": "Closing the COVID-19 Prevention Gap This Flu Season, With Juanita Mora, MD HCPLive"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Nirmala Bhoo Pathy: Why We Are Not Making More Progress in Closing Cancer Inequity Gap - Oncodaily",
-        "Link": "https://oncodaily.com/voices/nirmala-bhoo-pathy-628164",
-        "Published": "Sun, 08 Nov 2026 21:32:33 GMT",
-        "Summary": "Nirmala Bhoo Pathy: Why We Are Not Making More Progress in Closing Cancer Inequity Gap Oncodaily"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Conservatives 'closing the gap' on Labour as General Election poll revealed - Yahoo News UK",
-        "Link": "https://uk.news.yahoo.com/conservatives-closing-gap-labour-general-050000489.html",
-        "Published": "Sun, 08 Nov 2026 05:00:00 GMT",
-        "Summary": "Conservatives 'closing the gap' on Labour as General Election poll revealed Yahoo News UK"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the HCC Surveillance Gap in MASLD Without Cirrhosis - CancerNetwork",
-        "Link": "https://www.cancernetwork.com/view/closing-the-hcc-surveillance-gap-in-masld-without-cirrhosis",
-        "Published": "Sun, 08 Nov 2026 00:07:22 GMT",
-        "Summary": "Closing the HCC Surveillance Gap in MASLD Without Cirrhosis CancerNetwork"
       },
       {
         "company_name": "Gap",
@@ -175,26 +275,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the SOC Speed Gap with Conifers - LinkedIn",
-        "Link": "https://www.linkedin.com/pulse/closing-soc-speed-gap-conifers-cisoseries-vcgjc",
-        "Published": "Mon, 09 Nov 2026 18:01:20 GMT",
-        "Summary": "Closing the SOC Speed Gap with Conifers LinkedIn"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Sitewire and Nexys Close the Gap Between Loan Closing and First Draw - The Manila Times",
         "Link": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/sitewire-and-nexys-close-the-gap-between-loan-closing-and-first-draw/2465369",
         "Published": "Mon, 09 Nov 2026 14:17:06 GMT",
         "Summary": "Sitewire and Nexys Close the Gap Between Loan Closing and First Draw The Manila Times"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "West Midlands fire chief warns MPs of £36m funding gap and station closures - Coventry Telegraph",
-        "Link": "https://www.coventrytelegraph.net/news/coventry-news/west-midlands-fire-chief-warns-34850948",
-        "Published": "Mon, 09 Nov 2026 14:05:54 GMT",
-        "Summary": "West Midlands fire chief warns MPs of £36m funding gap and station closures Coventry Telegraph"
       },
       {
         "company_name": "Gap",
