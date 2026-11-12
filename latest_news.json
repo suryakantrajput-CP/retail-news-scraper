@@ -1,58 +1,116 @@
 {
-  "last_updated": "2026-11-11",
+  "last_updated": "2026-11-12",
   "data": {
-    "Disney Store": [
+    "Acadia Healthcare": [
       {
-        "company_name": "Disney Store",
+        "company_name": "Acadia Healthcare",
         "event_type": "Closing",
-        "Title": "Permanent Closing Date for Rainforest Cafe as Casa Guilia Sets Soft Opening - WDW News Today",
-        "Link": "https://wdwnt.com/2026/11/permanent-closing-date-for-rainforest-cafe-as-casa-guilia-sets-soft-opening/",
-        "Published": "Mon, 09 Nov 2026 13:52:00 GMT",
-        "Summary": "Permanent Closing Date for Rainforest Cafe as Casa Guilia Sets Soft Opening WDW News Today"
+        "Title": "Layoffs, closures tracker: Kootenai Health cuts workforce by 2% - Modern Healthcare",
+        "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
+        "Published": "Tue, 10 Nov 2026 22:13:12 GMT",
+        "Summary": "Layoffs, closures tracker: Kootenai Health cuts workforce by 2% Modern Healthcare"
       }
     ],
     "Jersey Mike's Subs": [
       {
         "company_name": "Jersey Mike's Subs",
         "event_type": "Opening",
-        "Title": "Jersey Mike's enters Europe with an opening in London (JMKE:NYSE) - Seeking Alpha",
-        "Link": "https://seekingalpha.com/news/4668876-jersey-mikes-enters-europe-with-an-opening-in-london",
-        "Published": "Mon, 09 Nov 2026 12:21:00 GMT",
-        "Summary": "Jersey Mike's enters Europe with an opening in London (JMKE:NYSE) Seeking Alpha"
+        "Title": "Jersey Mike’s, Houston TX Hot Chicken head for London - Fast Casual",
+        "Link": "https://www.fastcasual.com/news/jersey-mikes-houston-tx-hot-chicken-head-for-london/",
+        "Published": "Wed, 11 Nov 2026 15:30:38 GMT",
+        "Summary": "Jersey Mike’s, Houston TX Hot Chicken head for London Fast Casual"
       },
       {
         "company_name": "Jersey Mike's Subs",
         "event_type": "Opening",
-        "Title": "Jersey Mike's Expands Global Footprint with First UK Restaurant Opening in London - Yahoo Finance",
-        "Link": "https://finance.yahoo.com/small-business/articles/jersey-mikes-expands-global-footprint-114500359.html",
-        "Published": "Mon, 09 Nov 2026 11:45:00 GMT",
-        "Summary": "Jersey Mike's Expands Global Footprint with First UK Restaurant Opening in London Yahoo Finance"
+        "Title": "Jersey Mike's jumps across the Atlantic, opens first UK store - Asbury Park Press",
+        "Link": "https://www.app.com/story/money/business/main-street/whats-going-there/2026/11/11/jersey-mikes-opens-london-uk/92704973007/",
+        "Published": "Wed, 11 Nov 2026 10:15:00 GMT",
+        "Summary": "Jersey Mike's jumps across the Atlantic, opens first UK store Asbury Park Press"
       }
     ],
     "Jersey Mike's": [
       {
         "company_name": "Jersey Mike's",
         "event_type": "Opening",
-        "Title": "Jersey Mike's opens first of hundreds of U.K., Ireland restaurants - Chain Store Age",
-        "Link": "https://chainstoreage.com/jersey-mikes-opens-first-hundreds-uk-ireland-restaurants",
-        "Published": "Mon, 09 Nov 2026 14:52:09 GMT",
-        "Summary": "Jersey Mike's opens first of hundreds of U.K., Ireland restaurants Chain Store Age"
+        "Title": "Jersey Mike’s, Houston TX Hot Chicken head for London - Fast Casual",
+        "Link": "https://www.fastcasual.com/news/jersey-mikes-houston-tx-hot-chicken-head-for-london/",
+        "Published": "Wed, 11 Nov 2026 15:30:38 GMT",
+        "Summary": "Jersey Mike’s, Houston TX Hot Chicken head for London Fast Casual"
       },
       {
         "company_name": "Jersey Mike's",
         "event_type": "Opening",
-        "Title": "Jersey Mike's enters Europe with an opening in London (JMKE:NYSE) - Seeking Alpha",
-        "Link": "https://seekingalpha.com/news/4668876-jersey-mikes-enters-europe-with-an-opening-in-london",
-        "Published": "Mon, 09 Nov 2026 12:21:00 GMT",
-        "Summary": "Jersey Mike's enters Europe with an opening in London (JMKE:NYSE) Seeking Alpha"
+        "Title": "Jersey Mike's jumps across the Atlantic, opens first UK store - Asbury Park Press",
+        "Link": "https://www.app.com/story/money/business/main-street/whats-going-there/2026/11/11/jersey-mikes-opens-london-uk/92704973007/",
+        "Published": "Wed, 11 Nov 2026 10:15:00 GMT",
+        "Summary": "Jersey Mike's jumps across the Atlantic, opens first UK store Asbury Park Press"
       },
       {
         "company_name": "Jersey Mike's",
+        "event_type": "Closing",
+        "Title": "Jersey Mike's jumps across the Atlantic, opens first UK store - Asbury Park Press",
+        "Link": "https://www.app.com/story/money/business/main-street/whats-going-there/2026/11/11/jersey-mikes-opens-london-uk/92704973007/",
+        "Published": "Wed, 11 Nov 2026 10:15:00 GMT",
+        "Summary": "Jersey Mike's jumps across the Atlantic, opens first UK store Asbury Park Press"
+      },
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Closing",
+        "Title": "Blackpool progress through to the Jersey Mike’s Trophy knockout stages - Blackpool Gazette",
+        "Link": "https://www.blackpoolgazette.co.uk/sport/blackpool-jersey-mikes-trophy-last-32-9343540",
+        "Published": "Wed, 11 Nov 2026 08:47:00 GMT",
+        "Summary": "Blackpool progress through to the Jersey Mike’s Trophy knockout stages Blackpool Gazette"
+      }
+    ],
+    "Levi Strauss & Co.": [
+      {
+        "company_name": "Levi Strauss & Co.",
         "event_type": "Opening",
-        "Title": "Jersey Mike's Expands Global Footprint with First UK Restaurant Opening in London - Yahoo Finance",
-        "Link": "https://finance.yahoo.com/small-business/articles/jersey-mikes-expands-global-footprint-114500359.html",
-        "Published": "Mon, 09 Nov 2026 11:45:00 GMT",
-        "Summary": "Jersey Mike's Expands Global Footprint with First UK Restaurant Opening in London Yahoo Finance"
+        "Title": "Levi Strauss & Co. Appoints Chief Sustainability Officer - 365 Retail",
+        "Link": "https://365retail.co.uk/levi-strauss-jeannie-renne-malone-sustainability-chief/",
+        "Published": "Wed, 11 Nov 2026 15:22:33 GMT",
+        "Summary": "Levi Strauss & Co. Appoints Chief Sustainability Officer 365 Retail"
+      }
+    ],
+    "Murphy Oil": [
+      {
+        "company_name": "Murphy Oil",
+        "event_type": "Opening",
+        "Title": "Murphy Oil to Join Joe V’s Smart Shop in North Houston - WhatNow",
+        "Link": "https://whatnow.com/houston/retail/murphy-oil-to-join-joe-vs-smart-shop-in-north-houston/",
+        "Published": "Wed, 11 Nov 2026 05:22:19 GMT",
+        "Summary": "Murphy Oil to Join Joe V’s Smart Shop in North Houston WhatNow"
+      }
+    ],
+    "Panera Bread": [
+      {
+        "company_name": "Panera Bread",
+        "event_type": "Closing",
+        "Title": "National Restaurant Chain Closes Multiple Pittsburgh Locations - Patch",
+        "Link": "https://patch.com/pennsylvania/pittsburgh/national-restaurant-chain-closes-2-pittsburgh-locations-0",
+        "Published": "Wed, 11 Nov 2026 14:29:07 GMT",
+        "Summary": "National Restaurant Chain Closes Multiple Pittsburgh Locations Patch"
+      }
+    ],
+    "PREP Property Group": [
+      {
+        "company_name": "PREP Property Group",
+        "event_type": "Closing",
+        "Title": "Aberdeen Announces $1M Financing - The Manila Times",
+        "Link": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/aberdeen-announces-1m-financing/2465863/amp",
+        "Published": "Tue, 10 Nov 2026 00:08:01 GMT",
+        "Summary": "Aberdeen Announces $1M Financing The Manila Times"
+      }
+    ],
+    "Popeyes": [
+      {
+        "company_name": "Popeyes",
+        "event_type": "Opening",
+        "Title": "Popeyes opens new Edinburgh restaurant as hungry customers queue for over an hour to be first inside - Edinburgh News",
+        "Link": "https://www.edinburghnews.scotsman.com/news/popeyes-opens-new-edinburgh-restaurant-as-hungry-customers-queue-as-early-as-1030am-9344731",
+        "Published": "Wed, 11 Nov 2026 13:54:00 GMT",
+        "Summary": "Popeyes opens new Edinburgh restaurant as hungry customers queue for over an hour to be first inside Edinburgh News"
       }
     ],
     "Sam Edelman": [
@@ -65,22 +123,14 @@
         "Summary": "Dillards Sam Edelman Shoes - Updated Dillard s to Anchor Texas Mall Shop Association auroradesio.it"
       }
     ],
-    "PREP Property Group": [
+    "Tumbles": [
       {
-        "company_name": "PREP Property Group",
+        "company_name": "Tumbles",
         "event_type": "Closing",
-        "Title": "Aberdeen Announces $1M Financing - The Manila Times",
-        "Link": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/aberdeen-announces-1m-financing/2465863/amp",
-        "Published": "Tue, 10 Nov 2026 00:08:01 GMT",
-        "Summary": "Aberdeen Announces $1M Financing The Manila Times"
-      },
-      {
-        "company_name": "PREP Property Group",
-        "event_type": "Closing",
-        "Title": "Kustom Entertainment, Inc. Announces Signing of an Amendment to the Purchase Agreement for Acquisition of TFL, LLC (dba Tickets For Less) - The Manila Times",
-        "Link": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/kustom-entertainment-inc-announces-signing-of-an-amendment-to-the-purchase-agreement-for-acquisition-of-tfl-llc-dba-tickets-for-less/2465715/amp",
-        "Published": "Mon, 09 Nov 2026 21:25:06 GMT",
-        "Summary": "Kustom Entertainment, Inc. Announces Signing of an Amendment to the Purchase Agreement for Acquisition of TFL, LLC (dba Tickets For Less) The Manila Times"
+        "Title": "Closing Bell Movers: Nvidia tumbles 7% on report of another CEO affair - TipRanks",
+        "Link": "https://www.tipranks.com/news/the-fly/closing-bell-movers-nvidia-tumbles-7-on-report-of-another-ceo-affair-thefly-news",
+        "Published": "Thu, 12 Nov 2026 00:40:53 GMT",
+        "Summary": "Closing Bell Movers: Nvidia tumbles 7% on report of another CEO affair TipRanks"
       }
     ],
     "Wilder": [
@@ -89,7 +139,7 @@
         "event_type": "Closing",
         "Title": "Naresh Bhatt found guilty of first-degree murder in killing of wife, Mamta Kafle - NBC4 Washington",
         "Link": "https://www.nbcwashington.com/news/local/northern-virginia/naresh-bhatt-found-guilty-of-first-degree-murder-in-killing-of-wife-mamta-kafle/4180627/",
-        "Published": "Wed, 11 Nov 2026 01:24:52 GMT",
+        "Published": "Tue, 10 Nov 2026 22:17:55 GMT",
         "Summary": "Naresh Bhatt found guilty of first-degree murder in killing of wife, Mamta Kafle NBC4 Washington"
       }
     ],
@@ -123,26 +173,74 @@
       {
         "company_name": "Gap",
         "event_type": "Opening",
-        "Title": "Britain’s best and worst motorway services ranked - Welwyn Hatfield Times",
-        "Link": "https://www.whtimes.co.uk/news/national/26714036.britains-best-worst-motorway-services-ranked/",
+        "Title": "Britain’s best and worst motorway services ranked - Rhyl Journal",
+        "Link": "https://www.rhyljournal.co.uk/news/national/26714036.britains-best-worst-motorway-services-ranked/",
         "Published": "Tue, 10 Nov 2026 07:12:07 GMT",
-        "Summary": "Britain’s best and worst motorway services ranked Welwyn Hatfield Times"
+        "Summary": "Britain’s best and worst motorway services ranked Rhyl Journal"
       },
       {
         "company_name": "Gap",
-        "event_type": "Opening",
-        "Title": "“Trying to understand him is fascinating”: Groupama's director breaks down the numbers behind Pogacar's extraordinary performances - CyclingUpToDate.com",
-        "Link": "https://cyclinguptodate.com/cycling/trying-to-understand-him-is-fascinating-groupamas-director-breaks-down-the-numbers-behind-pogacars-extraordinary-performances",
-        "Published": "Mon, 09 Nov 2026 22:00:00 GMT",
-        "Summary": "“Trying to understand him is fascinating”: Groupama's director breaks down the numbers behind Pogacar's extraordinary performances CyclingUpToDate.com"
+        "event_type": "Closing",
+        "Title": "Closing the efficiency gap: Practical workflow upgrades for veterinary teams - American Animal Hospital Association - AAHA",
+        "Link": "https://www.aaha.org/trends-magazine/publications/closing-the-efficiency-gap-practical-workflow-upgrades-for-veterinary-teams/",
+        "Published": "Wed, 11 Nov 2026 21:19:49 GMT",
+        "Summary": "Closing the efficiency gap: Practical workflow upgrades for veterinary teams American Animal Hospital Association - AAHA"
       },
       {
         "company_name": "Gap",
-        "event_type": "Opening",
-        "Title": "Italian steakhouse seeks tax break to open in former Tavern Littleton - BusinessDen",
-        "Link": "https://businessden.com/italian-steakhouse-seeks-tax-break-to-open-in-former-tavern-littleton/",
-        "Published": "Mon, 09 Nov 2026 12:02:30 GMT",
-        "Summary": "Italian steakhouse seeks tax break to open in former Tavern Littleton BusinessDen"
+        "event_type": "Closing",
+        "Title": "Closing the gap: Turning mine site data into faster, better decisions - Power Technology",
+        "Link": "https://www.power-technology.com/partner-content/closing-the-gap-turning-mine-site-data-into-faster-better-decisions/",
+        "Published": "Wed, 11 Nov 2026 18:58:27 GMT",
+        "Summary": "Closing the gap: Turning mine site data into faster, better decisions Power Technology"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Rayonier jumped after earnings. Why we still see upside for the timber REIT - CNBC",
+        "Link": "https://www.cnbc.com/2026/11/11/rayonier-q3-earnings-buybacks-nav-discount.html",
+        "Published": "Wed, 11 Nov 2026 17:09:49 GMT",
+        "Summary": "Rayonier jumped after earnings. Why we still see upside for the timber REIT CNBC"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Can the SOC Keep Pace? Closing Europe's Investigation Gap - - Enterprise Times",
+        "Link": "https://www.enterprisetimes.co.uk/2026/11/11/can-the-soc-keep-pace-closing-europes-investigation-gap/",
+        "Published": "Wed, 11 Nov 2026 15:15:56 GMT",
+        "Summary": "Can the SOC Keep Pace? Closing Europe's Investigation Gap - Enterprise Times"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "HIMSSCast: Closing the healthcare trust gap for communities of color - Healthcare IT News",
+        "Link": "https://www.healthcareitnews.com/podcast/closing-healthcare-trust-gap-communities-color",
+        "Published": "Wed, 11 Nov 2026 14:10:13 GMT",
+        "Summary": "HIMSSCast: Closing the healthcare trust gap for communities of color Healthcare IT News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "COVER, Talks Live: Closing the Beneficiary Gap in Protection - Cover Magazine",
+        "Link": "https://www.covermagazine.co.uk/sponsored/4538296/cover-talks-live-closing-beneficiary-gap-protection",
+        "Published": "Wed, 11 Nov 2026 09:40:45 GMT",
+        "Summary": "COVER, Talks Live: Closing the Beneficiary Gap in Protection Cover Magazine"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the AI Data Center Capacity Gap - - Insurance Edge",
+        "Link": "https://insurance-edge.net/2026/11/11/closing-the-ai-data-center-capacity-gap/",
+        "Published": "Wed, 11 Nov 2026 08:58:38 GMT",
+        "Summary": "Closing the AI Data Center Capacity Gap - Insurance Edge"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing India’s Bulk-Drug Gap: Reducing Dependence on China - MyIndMakers",
+        "Link": "https://myind.net/Home/viewArticle/closing-indias-bulk-drug-gap-reducing-dependence-on-china",
+        "Published": "Wed, 11 Nov 2026 07:52:57 GMT",
+        "Summary": "Closing India’s Bulk-Drug Gap: Reducing Dependence on China MyIndMakers"
       },
       {
         "company_name": "Gap",
@@ -155,26 +253,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "COVER, Talks Live: Closing the Beneficiary Gap in Protection - Cover Magazine",
-        "Link": "https://www.covermagazine.co.uk/event/4538296/cover-talks-live-closing-beneficiary-gap-protection",
-        "Published": "Tue, 10 Nov 2026 22:54:35 GMT",
-        "Summary": "COVER, Talks Live: Closing the Beneficiary Gap in Protection Cover Magazine"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "OpenAI is closing the revenue growth gap with Anthropic: Exclusive Q3 numbers - Yahoo Finance",
-        "Link": "https://finance.yahoo.com/video/openai-is-closing-the-revenue-growth-gap-with-anthropic-exclusive-q3-numbers-215904018.html",
-        "Published": "Tue, 10 Nov 2026 21:59:04 GMT",
-        "Summary": "OpenAI is closing the revenue growth gap with Anthropic: Exclusive Q3 numbers Yahoo Finance"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "NHL Norris Trophy Rankings: Wild's Hughes Closing Gap On Oilers' Bouchard - Yahoo Sports",
-        "Link": "https://sports.yahoo.com/videos/nhl-norris-trophy-rankings-wilds-210139716.html",
+        "Title": "NHL Norris Trophy Rankings: Wild's Hughes Closing Gap On Oilers' Bouchard - The Hockey News",
+        "Link": "https://thehockeynews.com/news/latest-news/nhl-norris-trophy-rankings-wilds-hughes-closing-gap-on-oilers-bouchard",
         "Published": "Tue, 10 Nov 2026 21:01:39 GMT",
-        "Summary": "NHL Norris Trophy Rankings: Wild's Hughes Closing Gap On Oilers' Bouchard Yahoo Sports"
+        "Summary": "NHL Norris Trophy Rankings: Wild's Hughes Closing Gap On Oilers' Bouchard The Hockey News"
       },
       {
         "company_name": "Gap",
@@ -219,98 +301,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "'You can't be healthy if you're not housed': How a Halifax health centre is bridging the gap between health and homelessness - PNI Atlantic News",
-        "Link": "https://www.saltwire.com/nova-scotia/halifax/health-homelessness-program-addictions-barriers",
-        "Published": "Tue, 10 Nov 2026 11:10:58 GMT",
-        "Summary": "'You can't be healthy if you're not housed': How a Halifax health centre is bridging the gap between health and homelessness PNI Atlantic News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Women retire on typical pension income of £14,500 versus men's £18,300 - This is Money",
+        "Title": "Women get £3,800 less from their pensions than men each year... but the gap is closing - This is Money",
         "Link": "https://www.thisismoney.co.uk/money/pensions/article-16277715/Women-men-pensions-typical-annual-income.html",
         "Published": "Tue, 10 Nov 2026 10:35:41 GMT",
-        "Summary": "Women retire on typical pension income of £14,500 versus men's £18,300 This is Money"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Gap Between CCBHC Appointments: Technology, Care Coordination and Serious Mental Illness - National Council for Mental Wellbeing",
-        "Link": "https://www.thenationalcouncil.org/ccbhc-appointments-technology-care-coordination-serious-mental-illness/",
-        "Published": "Tue, 10 Nov 2026 10:22:53 GMT",
-        "Summary": "Closing the Gap Between CCBHC Appointments: Technology, Care Coordination and Serious Mental Illness National Council for Mental Wellbeing"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the COVID-19 Prevention Gap This Flu Season, With Juanita Mora, MD - HCPLive",
-        "Link": "https://www.hcplive.com/view/closing-covid-19-prevention-gap-this-flu-season-mora",
-        "Published": "Tue, 10 Nov 2026 01:04:15 GMT",
-        "Summary": "Closing the COVID-19 Prevention Gap This Flu Season, With Juanita Mora, MD HCPLive"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Is pay transparency closing the gap? - Canadian HR Reporter",
-        "Link": "https://www.hrreporter.com/focus-areas/compensation-and-benefits/is-pay-transparency-closing-the-gap/395134",
-        "Published": "Mon, 09 Nov 2026 22:42:54 GMT",
-        "Summary": "Is pay transparency closing the gap? Canadian HR Reporter"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "ASCO Quality Care 2026: Closing the Gap Between Evidence and Practice - Oncology Nursing News",
-        "Link": "https://www.oncnursingnews.com/view/asco-quality-care-2026-closing-the-gap-between-evidence-and-practice",
-        "Published": "Mon, 09 Nov 2026 19:01:45 GMT",
-        "Summary": "ASCO Quality Care 2026: Closing the Gap Between Evidence and Practice Oncology Nursing News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the gap: All Blacks creeping up on Boks’ No 1 ranking - KickOff",
-        "Link": "https://www.kickoff.com/rugby/springboks/all-blacks-close-the-gap-on-springboks-at-world-no-1",
-        "Published": "Mon, 09 Nov 2026 18:50:29 GMT",
-        "Summary": "Closing the gap: All Blacks creeping up on Boks’ No 1 ranking KickOff"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Sitewire and Nexys Close the Gap Between Loan Closing and First Draw - The Manila Times",
-        "Link": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/sitewire-and-nexys-close-the-gap-between-loan-closing-and-first-draw/2465369",
-        "Published": "Mon, 09 Nov 2026 14:17:06 GMT",
-        "Summary": "Sitewire and Nexys Close the Gap Between Loan Closing and First Draw The Manila Times"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "iPhone Duo’s App Gap Is Closing Fast, But Not Every App Is Equal - Android Headlines",
-        "Link": "https://www.androidheadlines.com/2026/11/iphone-duos-app-gap-is-closing-fast-but-not-every-app-is-equal.html",
-        "Published": "Mon, 09 Nov 2026 12:33:07 GMT",
-        "Summary": "iPhone Duo’s App Gap Is Closing Fast, But Not Every App Is Equal Android Headlines"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "One day until webinar Beyond pay: Why closing the gender pay gap starts with supporting working parents - Employee Benefits",
-        "Link": "https://www.employeebenefits.co.uk/pay-strategy/2026/11/09/one-day-until-webinar-beyond-pay-why-closing-the-gender-pay-gap-starts-with-supporting-working-parents/",
-        "Published": "Mon, 09 Nov 2026 11:38:50 GMT",
-        "Summary": "One day until webinar Beyond pay: Why closing the gender pay gap starts with supporting working parents Employee Benefits"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "CHARLES CHENG | Closing South Africa’s fibre access gap starts with better urban planning - Business Day",
-        "Link": "https://www.businessday.co.za/news/2026-11-09-charles-cheng-closing-south-africas-fibre-access-gap-starts-with-better-urban-planning/",
-        "Published": "Mon, 09 Nov 2026 09:48:09 GMT",
-        "Summary": "CHARLES CHENG | Closing South Africa’s fibre access gap starts with better urban planning Business Day"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Expectation Gap: How Transparency Builds Family Trust - Seniors Housing Business",
-        "Link": "https://seniorshousingbusiness.com/medtelligent-closing-the-expectation-gap-how-transparency-builds-family-trust/",
-        "Published": "Mon, 09 Nov 2026 07:00:00 GMT",
-        "Summary": "Closing the Expectation Gap: How Transparency Builds Family Trust Seniors Housing Business"
+        "Summary": "Women get £3,800 less from their pensions than men each year... but the gap is closing This is Money"
       }
     ]
   }
