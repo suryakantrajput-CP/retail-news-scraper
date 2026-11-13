@@ -1,14 +1,50 @@
 {
-  "last_updated": "2026-11-12",
+  "last_updated": "2026-11-13",
   "data": {
-    "Acadia Healthcare": [
+    "Disney Store": [
       {
-        "company_name": "Acadia Healthcare",
+        "company_name": "Disney Store",
+        "event_type": "Opening",
+        "Title": "800 queue for first Disney Store outlet to open at Cheshire Oaks - Wirral Globe",
+        "Link": "https://www.wirralglobe.co.uk/news/26725225.disney-store-pop-up-opens-cheshire-oaks-800-queuing/",
+        "Published": "Thu, 12 Nov 2026 17:03:16 GMT",
+        "Summary": "800 queue for first Disney Store outlet to open at Cheshire Oaks Wirral Globe"
+      }
+    ],
+    "Eyemart Express": [
+      {
+        "company_name": "Eyemart Express",
+        "event_type": "Opening",
+        "Title": "Eyemart Express expands with new Katy store opening on Nov. 23 - Katy Times",
+        "Link": "https://katytimes.com/stories/eyemart-express-expands-with-new-katy-store-opening-on-nov-23,182030",
+        "Published": "Thu, 12 Nov 2026 19:52:00 GMT",
+        "Summary": "Eyemart Express expands with new Katy store opening on Nov. 23 Katy Times"
+      }
+    ],
+    "Eyeglass World": [
+      {
+        "company_name": "Eyeglass World",
+        "event_type": "Opening",
+        "Title": "National Vision Beats Earnings Estimates as Margin Jumps 320 Basis Points, but Revenue Guidance Falls Short - BigGo Finance",
+        "Link": "https://finance.biggo.com/news/4b44baf7-3ac8-4932-a408-5f114a97d2f7",
+        "Published": "Thu, 12 Nov 2026 15:25:00 GMT",
+        "Summary": "National Vision Beats Earnings Estimates as Margin Jumps 320 Basis Points, but Revenue Guidance Falls Short BigGo Finance"
+      },
+      {
+        "company_name": "Eyeglass World",
+        "event_type": "Opening",
+        "Title": "National Vision Q3 Revenue Rises 4.8%; Adjusted EPS More Than Doubles - TradingView",
+        "Link": "https://www.tradingview.com/news/tradingview:2999cea59d18b:0-national-vision-q3-revenue-rises-4-8-adjusted-eps-more-than-doubles/",
+        "Published": "Thu, 12 Nov 2026 11:13:00 GMT",
+        "Summary": "National Vision Q3 Revenue Rises 4.8%; Adjusted EPS More Than Doubles TradingView"
+      },
+      {
+        "company_name": "Eyeglass World",
         "event_type": "Closing",
-        "Title": "Layoffs, closures tracker: Kootenai Health cuts workforce by 2% - Modern Healthcare",
-        "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
-        "Published": "Tue, 10 Nov 2026 22:13:12 GMT",
-        "Summary": "Layoffs, closures tracker: Kootenai Health cuts workforce by 2% Modern Healthcare"
+        "Title": "National Vision Beats Earnings Estimates as Margin Jumps 320 Basis Points, but Revenue Guidance Falls Short - BigGo Finance",
+        "Link": "https://finance.biggo.com/news/4b44baf7-3ac8-4932-a408-5f114a97d2f7",
+        "Published": "Thu, 12 Nov 2026 15:25:00 GMT",
+        "Summary": "National Vision Beats Earnings Estimates as Margin Jumps 320 Basis Points, but Revenue Guidance Falls Short BigGo Finance"
       }
     ],
     "Jersey Mike's Subs": [
@@ -27,6 +63,14 @@
         "Link": "https://www.app.com/story/money/business/main-street/whats-going-there/2026/11/11/jersey-mikes-opens-london-uk/92704973007/",
         "Published": "Wed, 11 Nov 2026 10:15:00 GMT",
         "Summary": "Jersey Mike's jumps across the Atlantic, opens first UK store Asbury Park Press"
+      },
+      {
+        "company_name": "Jersey Mike's Subs",
+        "event_type": "Opening",
+        "Title": "Business tidbits: Jersey Mike's to open new location in Yakima, Abby's pizza to close - Yakima Herald-Republic",
+        "Link": "https://www.yakimaherald.com/news/local/business/business-tidbits-jersey-mikes-to-open-new-location-in-yakima-abbys-pizza-to-close/article_efb979ae-a546-4027-b34b-bc74aaa9e324.html",
+        "Published": "Thu, 12 Nov 2026 13:00:00 GMT",
+        "Summary": "Business tidbits: Jersey Mike's to open new location in Yakima, Abby's pizza to close Yakima Herald-Republic"
       }
     ],
     "Jersey Mike's": [
@@ -48,29 +92,37 @@
       },
       {
         "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Business tidbits: Jersey Mike's to open new location in Yakima, Abby's pizza to close - Yakima Herald-Republic",
+        "Link": "https://www.yakimaherald.com/news/local/business/business-tidbits-jersey-mikes-to-open-new-location-in-yakima-abbys-pizza-to-close/article_efb979ae-a546-4027-b34b-bc74aaa9e324.html",
+        "Published": "Thu, 12 Nov 2026 13:00:00 GMT",
+        "Summary": "Business tidbits: Jersey Mike's to open new location in Yakima, Abby's pizza to close Yakima Herald-Republic"
+      },
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Jersey Mikes, A Jersey Shore Sub Shop, Is Opening Its First Locations In London - 92.7 WOBM",
+        "Link": "https://wobm.com/ixp/392/p/jersey-mikes-london/",
+        "Published": "Thu, 12 Nov 2026 03:00:40 GMT",
+        "Summary": "Jersey Mikes, A Jersey Shore Sub Shop, Is Opening Its First Locations In London 92.7 WOBM"
+      },
+      {
+        "company_name": "Jersey Mike's",
         "event_type": "Closing",
         "Title": "Jersey Mike's jumps across the Atlantic, opens first UK store - Asbury Park Press",
         "Link": "https://www.app.com/story/money/business/main-street/whats-going-there/2026/11/11/jersey-mikes-opens-london-uk/92704973007/",
         "Published": "Wed, 11 Nov 2026 10:15:00 GMT",
         "Summary": "Jersey Mike's jumps across the Atlantic, opens first UK store Asbury Park Press"
-      },
-      {
-        "company_name": "Jersey Mike's",
-        "event_type": "Closing",
-        "Title": "Blackpool progress through to the Jersey Mike’s Trophy knockout stages - Blackpool Gazette",
-        "Link": "https://www.blackpoolgazette.co.uk/sport/blackpool-jersey-mikes-trophy-last-32-9343540",
-        "Published": "Wed, 11 Nov 2026 08:47:00 GMT",
-        "Summary": "Blackpool progress through to the Jersey Mike’s Trophy knockout stages Blackpool Gazette"
       }
     ],
     "Levi Strauss & Co.": [
       {
         "company_name": "Levi Strauss & Co.",
         "event_type": "Opening",
-        "Title": "Levi Strauss & Co. Appoints Chief Sustainability Officer - 365 Retail",
+        "Title": "Levi Strauss & Co. Names Jeannie Renné-Malone Sustainability Chief - 365 Retail",
         "Link": "https://365retail.co.uk/levi-strauss-jeannie-renne-malone-sustainability-chief/",
         "Published": "Wed, 11 Nov 2026 15:22:33 GMT",
-        "Summary": "Levi Strauss & Co. Appoints Chief Sustainability Officer 365 Retail"
+        "Summary": "Levi Strauss & Co. Names Jeannie Renné-Malone Sustainability Chief 365 Retail"
       }
     ],
     "Murphy Oil": [
@@ -86,6 +138,22 @@
     "Panera Bread": [
       {
         "company_name": "Panera Bread",
+        "event_type": "Opening",
+        "Title": "Panera to open first Leander location along Hero Way - Community Impact Newspaper",
+        "Link": "https://communityimpact.com/leander-liberty-hill/business/panera-to-open-first-leander-location-along-hero-way/",
+        "Published": "Thu, 12 Nov 2026 17:00:00 GMT",
+        "Summary": "Panera to open first Leander location along Hero Way Community Impact Newspaper"
+      },
+      {
+        "company_name": "Panera Bread",
+        "event_type": "Closing",
+        "Title": "Two Pittsburgh Panera Bread locations go out of business - Audacy",
+        "Link": "https://www.audacy.com/kdkaradio/news/local/panera-bread-pittsburgh",
+        "Published": "Wed, 11 Nov 2026 16:49:00 GMT",
+        "Summary": "Two Pittsburgh Panera Bread locations go out of business Audacy"
+      },
+      {
+        "company_name": "Panera Bread",
         "event_type": "Closing",
         "Title": "National Restaurant Chain Closes Multiple Pittsburgh Locations - Patch",
         "Link": "https://patch.com/pennsylvania/pittsburgh/national-restaurant-chain-closes-2-pittsburgh-locations-0",
@@ -93,34 +161,30 @@
         "Summary": "National Restaurant Chain Closes Multiple Pittsburgh Locations Patch"
       }
     ],
-    "PREP Property Group": [
+    "Spectrum": [
       {
-        "company_name": "PREP Property Group",
-        "event_type": "Closing",
-        "Title": "Aberdeen Announces $1M Financing - The Manila Times",
-        "Link": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/aberdeen-announces-1m-financing/2465863/amp",
-        "Published": "Tue, 10 Nov 2026 00:08:01 GMT",
-        "Summary": "Aberdeen Announces $1M Financing The Manila Times"
-      }
-    ],
-    "Popeyes": [
-      {
-        "company_name": "Popeyes",
+        "company_name": "Spectrum",
         "event_type": "Opening",
-        "Title": "Popeyes opens new Edinburgh restaurant as hungry customers queue for over an hour to be first inside - Edinburgh News",
-        "Link": "https://www.edinburghnews.scotsman.com/news/popeyes-opens-new-edinburgh-restaurant-as-hungry-customers-queue-as-early-as-1030am-9344731",
-        "Published": "Wed, 11 Nov 2026 13:54:00 GMT",
-        "Summary": "Popeyes opens new Edinburgh restaurant as hungry customers queue for over an hour to be first inside Edinburgh News"
-      }
-    ],
-    "Sam Edelman": [
+        "Title": "We Rock the Spectrum Kids Gym plans to 2027 opening in Lakewood - NewsBreak: Local News & Alerts",
+        "Link": "https://www.newsbreak.com/tacoma-news-tribune-1592581/5002991166713-we-rock-the-spectrum-kids-gym-plans-to-2027-opening-in-lakewood",
+        "Published": "Thu, 12 Nov 2026 14:00:24 GMT",
+        "Summary": "We Rock the Spectrum Kids Gym plans to 2027 opening in Lakewood NewsBreak: Local News & Alerts"
+      },
       {
-        "company_name": "Sam Edelman",
+        "company_name": "Spectrum",
+        "event_type": "Opening",
+        "Title": "Bring on the Spectrum opens new learning space in Latham - NEWS10 ABC",
+        "Link": "https://www.news10.com/news/albany-county/bring-on-the-spectrum-opens-new-learning-space-in-latham/",
+        "Published": "Thu, 12 Nov 2026 00:49:16 GMT",
+        "Summary": "Bring on the Spectrum opens new learning space in Latham NEWS10 ABC"
+      },
+      {
+        "company_name": "Spectrum",
         "event_type": "Closing",
-        "Title": "Dillards Sam Edelman Shoes - Updated Dillard s to Anchor Texas Mall Shop Association - auroradesio.it",
-        "Link": "https://www.auroradesio.it/top/156793632/",
-        "Published": "Tue, 10 Nov 2026 05:58:03 GMT",
-        "Summary": "Dillards Sam Edelman Shoes - Updated Dillard s to Anchor Texas Mall Shop Association auroradesio.it"
+        "Title": "Lumber industry faces downturn tied to costs, construction slowdown - Spectrum News",
+        "Link": "https://spectrumnews1.com/oh/columbus/news/2026/11/12/lumber-industry",
+        "Published": "Thu, 12 Nov 2026 22:00:00 GMT",
+        "Summary": "Lumber industry faces downturn tied to costs, construction slowdown Spectrum News"
       }
     ],
     "Tumbles": [
@@ -133,51 +197,35 @@
         "Summary": "Closing Bell Movers: Nvidia tumbles 7% on report of another CEO affair TipRanks"
       }
     ],
-    "Wilder": [
+    "The Dump": [
       {
-        "company_name": "Wilder",
+        "company_name": "The Dump",
         "event_type": "Closing",
-        "Title": "Naresh Bhatt found guilty of first-degree murder in killing of wife, Mamta Kafle - NBC4 Washington",
-        "Link": "https://www.nbcwashington.com/news/local/northern-virginia/naresh-bhatt-found-guilty-of-first-degree-murder-in-killing-of-wife-mamta-kafle/4180627/",
-        "Published": "Tue, 10 Nov 2026 22:17:55 GMT",
-        "Summary": "Naresh Bhatt found guilty of first-degree murder in killing of wife, Mamta Kafle NBC4 Washington"
-      }
-    ],
-    "World Market": [
-      {
-        "company_name": "World Market",
-        "event_type": "Opening",
-        "Title": "World Market to Open Fifth Atlanta-Area Store in Cumming, Georgia - citybiz",
-        "Link": "https://www.citybiz.co/article/931954/world-market-to-open-fifth-atlanta-area-store-in-cumming-georgia/",
-        "Published": "Tue, 10 Nov 2026 16:05:16 GMT",
-        "Summary": "World Market to Open Fifth Atlanta-Area Store in Cumming, Georgia citybiz"
+        "Title": "Today in Africa — Nov. 11, 2026: Ghana Is Turning Notorious E-Waste Dump Into a 20,000-Job Industry; Eswatini Shuts Down Asian-Owned Shops - OkayAfrica",
+        "Link": "https://www.okayafrica.com/today-in-africa-nov-11-2026-ghana-is-turning-notorious-e-waste-dump-into-a-20000-job-industry-eswatini-shuts-down-asian-owned-shops/1441820",
+        "Published": "Wed, 11 Nov 2026 16:55:18 GMT",
+        "Summary": "Today in Africa — Nov. 11, 2026: Ghana Is Turning Notorious E-Waste Dump Into a 20,000-Job Industry; Eswatini Shuts Down Asian-Owned Shops OkayAfrica"
       },
       {
-        "company_name": "World Market",
+        "company_name": "The Dump",
+        "event_type": "Closing",
+        "Title": "Dump truck overturns on Route 119, shutting down lanes for a time in East Huntingdon - TribLIVE.com",
+        "Link": "https://community.triblive.com/news/4183773",
+        "Published": "Thu, 12 Nov 2026 23:21:43 GMT",
+        "Summary": "Dump truck overturns on Route 119, shutting down lanes for a time in East Huntingdon TribLIVE.com"
+      }
+    ],
+    "Wayfair": [
+      {
+        "company_name": "Wayfair",
         "event_type": "Opening",
-        "Title": "World Market Opens New Store in Cumming, GA - Business Wire",
-        "Link": "https://www.businesswire.com/news/home/20261110240312/en/World-Market-Opens-New-Store-in-Cumming-GA",
-        "Published": "Tue, 10 Nov 2026 14:00:00 GMT",
-        "Summary": "World Market Opens New Store in Cumming, GA Business Wire"
+        "Title": "New store announced for former Boulevard Mall property - WGRZ",
+        "Link": "https://www.wgrz.com/article/money/business/new-store-announced-for-former-boulevard-mall-property-wayfair/71-3093d0b1-f3f2-4721-ab45-1700b410c9a9",
+        "Published": "Thu, 12 Nov 2026 18:26:00 GMT",
+        "Summary": "New store announced for former Boulevard Mall property WGRZ"
       }
     ],
     "Gap": [
-      {
-        "company_name": "Gap",
-        "event_type": "Opening",
-        "Title": "Ranked: The UK's best and worst motorway services - The Independent",
-        "Link": "https://www.independent.co.uk/news/uk/home-news/services-best-uk-welcome-break-rotherham-watford-gap-b3082171.html",
-        "Published": "Tue, 10 Nov 2026 07:34:00 GMT",
-        "Summary": "Ranked: The UK's best and worst motorway services The Independent"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Opening",
-        "Title": "Britain’s best and worst motorway services ranked - Rhyl Journal",
-        "Link": "https://www.rhyljournal.co.uk/news/national/26714036.britains-best-worst-motorway-services-ranked/",
-        "Published": "Tue, 10 Nov 2026 07:12:07 GMT",
-        "Summary": "Britain’s best and worst motorway services ranked Rhyl Journal"
-      },
       {
         "company_name": "Gap",
         "event_type": "Closing",
@@ -221,14 +269,6 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "COVER, Talks Live: Closing the Beneficiary Gap in Protection - Cover Magazine",
-        "Link": "https://www.covermagazine.co.uk/sponsored/4538296/cover-talks-live-closing-beneficiary-gap-protection",
-        "Published": "Wed, 11 Nov 2026 09:40:45 GMT",
-        "Summary": "COVER, Talks Live: Closing the Beneficiary Gap in Protection Cover Magazine"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Closing the AI Data Center Capacity Gap - - Insurance Edge",
         "Link": "https://insurance-edge.net/2026/11/11/closing-the-ai-data-center-capacity-gap/",
         "Published": "Wed, 11 Nov 2026 08:58:38 GMT",
@@ -237,74 +277,122 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing India’s Bulk-Drug Gap: Reducing Dependence on China - MyIndMakers",
-        "Link": "https://myind.net/Home/viewArticle/closing-indias-bulk-drug-gap-reducing-dependence-on-china",
-        "Published": "Wed, 11 Nov 2026 07:52:57 GMT",
-        "Summary": "Closing India’s Bulk-Drug Gap: Reducing Dependence on China MyIndMakers"
+        "Title": "Closing the AI Skills Gap in Health Care: A Guide for L&D - Harvard T.H. Chan School of Public Health",
+        "Link": "https://hsph.harvard.edu/news/why-ai-strategy-should-be-about-people-first/",
+        "Published": "Wed, 11 Nov 2026 00:48:15 GMT",
+        "Summary": "Closing the AI Skills Gap in Health Care: A Guide for L&D Harvard T.H. Chan School of Public Health"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Trump envoy says ‘gap closing’ between Russia and Ukraine - Nine.com.au",
-        "Link": "https://www.nine.com.au/world-news/russia-ukraine-hold-first-peace-talks-for-nine-months-20261111-p61d43.html",
-        "Published": "Tue, 10 Nov 2026 23:28:55 GMT",
-        "Summary": "Trump envoy says ‘gap closing’ between Russia and Ukraine Nine.com.au"
+        "Title": "Newfound Gap Road in Great Smoky Mountains closing due to expected winter weather, park says - WVLT",
+        "Link": "https://www.wvlt.tv/video/2026/11/12/newfound-gap-road-great-smoky-mountains-closing-due-expected-winter-weather-park-says/",
+        "Published": "Thu, 12 Nov 2026 22:01:00 GMT",
+        "Summary": "Newfound Gap Road in Great Smoky Mountains closing due to expected winter weather, park says WVLT"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "NHL Norris Trophy Rankings: Wild's Hughes Closing Gap On Oilers' Bouchard - The Hockey News",
-        "Link": "https://thehockeynews.com/news/latest-news/nhl-norris-trophy-rankings-wilds-hughes-closing-gap-on-oilers-bouchard",
-        "Published": "Tue, 10 Nov 2026 21:01:39 GMT",
-        "Summary": "NHL Norris Trophy Rankings: Wild's Hughes Closing Gap On Oilers' Bouchard The Hockey News"
+        "Title": "Newfound Gap Road in Great Smoky Mountains closing due to expected winter weather, park says - WVLT",
+        "Link": "https://www.wvlt.tv/2026/11/12/newfound-gap-road-great-smoky-mountains-closing-due-expected-winter-weather-park-says/",
+        "Published": "Thu, 12 Nov 2026 20:16:00 GMT",
+        "Summary": "Newfound Gap Road in Great Smoky Mountains closing due to expected winter weather, park says WVLT"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Microsoft Briefly Passes Nvidia, Closing a $1.84T Gap - FourWeekMBA",
-        "Link": "https://fourweekmba.com/ai-microsoft-passes-nvidia-closing-a-1-84t-gap-in-25-sessions/",
-        "Published": "Tue, 10 Nov 2026 17:41:53 GMT",
-        "Summary": "Microsoft Briefly Passes Nvidia, Closing a $1.84T Gap FourWeekMBA"
+        "Title": "AI in finance 2026: Closing the value gap in Technology, Media and Telecommunications - KPMG International",
+        "Link": "https://kpmg.com/ca/en/insights/2026/11/ai-in-finance-2026-tech-media-telecommunications.html",
+        "Published": "Thu, 12 Nov 2026 17:08:08 GMT",
+        "Summary": "AI in finance 2026: Closing the value gap in Technology, Media and Telecommunications KPMG International"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Microsoft market value tops $4T, closing gap wi... - Pluang",
-        "Link": "https://pluang.com/en/news-feed/microsoft-kembali-di-atas-4-triliun-dekat-nvidia-di-tengah-pertumbuhan-ai-dan",
-        "Published": "Tue, 10 Nov 2026 17:06:01 GMT",
-        "Summary": "Microsoft market value tops $4T, closing gap wi... Pluang"
+        "Title": "Closing the Gap on Cotton Abandonment: The Case for a Harvest Incentive - Oklahoma Farm Report",
+        "Link": "https://www.oklahomafarmreport.com/2026/11/12/closing-the-gap-on-cotton-abandonment-the-case-for-a-harvest-incentive/",
+        "Published": "Thu, 12 Nov 2026 14:43:17 GMT",
+        "Summary": "Closing the Gap on Cotton Abandonment: The Case for a Harvest Incentive Oklahoma Farm Report"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the \"AI Gap\" - PR Newswire",
-        "Link": "https://www.prnewswire.com/news-releases/closing-the-ai-gap-302935073.html",
-        "Published": "Tue, 10 Nov 2026 15:04:00 GMT",
-        "Summary": "Closing the \"AI Gap\" PR Newswire"
+        "Title": "When development can't wait: Closing the gap between studios and QA - GamesIndustry.biz",
+        "Link": "https://www.gamesindustry.biz/when-development-cant-wait-closing-the-gap-between-studios-and-qa",
+        "Published": "Thu, 12 Nov 2026 13:30:00 GMT",
+        "Summary": "When development can't wait: Closing the gap between studios and QA GamesIndustry.biz"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the Delivery Gap: From better regulation to better policymaking - EPC, European Policy Centre",
-        "Link": "https://www.epc.eu/publication/closing-the-delivery-gap-from-better-regulation-to-better-policymaking/",
-        "Published": "Tue, 10 Nov 2026 13:18:36 GMT",
-        "Summary": "Closing the Delivery Gap: From better regulation to better policymaking EPC, European Policy Centre"
+        "Title": "The Trouble With ‘Closing the Racial Wealth Gap’ (SSIR) - Stanford Social Innovation Review",
+        "Link": "https://ssir.org/articles/entry/closing-the-racial-wealth-gap-reparations",
+        "Published": "Thu, 12 Nov 2026 13:00:00 GMT",
+        "Summary": "The Trouble With ‘Closing the Racial Wealth Gap’ (SSIR) Stanford Social Innovation Review"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Alabama Closing Gap on Georgia in Polymarket College Football National Championship - Sports Illustrated",
-        "Link": "https://www.si.com/prediction-markets/alabama-closing-gap-on-georgia-in-polymarket-college-football-national-championship-01m70krwann4",
-        "Published": "Tue, 10 Nov 2026 12:00:05 GMT",
-        "Summary": "Alabama Closing Gap on Georgia in Polymarket College Football National Championship Sports Illustrated"
+        "Title": "How Irish organisations can close the AI value gap - PwC Ireland",
+        "Link": "https://www.pwc.ie/issues/ai-data-technology/insights/closing-the-ai-value-gap.html",
+        "Published": "Thu, 12 Nov 2026 12:13:45 GMT",
+        "Summary": "How Irish organisations can close the AI value gap PwC Ireland"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Women get £3,800 less from their pensions than men each year... but the gap is closing - This is Money",
-        "Link": "https://www.thisismoney.co.uk/money/pensions/article-16277715/Women-men-pensions-typical-annual-income.html",
-        "Published": "Tue, 10 Nov 2026 10:35:41 GMT",
-        "Summary": "Women get £3,800 less from their pensions than men each year... but the gap is closing This is Money"
+        "Title": "How mid-sized banks are closing the AI gap - Livemint",
+        "Link": "https://www.livemint.com/cio/opinion/how-mid-sized-banks-are-closing-the-ai-gap-291794484267841.html",
+        "Published": "Thu, 12 Nov 2026 12:13:09 GMT",
+        "Summary": "How mid-sized banks are closing the AI gap Livemint"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Watch webinar Beyond pay: Why closing the gender pay gap starts with supporting working parents - Employee Benefits",
+        "Link": "https://www.employeebenefits.co.uk/pay-strategy/2026/11/12/watch-webinar-beyond-pay-why-closing-the-gender-pay-gap-starts-with-supporting-working-parents/",
+        "Published": "Thu, 12 Nov 2026 11:28:26 GMT",
+        "Summary": "Watch webinar Beyond pay: Why closing the gender pay gap starts with supporting working parents Employee Benefits"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Weekend Gap in Global Payments - FF News",
+        "Link": "https://ffnews.com/videos/closing-the-weekend-gap-in-global-payments",
+        "Published": "Thu, 12 Nov 2026 10:30:00 GMT",
+        "Summary": "Closing the Weekend Gap in Global Payments FF News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Asia: Closing the gap between discovery and care – November 2026 - Healthcare Today",
+        "Link": "https://healthcaretoday.com/article/asia-closing-the-gap-between-discovery-and-care-november-2026",
+        "Published": "Thu, 12 Nov 2026 06:45:35 GMT",
+        "Summary": "Asia: Closing the gap between discovery and care – November 2026 Healthcare Today"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "ROK military has upper hand but North Korea is closing gap: Defense chief - NK News",
+        "Link": "https://www.nknews.org/2026/11/rok-military-has-upper-hand-but-north-korea-is-closing-gap-defense-chief/",
+        "Published": "Thu, 12 Nov 2026 05:48:44 GMT",
+        "Summary": "ROK military has upper hand but North Korea is closing gap: Defense chief NK News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Gap in Pea Protein Functionality - FoodNavigator.com",
+        "Link": "https://www.foodnavigator.com/Product-innovations/closing-the-gap-in-pea-protein-functionality/",
+        "Published": "Thu, 12 Nov 2026 00:54:00 GMT",
+        "Summary": "Closing the Gap in Pea Protein Functionality FoodNavigator.com"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Protection: From closing the gap to shielding consumers - Asia Insurance Review",
+        "Link": "https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/97563/Type/eDaily/Protection-From-closing-the-gap-to-shielding-consumers",
+        "Published": "Fri, 13 Nov 2026 02:33:18 GMT",
+        "Summary": "Protection: From closing the gap to shielding consumers Asia Insurance Review"
       }
     ]
   }
