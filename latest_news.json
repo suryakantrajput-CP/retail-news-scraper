@@ -1,35 +1,7 @@
 {
-  "last_updated": "2026-11-15",
+  "last_updated": "2026-11-16",
   "data": {
-    "Acadia Healthcare": [
-      {
-        "company_name": "Acadia Healthcare",
-        "event_type": "Closing",
-        "Title": "Layoffs, closures tracker: Presbyterian to lay off 135 workers - Modern Healthcare",
-        "Link": "https://www.modernhealthcare.com/providers/staffing/mh-layoffs-closures-healthcare-live-updates/",
-        "Published": "Sat, 14 Nov 2026 08:48:41 GMT",
-        "Summary": "Layoffs, closures tracker: Presbyterian to lay off 135 workers Modern Healthcare"
-      }
-    ],
-    "Disney Store": [
-      {
-        "company_name": "Disney Store",
-        "event_type": "Opening",
-        "Title": "'Muppet Christmas Carol' Gonzo and Rizzo Plush Set Coming Soon to Disney Store - WDW News Today",
-        "Link": "https://wdwnt.com/2026/11/muppet-christmas-carol-gonzo-and-rizzo-plush-set-coming-soon-to-disney-store/",
-        "Published": "Fri, 13 Nov 2026 13:34:37 GMT",
-        "Summary": "'Muppet Christmas Carol' Gonzo and Rizzo Plush Set Coming Soon to Disney Store WDW News Today"
-      }
-    ],
     "Carhartt": [
-      {
-        "company_name": "Carhartt",
-        "event_type": "Opening",
-        "Title": "UFC 334 video: Bia Mesquita breaks Ronda Rousey's record with quick Macy Chiasson finish - Central Oregon Daily",
-        "Link": "https://www.centraloregondaily.com/sports/ufc-334-video-bia-mesquita-breaks-ronda-rouseys-record-with-quick-macy-chiasson-finish/article_bf80a28d-15e0-5636-a02c-0712641c3ad9.html",
-        "Published": "Sat, 14 Nov 2026 23:50:42 GMT",
-        "Summary": "UFC 334 video: Bia Mesquita breaks Ronda Rousey's record with quick Macy Chiasson finish Central Oregon Daily"
-      },
       {
         "company_name": "Carhartt",
         "event_type": "Opening",
@@ -37,24 +9,16 @@
         "Link": "https://www.centraloregondaily.com/news/nation-world/gathering-of-rocky-fans-breaks-a-world-record/video_6d13599c-068e-5029-95fd-4968a4334093.html",
         "Published": "Sat, 14 Nov 2026 11:08:17 GMT",
         "Summary": "Gathering of 'Rocky' fans breaks a world record Central Oregon Daily"
-      },
-      {
-        "company_name": "Carhartt",
-        "event_type": "Closing",
-        "Title": "Carhartt WIP and nike team up again for a new F/W26 collection - Collater.al Magazine",
-        "Link": "https://www.collater.al/en/carhartt-wip-nike-collaboration-fw26-collection-fashion-streetwear-sports/",
-        "Published": "Fri, 13 Nov 2026 13:33:30 GMT",
-        "Summary": "Carhartt WIP and nike team up again for a new F/W26 collection Collater.al Magazine"
       }
     ],
     "Gap": [
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the gap - Deming Headlight",
-        "Link": "https://www.demingheadlight.com/2026/11/14/closing-the-gap/",
-        "Published": "Sat, 14 Nov 2026 13:22:28 GMT",
-        "Summary": "Closing the gap Deming Headlight"
+        "Title": "Kiwi Ferns insist gap closing with Australia despite World Cup loss - Sport Nation",
+        "Link": "https://sportnation.nz/article/kiwi-ferns-insist-gap-closing-with-australia-despite-world-cup-loss",
+        "Published": "Sun, 15 Nov 2026 20:03:17 GMT",
+        "Summary": "Kiwi Ferns insist gap closing with Australia despite World Cup loss Sport Nation"
       },
       {
         "company_name": "Gap",
@@ -71,74 +35,6 @@
         "Link": "https://www.aljazeera.com/news/2026/11/14/could-one-daily-pill-narrow-the-diabetes-treatment-gap-in-the-global-south",
         "Published": "Sat, 14 Nov 2026 06:16:34 GMT",
         "Summary": "Could one daily pill narrow the diabetes treatment gap in the Global South? Al Jazeera"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Protection Gap Starts with Informed Clients - Estate Agent Today",
-        "Link": "https://www.estateagenttoday.co.uk/features/2026/11/closing-the-protection-gap-starts-with-informed-clients/",
-        "Published": "Sat, 14 Nov 2026 00:38:04 GMT",
-        "Summary": "Closing the Protection Gap Starts with Informed Clients Estate Agent Today"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the gap between addiction help and treatment access in Virginia - ALXnow",
-        "Link": "https://www.alxnow.com/2026/11/13/closing-the-gap-between-addiction-help-and-treatment-access-in-virginia-nov1/",
-        "Published": "Fri, 13 Nov 2026 15:45:00 GMT",
-        "Summary": "Closing the gap between addiction help and treatment access in Virginia ALXnow"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Opening doors at scale: why business must lead on closing the opportunity gap - Elite Business Magazine",
-        "Link": "https://elitebusinessmagazine.co.uk/people/leadership/item/opening-doors-at-scale-why-business-must-lead-on-closing-the-opportunity-gap",
-        "Published": "Fri, 13 Nov 2026 12:37:13 GMT",
-        "Summary": "Opening doors at scale: why business must lead on closing the opportunity gap Elite Business Magazine"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Major road closed for snow in Great Smoky Mountains National Park - Knoxville News Sentinel",
-        "Link": "https://www.knoxnews.com/story/entertainment/smoky-mountains/2026/11/12/road-closures-begin-in-great-smoky-mountains-due-to-winter-weather/92744451007/",
-        "Published": "Fri, 13 Nov 2026 10:42:34 GMT",
-        "Summary": "Major road closed for snow in Great Smoky Mountains National Park Knoxville News Sentinel"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Tight packaging: Closing China’s chip gap - The Edge Singapore",
-        "Link": "https://www.theedgesingapore.com/capital/semiconductor/tight-packaging-closing-chinas-chip-gap",
-        "Published": "Fri, 13 Nov 2026 04:00:00 GMT",
-        "Summary": "Tight packaging: Closing China’s chip gap The Edge Singapore"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Protection: From closing the gap to shielding consumers - Asia Insurance Review",
-        "Link": "https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/97563/Type/eDaily/Protection-From-closing-the-gap-to-shielding-consumers",
-        "Published": "Fri, 13 Nov 2026 02:33:18 GMT",
-        "Summary": "Protection: From closing the gap to shielding consumers Asia Insurance Review"
-      }
-    ],
-    "Lee's Sandwiches": [
-      {
-        "company_name": "Lee's Sandwiches",
-        "event_type": "Closing",
-        "Title": "New management at New England's only Lee's Sandwiches location - Worcester Magazine",
-        "Link": "https://www.worcestermag.com/story/entertainment/dining/2026/11/13/table-hoppin-food-scene-vet-fuentes-takes-helm-at-lees-sandwiches/92614877007/",
-        "Published": "Fri, 13 Nov 2026 10:02:00 GMT",
-        "Summary": "New management at New England's only Lee's Sandwiches location Worcester Magazine"
-      }
-    ],
-    "Stanton Optical": [
-      {
-        "company_name": "Stanton Optical",
-        "event_type": "Opening",
-        "Title": "Looking good, Aiken, SC: Stanton Optical is now open. - EIN Presswire",
-        "Link": "https://www.einpresswire.com/article/955808134/looking-good-aiken-sc-stanton-optical-is-now-open",
-        "Published": "Fri, 13 Nov 2026 14:01:00 GMT",
-        "Summary": "Looking good, Aiken, SC: Stanton Optical is now open. EIN Presswire"
       }
     ],
     "Panera Bread": [
@@ -157,52 +53,6 @@
         "Link": "https://hoodline.com/2026/11/napa-s-trancas-street-panera-bread-shuts-down-after-14-years-gift-cards-still-good/",
         "Published": "Sat, 14 Nov 2026 00:13:10 GMT",
         "Summary": "Napa Panera Bread on Trancas Street Closing Nov. 25 Hoodline"
-      },
-      {
-        "company_name": "Panera Bread",
-        "event_type": "Closing",
-        "Title": "Gift cards remain valid despite Napa Panera’s closing date - The Napa Valley Register",
-        "Link": "https://napavalleyregister.com/business/napas-panera-bread-location-shutting-down-on-november-25/article_73180819-75ed-4820-a1a0-662ce5a0b94e.html",
-        "Published": "Fri, 13 Nov 2026 00:00:00 GMT",
-        "Summary": "Gift cards remain valid despite Napa Panera’s closing date The Napa Valley Register"
-      }
-    ],
-    "The Dump": [
-      {
-        "company_name": "The Dump",
-        "event_type": "Closing",
-        "Title": "Dump truck overturns on Route 119, shutting down lanes for a time in East Huntingdon - TribLIVE.com",
-        "Link": "https://triblive.com/local/westmoreland/dump-truck-overturns-on-route-119/",
-        "Published": "Fri, 13 Nov 2026 01:20:32 GMT",
-        "Summary": "Dump truck overturns on Route 119, shutting down lanes for a time in East Huntingdon TribLIVE.com"
-      }
-    ],
-    "Wayfair": [
-      {
-        "company_name": "Wayfair",
-        "event_type": "Opening",
-        "Title": "Wayfair is bringing new store model to former Boulevard Mall - Buffalo News",
-        "Link": "https://buffalonews.com/news/local/business/article_fd6e1cb3-f579-42dd-836c-39a0adf73aed.html",
-        "Published": "Fri, 13 Nov 2026 17:18:14 GMT",
-        "Summary": "Wayfair is bringing new store model to former Boulevard Mall Buffalo News"
-      }
-    ],
-    "World Market": [
-      {
-        "company_name": "World Market",
-        "event_type": "Opening",
-        "Title": "World Market opens next week at Hacienda Crossings - Pleasanton Weekly",
-        "Link": "https://www.pleasantonweekly.com/business/2026/11/13/world-market-opens-this-week-at-hacienda-crossings/",
-        "Published": "Fri, 13 Nov 2026 22:49:33 GMT",
-        "Summary": "World Market opens next week at Hacienda Crossings Pleasanton Weekly"
-      },
-      {
-        "company_name": "World Market",
-        "event_type": "Opening",
-        "Title": "World Market expands, L.L. Bean pops up and other retail news - The Atlanta Journal-Constitution",
-        "Link": "https://www.ajc.com/business/2026/11/atlanta-retail-roundup-10-12-26/",
-        "Published": "Fri, 13 Nov 2026 12:00:00 GMT",
-        "Summary": "World Market expands, L.L. Bean pops up and other retail news The Atlanta Journal-Constitution"
       }
     ]
   }
