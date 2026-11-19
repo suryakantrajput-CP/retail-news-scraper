@@ -1,13 +1,33 @@
 {
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-19",
   "data": {
+    "Calvin Klein": [
+      {
+        "company_name": "Calvin Klein",
+        "event_type": "Opening",
+        "Title": "FIRST LOOK: Calvin Klein opens new Adelaide store at Rundle Mall with iconic denim and CK croissants - Glam Adelaide",
+        "Link": "https://glamadelaide.com.au/?p=724412",
+        "Published": "Wed, 18 Nov 2026 18:20:56 GMT",
+        "Summary": "FIRST LOOK: Calvin Klein opens new Adelaide store at Rundle Mall with iconic denim and CK croissants Glam Adelaide"
+      }
+    ],
+    "Consumer Cellular": [
+      {
+        "company_name": "Consumer Cellular",
+        "event_type": "Closing",
+        "Title": "U.S. closing loophole that allowed China access to AI chips - WVIA Public Media",
+        "Link": "https://www.wvia.org/shows/newshour/clip/nvidia-fallout-1794857310",
+        "Published": "Tue, 17 Nov 2026 04:10:25 GMT",
+        "Summary": "U.S. closing loophole that allowed China access to AI chips WVIA Public Media"
+      }
+    ],
     "Eyemart Express": [
       {
         "company_name": "Eyemart Express",
         "event_type": "Opening",
         "Title": "Eyemart Express to open 3rd Greater Houston store in Katy - Community Impact",
         "Link": "https://communityimpact.com/katy-fulshear/business/eyemart-express-to-open-3rd-greater-houston-store-in-katy/",
-        "Published": "Tue, 17 Nov 2026 23:53:28 GMT",
+        "Published": "Wed, 18 Nov 2026 05:49:00 GMT",
         "Summary": "Eyemart Express to open 3rd Greater Houston store in Katy Community Impact"
       }
     ],
@@ -21,28 +41,118 @@
         "Summary": "Guardian Pharmacy Services, Inc. Stock 12‑Month Price Target Raised to $51.29, Implies 4% Upside TradingView"
       }
     ],
-    "Jersey Mike's": [
+    "Christy Sports": [
       {
-        "company_name": "Jersey Mike's",
+        "company_name": "Christy Sports",
         "event_type": "Opening",
-        "Title": "Jersey Mike’s Subs’ newest Lehigh Valley location to hold grand opening next week - WFMZ.com",
-        "Link": "https://www.wfmz.com/features/eat-sip-shop/jersey-mike-s-subs-newest-lehigh-valley-location-to-open-later-this-month/article_7c3fb657-8e72-4535-9df8-3502fcd9f078.html",
-        "Published": "Tue, 17 Nov 2026 21:24:00 GMT",
-        "Summary": "Jersey Mike’s Subs’ newest Lehigh Valley location to hold grand opening next week WFMZ.com"
+        "Title": "Kirkwood To Open Early, Plus What To Expect at Northstar and Heavenly’s Opening Days - POWDER Magazine",
+        "Link": "https://www.powder.com/news/kirkwood-ski-resort-opening-early",
+        "Published": "Wed, 18 Nov 2026 18:16:02 GMT",
+        "Summary": "Kirkwood To Open Early, Plus What To Expect at Northstar and Heavenly’s Opening Days POWDER Magazine"
       },
       {
-        "company_name": "Jersey Mike's",
+        "company_name": "Christy Sports",
         "event_type": "Opening",
-        "Title": "Third Jersey Mike's opens in Vermont at South Burlington plaza - Burlington Free Press",
-        "Link": "https://www.burlingtonfreepress.com/story/news/local/vermont/2026/11/17/jersey-mikes-subs-opens-third-vermont-restaurant-gateway-shopping-center-south-burlington/92766760007/",
-        "Published": "Tue, 17 Nov 2026 19:00:00 GMT",
-        "Summary": "Third Jersey Mike's opens in Vermont at South Burlington plaza Burlington Free Press"
+        "Title": "Backcountry Acquires Christy Sports, Bringing Major Outdoor Retailer Into the Fold - POWDER Magazine",
+        "Link": "https://www.powder.com/news/backcountry-acquires-christy-sports",
+        "Published": "Wed, 18 Nov 2026 17:37:21 GMT",
+        "Summary": "Backcountry Acquires Christy Sports, Bringing Major Outdoor Retailer Into the Fold POWDER Magazine"
+      },
+      {
+        "company_name": "Christy Sports",
+        "event_type": "Opening",
+        "Title": "Arizona Ski Resort To Open Early After More Than a Foot of Early Season Snow - POWDER Magazine",
+        "Link": "https://www.powder.com/news/arizona-snowbowl-open-early",
+        "Published": "Tue, 17 Nov 2026 18:39:59 GMT",
+        "Summary": "Arizona Ski Resort To Open Early After More Than a Foot of Early Season Snow POWDER Magazine"
+      },
+      {
+        "company_name": "Christy Sports",
+        "event_type": "Closing",
+        "Title": "Lakewood's Christy Sports acquired by major outdoor retailer - The Business Journals",
+        "Link": "https://www.bizjournals.com/denver/news/2026/11/18/backcountry-christy-sports-acquisition.html",
+        "Published": "Wed, 18 Nov 2026 22:00:00 GMT",
+        "Summary": "Lakewood's Christy Sports acquired by major outdoor retailer The Business Journals"
+      },
+      {
+        "company_name": "Christy Sports",
+        "event_type": "Closing",
+        "Title": "Backcountry Adds 50+ Retail Stores in Christy Sports Acquisition - GearJunkie",
+        "Link": "https://gearjunkie.com/winter/backcountry-acquires-christy-sports-50-stores",
+        "Published": "Wed, 18 Nov 2026 20:14:32 GMT",
+        "Summary": "Backcountry Adds 50+ Retail Stores in Christy Sports Acquisition GearJunkie"
+      },
+      {
+        "company_name": "Christy Sports",
+        "event_type": "Closing",
+        "Title": "Colorado’s Christy Sports acquired by Utah retailer Backcountry - The Denver Post",
+        "Link": "https://www.denverpost.com/2026/11/18/christy-sports-acquired-backcountry-group/",
+        "Published": "Wed, 18 Nov 2026 19:44:43 GMT",
+        "Summary": "Colorado’s Christy Sports acquired by Utah retailer Backcountry The Denver Post"
+      },
+      {
+        "company_name": "Christy Sports",
+        "event_type": "Closing",
+        "Title": "EXEC: Backcountry Acquires Christy Sports in Snowsports Mega-Merger - SGB Media Online",
+        "Link": "https://sgbonline.com/exec-backcountry-acquires-christy-sports-in-snowsports-mega-merger/",
+        "Published": "Wed, 18 Nov 2026 19:23:55 GMT",
+        "Summary": "EXEC: Backcountry Acquires Christy Sports in Snowsports Mega-Merger SGB Media Online"
+      },
+      {
+        "company_name": "Christy Sports",
+        "event_type": "Closing",
+        "Title": "Utah online retailer Backcountry buys Colorado-born Christy Sports - The Colorado Sun",
+        "Link": "https://coloradosun.com/2026/11/18/utah-online-retailer-backcountry-buys-colorado-born-christy-sports/",
+        "Published": "Wed, 18 Nov 2026 18:25:02 GMT",
+        "Summary": "Utah online retailer Backcountry buys Colorado-born Christy Sports The Colorado Sun"
+      },
+      {
+        "company_name": "Christy Sports",
+        "event_type": "Closing",
+        "Title": "Online Retailer Backcountry Acquires Christy Sports, Growing to More Than 60 Stores - SnowBrains",
+        "Link": "https://snowbrains.com/backcountry-acquires-christy-sports/",
+        "Published": "Wed, 18 Nov 2026 17:54:34 GMT",
+        "Summary": "Online Retailer Backcountry Acquires Christy Sports, Growing to More Than 60 Stores SnowBrains"
+      },
+      {
+        "company_name": "Christy Sports",
+        "event_type": "Closing",
+        "Title": "Backcountry Acquires Christy Sports, Bringing Major Outdoor Retailer Into the Fold - POWDER Magazine",
+        "Link": "https://www.powder.com/news/backcountry-acquires-christy-sports",
+        "Published": "Wed, 18 Nov 2026 17:37:21 GMT",
+        "Summary": "Backcountry Acquires Christy Sports, Bringing Major Outdoor Retailer Into the Fold POWDER Magazine"
+      },
+      {
+        "company_name": "Christy Sports",
+        "event_type": "Closing",
+        "Title": "Backcountry Acquires Christy Sports Ski Retailer - Hoodline",
+        "Link": "https://hoodline.com/2026/11/backcountry-buys-christy-sports-adding-50-stores-to-colorado-ski-retailer/",
+        "Published": "Thu, 19 Nov 2026 01:28:05 GMT",
+        "Summary": "Backcountry Acquires Christy Sports Ski Retailer Hoodline"
+      }
+    ],
+    "Joss & Main": [
+      {
+        "company_name": "Joss & Main",
+        "event_type": "Closing",
+        "Title": "New 'toxic hall of shame' includes Publix, Trader Joe’s and McDonald’s - KCRA",
+        "Link": "https://www.kcra.com/article/2026-toxic-hall-of-shame-retailer-report-card/74469196",
+        "Published": "Wed, 18 Nov 2026 21:00:00 GMT",
+        "Summary": "New 'toxic hall of shame' includes Publix, Trader Joe’s and McDonald’s KCRA"
       }
     ],
     "Jersey Mike's Subs": [
       {
         "company_name": "Jersey Mike's Subs",
         "event_type": "Opening",
+        "Title": "Jersey Mike's Opens New Bethlehem Township, PA Location - Hoodline",
+        "Link": "https://hoodline.com/2026/11/bethlehem-township-jersey-mike-s-sets-ribbon-cutting-free-subs-for-charity/",
+        "Published": "Wed, 18 Nov 2026 17:15:33 GMT",
+        "Summary": "Jersey Mike's Opens New Bethlehem Township, PA Location Hoodline"
+      },
+      {
+        "company_name": "Jersey Mike's Subs",
+        "event_type": "Opening",
         "Title": "Jersey Mike’s Subs’ newest Lehigh Valley location to hold grand opening next week - WFMZ.com",
         "Link": "https://www.wfmz.com/features/eat-sip-shop/jersey-mike-s-subs-newest-lehigh-valley-location-to-open-later-this-month/article_7c3fb657-8e72-4535-9df8-3502fcd9f078.html",
         "Published": "Tue, 17 Nov 2026 21:24:00 GMT",
@@ -57,14 +167,30 @@
         "Summary": "Third Jersey Mike's opens in Vermont at South Burlington plaza Burlington Free Press"
       }
     ],
-    "Pinot's Palette": [
+    "Jersey Mike's": [
       {
-        "company_name": "Pinot's Palette",
-        "event_type": "Closing",
-        "Title": "Pinot's Palette Brings Art, Wine and Family Fun to La Quinta with New Studio Opening Black Friday - Franchising.com",
-        "Link": "https://www.franchising.com/amp/news/20261116_pinots_palette_brings_art_wine_and_family_fun_to_la_quinta_with_new_studio_.html",
-        "Published": "Mon, 16 Nov 2026 18:50:59 GMT",
-        "Summary": "Pinot's Palette Brings Art, Wine and Family Fun to La Quinta with New Studio Opening Black Friday Franchising.com"
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Jersey Mike's Opens New Bethlehem Township, PA Location - Hoodline",
+        "Link": "https://hoodline.com/2026/11/bethlehem-township-jersey-mike-s-sets-ribbon-cutting-free-subs-for-charity/",
+        "Published": "Wed, 18 Nov 2026 17:15:33 GMT",
+        "Summary": "Jersey Mike's Opens New Bethlehem Township, PA Location Hoodline"
+      },
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Jersey Mike’s Subs’ newest Lehigh Valley location to hold grand opening next week - WFMZ.com",
+        "Link": "https://www.wfmz.com/features/eat-sip-shop/jersey-mike-s-subs-newest-lehigh-valley-location-to-open-later-this-month/article_7c3fb657-8e72-4535-9df8-3502fcd9f078.html",
+        "Published": "Tue, 17 Nov 2026 21:24:00 GMT",
+        "Summary": "Jersey Mike’s Subs’ newest Lehigh Valley location to hold grand opening next week WFMZ.com"
+      },
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Third Jersey Mike's opens in Vermont at South Burlington plaza - Burlington Free Press",
+        "Link": "https://www.burlingtonfreepress.com/story/news/local/vermont/2026/11/17/jersey-mikes-subs-opens-third-vermont-restaurant-gateway-shopping-center-south-burlington/92766760007/",
+        "Published": "Tue, 17 Nov 2026 19:00:00 GMT",
+        "Summary": "Third Jersey Mike's opens in Vermont at South Burlington plaza Burlington Free Press"
       }
     ],
     "Nationwide Vision": [
@@ -75,6 +201,50 @@
         "Link": "https://www.freepressjournal.in/amp/mumbai/mp-shrikant-shinde-announces-khasdar-krida-sangram-season-2-from-november-20-over-75000-athletes-expected-across-31-sports",
         "Published": "Tue, 17 Nov 2026 15:02:29 GMT",
         "Summary": "MP Shrikant Shinde Announces Khasdar Krida Sangram Season 2 From November 20; Over 75,000 Athletes Expected Free Press Journal"
+      }
+    ],
+    "Panera Bread": [
+      {
+        "company_name": "Panera Bread",
+        "event_type": "Opening",
+        "Title": "Panera To Open Farmingville Location With Drive-Thru On Monday - Patch",
+        "Link": "https://patch.com/new-york/sachem/panera-open-farmingville-location-drive-thru-monday",
+        "Published": "Wed, 18 Nov 2026 23:52:27 GMT",
+        "Summary": "Panera To Open Farmingville Location With Drive-Thru On Monday Patch"
+      },
+      {
+        "company_name": "Panera Bread",
+        "event_type": "Opening",
+        "Title": "Doherty Enterprises to Open New Panera Bread Bakery Cafe in Farmingville, Long Island on November 23 - Digital Journal",
+        "Link": "https://www.digitaljournal.com/pr/news/prunderground/doherty-enterprises-open-new-panera-1842736951.html",
+        "Published": "Wed, 18 Nov 2026 13:59:51 GMT",
+        "Summary": "Doherty Enterprises to Open New Panera Bread Bakery Cafe in Farmingville, Long Island on November 23 Digital Journal"
+      },
+      {
+        "company_name": "Panera Bread",
+        "event_type": "Closing",
+        "Title": "Wichita’s only suburban Panera is closing Sunday. Here’s why - Wichita Eagle",
+        "Link": "https://www.kansas.com/entertainment/restaurants/article318137519.html",
+        "Published": "Wed, 18 Nov 2026 16:16:00 GMT",
+        "Summary": "Wichita’s only suburban Panera is closing Sunday. Here’s why Wichita Eagle"
+      },
+      {
+        "company_name": "Panera Bread",
+        "event_type": "Closing",
+        "Title": "Panera Bread closing its only Waterbury location - CT Insider",
+        "Link": "https://www.ctinsider.com/food/article/waterbury-panera-bread-closing-22534998.php",
+        "Published": "Tue, 17 Nov 2026 16:39:35 GMT",
+        "Summary": "Panera Bread closing its only Waterbury location CT Insider"
+      }
+    ],
+    "Sur La Table": [
+      {
+        "company_name": "Sur La Table",
+        "event_type": "Opening",
+        "Title": "Diablo Dish: San Ramon Just Got Sweeter - Diablo Magazine",
+        "Link": "https://www.diablomag.com/blog/diablo-dish/diablo-dish-san-ramon-just-got-sweeter/article_c50cad44-9673-4a30-b99c-5d375000ebb8.html",
+        "Published": "Wed, 18 Nov 2026 01:29:00 GMT",
+        "Summary": "Diablo Dish: San Ramon Just Got Sweeter Diablo Magazine"
       }
     ],
     "Gap": [
@@ -89,9 +259,97 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
+        "Title": "A Quantum Sensor’s Speed Can Improve As Its Energy Gap Increases - Quantum Zeitgeist",
+        "Link": "https://quantumzeitgeist.com/universitat-innsbruck-quantum-sensor-speed-improve/",
+        "Published": "Wed, 18 Nov 2026 23:27:57 GMT",
+        "Summary": "A Quantum Sensor’s Speed Can Improve As Its Energy Gap Increases Quantum Zeitgeist"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Gap: How Blaine’s Girls Became State Champions - MileSplit United States",
+        "Link": "https://www.milesplit.com/articles/734064/closing-the-gap-how-blaines-girls-became-state-champions",
+        "Published": "Wed, 18 Nov 2026 20:32:00 GMT",
+        "Summary": "Closing the Gap: How Blaine’s Girls Became State Champions MileSplit United States"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "From Compositions to Covers: Closing the Data Gap for Music Publishers - Luminate",
+        "Link": "https://luminatedata.com/blog/publishing-data-launch/",
+        "Published": "Wed, 18 Nov 2026 20:25:53 GMT",
+        "Summary": "From Compositions to Covers: Closing the Data Gap for Music Publishers Luminate"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Manitoba women in construction conference to focus on closing gender gap - Winnipeg Sun",
+        "Link": "https://www.winnipegsun.com/news/manitoba/manitoba-women-in-construction-conference-to-focus-on-closing-gender-gap/article_769fea8e-5900-4982-b1b3-0a13db4bb1f2.html",
+        "Published": "Wed, 18 Nov 2026 20:00:00 GMT",
+        "Summary": "Manitoba women in construction conference to focus on closing gender gap Winnipeg Sun"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Consolidation plan 'thoughtful and intentional,' could strike a nerve - The State Journal-Register",
+        "Link": "https://www.sj-r.com/story/news/education/2026/11/18/springfield-public-schools-closing-two-schools-to-help-close-14-million-dollar-gap/92836648007/",
+        "Published": "Wed, 18 Nov 2026 18:21:00 GMT",
+        "Summary": "Consolidation plan 'thoughtful and intentional,' could strike a nerve The State Journal-Register"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Gap Between Negotiated Savings and Realized Value - Modern Healthcare News",
+        "Link": "https://www.modernhealthcare.com/content-studio/healthcare-insider-podcast/mh-closing-gap-healthcare-savings-realized-value/",
+        "Published": "Wed, 18 Nov 2026 15:17:36 GMT",
+        "Summary": "Closing the Gap Between Negotiated Savings and Realized Value Modern Healthcare News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Electrification in Africa means closing the energy access gap and reducing energy poverty - African Arguments",
+        "Link": "https://africanarguments.org/2026/11/electrification-in-africa-means-closing-the-energy-access-gap-and-reducing-energy-poverty/",
+        "Published": "Wed, 18 Nov 2026 15:16:45 GMT",
+        "Summary": "Electrification in Africa means closing the energy access gap and reducing energy poverty African Arguments"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the gap: Accessible addiction resources now available for women - www.limavadynow.co.uk",
+        "Link": "https://www.limavadynow.co.uk/news/closing-the-gap-accessible-addiction-resources-now-available-for-women-9358813",
+        "Published": "Wed, 18 Nov 2026 14:31:00 GMT",
+        "Summary": "Closing the gap: Accessible addiction resources now available for women www.limavadynow.co.uk"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Cardiovascular Site Gap: Intelligence Meets Site Expansion, Upcoming Webinar Hosted by Xtalks - PR Newswire",
+        "Link": "https://www.prnewswire.com/news-releases/closing-the-cardiovascular-site-gap-intelligence-meets-site-expansion-upcoming-webinar-hosted-by-xtalks-302943180.html",
+        "Published": "Wed, 18 Nov 2026 13:30:00 GMT",
+        "Summary": "Closing the Cardiovascular Site Gap: Intelligence Meets Site Expansion, Upcoming Webinar Hosted by Xtalks PR Newswire"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Nvidia vs AMD after earnings: Nvidia beat its forecast; the 29-point gap is not closing - Techi",
+        "Link": "https://www.techi.com/nvidia-vs-amd-after-earnings-gap-valuation/",
+        "Published": "Wed, 18 Nov 2026 11:54:22 GMT",
+        "Summary": "Nvidia vs AMD after earnings: Nvidia beat its forecast; the 29-point gap is not closing Techi"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Jennifer Young: Closing the Gap Between Cancer Innovation and Access in Europe - Oncodaily",
+        "Link": "https://oncodaily.com/community/jennifer-young-access-634842",
+        "Published": "Wed, 18 Nov 2026 09:46:26 GMT",
+        "Summary": "Jennifer Young: Closing the Gap Between Cancer Innovation and Access in Europe Oncodaily"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
         "Title": "IFC: Closing Gender Gap, Investing in Childcare Will Add $22.9bn to Nigeria’s GDP - THISDAYLIVE",
         "Link": "https://www.thisdaylive.com/2026/11/18/ifc-closing-gender-gap-investing-in-childcare-will-add-22-9bn-to-nigerias-gdp/",
-        "Published": "Wed, 18 Nov 2026 02:30:09 GMT",
+        "Published": "Wed, 18 Nov 2026 05:29:59 GMT",
         "Summary": "IFC: Closing Gender Gap, Investing in Childcare Will Add $22.9bn to Nigeria’s GDP THISDAYLIVE"
       },
       {
@@ -121,26 +379,26 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Representative Rick Larsen introduces H.R. 11035: Closing the Substance Use Care Gap Act of 2026 - Quiver Quantitative",
-        "Link": "https://www.quiverquant.com/news/Representative+Rick+Larsen+introduces+H.R.+11035%3A+Closing+the+Substance+Use+Care+Gap+Act+of+2026",
-        "Published": "Tue, 17 Nov 2026 15:48:00 GMT",
-        "Summary": "Representative Rick Larsen introduces H.R. 11035: Closing the Substance Use Care Gap Act of 2026 Quiver Quantitative"
+        "Title": "Closing the gap between AI ambition and real outcomes - Nasscom",
+        "Link": "https://community.nasscom.in/communities/ai/closing-gap-between-ai-ambition-and-real-outcomes",
+        "Published": "Tue, 17 Nov 2026 16:11:35 GMT",
+        "Summary": "Closing the gap between AI ambition and real outcomes Nasscom"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the Trustworthiness Gap in Multimodal Cardiovascular AI Systems - Bioengineer.org",
-        "Link": "https://bioengineer.org/closing-the-trustworthiness-gap-in-multimodal-cardiovascular-ai-systems/",
-        "Published": "Tue, 17 Nov 2026 13:49:55 GMT",
-        "Summary": "Closing the Trustworthiness Gap in Multimodal Cardiovascular AI Systems Bioengineer.org"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "AMD Could Be Closing the Gap With Nvidia. Here’s Where I See the Stock in 2028 - Yahoo Finance",
-        "Link": "https://finance.yahoo.com/markets/stocks/articles/amd-could-closing-gap-nvidia-134733297.html",
+        "Title": "AMD Could Be Closing the Gap With Nvidia. Here’s Where I See the Stock in 2028 - AOL.com",
+        "Link": "https://www.aol.com/articles/amd-could-closing-gap-nvidia-134733000.html",
         "Published": "Tue, 17 Nov 2026 13:47:33 GMT",
-        "Summary": "AMD Could Be Closing the Gap With Nvidia. Here’s Where I See the Stock in 2028 Yahoo Finance"
+        "Summary": "AMD Could Be Closing the Gap With Nvidia. Here’s Where I See the Stock in 2028 AOL.com"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "AMD Could Be Closing the Gap With Nvidia. Here’s Where I See the Stock in 2028 - 24/7 Wall St.",
+        "Link": "https://247wallst.com/investing/2026/11/17/amd-could-be-closing-the-gap-with-nvidia-heres-where-i-see-the-stock-in-2028/",
+        "Published": "Tue, 17 Nov 2026 13:47:00 GMT",
+        "Summary": "AMD Could Be Closing the Gap With Nvidia. Here’s Where I See the Stock in 2028 24/7 Wall St."
       },
       {
         "company_name": "Gap",
@@ -161,123 +419,31 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "'Closing the gap': City of Rochester partnership aims to educate homeowners on solar opportunities - RochesterFirst",
-        "Link": "https://www.rochesterfirst.com/video/closing-the-gap-city-of-rochester-partnership-aims-to-educate-homeowners-on-solar-opportunities/12377589/",
-        "Published": "Tue, 17 Nov 2026 04:09:04 GMT",
-        "Summary": "'Closing the gap': City of Rochester partnership aims to educate homeowners on solar opportunities RochesterFirst"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "‘Closing the gap’: City of Rochester partnership aims to educate homeowners on solar opportunities - RochesterFirst",
         "Link": "https://www.rochesterfirst.com/news/closing-the-gap-city-of-rochester-partnership-aims-to-educate-homeowners-on-solar-opportunities/",
         "Published": "Tue, 17 Nov 2026 03:26:03 GMT",
         "Summary": "‘Closing the gap’: City of Rochester partnership aims to educate homeowners on solar opportunities RochesterFirst"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "APAC distributors remain key to closing AI channel capability gap - CRN Asia",
-        "Link": "https://www.crnasia.com/news/2026/distributor/apac-distributors-remain-key-to-closing-ai-channel-capabilit1",
-        "Published": "Mon, 16 Nov 2026 23:59:54 GMT",
-        "Summary": "APAC distributors remain key to closing AI channel capability gap CRN Asia"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "East Kilbride set sights on Hamilton Accies after closing gap with win over Wasps - Daily Record",
-        "Link": "https://www.dailyrecord.co.uk/sport/local-sport/east-kilbride-set-sights-hamilton-37883459",
-        "Published": "Mon, 16 Nov 2026 18:03:00 GMT",
-        "Summary": "East Kilbride set sights on Hamilton Accies after closing gap with win over Wasps Daily Record"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the oil & gas digital skills gap: Workforce Energies, NCDMB, Heritage Energy train 23 young Nigerians - Business News Nigeria",
-        "Link": "https://businessday.ng/bd-weekender/article/closing-the-oil-gas-digital-skills-gap-workforce-energies-ncdmb-heritage-energy-train-23-young-nigerians/",
-        "Published": "Mon, 16 Nov 2026 15:41:57 GMT",
-        "Summary": "Closing the oil & gas digital skills gap: Workforce Energies, NCDMB, Heritage Energy train 23 young Nigerians Business News Nigeria"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Yash Pressure: Fauzi’s Opening Now Crucial for Prabhas? - M9.news",
-        "Link": "https://www.m9.news/movienews/yash-vs-prabhas-pan-india-stardom-toxic-fauzi/",
-        "Published": "Mon, 16 Nov 2026 14:41:02 GMT",
-        "Summary": "Yash Pressure: Fauzi’s Opening Now Crucial for Prabhas? M9.news"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "England: Thomas Tuchel asked if James Trafford is 'closing the gap' on Jordan Pickford - BBC",
-        "Link": "https://www.bbc.com/sport/football/videos/cqlyjkwew8w4o",
-        "Published": "Mon, 16 Nov 2026 12:26:58 GMT",
-        "Summary": "England: Thomas Tuchel asked if James Trafford is 'closing the gap' on Jordan Pickford BBC"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing a 2.2 million-acre gap: New York’s uphill climb to meet its 30×30 conservation goal - Adirondack Explorer",
-        "Link": "https://www.adirondackexplorer.org/communities/land-use/closing-a-2-2-million-acre-gap/",
-        "Published": "Mon, 16 Nov 2026 10:45:00 GMT",
-        "Summary": "Closing a 2.2 million-acre gap: New York’s uphill climb to meet its 30×30 conservation goal Adirondack Explorer"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "The West Coast Is Closing the Coworking Gap - CommercialSearch",
-        "Link": "https://www.commercialsearch.com/news/west-coast-is-closing-the-coworking-gap/",
-        "Published": "Mon, 16 Nov 2026 10:20:39 GMT",
-        "Summary": "The West Coast Is Closing the Coworking Gap CommercialSearch"
       }
     ],
-    "Rogers & Hollands": [
+    "Tumbles": [
       {
-        "company_name": "Rogers & Hollands",
-        "event_type": "Opening",
-        "Title": "Rogers & Hollands has sparkling holiday gifts for up to 60% off - Sarasota Herald-Tribune",
-        "Link": "https://www.heraldtribune.com/story/shopping/deals/black-friday/2026/11/16/rogers-and-hollands-black-friday-jewelry-deals/92810625007/",
-        "Published": "Mon, 16 Nov 2026 19:23:00 GMT",
-        "Summary": "Rogers & Hollands has sparkling holiday gifts for up to 60% off Sarasota Herald-Tribune"
-      }
-    ],
-    "Panera Bread": [
-      {
-        "company_name": "Panera Bread",
+        "company_name": "Tumbles",
         "event_type": "Closing",
-        "Title": "Panera Bread closing its only Waterbury location - CT Insider",
-        "Link": "https://www.ctinsider.com/food/article/waterbury-panera-bread-closing-22534998.php",
-        "Published": "Tue, 17 Nov 2026 16:39:35 GMT",
-        "Summary": "Panera Bread closing its only Waterbury location CT Insider"
-      },
-      {
-        "company_name": "Panera Bread",
-        "event_type": "Closing",
-        "Title": "Another Amarillo Restaurant Closing This Week - 93.1 KISS FM",
-        "Link": "https://kisselpaso.com/ixp/194/p/panera-bread-closing-amarillo/",
-        "Published": "Mon, 16 Nov 2026 15:33:58 GMT",
-        "Summary": "Another Amarillo Restaurant Closing This Week 93.1 KISS FM"
-      },
-      {
-        "company_name": "Panera Bread",
-        "event_type": "Closing",
-        "Title": "WATERBURY SCOOP: Panera Bread closing Waterbury cafe on 11/17 - The Connecticut Scoop",
-        "Link": "https://www.theconnecticutscoop.com/all-new-haven-county-posts/waterbury-scoop-panera-bread-closing-waterbury-cafe-on-1117",
-        "Published": "Mon, 16 Nov 2026 15:06:46 GMT",
-        "Summary": "WATERBURY SCOOP: Panera Bread closing Waterbury cafe on 11/17 The Connecticut Scoop"
-      }
-    ],
-    "Whole Earth Provision Co": [
-      {
-        "company_name": "Whole Earth Provision Co",
-        "event_type": "Closing",
-        "Title": "IKEA’s sudden exit sparks mystery for the empty Texas storefront - MySA",
-        "Link": "https://www.mysanantonio.com/business/article/san-marcos-former-ikea-storefront-wish-list-22523776.php",
-        "Published": "Mon, 16 Nov 2026 12:10:20 GMT",
-        "Summary": "IKEA’s sudden exit sparks mystery for the empty Texas storefront MySA"
+        "Title": "Nasdaq Regains Ground Despite Nvidia Slump But Dow Tumbles To Five-Month Closing Low - RTTNews",
+        "Link": "https://www.rttnews.com/3716030/nasdaq-regains-ground-despite-nvidia-slump-but-dow-tumbles-to-five-month-closing-low.aspx",
+        "Published": "Wed, 18 Nov 2026 21:17:00 GMT",
+        "Summary": "Nasdaq Regains Ground Despite Nvidia Slump But Dow Tumbles To Five-Month Closing Low RTTNews"
       }
     ],
     "World Market": [
+      {
+        "company_name": "World Market",
+        "event_type": "Opening",
+        "Title": "World Market to open new store in Dublin, California - Mass Market Retailers",
+        "Link": "https://massmarketretailers.com/world-market-to-open-new-store-in-dublin-california/",
+        "Published": "Wed, 18 Nov 2026 15:36:34 GMT",
+        "Summary": "World Market to open new store in Dublin, California Mass Market Retailers"
+      },
       {
         "company_name": "World Market",
         "event_type": "Opening",
@@ -285,16 +451,6 @@
         "Link": "https://www.businesswire.com/news/home/20261117788245/en/World-Market-Opens-New-Store-in-Dublin-CA",
         "Published": "Tue, 17 Nov 2026 14:00:00 GMT",
         "Summary": "World Market Opens New Store in Dublin, CA Business Wire"
-      }
-    ],
-    "Wayfair": [
-      {
-        "company_name": "Wayfair",
-        "event_type": "Opening",
-        "Title": "Wayfair sets opening date for new bargain-filled Ocean Township outlet - NJ.com",
-        "Link": "https://www.nj.com/business/2026/11/wayfair-sets-opening-date-for-new-bargain-filled-nj-outlet.html",
-        "Published": "Tue, 17 Nov 2026 15:59:00 GMT",
-        "Summary": "Wayfair sets opening date for new bargain-filled Ocean Township outlet NJ.com"
       }
     ]
   }
