@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-11-21",
+  "last_updated": "2026-11-22",
   "data": {
+    "Bulgari": [
+      {
+        "company_name": "Bulgari",
+        "event_type": "Closing",
+        "Title": "Paolo Bulgari, the Italian jeweler who turned a family business into global luxury brand, dies at 89 - Click2Houston",
+        "Link": "https://www.click2houston.com/news/world/2026/11/21/paolo-bulgari-the-italian-jeweler-who-turned-a-family-business-into-global-luxury-brand-dies-at-89/",
+        "Published": "Sat, 21 Nov 2026 23:33:21 GMT",
+        "Summary": "Paolo Bulgari, the Italian jeweler who turned a family business into global luxury brand, dies at 89 Click2Houston"
+      }
+    ],
     "Calvin Klein": [
       {
         "company_name": "Calvin Klein",
@@ -17,32 +27,6 @@
         "Link": "https://www.tradingview.com/news/benzinga:4963ee6dc094b:0-john-paulson-s-hedge-fund-opens-new-bet-on-calvin-klein-owner-pvh-with-46-million-stake-dumps-alphabet-and-adds-to-madrigal/",
         "Published": "Fri, 20 Nov 2026 09:16:01 GMT",
         "Summary": "John Paulson’s Hedge Fund Opens New Bet On Calvin Klein Owner PVH With $46 Million Stake, Dumps Alphabet and Adds to Madrigal TradingView"
-      }
-    ],
-    "Christy Sports": [
-      {
-        "company_name": "Christy Sports",
-        "event_type": "Closing",
-        "Title": "Backcountry acquires Christy Sports in major outdoor retail deal - TownLift Park City",
-        "Link": "https://townlift.com/2026/11/backcountry-acquires-christy-sports-in-major-outdoor-retail-deal/",
-        "Published": "Thu, 19 Nov 2026 19:02:06 GMT",
-        "Summary": "Backcountry acquires Christy Sports in major outdoor retail deal TownLift Park City"
-      },
-      {
-        "company_name": "Christy Sports",
-        "event_type": "Closing",
-        "Title": "Backcountry adds 50 storefronts, with bike and ski rentals, with Christy Sports acquisition - Bicycle Retailer & Industry News",
-        "Link": "https://www.bicycleretailer.com/retail-news/2026/11/19/backcountry-adds-60-storefronts-bike-and-ski-rentals-christy-sports",
-        "Published": "Thu, 19 Nov 2026 17:03:39 GMT",
-        "Summary": "Backcountry adds 50 storefronts, with bike and ski rentals, with Christy Sports acquisition Bicycle Retailer & Industry News"
-      },
-      {
-        "company_name": "Christy Sports",
-        "event_type": "Closing",
-        "Title": "Backcountry out of Utah purchases Christy Sports - Steamboat Radio",
-        "Link": "https://www.steamboatradio.com/2026/11/18/backcountry-out-of-utah-purchases-christy-sports/",
-        "Published": "Thu, 19 Nov 2026 01:11:56 GMT",
-        "Summary": "Backcountry out of Utah purchases Christy Sports Steamboat Radio"
       }
     ],
     "Jersey Mike's": [
@@ -63,33 +47,7 @@
         "Summary": "Is a Jersey Mike's sandwich shop coming to Sanford, Maine? Seacoastonline.com"
       }
     ],
-    "Panera Bread": [
-      {
-        "company_name": "Panera Bread",
-        "event_type": "Opening",
-        "Title": "A Major Bakery-Cafe Chain Is Opening Its First Location in Paramount - WhatNow",
-        "Link": "https://whatnow.com/los-angeles/restaurants/a-major-bakery-cafe-chain-is-opening-its-first-location-in-paramount/",
-        "Published": "Thu, 19 Nov 2026 14:07:23 GMT",
-        "Summary": "A Major Bakery-Cafe Chain Is Opening Its First Location in Paramount WhatNow"
-      },
-      {
-        "company_name": "Panera Bread",
-        "event_type": "Opening",
-        "Title": "Panera Bread to open new Farmingville location - Newsday",
-        "Link": "https://www.newsday.com/business/panera-new-farmingville-mqh8qjm4",
-        "Published": "Fri, 20 Nov 2026 23:50:16 GMT",
-        "Summary": "Panera Bread to open new Farmingville location Newsday"
-      }
-    ],
     "Jersey Mike's Subs": [
-      {
-        "company_name": "Jersey Mike's Subs",
-        "event_type": "Opening",
-        "Title": "'Unexpected hiccup': Opening of Lehigh Valley's newest Jersey Mike's Subs eatery pushed back - WFMZ.com",
-        "Link": "https://www.wfmz.com/features/eat-sip-shop/opening-of-lehigh-valley-s-newest-jersey-mike-s-subs-eatery-pushed-back/article_bb27a16f-bced-4760-ab9b-e406fba33af8.html",
-        "Published": "Thu, 19 Nov 2026 15:18:00 GMT",
-        "Summary": "'Unexpected hiccup': Opening of Lehigh Valley's newest Jersey Mike's Subs eatery pushed back WFMZ.com"
-      },
       {
         "company_name": "Jersey Mike's Subs",
         "event_type": "Opening",
@@ -99,25 +57,25 @@
         "Summary": "Jersey Mike’s Subs eatery sets new opening date in Northampton County WFMZ.com"
       }
     ],
-    "Steinhafels": [
+    "Panera Bread": [
       {
-        "company_name": "Steinhafels",
-        "event_type": "Closing",
-        "Title": "Milwaukee man accused of killing 3 people, prosecution closing arguments - FOX6 News Milwaukee",
-        "Link": "https://www.fox6now.com/video/fmc-gr8otsyghphvixfu",
-        "Published": "Thu, 19 Nov 2026 21:32:37 GMT",
-        "Summary": "Milwaukee man accused of killing 3 people, prosecution closing arguments FOX6 News Milwaukee"
+        "company_name": "Panera Bread",
+        "event_type": "Opening",
+        "Title": "Panera Bread to open new Farmingville location - Newsday",
+        "Link": "https://www.newsday.com/business/panera-new-farmingville-mqh8qjm4",
+        "Published": "Sun, 22 Nov 2026 01:16:04 GMT",
+        "Summary": "Panera Bread to open new Farmingville location Newsday"
+      },
+      {
+        "company_name": "Panera Bread",
+        "event_type": "Opening",
+        "Title": "Panera Bread opening in Farmingville - The Long Island Times",
+        "Link": "https://www.litimes.org/2026/11/21/panera-bread-opening-in-farmingville/",
+        "Published": "Sat, 21 Nov 2026 13:05:52 GMT",
+        "Summary": "Panera Bread opening in Farmingville The Long Island Times"
       }
     ],
     "Gap": [
-      {
-        "company_name": "Gap",
-        "event_type": "Opening",
-        "Title": "USD/JPY Price Forecast — USD/JPY (159.91) 161.35 Upside Target on 2.2-Point Fed-BoJ Yield Gap - TradingNEWS",
-        "Link": "https://www.tradingnews.com/news/usd-jpy-climbs-to-15991-as-yield-gap-beats-intervention-threats-16039-break-targets-16135-usd",
-        "Published": "Thu, 19 Nov 2026 21:38:21 GMT",
-        "Summary": "USD/JPY Price Forecast — USD/JPY (159.91) 161.35 Upside Target on 2.2-Point Fed-BoJ Yield Gap TradingNEWS"
-      },
       {
         "company_name": "Gap",
         "event_type": "Opening",
@@ -137,42 +95,18 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Sensing and Acting: The Challenge of Closing the Gap - Defense.info",
-        "Link": "https://defense.info/featured-story/2026/11/sensing-and-acting-the-challenge-of-closing-the-gap/",
-        "Published": "Thu, 19 Nov 2026 23:46:58 GMT",
-        "Summary": "Sensing and Acting: The Challenge of Closing the Gap Defense.info"
+        "Title": "🇺🇸🇨🇳 The nuclear gap is closing: Trump says China's 600 warheads will catch America's arsenal within 10 years Run the numbers Trump gave reporters on Friday, about 600 Chinese warheads against roughly 4,000 American ones, and Beijing still has a lon - X",
+        "Link": "https://x.com/MarioNawfal/status/2124285676942147823/video/1",
+        "Published": "Sat, 21 Nov 2026 23:35:47 GMT",
+        "Summary": "🇺🇸🇨🇳 The nuclear gap is closing: Trump says China's 600 warheads will catch America's arsenal within 10 years Run the numbers Trump gave reporters on Friday, about 600 Chinese warheads against roughly 4,000 American ones, and Beijing still has a lon X"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Hazel Green graduate helps develop prototype aimed at closing epilepsy diagnosis gap - WAFF",
-        "Link": "https://www.waff.com/2026/11/19/hazel-green-graduate-helps-develop-prototype-aimed-closing-epilepsy-diagnosis-gap/",
-        "Published": "Thu, 19 Nov 2026 19:00:00 GMT",
-        "Summary": "Hazel Green graduate helps develop prototype aimed at closing epilepsy diagnosis gap WAFF"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the flexibility gap - McKnight's Long-Term Care News",
-        "Link": "https://www.mcknights.com/partnercontent/closing-the-flexibility-gap/",
-        "Published": "Thu, 19 Nov 2026 18:08:36 GMT",
-        "Summary": "Closing the flexibility gap McKnight's Long-Term Care News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "RCSD could consider school closures in coming years to close budget gap - Spectrum News",
-        "Link": "https://spectrumlocalnews.com/nys/rochester/news/2026/11/19/rcsd-could-consider-school-closures-in-coming-years-to-close-budget-gap",
-        "Published": "Thu, 19 Nov 2026 13:18:00 GMT",
-        "Summary": "RCSD could consider school closures in coming years to close budget gap Spectrum News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Accountability Gap: Leadership and Ownership at Work - Mexico Business News",
-        "Link": "https://mexicobusiness.news/talent/news/closing-accountability-gap-leadership-and-ownership-work",
-        "Published": "Thu, 19 Nov 2026 11:30:00 GMT",
-        "Summary": "Closing the Accountability Gap: Leadership and Ownership at Work Mexico Business News"
+        "Title": "Closing the Gap: Women’s ministry gives $5K toward Christos House project - West Plains Daily Quill",
+        "Link": "https://westplainsdailyquill.net/2026/11/21/closing-the-gap-womens-ministry-gives-5k-toward-christos-house-project/",
+        "Published": "Sat, 21 Nov 2026 08:34:19 GMT",
+        "Summary": "Closing the Gap: Women’s ministry gives $5K toward Christos House project West Plains Daily Quill"
       },
       {
         "company_name": "Gap",
@@ -185,18 +119,18 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Closing the compliance gap in the fight against antibiotic resistance - DVM360",
-        "Link": "https://www.dvm360.com/shorts/closing-the-compliance-gap-in-the-fight-against-antibiotic-resistance",
-        "Published": "Fri, 20 Nov 2026 19:36:45 GMT",
-        "Summary": "Closing the compliance gap in the fight against antibiotic resistance DVM360"
+        "Title": "Closing The Dealer Discoverability Gap - Cox Automotive Inc.",
+        "Link": "https://www.coxautoinc.com/insights/closing-the-dealer-discoverability-gap/",
+        "Published": "Fri, 20 Nov 2026 21:32:07 GMT",
+        "Summary": "Closing The Dealer Discoverability Gap Cox Automotive Inc."
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Buy Canadian, Buy Small: Closing the Procurement Gap - Canadian Federation of Independent Business | CFIB",
-        "Link": "https://www.cfib-fcei.ca/en/advocacy/buy-canadian-buy-small-closing-the-procurement-gap",
-        "Published": "Fri, 20 Nov 2026 14:12:48 GMT",
-        "Summary": "Buy Canadian, Buy Small: Closing the Procurement Gap Canadian Federation of Independent Business | CFIB"
+        "Title": "Closing the compliance gap in the fight against antibiotic resistance - DVM360",
+        "Link": "https://www.dvm360.com/shorts/closing-the-compliance-gap-in-the-fight-against-antibiotic-resistance",
+        "Published": "Fri, 20 Nov 2026 19:36:45 GMT",
+        "Summary": "Closing the compliance gap in the fight against antibiotic resistance DVM360"
       },
       {
         "company_name": "Gap",
@@ -209,6 +143,14 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
+        "Title": "Livestock Productivity Africa: Closing the Food Import Gap - World Economic Forum",
+        "Link": "https://www.weforum.org/stories/food-water-and-clean-air/livestock-productivity-africa-food-import-gap",
+        "Published": "Fri, 20 Nov 2026 12:07:45 GMT",
+        "Summary": "Livestock Productivity Africa: Closing the Food Import Gap World Economic Forum"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
         "Title": "Closing the Data Gap Between Industrial IoT and Asset Management - IoT Business News",
         "Link": "https://iotbusinessnews.com/2026/11/20/closing-the-data-gap-between-industrial-iot-and-asset-management/",
         "Published": "Fri, 20 Nov 2026 09:43:04 GMT",
@@ -217,18 +159,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Forvis Mazars notes Thailand's M&A market remains resilient, though deal closures prove harder amidst a widening valuation gap; advises rigorous contract structuring - Nation Thailand",
-        "Link": "https://www.nationthailand.com/pr-news/pr-news/40073728",
-        "Published": "Fri, 20 Nov 2026 08:18:00 GMT",
-        "Summary": "Forvis Mazars notes Thailand's M&A market remains resilient, though deal closures prove harder amidst a widening valuation gap; advises rigorous contract structuring Nation Thailand"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing NEC’s Spending Gap - The Sentinel - of this Land, for its People",
-        "Link": "https://www.sentinelassam.com/more-news/editorial/closing-necs-spending-gap",
-        "Published": "Fri, 20 Nov 2026 07:07:56 GMT",
-        "Summary": "Closing NEC’s Spending Gap The Sentinel - of this Land, for its People"
+        "Title": "Pharmacy gap in city to be addressed after two pharmacy closures - Yahoo News UK",
+        "Link": "https://uk.news.yahoo.com/pharmacy-gap-city-addressed-two-050000922.html",
+        "Published": "Fri, 20 Nov 2026 05:00:00 GMT",
+        "Summary": "Pharmacy gap in city to be addressed after two pharmacy closures Yahoo News UK"
       },
       {
         "company_name": "Gap",
@@ -241,28 +175,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Common Council Unanimously Adopts 2027 Budget, Closing $8 Million Gap - The Cornell Daily Sun",
-        "Link": "https://www.cornellsun.com/article/2026/11/common-council-unanimously-adopts-2027-budget-closing-8-million-gap",
-        "Published": "Fri, 20 Nov 2026 01:36:55 GMT",
-        "Summary": "Common Council Unanimously Adopts 2027 Budget, Closing $8 Million Gap The Cornell Daily Sun"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Closing Ghana's Revenue Gap: Housing, Mobile Money & Digital Fraud in Focus| Business Live(20-11-26) - Modern Ghana",
         "Link": "https://www.modernghana.com/videonews/joynews/1/757587",
         "Published": "Fri, 20 Nov 2026 01:10:00 GMT",
         "Summary": "Closing Ghana's Revenue Gap: Housing, Mobile Money & Digital Fraud in Focus| Business Live(20-11-26) Modern Ghana"
-      }
-    ],
-    "Tumbles": [
-      {
-        "company_name": "Tumbles",
-        "event_type": "Closing",
-        "Title": "THE CLOSING BELL: Wall Street tumbles to its longest losing streak since 2024 as the Dow drops 1,100 points - WPTF",
-        "Link": "https://www.wptf.com/2026/11/19/19376/",
-        "Published": "Thu, 19 Nov 2026 21:43:57 GMT",
-        "Summary": "THE CLOSING BELL: Wall Street tumbles to its longest losing streak since 2024 as the Dow drops 1,100 points WPTF"
       }
     ],
     "Wheeler Real Estate Investment Trust (WHLR)": [
@@ -281,6 +197,16 @@
         "Link": "https://www.quantisnow.com/insight/wheeler-real-estate-investment-trust-inc-filed-sec-form-8-k-6802190",
         "Published": "Fri, 20 Nov 2026 21:10:34 GMT",
         "Summary": "WHLR: Wheeler Real Estate Investment Trust Inc. filed SEC Form 8-K... Quantisnow"
+      }
+    ],
+    "Wilder": [
+      {
+        "company_name": "Wilder",
+        "event_type": "Closing",
+        "Title": "New buildings coming to Wilder Youth Development Campus - FOX13 Memphis",
+        "Link": "https://www.fox13memphis.com/news/new-buildings-coming-to-wilder-youth-development-campus/article_44c160d0-2724-4ee0-91f6-1a2e6f4eb82b.html",
+        "Published": "Sat, 21 Nov 2026 20:07:00 GMT",
+        "Summary": "New buildings coming to Wilder Youth Development Campus FOX13 Memphis"
       }
     ]
   }
