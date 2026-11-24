@@ -1,22 +1,102 @@
 {
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-24",
   "data": {
-    "Bulgari": [
+    "Christy Sports": [
       {
-        "company_name": "Bulgari",
+        "company_name": "Christy Sports",
         "event_type": "Closing",
-        "Title": "Paolo Bulgari dies at 89, ending an era for Bulgari - شبكة تواصل الإخبارية",
-        "Link": "https://twaslnews1.twaslnews.com/8141429/",
-        "Published": "Sun, 22 Nov 2026 22:29:23 GMT",
-        "Summary": "Paolo Bulgari dies at 89, ending an era for Bulgari شبكة تواصل الإخبارية"
+        "Title": "I-Tech Buys ECONEA Antifouling Assets for €2.5M - Wisevoter",
+        "Link": "https://wisevoter.com/world/2026/11/23/i-tech-buys-econea-antifouling-assets",
+        "Published": "Mon, 23 Nov 2026 23:56:12 GMT",
+        "Summary": "I-Tech Buys ECONEA Antifouling Assets for €2.5M Wisevoter"
       },
       {
-        "company_name": "Bulgari",
+        "company_name": "Christy Sports",
         "event_type": "Closing",
-        "Title": "Paolo Bulgari, the Italian jeweler who turned a family business into global luxury brand, dies at 89 - Click2Houston",
-        "Link": "https://www.click2houston.com/news/world/2026/11/21/paolo-bulgari-the-italian-jeweler-who-turned-a-family-business-into-global-luxury-brand-dies-at-89/",
-        "Published": "Sat, 21 Nov 2026 23:33:21 GMT",
-        "Summary": "Paolo Bulgari, the Italian jeweler who turned a family business into global luxury brand, dies at 89 Click2Houston"
+        "Title": "Backcountry acquires winter sports retailer Christy Sports - Retail Dive",
+        "Link": "https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/",
+        "Published": "Mon, 23 Nov 2026 16:04:34 GMT",
+        "Summary": "Backcountry acquires winter sports retailer Christy Sports Retail Dive"
+      }
+    ],
+    "Guardian Pharmacy": [
+      {
+        "company_name": "Guardian Pharmacy",
+        "event_type": "Closing",
+        "Title": "SharkNinja will join the S&P 500 on Dec. 2, replacing AES as its buyout closes - MLQ.ai",
+        "Link": "https://mlq.ai/news/sharkninja-will-join-the-sp-500-on-dec-2-replacing-aes-as-its-buyout-closes/",
+        "Published": "Tue, 24 Nov 2026 05:04:52 GMT",
+        "Summary": "SharkNinja will join the S&P 500 on Dec. 2, replacing AES as its buyout closes MLQ.ai"
+      }
+    ],
+    "Jersey Mike's": [
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow - Lehigh Daily",
+        "Link": "https://lehighdaily.com/jersey-mikes-to-open-in-former-bethlehem-township-gamestop-with-3-charity-subs-to-follow/",
+        "Published": "Tue, 24 Nov 2026 01:30:39 GMT",
+        "Summary": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow Lehigh Daily"
+      },
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Jersey Mike’s Subs Coming to Clarion, Plans to Take Over Former Subway Location - exploreClarion",
+        "Link": "https://www.exploreclarion.com/local/2026/11/23/jersey-mikes-subs-coming-to-clarion-plans-to-take-over-former-subway-location-880197/",
+        "Published": "Mon, 23 Nov 2026 23:38:50 GMT",
+        "Summary": "Jersey Mike’s Subs Coming to Clarion, Plans to Take Over Former Subway Location exploreClarion"
+      },
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "JERSEY MIKE’S OPENS SECOND LONDON RESTAURANT ON BAKER STREET AS UK EXPANSION CONTINUES! - Verge Magazine",
+        "Link": "https://vergemagazine.co.uk/jersey-mikes-opens-second-london-restaurant-on-baker-street-as-uk-expansion-continues/",
+        "Published": "Mon, 23 Nov 2026 13:36:22 GMT",
+        "Summary": "JERSEY MIKE’S OPENS SECOND LONDON RESTAURANT ON BAKER STREET AS UK EXPANSION CONTINUES! Verge Magazine"
+      },
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Jersey Mike’s opens second site in the UK - Retail Times",
+        "Link": "https://retailtimes.co.uk/jersey-mikes-opens-second-site-in-the-uk/",
+        "Published": "Mon, 23 Nov 2026 12:34:11 GMT",
+        "Summary": "Jersey Mike’s opens second site in the UK Retail Times"
+      },
+      {
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "Jersey Mike’s Opens Second London Restaurant on Baker Street - Hospitality & Catering News",
+        "Link": "https://www.hospitalityandcateringnews.com/2026/11/jersey-mikes-opens-second-london-restaurant-on-baker-street/",
+        "Published": "Mon, 23 Nov 2026 11:04:09 GMT",
+        "Summary": "Jersey Mike’s Opens Second London Restaurant on Baker Street Hospitality & Catering News"
+      }
+    ],
+    "Jersey Mike's Subs": [
+      {
+        "company_name": "Jersey Mike's Subs",
+        "event_type": "Opening",
+        "Title": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow - Lehigh Daily",
+        "Link": "https://lehighdaily.com/jersey-mikes-to-open-in-former-bethlehem-township-gamestop-with-3-charity-subs-to-follow/",
+        "Published": "Tue, 24 Nov 2026 01:30:39 GMT",
+        "Summary": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow Lehigh Daily"
+      },
+      {
+        "company_name": "Jersey Mike's Subs",
+        "event_type": "Opening",
+        "Title": "Jersey Mike’s Subs Coming to Clarion, Plans to Take Over Former Subway Location - exploreClarion",
+        "Link": "https://www.exploreclarion.com/local/2026/11/23/jersey-mikes-subs-coming-to-clarion-plans-to-take-over-former-subway-location-880197/",
+        "Published": "Mon, 23 Nov 2026 23:38:50 GMT",
+        "Summary": "Jersey Mike’s Subs Coming to Clarion, Plans to Take Over Former Subway Location exploreClarion"
+      }
+    ],
+    "Panera Bread": [
+      {
+        "company_name": "Panera Bread",
+        "event_type": "Opening",
+        "Title": "Panera Bread Opens New Location In Farmingville - News12 | Long Island",
+        "Link": "https://longisland.news12.com/2026/11/23/panera-bread-opens-new-location-in-farmingville/1QfupbrVWvKOWKOZF9rNXi",
+        "Published": "Mon, 23 Nov 2026 17:30:42 GMT",
+        "Summary": "Panera Bread Opens New Location In Farmingville News12 | Long Island"
       }
     ],
     "Gap": [
@@ -31,6 +111,30 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
+        "Title": "Wang Zhiyi’s Hong Kong Open title fuels hopes she is closing gap with Ahn Se-young - Chosunbiz",
+        "Link": "https://biz.chosun.com/en/en-sports/2026/11/24/NYQSLVE4ZFARZBEEA2HNSFC3TA/",
+        "Published": "Tue, 24 Nov 2026 03:50:00 GMT",
+        "Summary": "Wang Zhiyi’s Hong Kong Open title fuels hopes she is closing gap with Ahn Se-young Chosunbiz"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "A look at how Chandler Unified School District plans to tackle a $17.2 million budget gap next year - ABC15 Arizona",
+        "Link": "https://www.abc15.com/news/region-southeast-valley/chandler/a-look-at-how-chandler-unified-school-district-plans-to-tackle-a-17-2-million-budget-gap-next-year",
+        "Published": "Tue, 24 Nov 2026 01:59:46 GMT",
+        "Summary": "A look at how Chandler Unified School District plans to tackle a $17.2 million budget gap next year ABC15 Arizona"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Why security automation is critical to closing Australia's cyber skills gap - SecurityBrief Australia",
+        "Link": "https://securitybrief.com.au/story/why-security-automation-is-critical-to-closing-australia-s-cyber-skills-gap",
+        "Published": "Tue, 24 Nov 2026 01:38:00 GMT",
+        "Summary": "Why security automation is critical to closing Australia's cyber skills gap SecurityBrief Australia"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
         "Title": "Ticked, filed, breached: Closing Malaysia’s cyber compliance gap - The Star",
         "Link": "https://www.thestar.com.my/business/business-news/2026/11/23/ticked-filed-breached-closing-malaysias-cyber-compliance-gap",
         "Published": "Sun, 22 Nov 2026 23:34:19 GMT",
@@ -39,18 +143,144 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Ben Shelton addresses closing gap to Sinner, Alcaraz, & Zverev as he issues 'mixed review' on 2026 season - Tennis365",
-        "Link": "https://www.tennis365.com/tennis-news/ben-shelton-issues-mixed-review-2026-closing-gap-to-sinner-alcaraz-zverev",
-        "Published": "Sun, 22 Nov 2026 17:50:29 GMT",
-        "Summary": "Ben Shelton addresses closing gap to Sinner, Alcaraz, & Zverev as he issues 'mixed review' on 2026 season Tennis365"
+        "Title": "Fulton County takes major step toward closing South Fulton health care gap with $82 million facility - SaportaReport",
+        "Link": "https://saportareport.com/fulton-county-takes-major-step-toward-closing-south-fulton-health-care-gap-with-82-million-facility/columnists/gabi-hart/gabriella-hart/",
+        "Published": "Mon, 23 Nov 2026 20:36:00 GMT",
+        "Summary": "Fulton County takes major step toward closing South Fulton health care gap with $82 million facility SaportaReport"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "🇺🇸🇨🇳 The nuclear gap is closing: Trump says China's 600 warheads will catch America's arsenal within 10 years Run the numbers Trump gave reporters on Friday, about 600 Chinese warheads against roughly 4,000 American ones, and Beijing still has a lon - X",
-        "Link": "https://x.com/MarioNawfal/status/2124285676942147823/video/1",
-        "Published": "Sat, 21 Nov 2026 23:35:47 GMT",
-        "Summary": "🇺🇸🇨🇳 The nuclear gap is closing: Trump says China's 600 warheads will catch America's arsenal within 10 years Run the numbers Trump gave reporters on Friday, about 600 Chinese warheads against roughly 4,000 American ones, and Beijing still has a lon X"
+        "Title": "Financing Nigeria’s Energy Future – Closing the Gap Between Policy Commitment and Investment - The Budgit Foundation",
+        "Link": "https://budgit.org/post_publications/financing-nigerias-energy-future-closing-the-gap-between-policy-commitment-and-investment/",
+        "Published": "Mon, 23 Nov 2026 19:50:25 GMT",
+        "Summary": "Financing Nigeria’s Energy Future – Closing the Gap Between Policy Commitment and Investment The Budgit Foundation"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Access controls and privilege management: Closing the insider threat gap - South Carolina Lawyers Weekly",
+        "Link": "https://sclawyersweekly.com/news/2026/11/23/access-controls-and-privilege-management-closing-the-insider-threat-gap/",
+        "Published": "Mon, 23 Nov 2026 18:08:31 GMT",
+        "Summary": "Access controls and privilege management: Closing the insider threat gap South Carolina Lawyers Weekly"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Why Advisors Must Calibrate the Ask in Estate Planning - Wealth Management",
+        "Link": "https://www.wealthmanagement.com/estate-planning/closing-the-trust-gap-takes-more-than-one-move",
+        "Published": "Mon, 23 Nov 2026 17:30:43 GMT",
+        "Summary": "Why Advisors Must Calibrate the Ask in Estate Planning Wealth Management"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "'India Closing The Gap With China': Gourav Vallabh Hails Asia Power Index Ranking - NDTV",
+        "Link": "https://www.ndtv.com/video/india-closing-the-gap-with-china-gourav-vallabh-hails-asia-power-index-ranking-1196804",
+        "Published": "Mon, 23 Nov 2026 17:10:34 GMT",
+        "Summary": "'India Closing The Gap With China': Gourav Vallabh Hails Asia Power Index Ranking NDTV"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "In depth: Closing the social mobility gap - The Law Society Gazette",
+        "Link": "https://www.lawgazette.co.uk/news-focus/in-depth-closing-the-social-mobility-gap/5128625.article",
+        "Published": "Mon, 23 Nov 2026 14:56:56 GMT",
+        "Summary": "In depth: Closing the social mobility gap The Law Society Gazette"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Gap Between the Courtroom and Refugee Camps: A Pathway Towards the Rohingya’s Legal Inclusion - Just Security",
+        "Link": "https://www.justsecurity.org/165267/icj-myanmar-rohingya-inclusion/",
+        "Published": "Mon, 23 Nov 2026 13:50:32 GMT",
+        "Summary": "Closing the Gap Between the Courtroom and Refugee Camps: A Pathway Towards the Rohingya’s Legal Inclusion Just Security"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Cyber risk at scale: How TrendAI™ is closing the gap on AI-driven threats - Arabian Business",
+        "Link": "https://www.arabianbusiness.com/business/technology/cyber-risk-at-scale-how-trendai-is-closing-the-gap-on-ai-driven-threats",
+        "Published": "Mon, 23 Nov 2026 12:20:36 GMT",
+        "Summary": "Cyber risk at scale: How TrendAI™ is closing the gap on AI-driven threats Arabian Business"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Kalamazoo psych hospital had no doctors, state says. Closing it would leave a gap - The Manchester Mirror",
+        "Link": "https://themanchestermirror.com/2026/11/23/kalamazoo-psych-hospital-had-no-doctors-state-says-closing-it-would-leave-a-gap/",
+        "Published": "Mon, 23 Nov 2026 12:12:42 GMT",
+        "Summary": "Kalamazoo psych hospital had no doctors, state says. Closing it would leave a gap The Manchester Mirror"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Beyond Generic AI Pilots: Closing the Post-Adoption Gap with Industry-Specific ERP Intelligence - CXOToday.com",
+        "Link": "https://cxotoday.com/media-coverage/beyond-generic-ai-pilots-closing-the-post-adoption-gap-with-industry-specific-erp-intelligence/",
+        "Published": "Mon, 23 Nov 2026 11:15:05 GMT",
+        "Summary": "Beyond Generic AI Pilots: Closing the Post-Adoption Gap with Industry-Specific ERP Intelligence CXOToday.com"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "How Myndstream is closing the spa industry’s personalisation gap - spabusiness.com",
+        "Link": "https://www.spabusiness.com/featured-suppliers/how-myndstream-is-closing-the-spa-industry-s-personalisation-gap/363901",
+        "Published": "Mon, 23 Nov 2026 10:56:07 GMT",
+        "Summary": "How Myndstream is closing the spa industry’s personalisation gap spabusiness.com"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Patch Gap: How to Set Minimum OS Versions for BYOD Phones - iVerify",
+        "Link": "https://www.iverify.com/blog/byod-minimum-os-version",
+        "Published": "Mon, 23 Nov 2026 00:00:00 GMT",
+        "Summary": "Closing the Patch Gap: How to Set Minimum OS Versions for BYOD Phones iVerify"
+      }
+    ],
+    "The UPS Store": [
+      {
+        "company_name": "The UPS Store",
+        "event_type": "Opening",
+        "Title": "UPS store to open in Scottsdale - Your Valley",
+        "Link": "https://www.yourvalley.net/paradise-valley-independent/stories/ups-store-to-open-in-scottsdale,743382",
+        "Published": "Mon, 23 Nov 2026 19:00:00 GMT",
+        "Summary": "UPS store to open in Scottsdale Your Valley"
+      },
+      {
+        "company_name": "The UPS Store",
+        "event_type": "Opening",
+        "Title": "UPS store to open in Scottsdale - Your Valley",
+        "Link": "https://www.yourvalley.net/stories/ups-store-to-open-in-scottsdale,743380",
+        "Published": "Mon, 23 Nov 2026 16:52:00 GMT",
+        "Summary": "UPS store to open in Scottsdale Your Valley"
+      }
+    ],
+    "Tumbles": [
+      {
+        "company_name": "Tumbles",
+        "event_type": "Closing",
+        "Title": "BT Closing Bell: Sensex tumbles 1,484 points, Nifty slips below 25,350; investors lose Rs 5.2 lakh crore - IndiaIPO",
+        "Link": "https://www.indiaipo.in/news/detail/bt-closing-bell-sensex-tumbles-1484-points-nifty-slips-below-25350-investors-lose-rs-52-lakh-crore",
+        "Published": "Mon, 23 Nov 2026 14:36:24 GMT",
+        "Summary": "BT Closing Bell: Sensex tumbles 1,484 points, Nifty slips below 25,350; investors lose Rs 5.2 lakh crore IndiaIPO"
+      },
+      {
+        "company_name": "Tumbles",
+        "event_type": "Closing",
+        "Title": "BT Closing Bell: Sensex tumbles 1,484 points, Nifty slips below 25,350; investors lose Rs 5.2 lakh crore - Business Today",
+        "Link": "https://www.businesstoday.in/markets/stocks/story/bt-closing-bell-sensex-tumbles-1484-points-nifty-slips-below-25350-investors-lose-rs-5-24-lakh-crore-569088-2026-11-23",
+        "Published": "Mon, 23 Nov 2026 10:17:14 GMT",
+        "Summary": "BT Closing Bell: Sensex tumbles 1,484 points, Nifty slips below 25,350; investors lose Rs 5.2 lakh crore Business Today"
+      }
+    ],
+    "Wayfair": [
+      {
+        "company_name": "Wayfair",
+        "event_type": "Opening",
+        "Title": "Wayfair Outlet taking over abandoned At Home store to offer drastic discounts and open-box deals - The Sun",
+        "Link": "https://www.the-sun.com/money/17328851/wayfair-outlet-replacing-at-home-ocean-township-new-jersey/",
+        "Published": "Sun, 22 Nov 2026 12:04:34 GMT",
+        "Summary": "Wayfair Outlet taking over abandoned At Home store to offer drastic discounts and open-box deals The Sun"
       }
     ]
   }
