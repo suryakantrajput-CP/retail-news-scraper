@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-24",
+  "last_updated": "2026-11-25",
   "data": {
+    "Bulgari": [
+      {
+        "company_name": "Bulgari",
+        "event_type": "Closing",
+        "Title": "Luxury Jewellery With Plot Twist: Bulgari Introduces 15 Transformable Designs in Its Eclettica Collection - Fashion Times UK",
+        "Link": "https://www.fashiontimes.co.uk/bulgari-eclettica-high-jewellery-palm-beach-debut-1768399",
+        "Published": "Tue, 24 Nov 2026 12:48:22 GMT",
+        "Summary": "Luxury Jewellery With Plot Twist: Bulgari Introduces 15 Transformable Designs in Its Eclettica Collection Fashion Times UK"
+      },
+      {
+        "company_name": "Bulgari",
+        "event_type": "Closing",
+        "Title": "Paolo Bulgari, Who Took a Family Business Global, Dies at 89 - instoremag.com",
+        "Link": "https://instoremag.com/paolo-bulgari-who-took-a-family-business-global-dies-at-89/",
+        "Published": "Mon, 23 Nov 2026 06:52:56 GMT",
+        "Summary": "Paolo Bulgari, Who Took a Family Business Global, Dies at 89 instoremag.com"
+      }
+    ],
     "Christy Sports": [
       {
         "company_name": "Christy Sports",
@@ -15,11 +33,37 @@
         "event_type": "Closing",
         "Title": "Backcountry acquires winter sports retailer Christy Sports - Retail Dive",
         "Link": "https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/",
-        "Published": "Mon, 23 Nov 2026 16:04:34 GMT",
+        "Published": "Mon, 23 Nov 2026 15:54:50 GMT",
         "Summary": "Backcountry acquires winter sports retailer Christy Sports Retail Dive"
       }
     ],
+    "Jersey Mike's Subs": [
+      {
+        "company_name": "Jersey Mike's Subs",
+        "event_type": "Opening",
+        "Title": "Jersey Mike's Subs grow SA footprint, takes over former rival site - The Business Journals",
+        "Link": "https://www.bizjournals.com/sanantonio/news/2026/11/24/jersey-mikes-san-pedro-location-restaurant-retail.html",
+        "Published": "Tue, 24 Nov 2026 18:42:00 GMT",
+        "Summary": "Jersey Mike's Subs grow SA footprint, takes over former rival site The Business Journals"
+      },
+      {
+        "company_name": "Jersey Mike's Subs",
+        "event_type": "Opening",
+        "Title": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow - Lehigh Daily",
+        "Link": "https://lehighdaily.com/jersey-mikes-to-open-in-former-bethlehem-township-gamestop-with-3-charity-subs-to-follow/",
+        "Published": "Tue, 24 Nov 2026 01:30:39 GMT",
+        "Summary": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow Lehigh Daily"
+      }
+    ],
     "Guardian Pharmacy": [
+      {
+        "company_name": "Guardian Pharmacy",
+        "event_type": "Closing",
+        "Title": "Guardian Pharmacy Services (GRDN) Stock Price, Chart & Analysis - www.debelegger.nl",
+        "Link": "https://www.debelegger.nl/en/stock/GRDN.US",
+        "Published": "Tue, 24 Nov 2026 07:53:31 GMT",
+        "Summary": "Guardian Pharmacy Services (GRDN) Stock Price, Chart & Analysis www.debelegger.nl"
+      },
       {
         "company_name": "Guardian Pharmacy",
         "event_type": "Closing",
@@ -33,18 +77,18 @@
       {
         "company_name": "Jersey Mike's",
         "event_type": "Opening",
-        "Title": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow - Lehigh Daily",
-        "Link": "https://lehighdaily.com/jersey-mikes-to-open-in-former-bethlehem-township-gamestop-with-3-charity-subs-to-follow/",
-        "Published": "Tue, 24 Nov 2026 01:30:39 GMT",
-        "Summary": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow Lehigh Daily"
+        "Title": "Jersey Mike's Subs grow SA footprint, takes over former rival site - The Business Journals",
+        "Link": "https://www.bizjournals.com/sanantonio/news/2026/11/24/jersey-mikes-san-pedro-location-restaurant-retail.html",
+        "Published": "Tue, 24 Nov 2026 18:42:00 GMT",
+        "Summary": "Jersey Mike's Subs grow SA footprint, takes over former rival site The Business Journals"
       },
       {
         "company_name": "Jersey Mike's",
         "event_type": "Opening",
-        "Title": "Jersey Mike’s Subs Coming to Clarion, Plans to Take Over Former Subway Location - exploreClarion",
-        "Link": "https://www.exploreclarion.com/local/2026/11/23/jersey-mikes-subs-coming-to-clarion-plans-to-take-over-former-subway-location-880197/",
-        "Published": "Mon, 23 Nov 2026 23:38:50 GMT",
-        "Summary": "Jersey Mike’s Subs Coming to Clarion, Plans to Take Over Former Subway Location exploreClarion"
+        "Title": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow - Lehigh Daily",
+        "Link": "https://lehighdaily.com/jersey-mikes-to-open-in-former-bethlehem-township-gamestop-with-3-charity-subs-to-follow/",
+        "Published": "Tue, 24 Nov 2026 01:30:39 GMT",
+        "Summary": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow Lehigh Daily"
       },
       {
         "company_name": "Jersey Mike's",
@@ -71,25 +115,51 @@
         "Summary": "Jersey Mike’s Opens Second London Restaurant on Baker Street Hospitality & Catering News"
       }
     ],
-    "Jersey Mike's Subs": [
+    "Metro by T-Mobile": [
       {
-        "company_name": "Jersey Mike's Subs",
-        "event_type": "Opening",
-        "Title": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow - Lehigh Daily",
-        "Link": "https://lehighdaily.com/jersey-mikes-to-open-in-former-bethlehem-township-gamestop-with-3-charity-subs-to-follow/",
-        "Published": "Tue, 24 Nov 2026 01:30:39 GMT",
-        "Summary": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow Lehigh Daily"
-      },
+        "company_name": "Metro by T-Mobile",
+        "event_type": "Closing",
+        "Title": "T-Mobile is sending its leaders into retail stores to work - Fierce Network",
+        "Link": "https://www.fierce-network.com/wireless/t-mobile-sending-its-leaders-retail-stores-work",
+        "Published": "Mon, 23 Nov 2026 14:31:00 GMT",
+        "Summary": "T-Mobile is sending its leaders into retail stores to work Fierce Network"
+      }
+    ],
+    "Pizza Hut Express": [
       {
-        "company_name": "Jersey Mike's Subs",
+        "company_name": "Pizza Hut Express",
         "event_type": "Opening",
-        "Title": "Jersey Mike’s Subs Coming to Clarion, Plans to Take Over Former Subway Location - exploreClarion",
-        "Link": "https://www.exploreclarion.com/local/2026/11/23/jersey-mikes-subs-coming-to-clarion-plans-to-take-over-former-subway-location-880197/",
-        "Published": "Mon, 23 Nov 2026 23:38:50 GMT",
-        "Summary": "Jersey Mike’s Subs Coming to Clarion, Plans to Take Over Former Subway Location exploreClarion"
+        "Title": "PLAINVILLE SCOOP: Pizza Hut coming soon to Plainville - The Connecticut Scoop",
+        "Link": "https://www.theconnecticutscoop.com/all-hartford-county-posts/plainville-scoop-pizza-hut-coming-soon-to-plainville",
+        "Published": "Wed, 25 Nov 2026 01:06:48 GMT",
+        "Summary": "PLAINVILLE SCOOP: Pizza Hut coming soon to Plainville The Connecticut Scoop"
       }
     ],
     "Panera Bread": [
+      {
+        "company_name": "Panera Bread",
+        "event_type": "Opening",
+        "Title": "Panera Bread Opens New Farmingville Location - Long Island Life & Politics",
+        "Link": "https://lilifepolitics.com/news/businesses/panera-bread-opens-new-farmingville-location/",
+        "Published": "Wed, 25 Nov 2026 02:00:46 GMT",
+        "Summary": "Panera Bread Opens New Farmingville Location Long Island Life & Politics"
+      },
+      {
+        "company_name": "Panera Bread",
+        "event_type": "Opening",
+        "Title": "New Panera Celebrated With 'Breaking Of The Bread' Ceremony In Farmingville - Patch",
+        "Link": "https://patch.com/new-york/sachem/new-panera-celebrated-breaking-bread-ceremony-farmingville",
+        "Published": "Tue, 24 Nov 2026 12:38:30 GMT",
+        "Summary": "New Panera Celebrated With 'Breaking Of The Bread' Ceremony In Farmingville Patch"
+      },
+      {
+        "company_name": "Panera Bread",
+        "event_type": "Opening",
+        "Title": "Panera Bread opens new Farmingville location - Newsday",
+        "Link": "https://www.newsday.com/business/panera-new-farmingville-mqh8qjm4",
+        "Published": "Mon, 23 Nov 2026 23:18:54 GMT",
+        "Summary": "Panera Bread opens new Farmingville location Newsday"
+      },
       {
         "company_name": "Panera Bread",
         "event_type": "Opening",
@@ -102,27 +172,67 @@
     "Gap": [
       {
         "company_name": "Gap",
-        "event_type": "Opening",
-        "Title": "Thibau Nys is once again unable to open up a Van der Poel-style gap, and he’s clearly not happy about it - IDLprocycling.com",
-        "Link": "https://www.idlprocycling.com/cyclo-cross/thibau-nys-is-once-again-unable-to-open-up-a-van-der-poel-style-gap-and-hes-clearly-not-happy-about-it",
-        "Published": "Sun, 22 Nov 2026 18:57:00 GMT",
-        "Summary": "Thibau Nys is once again unable to open up a Van der Poel-style gap, and he’s clearly not happy about it IDLprocycling.com"
+        "event_type": "Closing",
+        "Title": "Closing Nigeria’s Future Workforce Gender Gap With GirlsGetSET - THISDAYLIVE",
+        "Link": "https://www.thisdaylive.com/2026/11/25/closing-nigerias-future-workforce-gender-gap-with-girlsgetset/",
+        "Published": "Wed, 25 Nov 2026 02:36:12 GMT",
+        "Summary": "Closing Nigeria’s Future Workforce Gender Gap With GirlsGetSET THISDAYLIVE"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Wang Zhiyi’s Hong Kong Open title fuels hopes she is closing gap with Ahn Se-young - Chosunbiz",
-        "Link": "https://biz.chosun.com/en/en-sports/2026/11/24/NYQSLVE4ZFARZBEEA2HNSFC3TA/",
-        "Published": "Tue, 24 Nov 2026 03:50:00 GMT",
-        "Summary": "Wang Zhiyi’s Hong Kong Open title fuels hopes she is closing gap with Ahn Se-young Chosunbiz"
+        "Title": "How Aptella is closing the gap in site safety - Safe To Work",
+        "Link": "https://safetowork.com.au/how-aptella-is-closing-the-gap-in-site-safety/",
+        "Published": "Tue, 24 Nov 2026 21:50:25 GMT",
+        "Summary": "How Aptella is closing the gap in site safety Safe To Work"
       },
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "A look at how Chandler Unified School District plans to tackle a $17.2 million budget gap next year - ABC15 Arizona",
-        "Link": "https://www.abc15.com/news/region-southeast-valley/chandler/a-look-at-how-chandler-unified-school-district-plans-to-tackle-a-17-2-million-budget-gap-next-year",
-        "Published": "Tue, 24 Nov 2026 01:59:46 GMT",
-        "Summary": "A look at how Chandler Unified School District plans to tackle a $17.2 million budget gap next year ABC15 Arizona"
+        "Title": "Closing the Gap Between Professionals and Intelligent Systems - Mexico Business News",
+        "Link": "https://mexicobusiness.news/logistics/news/closing-gap-between-professionals-and-intelligent-systems",
+        "Published": "Tue, 24 Nov 2026 15:35:53 GMT",
+        "Summary": "Closing the Gap Between Professionals and Intelligent Systems Mexico Business News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing The Dealer Discoverability Gap - Cox Automotive Inc.",
+        "Link": "https://www.coxautoinc.com/insights/closing-the-dealer-discoverability-gap/",
+        "Published": "Tue, 24 Nov 2026 15:32:31 GMT",
+        "Summary": "Closing The Dealer Discoverability Gap Cox Automotive Inc."
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Speed vs. Regulation: Closing Mexico’s Financial Risk Gap - Mexico Business News",
+        "Link": "https://mexicobusiness.news/cybersecurity/news/speed-vs-regulation-closing-mexicos-financial-risk-gap",
+        "Published": "Tue, 24 Nov 2026 12:00:00 GMT",
+        "Summary": "Speed vs. Regulation: Closing Mexico’s Financial Risk Gap Mexico Business News"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the retention gap for disabled employees - Personnel Today",
+        "Link": "https://www.personneltoday.com/hr/closing-the-retention-gap-for-disabled-employees/",
+        "Published": "Tue, 24 Nov 2026 10:06:00 GMT",
+        "Summary": "Closing the retention gap for disabled employees Personnel Today"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the gap in men’s health: Hims launches testosterone care in the UK - Hims & Hers Newsroom",
+        "Link": "https://news.hims.com/newsroom/closing-the-gap-in-mens-health-hims-launches-testosterone-care-in-the-uk",
+        "Published": "Tue, 24 Nov 2026 08:59:53 GMT",
+        "Summary": "Closing the gap in men’s health: Hims launches testosterone care in the UK Hims & Hers Newsroom"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Building a skilled tourism workforce: Addressing India's hospitality talent gap - ETHospitalityWorld",
+        "Link": "https://hospitality.economictimes.indiatimes.com/news/speaking-heads/building-a-skilled-tourism-workforce-addressing-indias-hospitality-talent-gap/136119399",
+        "Published": "Tue, 24 Nov 2026 07:52:51 GMT",
+        "Summary": "Building a skilled tourism workforce: Addressing India's hospitality talent gap ETHospitalityWorld"
       },
       {
         "company_name": "Gap",
@@ -135,18 +245,18 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Ticked, filed, breached: Closing Malaysia’s cyber compliance gap - The Star",
-        "Link": "https://www.thestar.com.my/business/business-news/2026/11/23/ticked-filed-breached-closing-malaysias-cyber-compliance-gap",
-        "Published": "Sun, 22 Nov 2026 23:34:19 GMT",
-        "Summary": "Ticked, filed, breached: Closing Malaysia’s cyber compliance gap The Star"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Fulton County takes major step toward closing South Fulton health care gap with $82 million facility - SaportaReport",
         "Link": "https://saportareport.com/fulton-county-takes-major-step-toward-closing-south-fulton-health-care-gap-with-82-million-facility/columnists/gabi-hart/gabriella-hart/",
         "Published": "Mon, 23 Nov 2026 20:36:00 GMT",
         "Summary": "Fulton County takes major step toward closing South Fulton health care gap with $82 million facility SaportaReport"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Ask Goold: Are Cardinals closing gap on Cubs? What's up with Rule 5? Salary cap flap? - STLtoday.com",
+        "Link": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_c732ce7d-289b-448d-8e1f-a81ef25e73c8.html",
+        "Published": "Mon, 23 Nov 2026 20:00:00 GMT",
+        "Summary": "Ask Goold: Are Cardinals closing gap on Cubs? What's up with Rule 5? Salary cap flap? STLtoday.com"
       },
       {
         "company_name": "Gap",
@@ -167,50 +277,10 @@
       {
         "company_name": "Gap",
         "event_type": "Closing",
-        "Title": "Why Advisors Must Calibrate the Ask in Estate Planning - Wealth Management",
-        "Link": "https://www.wealthmanagement.com/estate-planning/closing-the-trust-gap-takes-more-than-one-move",
-        "Published": "Mon, 23 Nov 2026 17:30:43 GMT",
-        "Summary": "Why Advisors Must Calibrate the Ask in Estate Planning Wealth Management"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "'India Closing The Gap With China': Gourav Vallabh Hails Asia Power Index Ranking - NDTV",
-        "Link": "https://www.ndtv.com/video/india-closing-the-gap-with-china-gourav-vallabh-hails-asia-power-index-ranking-1196804",
-        "Published": "Mon, 23 Nov 2026 17:10:34 GMT",
-        "Summary": "'India Closing The Gap With China': Gourav Vallabh Hails Asia Power Index Ranking NDTV"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "In depth: Closing the social mobility gap - The Law Society Gazette",
-        "Link": "https://www.lawgazette.co.uk/news-focus/in-depth-closing-the-social-mobility-gap/5128625.article",
-        "Published": "Mon, 23 Nov 2026 14:56:56 GMT",
-        "Summary": "In depth: Closing the social mobility gap The Law Society Gazette"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Gap Between the Courtroom and Refugee Camps: A Pathway Towards the Rohingya’s Legal Inclusion - Just Security",
-        "Link": "https://www.justsecurity.org/165267/icj-myanmar-rohingya-inclusion/",
-        "Published": "Mon, 23 Nov 2026 13:50:32 GMT",
-        "Summary": "Closing the Gap Between the Courtroom and Refugee Camps: A Pathway Towards the Rohingya’s Legal Inclusion Just Security"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
         "Title": "Cyber risk at scale: How TrendAI™ is closing the gap on AI-driven threats - Arabian Business",
         "Link": "https://www.arabianbusiness.com/business/technology/cyber-risk-at-scale-how-trendai-is-closing-the-gap-on-ai-driven-threats",
         "Published": "Mon, 23 Nov 2026 12:20:36 GMT",
         "Summary": "Cyber risk at scale: How TrendAI™ is closing the gap on AI-driven threats Arabian Business"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Kalamazoo psych hospital had no doctors, state says. Closing it would leave a gap - The Manchester Mirror",
-        "Link": "https://themanchestermirror.com/2026/11/23/kalamazoo-psych-hospital-had-no-doctors-state-says-closing-it-would-leave-a-gap/",
-        "Published": "Mon, 23 Nov 2026 12:12:42 GMT",
-        "Summary": "Kalamazoo psych hospital had no doctors, state says. Closing it would leave a gap The Manchester Mirror"
       },
       {
         "company_name": "Gap",
@@ -227,14 +297,6 @@
         "Link": "https://www.spabusiness.com/featured-suppliers/how-myndstream-is-closing-the-spa-industry-s-personalisation-gap/363901",
         "Published": "Mon, 23 Nov 2026 10:56:07 GMT",
         "Summary": "How Myndstream is closing the spa industry’s personalisation gap spabusiness.com"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Patch Gap: How to Set Minimum OS Versions for BYOD Phones - iVerify",
-        "Link": "https://www.iverify.com/blog/byod-minimum-os-version",
-        "Published": "Mon, 23 Nov 2026 00:00:00 GMT",
-        "Summary": "Closing the Patch Gap: How to Set Minimum OS Versions for BYOD Phones iVerify"
       }
     ],
     "The UPS Store": [
@@ -267,20 +329,36 @@
       {
         "company_name": "Tumbles",
         "event_type": "Closing",
-        "Title": "BT Closing Bell: Sensex tumbles 1,484 points, Nifty slips below 25,350; investors lose Rs 5.2 lakh crore - Business Today",
-        "Link": "https://www.businesstoday.in/markets/stocks/story/bt-closing-bell-sensex-tumbles-1484-points-nifty-slips-below-25350-investors-lose-rs-5-24-lakh-crore-569088-2026-11-23",
+        "Title": "BT Closing Bell: Sensex tumbles 1,484 points, Nifty slips below 25,350; investors lose Rs 5.24 lakh crore - Business Today",
+        "Link": "https://www.businesstoday.in/amp/markets/stocks/story/bt-closing-bell-sensex-tumbles-1484-points-nifty-slips-below-25350-investors-lose-rs-5-24-lakh-crore-569088-2026-11-23",
         "Published": "Mon, 23 Nov 2026 10:17:14 GMT",
-        "Summary": "BT Closing Bell: Sensex tumbles 1,484 points, Nifty slips below 25,350; investors lose Rs 5.2 lakh crore Business Today"
+        "Summary": "BT Closing Bell: Sensex tumbles 1,484 points, Nifty slips below 25,350; investors lose Rs 5.24 lakh crore Business Today"
+      },
+      {
+        "company_name": "Tumbles",
+        "event_type": "Closing",
+        "Title": "Sensex crashes 1,484 points, Nifty falls below 25,350 as banking stocks drag markets - Telegraph India",
+        "Link": "https://www.telegraphindia.com/business/sensex-tumbles-1483-points-to-settle-at-82435-nifty-dives-450-points-to-25349/cid/2190884",
+        "Published": "Mon, 23 Nov 2026 10:17:08 GMT",
+        "Summary": "Sensex crashes 1,484 points, Nifty falls below 25,350 as banking stocks drag markets Telegraph India"
+      },
+      {
+        "company_name": "Tumbles",
+        "event_type": "Closing",
+        "Title": "Stock market closing bell: Sensex tumbles 1,484 points, Nifty slips to 25,350 - Zee Business",
+        "Link": "https://www.zeebiz.com/market-news/news-stock-market-closing-bell-sensex-tumbles-1484-points-nifty-slips-below-25350-405902/amp",
+        "Published": "Mon, 23 Nov 2026 09:34:00 GMT",
+        "Summary": "Stock market closing bell: Sensex tumbles 1,484 points, Nifty slips to 25,350 Zee Business"
       }
     ],
-    "Wayfair": [
+    "Wheeler Real Estate Investment Trust (WHLR)": [
       {
-        "company_name": "Wayfair",
-        "event_type": "Opening",
-        "Title": "Wayfair Outlet taking over abandoned At Home store to offer drastic discounts and open-box deals - The Sun",
-        "Link": "https://www.the-sun.com/money/17328851/wayfair-outlet-replacing-at-home-ocean-township-new-jersey/",
-        "Published": "Sun, 22 Nov 2026 12:04:34 GMT",
-        "Summary": "Wayfair Outlet taking over abandoned At Home store to offer drastic discounts and open-box deals The Sun"
+        "company_name": "Wheeler Real Estate Investment Trust (WHLR)",
+        "event_type": "Closing",
+        "Title": "WHLR: Wheeler REIT to reverse split 1-for-4 effective November 27, 2026 - Quantisnow",
+        "Link": "https://www.quantisnow.com/insight/sec-form-424b3-filed-by-wheeler-real-estate-investment-trust-6805772",
+        "Published": "Tue, 24 Nov 2026 21:15:49 GMT",
+        "Summary": "WHLR: Wheeler REIT to reverse split 1-for-4 effective November 27, 2026 Quantisnow"
       }
     ]
   }
