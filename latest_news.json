@@ -1,216 +1,34 @@
 {
-  "last_updated": "2026-11-26",
+  "last_updated": "2026-11-27",
   "data": {
-    "Boucheron": [
+    "Carhartt": [
       {
-        "company_name": "Boucheron",
-        "event_type": "Opening",
-        "Title": "Boucheron Opens Doors to South Coast Plaza Store - The Hollywood Reporter",
-        "Link": "https://www.hollywoodreporter.com/lifestyle/style/south-coast-plaza-stores-boucheron-luxury-jewelry-1236763216/",
-        "Published": "Wed, 25 Nov 2026 20:10:25 GMT",
-        "Summary": "Boucheron Opens Doors to South Coast Plaza Store The Hollywood Reporter"
+        "company_name": "Carhartt",
+        "event_type": "Closing",
+        "Title": "Sam’s Club Is Selling Carhartt Gilliam Jackets, a Cozy Layer for Winter Dog Walks - ParadePets",
+        "Link": "https://paradepets.com/shopping/sams-club-carhartt-gilliam-jacket",
+        "Published": "Thu, 26 Nov 2026 15:30:00 GMT",
+        "Summary": "Sam’s Club Is Selling Carhartt Gilliam Jackets, a Cozy Layer for Winter Dog Walks ParadePets"
       }
     ],
-    "Bulgari": [
+    "Cricket Wireless": [
       {
-        "company_name": "Bulgari",
-        "event_type": "Closing",
-        "Title": "Luxury Jewellery With Plot Twist: Bulgari Introduces 15 Transformable Designs in Its Eclettica Collection - Fashion Times UK",
-        "Link": "https://www.fashiontimes.co.uk/bulgari-eclettica-high-jewellery-palm-beach-debut-1768399",
-        "Published": "Tue, 24 Nov 2026 12:48:22 GMT",
-        "Summary": "Luxury Jewellery With Plot Twist: Bulgari Introduces 15 Transformable Designs in Its Eclettica Collection Fashion Times UK"
+        "company_name": "Cricket Wireless",
+        "event_type": "Opening",
+        "Title": "Cricket Wireless Opens New Milpitas Store, City Hall Gives Owner David Ali a Shoutout - Hoodline",
+        "Link": "https://hoodline.com/2026/11/cricket-wireless-opens-new-milpitas-store-city-hall-gives-owner-david-ali-a-shoutout/",
+        "Published": "Thu, 26 Nov 2026 16:08:10 GMT",
+        "Summary": "Cricket Wireless Opens New Milpitas Store, City Hall Gives Owner David Ali a Shoutout Hoodline"
       }
     ],
-    "Guardian Pharmacy": [
+    "Metro by T-Mobile": [
       {
-        "company_name": "Guardian Pharmacy",
-        "event_type": "Closing",
-        "Title": "Guardian Pharmacy Services (GRDN) Stock Price, Chart & Analysis - www.debelegger.nl",
-        "Link": "https://www.debelegger.nl/en/stock/GRDN.US",
-        "Published": "Tue, 24 Nov 2026 07:53:31 GMT",
-        "Summary": "Guardian Pharmacy Services (GRDN) Stock Price, Chart & Analysis www.debelegger.nl"
-      },
-      {
-        "company_name": "Guardian Pharmacy",
-        "event_type": "Closing",
-        "Title": "SharkNinja will join the S&P 500 on Dec. 2, replacing AES as its buyout closes - MLQ.ai",
-        "Link": "https://mlq.ai/news/sharkninja-will-join-the-sp-500-on-dec-2-replacing-aes-as-its-buyout-closes/",
-        "Published": "Tue, 24 Nov 2026 05:04:52 GMT",
-        "Summary": "SharkNinja will join the S&P 500 on Dec. 2, replacing AES as its buyout closes MLQ.ai"
-      }
-    ],
-    "Jersey Mike's Subs": [
-      {
-        "company_name": "Jersey Mike's Subs",
+        "company_name": "Metro by T-Mobile",
         "event_type": "Opening",
-        "Title": "Jersey Mike's Subs grow SA footprint, takes over former rival site - The Business Journals",
-        "Link": "https://www.bizjournals.com/sanantonio/news/2026/11/24/jersey-mikes-san-pedro-location-restaurant-retail.html",
-        "Published": "Tue, 24 Nov 2026 18:42:00 GMT",
-        "Summary": "Jersey Mike's Subs grow SA footprint, takes over former rival site The Business Journals"
-      },
-      {
-        "company_name": "Jersey Mike's Subs",
-        "event_type": "Opening",
-        "Title": "Jersey Mike’s Subs Coming to Clarion, Plans to Take Over Former Subway Location - exploreClarion",
-        "Link": "https://www.exploreclarion.com/local/2026/11/23/jersey-mikes-subs-coming-to-clarion-plans-to-take-over-former-subway-location-880197/",
-        "Published": "Tue, 24 Nov 2026 07:58:29 GMT",
-        "Summary": "Jersey Mike’s Subs Coming to Clarion, Plans to Take Over Former Subway Location exploreClarion"
-      },
-      {
-        "company_name": "Jersey Mike's Subs",
-        "event_type": "Opening",
-        "Title": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow - Lehigh Daily",
-        "Link": "https://lehighdaily.com/jersey-mikes-to-open-in-former-bethlehem-township-gamestop-with-3-charity-subs-to-follow/",
-        "Published": "Tue, 24 Nov 2026 01:30:39 GMT",
-        "Summary": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow Lehigh Daily"
-      }
-    ],
-    "Jersey Mike's": [
-      {
-        "company_name": "Jersey Mike's",
-        "event_type": "Opening",
-        "Title": "Vancouver sub lovers, viral spot Jersey Mike's is finally opening soon - CANOE",
-        "Link": "https://canoe.com/life/food/jersey-mikes-location-vancouver-canada",
-        "Published": "Wed, 25 Nov 2026 21:43:27 GMT",
-        "Summary": "Vancouver sub lovers, viral spot Jersey Mike's is finally opening soon CANOE"
-      },
-      {
-        "company_name": "Jersey Mike's",
-        "event_type": "Opening",
-        "Title": "Jersey Mike's Subs grow SA footprint, takes over former rival site - The Business Journals",
-        "Link": "https://www.bizjournals.com/sanantonio/news/2026/11/24/jersey-mikes-san-pedro-location-restaurant-retail.html",
-        "Published": "Tue, 24 Nov 2026 18:42:00 GMT",
-        "Summary": "Jersey Mike's Subs grow SA footprint, takes over former rival site The Business Journals"
-      },
-      {
-        "company_name": "Jersey Mike's",
-        "event_type": "Opening",
-        "Title": "Jersey Mike’s Subs Coming to Clarion, Plans to Take Over Former Subway Location - exploreClarion",
-        "Link": "https://www.exploreclarion.com/local/2026/11/23/jersey-mikes-subs-coming-to-clarion-plans-to-take-over-former-subway-location-880197/",
-        "Published": "Tue, 24 Nov 2026 07:58:29 GMT",
-        "Summary": "Jersey Mike’s Subs Coming to Clarion, Plans to Take Over Former Subway Location exploreClarion"
-      },
-      {
-        "company_name": "Jersey Mike's",
-        "event_type": "Opening",
-        "Title": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow - Lehigh Daily",
-        "Link": "https://lehighdaily.com/jersey-mikes-to-open-in-former-bethlehem-township-gamestop-with-3-charity-subs-to-follow/",
-        "Published": "Tue, 24 Nov 2026 01:30:39 GMT",
-        "Summary": "Jersey Mike's to open in former Bethlehem Township GameStop, with $3 charity subs to follow Lehigh Daily"
-      }
-    ],
-    "Gap": [
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Center for Closing the Health Gap launches new caregiver support group in Cincinnati - WKRC",
-        "Link": "https://local12.com/health/health-updates/center-closing-health-gap-launches-new-caregiver-support-group-in-cincinnati-advocates-sick-elderly-loved-ones-burnout-depression",
-        "Published": "Wed, 25 Nov 2026 22:02:25 GMT",
-        "Summary": "Center for Closing the Health Gap launches new caregiver support group in Cincinnati WKRC"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Cognitive Care Gap - The Hearing Review",
-        "Link": "https://hearingreview.com/hearing-loss/patient-care/evaluation/closing-the-cognitive-care-gap",
-        "Published": "Wed, 25 Nov 2026 21:15:50 GMT",
-        "Summary": "Closing the Cognitive Care Gap The Hearing Review"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the production continuity gap to move beyond predictive maintenance - Manufacturing Chemist",
-        "Link": "https://manufacturingchemist.com/closing-the-production-continuity-gap-to-move-beyond",
-        "Published": "Wed, 25 Nov 2026 20:45:23 GMT",
-        "Summary": "Closing the production continuity gap to move beyond predictive maintenance Manufacturing Chemist"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing Nigeria’s Future Workforce Gender Gap With GirlsGetSET - THISDAYLIVE",
-        "Link": "https://www.thisdaylive.com/2026/11/25/closing-nigerias-future-workforce-gender-gap-with-girlsgetset/",
-        "Published": "Wed, 25 Nov 2026 12:21:29 GMT",
-        "Summary": "Closing Nigeria’s Future Workforce Gender Gap With GirlsGetSET THISDAYLIVE"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Tobacco, alcohol, HPV: Closing the risk factor gap (Oral Health Foundation) - Patient Safety Learning - the hub",
-        "Link": "https://www.pslhub.org/learn/patient-safety-in-health-and-care/conditions/cancers/tobacco-alcohol-hpv-closing-the-risk-factor-gap-oral-health-foundation-r14969/",
-        "Published": "Wed, 25 Nov 2026 11:58:16 GMT",
-        "Summary": "Tobacco, alcohol, HPV: Closing the risk factor gap (Oral Health Foundation) Patient Safety Learning - the hub"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Katie Neck: Closing the Future Skills Gap with AI & Culture - Sustainability Magazine",
-        "Link": "https://sustainabilitymag.com/news/katie-neck-closing-the-future-skills-gap-with-ai-culture",
-        "Published": "Wed, 25 Nov 2026 11:50:44 GMT",
-        "Summary": "Katie Neck: Closing the Future Skills Gap with AI & Culture Sustainability Magazine"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Gap in Presbyopia Management for Patients Without Cataract: From “No Laser” to “Now Laser” With ZEISS PRESBYOND - Ophthalmology Times",
-        "Link": "https://www.ophthalmologytimes.com/view/closing-the-gap-in-presbyopia-management-for-patients-without-cataract-from-no-laser-to-now-laser-with-zeiss-presbyond",
-        "Published": "Tue, 24 Nov 2026 22:25:05 GMT",
-        "Summary": "Closing the Gap in Presbyopia Management for Patients Without Cataract: From “No Laser” to “Now Laser” With ZEISS PRESBYOND Ophthalmology Times"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Gap Between Professionals and Intelligent Systems - Mexico Business News",
-        "Link": "https://mexicobusiness.news/logistics/news/closing-gap-between-professionals-and-intelligent-systems",
-        "Published": "Tue, 24 Nov 2026 15:35:53 GMT",
-        "Summary": "Closing the Gap Between Professionals and Intelligent Systems Mexico Business News"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the Gap in the Natural Stone Supply Chain - Logistics Middle East",
-        "Link": "https://www.logisticsmiddleeast.com/analysis/closing-the-gap-in-the-natural-stone-supply-chain",
-        "Published": "Tue, 24 Nov 2026 11:28:33 GMT",
-        "Summary": "Closing the Gap in the Natural Stone Supply Chain Logistics Middle East"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Closing the gap in men’s health: Hims launches testosterone care in the UK - Hims & Hers Newsroom",
-        "Link": "https://news.hims.com/newsroom/closing-the-gap-in-mens-health-hims-launches-testosterone-care-in-the-uk",
-        "Published": "Tue, 24 Nov 2026 08:59:53 GMT",
-        "Summary": "Closing the gap in men’s health: Hims launches testosterone care in the UK Hims & Hers Newsroom"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Kansas is closing the gap on Kentucky's lead in all-time wins - On3",
-        "Link": "https://www.on3.com/teams/kentucky-wildcats/news/kansas-is-closing-the-gap-on-kentuckys-lead-in-all-time-wins/",
-        "Published": "Tue, 24 Nov 2026 08:00:00 GMT",
-        "Summary": "Kansas is closing the gap on Kentucky's lead in all-time wins On3"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Building a skilled tourism workforce: Addressing India's hospitality talent gap - ETHospitalityWorld",
-        "Link": "https://hospitality.economictimes.indiatimes.com/news/speaking-heads/building-a-skilled-tourism-workforce-addressing-indias-hospitality-talent-gap/136119399",
-        "Published": "Tue, 24 Nov 2026 07:52:51 GMT",
-        "Summary": "Building a skilled tourism workforce: Addressing India's hospitality talent gap ETHospitalityWorld"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Wang Zhiyi’s Hong Kong Open title fuels hopes she is closing gap with Ahn Se-young - Chosunbiz",
-        "Link": "https://biz.chosun.com/en/en-sports/2026/11/24/NYQSLVE4ZFARZBEEA2HNSFC3TA/",
-        "Published": "Tue, 24 Nov 2026 03:50:00 GMT",
-        "Summary": "Wang Zhiyi’s Hong Kong Open title fuels hopes she is closing gap with Ahn Se-young Chosunbiz"
-      },
-      {
-        "company_name": "Gap",
-        "event_type": "Closing",
-        "Title": "Why security automation is critical to closing Australia's cyber skills gap - SecurityBrief Australia",
-        "Link": "https://securitybrief.com.au/story/why-security-automation-is-critical-to-closing-australia-s-cyber-skills-gap",
-        "Published": "Tue, 24 Nov 2026 01:38:00 GMT",
-        "Summary": "Why security automation is critical to closing Australia's cyber skills gap SecurityBrief Australia"
+        "Title": "Free iPhone, No Contract, No Credit Check: Metro by T-Mobile’s iPhone 16e Deal Is Real - Kotaku",
+        "Link": "https://kotaku.com/free-iphone-no-contract-no-credit-check-metro-by-t-mobiles-iphone-16e-deal-is-real-2001000337",
+        "Published": "Thu, 26 Nov 2026 14:52:33 GMT",
+        "Summary": "Free iPhone, No Contract, No Credit Check: Metro by T-Mobile’s iPhone 16e Deal Is Real Kotaku"
       }
     ],
     "Panera Bread": [
@@ -233,14 +51,6 @@
       {
         "company_name": "Panera Bread",
         "event_type": "Opening",
-        "Title": "New Panera Celebrated With 'Breaking Of The Bread' Ceremony In Farmingville - Patch",
-        "Link": "https://patch.com/new-york/sachem/new-panera-celebrated-breaking-bread-ceremony-farmingville",
-        "Published": "Tue, 24 Nov 2026 12:38:30 GMT",
-        "Summary": "New Panera Celebrated With 'Breaking Of The Bread' Ceremony In Farmingville Patch"
-      },
-      {
-        "company_name": "Panera Bread",
-        "event_type": "Opening",
         "Title": "CLINTON SCOOP: Panera Bread opening in Clinton on December 4th! - The Connecticut Scoop",
         "Link": "https://www.theconnecticutscoop.com/all-middlesex-county-posts/clinton-scoop-panera-bread-opening-in-clinton-on-december-4th",
         "Published": "Thu, 26 Nov 2026 02:06:50 GMT",
@@ -255,6 +65,120 @@
         "Summary": "A sign on door reveals permanent closure of Chico Panera Bread Action News Now"
       }
     ],
+    "Gap": [
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Cognitive Care Gap - The Hearing Review",
+        "Link": "https://hearingreview.com/hearing-loss/patient-care/evaluation/closing-the-cognitive-care-gap",
+        "Published": "Wed, 25 Nov 2026 21:15:50 GMT",
+        "Summary": "Closing the Cognitive Care Gap The Hearing Review"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the production continuity gap to move beyond predictive maintenance - Manufacturing Chemist",
+        "Link": "https://manufacturingchemist.com/closing-the-production-continuity-gap-to-move-beyond",
+        "Published": "Wed, 25 Nov 2026 20:45:23 GMT",
+        "Summary": "Closing the production continuity gap to move beyond predictive maintenance Manufacturing Chemist"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the AI Performance Gap: Why GBS Holds the Advantage - The Hackett Group",
+        "Link": "https://www.thehackettgroup.com/insights/ai-world-class-gbs-2611/",
+        "Published": "Wed, 25 Nov 2026 14:28:08 GMT",
+        "Summary": "Closing the AI Performance Gap: Why GBS Holds the Advantage The Hackett Group"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "The gap is closing in the UEFA country ranking! We are right behind the Netherlands! - Haberler.com",
+        "Link": "https://en.haberler.com/the-gap-is-closing-in-the-uefa-country-ranking-we-2344226/",
+        "Published": "Wed, 25 Nov 2026 11:55:10 GMT",
+        "Summary": "The gap is closing in the UEFA country ranking! We are right behind the Netherlands! Haberler.com"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Katie Neck: Closing the Future Skills Gap with AI & Culture - Sustainability Magazine",
+        "Link": "https://sustainabilitymag.com/news/katie-neck-closing-the-future-skills-gap-with-ai-culture",
+        "Published": "Wed, 25 Nov 2026 11:50:44 GMT",
+        "Summary": "Katie Neck: Closing the Future Skills Gap with AI & Culture Sustainability Magazine"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "K-water President Yang Seung-jo Sets 'Closing the Water Safety Gap' as a Priority, Tours River Basin Sites - 파이낸셜뉴스",
+        "Link": "https://en.fnnews.com/news/202611251708094085",
+        "Published": "Wed, 25 Nov 2026 08:13:50 GMT",
+        "Summary": "K-water President Yang Seung-jo Sets 'Closing the Water Safety Gap' as a Priority, Tours River Basin Sites 파이낸셜뉴스"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "ITWeb TV Biz: Closing the governance gap at the speed of AI software delivery - ITWeb",
+        "Link": "https://www.itweb.co.za/article/itweb-tv-biz-closing-the-governance-gap-at-the-speed-of-ai-software-delivery/G98Yd7LGpRZvX2PD",
+        "Published": "Wed, 25 Nov 2026 08:05:00 GMT",
+        "Summary": "ITWeb TV Biz: Closing the governance gap at the speed of AI software delivery ITWeb"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the leadership gap in Australia’s $242b project pipeline - AFR",
+        "Link": "https://www.afr.com/companies/infrastructure/closing-the-leadership-gap-in-australia-s-242b-project-pipeline-20261127-p619ay",
+        "Published": "Thu, 26 Nov 2026 23:02:00 GMT",
+        "Summary": "Closing the leadership gap in Australia’s $242b project pipeline AFR"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Reimagining women’s heart health: How Sunnybrook is closing the care gap - Sunnybrook Health Sciences Centre",
+        "Link": "https://sunnybrook.ca/2026/11/reimagining-womens-heart-health-how-sunnybrook-is-closing-the-care-gap/",
+        "Published": "Thu, 26 Nov 2026 20:57:11 GMT",
+        "Summary": "Reimagining women’s heart health: How Sunnybrook is closing the care gap Sunnybrook Health Sciences Centre"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "DRC closes gap on Chile as copper exports surge - Mining.com.au",
+        "Link": "https://mining.com.au/drc-copper-exports-surge-chile/",
+        "Published": "Thu, 26 Nov 2026 19:41:37 GMT",
+        "Summary": "DRC closes gap on Chile as copper exports surge Mining.com.au"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing the Collation Gap: Why Nigerias 2031 Electoral Reforms Must Start at the Polling Unit - Nigerian Voice",
+        "Link": "https://www.thenigerianvoice.com/news/377127/closing-the-collation-gap-why-nigerias-2031-electoral-refo.html",
+        "Published": "Thu, 26 Nov 2026 19:39:00 GMT",
+        "Summary": "Closing the Collation Gap: Why Nigerias 2031 Electoral Reforms Must Start at the Polling Unit Nigerian Voice"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Closing Canada’s AI adoption gap starts with talent and AI literacy - BetaKit",
+        "Link": "https://betakit.com/closing-canadas-ai-adoption-gap-starts-with-talent-and-ai-literacy/",
+        "Published": "Thu, 26 Nov 2026 18:03:26 GMT",
+        "Summary": "Closing Canada’s AI adoption gap starts with talent and AI literacy BetaKit"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Erste Bank : Central Europe continues closing the prosperity gap, with Poland emerging as the region's fastest-rising success story - www.marketscreener.com",
+        "Link": "https://www.marketscreener.com/news/erste-bank-central-europe-continues-closing-the-prosperity-gap-with-poland-emerging-as-the-region-ce7851d8de8cf727",
+        "Published": "Thu, 26 Nov 2026 09:41:03 GMT",
+        "Summary": "Erste Bank : Central Europe continues closing the prosperity gap, with Poland emerging as the region's fastest-rising success story www.marketscreener.com"
+      },
+      {
+        "company_name": "Gap",
+        "event_type": "Closing",
+        "Title": "Center for Closing the Health Gap launches new caregiver support group in Cincinnati - WKRC",
+        "Link": "https://local12.com/health/health-updates/center-closing-health-gap-launches-new-caregiver-support-group-in-cincinnati-advocates-sick-elderly-loved-ones-burnout-depression",
+        "Published": "Thu, 26 Nov 2026 07:32:25 GMT",
+        "Summary": "Center for Closing the Health Gap launches new caregiver support group in Cincinnati WKRC"
+      }
+    ],
     "Sam Edelman": [
       {
         "company_name": "Sam Edelman",
@@ -267,48 +191,68 @@
       {
         "company_name": "Sam Edelman",
         "event_type": "Opening",
-        "Title": "Nordstrom to open third local Rack off-price store in Northern Kentucky - The Business Journals",
-        "Link": "https://www.bizjournals.com/cincinnati/news/2026/11/24/nordstrom-rack-store-near-me-crestview-hills-open.html",
-        "Published": "Tue, 24 Nov 2026 11:30:00 GMT",
-        "Summary": "Nordstrom to open third local Rack off-price store in Northern Kentucky The Business Journals"
+        "Title": "Store Explore: Sam Edelman reveals its largest store in Malaysia - Lifestyle Asia",
+        "Link": "https://www.lifestyleasia.com/kl/style/store-explore-sam-edelman-reveals-its-largest-store-in-malaysia/",
+        "Published": "Thu, 26 Nov 2026 13:30:00 GMT",
+        "Summary": "Store Explore: Sam Edelman reveals its largest store in Malaysia Lifestyle Asia"
+      }
+    ],
+    "Shoe palace": [
+      {
+        "company_name": "Shoe palace",
+        "event_type": "Closing",
+        "Title": "Holiday shoppers get a surprise boost as FOX26 and Fashion Fair Mall hand out gift cards - KMPH Fox 26",
+        "Link": "https://kmph.com/features/random-acts-of-kindness/holiday-shoppers-get-a-surprise-boost-as-fox26-and-fashion-fair-mall-hand-out-gift-cards",
+        "Published": "Thu, 26 Nov 2026 12:06:19 GMT",
+        "Summary": "Holiday shoppers get a surprise boost as FOX26 and Fashion Fair Mall hand out gift cards KMPH Fox 26"
+      }
+    ],
+    "SNIPES": [
+      {
+        "company_name": "SNIPES",
+        "event_type": "Closing",
+        "Title": "I-26 crash cleared in Buncombe County; lane remains closed in Henderson County - FOX Carolina News",
+        "Link": "https://www.foxcarolina.com/2026/11/26/thanksgiving-travel-alert-crashes-shut-down-i-26-two-western-nc-counties/",
+        "Published": "Thu, 26 Nov 2026 13:01:00 GMT",
+        "Summary": "I-26 crash cleared in Buncombe County; lane remains closed in Henderson County FOX Carolina News"
       }
     ],
     "Stanton Optical": [
       {
         "company_name": "Stanton Optical",
         "event_type": "Opening",
-        "Title": "Looking good, Hialeah, FL: Stanton Optical is now open. - Akron Beacon Journal",
-        "Link": "https://www.beaconjournal.com/press-release/story/268109/looking-good-hialeah-fl-stanton-optical-is-now-open/",
-        "Published": "Wed, 25 Nov 2026 14:40:36 GMT",
-        "Summary": "Looking good, Hialeah, FL: Stanton Optical is now open. Akron Beacon Journal"
+        "Title": "Looking good, Hialeah, FL: Stanton Optical is now open. - Montgomery Advertiser",
+        "Link": "https://www.montgomeryadvertiser.com/press-release/story/771374/looking-good-hialeah-fl-stanton-optical-is-now-open/",
+        "Published": "Wed, 25 Nov 2026 14:40:32 GMT",
+        "Summary": "Looking good, Hialeah, FL: Stanton Optical is now open. Montgomery Advertiser"
       }
     ],
-    "Steve Madden": [
+    "Jersey Mike's": [
       {
-        "company_name": "Steve Madden",
+        "company_name": "Jersey Mike's",
         "event_type": "Opening",
-        "Title": "Steve Madden Unveils New York-Inspired Store Concept at Dubai Malls - Indian Retailer",
-        "Link": "https://www.indianretailer.com/news/steve-madden-unveils-new-york-inspired-store-concept-two-dubai-malls",
-        "Published": "Wed, 25 Nov 2026 10:42:39 GMT",
-        "Summary": "Steve Madden Unveils New York-Inspired Store Concept at Dubai Malls Indian Retailer"
-      }
-    ],
-    "The UPS Store": [
-      {
-        "company_name": "The UPS Store",
-        "event_type": "Closing",
-        "Title": "UPS store closing to make way for Kroger expansion, along with Great Clips and Expo Nails - Sidney Daily News",
-        "Link": "https://www.sidneydailynews.com/2026/11/25/ups-store-closing-to-make-way-for-kroger-expansion-along-with-great-clips-and-expo-nails/",
-        "Published": "Wed, 25 Nov 2026 14:02:00 GMT",
-        "Summary": "UPS store closing to make way for Kroger expansion, along with Great Clips and Expo Nails Sidney Daily News"
+        "Title": "Vancouver sub lovers, viral spot Jersey Mike's is finally opening soon - CANOE",
+        "Link": "https://canoe.com/life/food/jersey-mikes-location-vancouver-canada",
+        "Published": "Wed, 25 Nov 2026 21:43:27 GMT",
+        "Summary": "Vancouver sub lovers, viral spot Jersey Mike's is finally opening soon CANOE"
       },
       {
-        "company_name": "The UPS Store",
+        "company_name": "Jersey Mike's",
+        "event_type": "Opening",
+        "Title": "American sandwich chain announces grand opening of first Vancouver location - Vancouver Is Awesome",
+        "Link": "https://www.vancouverisawesome.com/food-and-drink/american-sandwich-chain-announces-grand-opening-of-first-vancouver-location-13062256",
+        "Published": "Thu, 26 Nov 2026 16:19:51 GMT",
+        "Summary": "American sandwich chain announces grand opening of first Vancouver location Vancouver Is Awesome"
+      }
+    ],
+    "UGG": [
+      {
+        "company_name": "UGG",
         "event_type": "Closing",
-        "Title": "Kroger expansion causing 3 business closures - WDTN.com",
-        "Link": "https://www.wdtn.com/news/business/kroger-expansion-causing-3-business-closures/amp/",
-        "Published": "Wed, 25 Nov 2026 11:29:30 GMT",
-        "Summary": "Kroger expansion causing 3 business closures WDTN.com"
+        "Title": "14 Fashion Drops We're Eyeing This November, Ft. UGG's Pop-Up, MCM x Monchhichi, Skechers x POP MART PUCKY & More - GirlStyle 女生日常",
+        "Link": "https://girlstyle.com/sg/article/161131/14-fashion-drops-were-eyeing-this-november-ft-uggs-pop-up-mcm-x-monchhichi-skechers-x-pop-mart-pucky-more",
+        "Published": "Thu, 26 Nov 2026 10:42:20 GMT",
+        "Summary": "14 Fashion Drops We're Eyeing This November, Ft. UGG's Pop-Up, MCM x Monchhichi, Skechers x POP MART PUCKY & More GirlStyle 女生日常"
       }
     ],
     "Tumbles": [
@@ -319,6 +263,34 @@
         "Link": "https://www.financialexpress.com/market/global-markets/nasdaq-tumbles-nvidia-slides-as-trump-opens-new-tariff-battle-with-14-trading-partners/4394087/",
         "Published": "Thu, 26 Nov 2026 01:43:07 GMT",
         "Summary": "Nasdaq tumbles, Nvidia slides as Trump opens new tariff battle with 14 trading partners The Financial Express"
+      }
+    ],
+    "The UPS Store": [
+      {
+        "company_name": "The UPS Store",
+        "event_type": "Opening",
+        "Title": "UPS Store cuts ribbon in Xenia - The Xenia Gazette",
+        "Link": "https://www.xeniagazette.com/2026/11/26/ups-store-cuts-ribbon-in-xenia/",
+        "Published": "Thu, 26 Nov 2026 14:24:00 GMT",
+        "Summary": "UPS Store cuts ribbon in Xenia The Xenia Gazette"
+      },
+      {
+        "company_name": "The UPS Store",
+        "event_type": "Closing",
+        "Title": "UPS store closes due to Kroger expansion; Great Clips, Expo Nails also affected - Sidney Daily News",
+        "Link": "https://www.sidneydailynews.com/2026/11/25/ups-store-closing-to-make-way-for-kroger-expansion-along-with-great-clips-and-expo-nails/",
+        "Published": "Wed, 25 Nov 2026 14:02:00 GMT",
+        "Summary": "UPS store closes due to Kroger expansion; Great Clips, Expo Nails also affected Sidney Daily News"
+      }
+    ],
+    "Vans": [
+      {
+        "company_name": "Vans",
+        "event_type": "Opening",
+        "Title": "How to open bank vaults guide in GTA 6: How to break in, best armor truck routes and all Big Bank Jobs locations - escorenews.com",
+        "Link": "https://escorenews.com/en/article/82995-how-to-open-bank-vaults-guide-in-gta-6-how-to-break-in-best-armor-truck-routes-and-all-big-bank-jobs-locations",
+        "Published": "Thu, 26 Nov 2026 13:40:00 GMT",
+        "Summary": "How to open bank vaults guide in GTA 6: How to break in, best armor truck routes and all Big Bank Jobs locations escorenews.com"
       }
     ],
     "W Hotels": [
